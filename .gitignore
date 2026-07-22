@@ -1,0 +1,7 @@
+_site/
+.env
+.env.*
+.dev.vars
+*.log
+tmp/
+temp/
