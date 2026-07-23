@@ -1,0 +1,2400 @@
+{
+  "meta": {
+    "character_name": "豹豹奶霜",
+    "fetched_at": "2026-07-23T22:42:57.044Z",
+    "cache_status": "MISS",
+    "partial": false,
+    "warnings": [
+      {
+        "code": "UNION_POWER_NOT_PROVIDED",
+        "field": "union_power",
+        "message": "台服官方聯盟 schema 未提供聯盟戰力欄位，因此未推算或製造數值。"
+      },
+      {
+        "code": "HEXA_STAT_ACTIVE_PRESET_NOT_PROVIDED",
+        "field": "hexamatrix_stat",
+        "message": "台服官方 HEXA 屬性 schema 提供目前與預設核心陣列，但未提供使用中預設編號。"
+      },
+      {
+        "code": "ITEM_SET_NAME_NOT_PROVIDED",
+        "field": "equipment_summary.set_name",
+        "message": "台服官方目前的單件裝備 schema 未提供套裝名稱；set_name 保留 null。"
+      }
+    ]
+  },
+  "basic": {
+    "world": "挑戰者",
+    "class": "狂豹獵人",
+    "level": 276,
+    "guild": "基尼太美"
+  },
+  "combat_summary": {
+    "combat_power": "35161184",
+    "main_stat": {
+      "name": "DEX",
+      "value": "35591"
+    },
+    "secondary_stat": {
+      "name": "STR",
+      "value": "3769"
+    },
+    "attack_power": "3205",
+    "damage": "56.00",
+    "boss_damage": "319.00",
+    "ignore_defense": "95.57",
+    "critical_rate": "131",
+    "critical_damage": "92.00",
+    "final_damage": "112.41",
+    "buff_duration": "30",
+    "cooldown_reduction": {
+      "seconds": "0",
+      "percent": "5"
+    },
+    "arc": "1370",
+    "aut": "310"
+  },
+  "weapon_secondary_emblem": [
+    {
+      "name": "漆黑狂棒",
+      "part": "輔助武器",
+      "equipment_type": "箭矢",
+      "starforce": "0",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "攻擊Boss怪物時傷害 +40%",
+        "攻擊Boss怪物時傷害 +30%",
+        "被擊中時有5% 機率無視 40% 傷害"
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "DEX +6%",
+        "LUK +6%",
+        "無視怪物防禦率 +3%"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "soul_effect": null
+    },
+    {
+      "name": "神祕冥界幽靈十字弓",
+      "part": "武器",
+      "equipment_type": "弩",
+      "starforce": "17",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "物理攻擊力 +13%",
+        "魔法攻擊力 +10%",
+        "傷害 +10%"
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "物理攻擊力 +7%",
+        "移動速度 +6",
+        "STR +4%"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "600",
+        "attack_power": "51",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "3",
+        "all_stat": "0",
+        "equipment_level_decrease": 10
+      },
+      "soul_effect": null
+    },
+    {
+      "name": "米特拉的憤怒：弓箭手",
+      "part": "徽章",
+      "equipment_type": "徽章",
+      "starforce": "0",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "全屬性 +10%",
+        "物理攻擊力 +10%",
+        "物理攻擊力 +10%"
+      ],
+      "additional_potential_grade": "特殊",
+      "additional_potential_lines": [
+        "DEX +4%",
+        "物理攻擊力 +6",
+        "INT +6"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "soul_effect": null
+    }
+  ],
+  "equipment_summary": [
+    {
+      "part": "帽子",
+      "equipment_type": "帽子",
+      "name": "菇菇守護者貝雷帽",
+      "starforce": "18",
+      "scroll_upgrade": "11",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "DEX +9%",
+        "DEX +6%",
+        null
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "DEX +4%",
+        "物理攻擊力 +10",
+        null
+      ],
+      "flame_additional_options": {
+        "str": "12",
+        "dex": "36",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "3",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "3",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "臉飾",
+      "equipment_type": "臉飾",
+      "name": "口紅控制器標誌",
+      "starforce": "20",
+      "scroll_upgrade": "4",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "LUK +19",
+        "DEX +10%",
+        "MaxMP +230"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "10",
+        "dex": "37",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "1",
+        "magic_power": "0",
+        "armor": "9",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "眼飾",
+      "equipment_type": "眼飾",
+      "name": "水中信紙眼飾",
+      "starforce": "8",
+      "scroll_upgrade": "3",
+      "potential_grade": "稀有",
+      "potential_lines": [
+        "DEX +6%",
+        "DEX +3%",
+        "DEX +3%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "耳環",
+      "equipment_type": "耳環",
+      "name": "頂級培羅德耳環",
+      "starforce": "17",
+      "scroll_upgrade": "0",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "道具掉落率 +20%",
+        "LUK +9%",
+        "全屬性 +6%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "上衣",
+      "equipment_type": "上衣",
+      "name": "菇菇守護者頭巾",
+      "starforce": "18",
+      "scroll_upgrade": "7",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "DEX +9%",
+        "DEX +6%",
+        null
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "DEX +4%",
+        "物理攻擊力 +10",
+        null
+      ],
+      "flame_additional_options": {
+        "str": "12",
+        "dex": "36",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "3",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "3",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "褲/裙",
+      "equipment_type": "褲/裙",
+      "name": "菇菇守護者褲",
+      "starforce": "18",
+      "scroll_upgrade": "7",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "DEX +9%",
+        "DEX +6%",
+        null
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "DEX +4%",
+        "物理攻擊力 +10",
+        null
+      ],
+      "flame_additional_options": {
+        "str": "12",
+        "dex": "36",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "3",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "3",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "鞋子",
+      "equipment_type": "鞋子",
+      "name": "菇菇弓箭手鞋",
+      "starforce": "18",
+      "scroll_upgrade": "7",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "DEX +9%",
+        "DEX +6%",
+        null
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "DEX +4%",
+        "物理攻擊力 +10",
+        null
+      ],
+      "flame_additional_options": {
+        "str": "12",
+        "dex": "36",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "3",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "3",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "手套",
+      "equipment_type": "手套",
+      "name": "菇菇弓箭手手套",
+      "starforce": "18",
+      "scroll_upgrade": "7",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "DEX +9%",
+        "DEX +6%",
+        null
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "DEX +4%",
+        "物理攻擊力 +10",
+        null
+      ],
+      "flame_additional_options": {
+        "str": "12",
+        "dex": "36",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "3",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "3",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "披風",
+      "equipment_type": "披風",
+      "name": "菇菇弓箭手斗篷",
+      "starforce": "18",
+      "scroll_upgrade": "7",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "DEX +9%",
+        "DEX +6%",
+        null
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "DEX +4%",
+        "物理攻擊力 +10",
+        null
+      ],
+      "flame_additional_options": {
+        "str": "12",
+        "dex": "36",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "3",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "3",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "輔助武器",
+      "equipment_type": "箭矢",
+      "name": "漆黑狂棒",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "攻擊Boss怪物時傷害 +40%",
+        "攻擊Boss怪物時傷害 +30%",
+        "被擊中時有5% 機率無視 40% 傷害"
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "DEX +6%",
+        "LUK +6%",
+        "無視怪物防禦率 +3%"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "武器",
+      "equipment_type": "弩",
+      "name": "神祕冥界幽靈十字弓",
+      "starforce": "17",
+      "scroll_upgrade": "9",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "物理攻擊力 +13%",
+        "魔法攻擊力 +10%",
+        "傷害 +10%"
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "物理攻擊力 +7%",
+        "移動速度 +6",
+        "STR +4%"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "600",
+        "attack_power": "51",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "3",
+        "all_stat": "0",
+        "equipment_level_decrease": 10
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "戒指1",
+      "equipment_type": "戒指",
+      "name": "巨大的恐怖",
+      "starforce": "17",
+      "scroll_upgrade": "0",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "DEX +19",
+        "MaxMP +230",
+        "防禦力 +240"
+      ],
+      "additional_potential_grade": "特殊",
+      "additional_potential_lines": [
+        "DEX +3%",
+        "DEX +6",
+        "MaxMP +60"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "戒指2",
+      "equipment_type": "戒指",
+      "name": "挑戰者規範戒指",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "戒指3",
+      "equipment_type": "戒指",
+      "name": "頂級培羅德戒指",
+      "starforce": "17",
+      "scroll_upgrade": "0",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "INT +12%",
+        "全屬性 +6%",
+        "STR +9%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "戒指4",
+      "equipment_type": "戒指",
+      "name": "泰涅布利斯遠征隊戒指",
+      "starforce": "0",
+      "scroll_upgrade": "3",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "DEX +12%",
+        "DEX +9%",
+        "INT +9%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "墜飾",
+      "equipment_type": "墜飾",
+      "name": "頂級培羅德烙印墜飾",
+      "starforce": "17",
+      "scroll_upgrade": "0",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "MaxHP +12%",
+        "STR +9%",
+        "DEX +9%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "勳章",
+      "equipment_type": "勳章",
+      "name": "混沌貝倫殺手",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "腰帶",
+      "equipment_type": "腰帶",
+      "name": "頂級培羅德烙印腰帶",
+      "starforce": "17",
+      "scroll_upgrade": "0",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "DEX +12%",
+        "DEX +16",
+        "MaxHP +240"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "4",
+        "dex": "12",
+        "int": "4",
+        "luk": "12",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "肩膀裝飾",
+      "equipment_type": "肩膀裝飾",
+      "name": "菇菇弓箭手肩膀",
+      "starforce": "18",
+      "scroll_upgrade": "1",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "DEX +9%",
+        "DEX +6%",
+        null
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "DEX +4%",
+        "物理攻擊力 +10",
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "口袋道具",
+      "equipment_type": "口袋道具",
+      "name": "粉紅聖杯",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "32",
+        "int": "12",
+        "luk": "4",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "2",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "機器心臟",
+      "equipment_type": "機器心臟",
+      "name": "菇菇機器人專用心臟",
+      "starforce": "8",
+      "scroll_upgrade": "11",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "DEX +9%",
+        "MaxHP +6%",
+        "STR +6%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "胸章",
+      "equipment_type": "胸章",
+      "name": "水晶溫杜斯胸章",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "徽章",
+      "equipment_type": "徽章",
+      "name": "米特拉的憤怒：弓箭手",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "全屬性 +10%",
+        "物理攻擊力 +10%",
+        "物理攻擊力 +10%"
+      ],
+      "additional_potential_grade": "特殊",
+      "additional_potential_lines": [
+        "DEX +4%",
+        "物理攻擊力 +6",
+        "INT +6"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "墜飾2",
+      "equipment_type": "墜飾",
+      "name": "支配者墜飾",
+      "starforce": "15",
+      "scroll_upgrade": "5",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "DEX +9%",
+        "DEX +6%",
+        "爆擊機率 +6%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "圖騰1",
+      "equipment_type": "圖騰",
+      "name": "柏林的痕跡",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "圖騰2",
+      "equipment_type": "圖騰",
+      "name": "時空挑戰者的圖騰",
+      "starforce": "0",
+      "scroll_upgrade": "1",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "圖騰3",
+      "equipment_type": "圖騰",
+      "name": "貝奧武夫的痕跡",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "寶石",
+      "equipment_type": "寶石",
+      "name": "伊妮絲的寶玉",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    }
+  ],
+  "symbols": [
+    {
+      "name": "祕法符文：啾啾艾爾蘭",
+      "level": 20,
+      "force": "220",
+      "growth_count": 0,
+      "required_growth_count": 411,
+      "stat_increase": {
+        "str": "0",
+        "dex": "2200",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "祕法符文：消逝的旅途",
+      "level": 20,
+      "force": "220",
+      "growth_count": 0,
+      "required_growth_count": 411,
+      "stat_increase": {
+        "str": "0",
+        "dex": "2200",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "祕法符文：拉契爾恩",
+      "level": 18,
+      "force": "200",
+      "growth_count": 99,
+      "required_growth_count": 335,
+      "stat_increase": {
+        "str": "0",
+        "dex": "2000",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "祕法符文：阿爾卡娜",
+      "level": 19,
+      "force": "210",
+      "growth_count": 9,
+      "required_growth_count": 372,
+      "stat_increase": {
+        "str": "0",
+        "dex": "2100",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "祕法符文：魔菈斯",
+      "level": 17,
+      "force": "190",
+      "growth_count": 198,
+      "required_growth_count": 300,
+      "stat_increase": {
+        "str": "0",
+        "dex": "1900",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "祕法符文：艾斯佩拉",
+      "level": 18,
+      "force": "200",
+      "growth_count": 190,
+      "required_growth_count": 335,
+      "stat_increase": {
+        "str": "0",
+        "dex": "2000",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "真實符文：賽爾尼溫",
+      "level": 6,
+      "force": "60",
+      "growth_count": 1072,
+      "required_growth_count": 444,
+      "stat_increase": {
+        "str": "0",
+        "dex": "1500",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "真實符文：阿爾克斯",
+      "level": 5,
+      "force": "50",
+      "growth_count": 627,
+      "required_growth_count": 325,
+      "stat_increase": {
+        "str": "0",
+        "dex": "1300",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "真實符文：奧迪溫",
+      "level": 5,
+      "force": "50",
+      "growth_count": 529,
+      "required_growth_count": 325,
+      "stat_increase": {
+        "str": "0",
+        "dex": "1300",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "真實符文：桃源境",
+      "level": 4,
+      "force": "40",
+      "growth_count": 5,
+      "required_growth_count": 224,
+      "stat_increase": {
+        "str": "0",
+        "dex": "1100",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    }
+  ],
+  "set_effects": [
+    {
+      "set_name": "頂級培羅德套裝",
+      "equipped_count": 4,
+      "effects": [
+        {
+          "set_count": 2,
+          "set_option": "全屬性 +20, 最大HP +1500, 最大MP +1500"
+        },
+        {
+          "set_count": 3,
+          "set_option": "最大HP +13%, 最大MP +13%, 攻擊力 +35, 魔法攻擊力 +35"
+        },
+        {
+          "set_count": 4,
+          "set_option": "攻擊Boss怪物時傷害 +30%, 無視怪物防禦率 +30%"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 2,
+          "set_option": "全屬性 +20, 最大HP +1500, 最大MP +1500"
+        },
+        {
+          "set_count": 3,
+          "set_option": "最大HP +13%, 最大MP +13%, 攻擊力 +35, 魔法攻擊力 +35"
+        },
+        {
+          "set_count": 4,
+          "set_option": "攻擊Boss怪物時傷害 +30%, 無視怪物防禦率 +30%"
+        }
+      ]
+    },
+    {
+      "set_name": "死後世界的的痕跡",
+      "equipped_count": 2,
+      "effects": [],
+      "full_set_options": [
+        {
+          "set_count": 3,
+          "set_option": "攻擊力 +10, 魔法攻擊力 +10"
+        }
+      ]
+    },
+    {
+      "set_name": "漆黑組",
+      "equipped_count": 1,
+      "effects": [],
+      "full_set_options": [
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +7, 攻擊力 +8, 魔法攻擊力 +8"
+        },
+        {
+          "set_count": 4,
+          "set_option": "最大HP +20%, 最大MP +20%, 攻擊力 +14, 魔法攻擊力 +14, 傷害 +9%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "全屬性 +8, 攻擊力 +20, 魔法攻擊力 +20, 無視怪物防禦率 +30%"
+        }
+      ]
+    },
+    {
+      "set_name": "迷你吉祥物菇菇套組",
+      "equipped_count": 1,
+      "effects": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        },
+        {
+          "set_count": 2,
+          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
+        },
+        {
+          "set_count": 3,
+          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
+        }
+      ]
+    },
+    {
+      "set_name": "菇菇支援裝備套組(弓箭手)",
+      "equipped_count": 7,
+      "effects": [
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +20, 最大HP +1000, 最大MP +1000, 攻擊力 +20, 魔法攻擊力 +20"
+        },
+        {
+          "set_count": 4,
+          "set_option": "最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "全屬性 +30, 最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 6,
+          "set_option": "攻擊力 +40, 魔法攻擊力 +40, 防禦力 +200, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 7,
+          "set_option": "攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +10%"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +20, 最大HP +1000, 最大MP +1000, 攻擊力 +20, 魔法攻擊力 +20"
+        },
+        {
+          "set_count": 4,
+          "set_option": "最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "全屬性 +30, 最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 6,
+          "set_option": "攻擊力 +40, 魔法攻擊力 +40, 防禦力 +200, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 7,
+          "set_option": "攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +10%"
+        }
+      ]
+    },
+    {
+      "set_name": "漆黑BOSS套裝",
+      "equipped_count": 3,
+      "effects": [
+        {
+          "set_count": 2,
+          "set_option": "全屬性 +10, 最大HP +250, 攻擊力 +10, 魔法攻擊力 +10, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +10, 最大HP +250, 攻擊力 +10, 魔法攻擊力 +10, 防禦力 +250, 無視怪物防禦率 +10%"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 2,
+          "set_option": "全屬性 +10, 最大HP +250, 攻擊力 +10, 魔法攻擊力 +10, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +10, 最大HP +250, 攻擊力 +10, 魔法攻擊力 +10, 防禦力 +250, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 4,
+          "set_option": "全屬性 +15, 最大HP +375, 攻擊力 +15, 魔法攻擊力 +15, 爆擊傷害 +5%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "全屬性 +15, 最大HP +375, 攻擊力 +15, 魔法攻擊力 +15, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 6,
+          "set_option": "全屬性 +15, 最大HP +375, 攻擊力 +15, 魔法攻擊力 +15, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 7,
+          "set_option": "全屬性 +15, 最大HP +375, 攻擊力 +15, 魔法攻擊力 +15, 爆擊傷害 +5%"
+        },
+        {
+          "set_count": 8,
+          "set_option": "全屬性 +15, 最大HP +375, 攻擊力 +15, 魔法攻擊力 +15, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 9,
+          "set_option": "全屬性 +15, 最大HP +375, 攻擊力 +15, 魔法攻擊力 +15, 爆擊傷害 +5%"
+        },
+        {
+          "set_count": 10,
+          "set_option": "全屬性 +20, 最大HP +500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
+        }
+      ]
+    },
+    {
+      "set_name": "首領飾品組",
+      "equipped_count": 4,
+      "effects": [
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +10, 最大HP +5%, 最大MP +5%, 攻擊力 +5, 魔法攻擊力 +5"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +10, 最大HP +5%, 最大MP +5%, 攻擊力 +5, 魔法攻擊力 +5"
+        },
+        {
+          "set_count": 5,
+          "set_option": "全屬性 +10, 最大HP +5%, 最大MP +5%, 攻擊力 +5, 魔法攻擊力 +5"
+        },
+        {
+          "set_count": 7,
+          "set_option": "全屬性 +10, 攻擊力 +10, 魔法攻擊力 +10, 防禦力 +80, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 9,
+          "set_option": "全屬性 +15, 攻擊力 +10, 魔法攻擊力 +10, 防禦力 +100, 攻擊Boss怪物時傷害 +10%"
+        }
+      ]
+    },
+    {
+      "set_name": "神祕冥界套裝(弓手)",
+      "equipped_count": 1,
+      "effects": [],
+      "full_set_options": [
+        {
+          "set_count": 2,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 3,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 防禦力 +400, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 4,
+          "set_option": "全屬性 +50, 攻擊力 +35, 魔法攻擊力 +35, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "最大HP +2000, 最大MP +2000, 攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 6,
+          "set_option": "最大HP +30%, 最大MP +30%, 攻擊力 +30, 魔法攻擊力 +30"
+        },
+        {
+          "set_count": 7,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 無視怪物防禦率 +10%"
+        }
+      ]
+    }
+  ],
+  "hyper_stat": {
+    "active_preset": "1",
+    "available_points": 1282,
+    "remaining_points": 77,
+    "stats": [
+      {
+        "stat_type": "STR",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "DEX",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "INT",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "LUK",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "HP",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "MP",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "DF/TF",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "爆擊機率",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "爆擊傷害",
+        "stat_point": 150,
+        "stat_level": 10,
+        "stat_increase": "爆擊傷害10%增加"
+      },
+      {
+        "stat_type": "無視防禦率",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "傷害",
+        "stat_point": 200,
+        "stat_level": 11,
+        "stat_increase": "提高傷害 33% "
+      },
+      {
+        "stat_type": "Boss傷害",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "異常狀態耐性",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "攻擊力／魔力",
+        "stat_point": 40,
+        "stat_level": 6,
+        "stat_increase": "增加攻擊力與魔力18"
+      },
+      {
+        "stat_type": "獲得經驗值",
+        "stat_point": 550,
+        "stat_level": 15,
+        "stat_increase": "獲得經驗值提高10.0%"
+      },
+      {
+        "stat_type": "神祕力量",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "一般傷害",
+        "stat_point": 265,
+        "stat_level": 12,
+        "stat_increase": "攻擊一般怪物時傷害增加43%"
+      }
+    ]
+  },
+  "ability": {
+    "grade": "傳說",
+    "active_preset": 1,
+    "active_preset_grade": "傳說",
+    "remaining_fame": 15982,
+    "lines": [
+      {
+        "ability_no": "1",
+        "ability_grade": "傳說",
+        "ability_value": "攻擊Boss怪物時，傷害增加 19%"
+      },
+      {
+        "ability_no": "3",
+        "ability_grade": "罕見",
+        "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
+      },
+      {
+        "ability_no": "2",
+        "ability_grade": "稀有",
+        "ability_value": "增加STR 16 、DEX 8"
+      }
+    ]
+  },
+  "vmatrix": [
+    {
+      "core_name": "指令：掠食者之眼",
+      "core_type": "技能核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "1"
+    },
+    {
+      "core_name": "狂野機關砲：超速動能",
+      "core_type": "技能核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "2"
+    },
+    {
+      "core_name": "原始綻放",
+      "core_type": "技能核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "3"
+    },
+    {
+      "core_name": "狂暴咬擊",
+      "core_type": "技能核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "4"
+    },
+    {
+      "core_name": "狂野機關砲：巔峰強化",
+      "core_type": "強化核心",
+      "core_level": 60,
+      "slot_enhancement": 0,
+      "total_level": 60,
+      "slot_position": "1"
+    },
+    {
+      "core_name": "支援：撕裂爪/支援：獠牙撕咬/支援：碎顱猛擊強化",
+      "core_type": "強化核心",
+      "core_level": 60,
+      "slot_enhancement": 0,
+      "total_level": 60,
+      "slot_position": "2"
+    },
+    {
+      "core_name": "指令：阿爾法浪潮/指令：泰坦撲擊擊強化",
+      "core_type": "強化核心",
+      "core_level": 60,
+      "slot_enhancement": 0,
+      "total_level": 60,
+      "slot_position": "3"
+    },
+    {
+      "core_name": "終極攻擊/陷阱散佈器/另一個咬擊強化",
+      "core_type": "強化核心",
+      "core_level": 60,
+      "slot_enhancement": 0,
+      "total_level": 60,
+      "slot_position": "4"
+    },
+    {
+      "core_name": "攻擊衝刺/弩箭陷阱強化",
+      "core_type": "強化核心",
+      "core_level": 60,
+      "slot_enhancement": 0,
+      "total_level": 60,
+      "slot_position": "5"
+    },
+    {
+      "core_name": "狂野機關砲：原型/狂野機關砲：燎原之火/狂野機關砲：粉碎線強化",
+      "core_type": "強化核心",
+      "core_level": 0,
+      "slot_enhancement": 0,
+      "total_level": 0,
+      "slot_position": "6"
+    },
+    {
+      "core_name": "楓之谷世界女神的祝福",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "1"
+    },
+    {
+      "core_name": "末日反抗步兵陣",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "2"
+    },
+    {
+      "core_name": "追蹤箭頭",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "3"
+    },
+    {
+      "core_name": "爆擊強化",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "4"
+    },
+    {
+      "core_name": "艾爾達斯的新星",
+      "core_type": "共用核心",
+      "core_level": 1,
+      "slot_enhancement": 0,
+      "total_level": 1,
+      "slot_position": "5"
+    },
+    {
+      "core_name": "艾爾達斯的意志",
+      "core_type": "共用核心",
+      "core_level": 1,
+      "slot_enhancement": 0,
+      "total_level": 1,
+      "slot_position": "6"
+    },
+    {
+      "core_name": "瞬移",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "7"
+    },
+    {
+      "core_name": "艾爾達斯降臨",
+      "core_type": "共用核心",
+      "core_level": 1,
+      "slot_enhancement": 0,
+      "total_level": 1,
+      "slot_position": "8"
+    },
+    {
+      "core_name": "連接繩索",
+      "core_type": "共用核心",
+      "core_level": 11,
+      "slot_enhancement": 0,
+      "total_level": 11,
+      "slot_position": "9"
+    },
+    {
+      "core_name": "值得使用的神聖象徵",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "10"
+    },
+    {
+      "core_name": "實用的神聖之泉",
+      "core_type": "共用核心",
+      "core_level": 1,
+      "slot_enhancement": 0,
+      "total_level": 1,
+      "slot_position": "11"
+    },
+    {
+      "core_name": "實用的最終極速",
+      "core_type": "共用核心",
+      "core_level": 1,
+      "slot_enhancement": 0,
+      "total_level": 1,
+      "slot_position": "12"
+    },
+    {
+      "core_name": "實用的進階祝福",
+      "core_type": "共用核心",
+      "core_level": 1,
+      "slot_enhancement": 0,
+      "total_level": 1,
+      "slot_position": "13"
+    },
+    {
+      "core_name": "實用的戰鬥命令",
+      "core_type": "共用核心",
+      "core_level": 1,
+      "slot_enhancement": 0,
+      "total_level": 1,
+      "slot_position": "14"
+    },
+    {
+      "core_name": "實用的神聖之火",
+      "core_type": "共用核心",
+      "core_level": 1,
+      "slot_enhancement": 0,
+      "total_level": 1,
+      "slot_position": "15"
+    },
+    {
+      "core_name": "實用的會心之眼",
+      "core_type": "共用核心",
+      "core_level": 1,
+      "slot_enhancement": 0,
+      "total_level": 1,
+      "slot_position": "16"
+    },
+    {
+      "core_name": "實用的時空門",
+      "core_type": "共用核心",
+      "core_level": 1,
+      "slot_enhancement": 0,
+      "total_level": 1,
+      "slot_position": "17"
+    },
+    {
+      "core_name": "蜘蛛之鏡",
+      "core_type": "共用核心",
+      "core_level": 20,
+      "slot_enhancement": 0,
+      "total_level": 20,
+      "slot_position": "18"
+    },
+    {
+      "core_name": "烈陽印記",
+      "core_type": "共用核心",
+      "core_level": 0,
+      "slot_enhancement": 0,
+      "total_level": 0,
+      "slot_position": "19"
+    },
+    {
+      "core_name": "一擊必殺I",
+      "core_type": "特殊核心",
+      "core_level": 1,
+      "slot_enhancement": 0,
+      "total_level": 1,
+      "slot_position": "1"
+    }
+  ],
+  "hexamatrix": [
+    {
+      "core_name": "絕對美洲豹時間",
+      "core_type": "技能核心",
+      "core_level": 1
+    },
+    {
+      "core_name": "齒輪風暴",
+      "core_type": "技能核心",
+      "core_level": 1
+    },
+    {
+      "core_name": "狂野機關砲：巔峰VI",
+      "core_type": "精通核心",
+      "core_level": 11
+    },
+    {
+      "core_name": "助攻VI",
+      "core_type": "精通核心",
+      "core_level": 9
+    },
+    {
+      "core_name": "指令VI",
+      "core_type": "精通核心",
+      "core_level": 9
+    },
+    {
+      "core_name": "另一個咬擊VI/終極攻擊VI/陷阱散佈器VI",
+      "core_type": "精通核心",
+      "core_level": 7
+    },
+    {
+      "core_name": "指令：掠食者之眼",
+      "core_type": "強化核心",
+      "core_level": 1
+    },
+    {
+      "core_name": "狂野機關砲：超速動能",
+      "core_type": "強化核心",
+      "core_level": 1
+    }
+  ],
+  "hexamatrix_stat": {
+    "current": [],
+    "current_2": [],
+    "current_3": [],
+    "preset_1": [],
+    "preset_2": [],
+    "preset_3": []
+  },
+  "link_skills": [],
+  "union_summary": {
+    "level": null,
+    "grade": null,
+    "artifact_level": null,
+    "artifact_exp": null,
+    "artifact_point": null,
+    "active_raider_preset": 0,
+    "raider_stats": [],
+    "occupied_stats": [],
+    "inner_stats": [],
+    "artifact_effects": [],
+    "artifact_remaining_ap": null,
+    "champions": [],
+    "champion_badges": []
+  },
+  "familiar_summary": {
+    "link_slots": [
+      {
+        "slot_id": "1",
+        "familiar_name": null,
+        "active_flag": "false",
+        "expire_date": null
+      },
+      {
+        "slot_id": "2",
+        "familiar_name": null,
+        "active_flag": "false",
+        "expire_date": null
+      },
+      {
+        "slot_id": "3",
+        "familiar_name": null,
+        "active_flag": "false",
+        "expire_date": null
+      },
+      {
+        "slot_id": "vip",
+        "familiar_name": null,
+        "active_flag": "false",
+        "expire_date": null
+      }
+    ],
+    "familiars": [
+      {
+        "name": "菇菇寶貝",
+        "nickname": "菇菇寶貝",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "魔法攻擊力",
+            "option_value": "5"
+          },
+          {
+            "option_no": 2,
+            "option_name": "最終傷害 (%)",
+            "option_value": "3"
+          },
+          {
+            "option_no": 3,
+            "option_name": "攻擊時有3%機率恢復 HP",
+            "option_value": "18"
+          }
+        ],
+        "summoned_flag": "true",
+        "slot_id": "not link"
+      }
+    ]
+  },
+  "errors": []
+}
