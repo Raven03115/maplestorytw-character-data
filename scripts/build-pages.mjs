@@ -1,8 +1,10 @@
-import { mkdir, rm, writeFile } from "node:fs/promises";
+import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
 
 const SOURCE_URL = "https://maplestorytw-character-api.boy185608.workers.dev/analysis";
 const EXPECTED_CHARACTER = "豹豹奶霜";
 const OUTPUT_DIRECTORY = new URL("../_site/", import.meta.url);
+const SNAPSHOT_DIRECTORY = new URL("../snapshot/", import.meta.url);
+const SNAPSHOT_HEARTBEAT_MS = 6 * 60 * 60 * 1000;
 const MAX_RESPONSE_BYTES = 2 * 1024 * 1024;
 const FORBIDDEN_KEYS = new Set([
   "authorization",
@@ -21,6 +23,44 @@ function containsForbiddenKey(value) {
   if (!isObject(value)) return false;
   return Object.entries(value).some(
     ([key, child]) => FORBIDDEN_KEYS.has(key.toLowerCase()) || containsForbiddenKey(child),
+  );
+}
+
+function comparableAnalysis(value) {
+  const comparable = structuredClone(value);
+  if (isObject(comparable.meta)) {
+    delete comparable.meta.fetched_at;
+    delete comparable.meta.generated_at;
+    delete comparable.meta.published_at;
+  }
+  return comparable;
+}
+
+async function readJsonFile(url) {
+  try {
+    return JSON.parse(await readFile(url, "utf8"));
+  } catch {
+    return null;
+  }
+}
+
+async function shouldRefreshSnapshot(analysis, updatedAt) {
+  const existingAnalysis = await readJsonFile(new URL("analysis.json", SNAPSHOT_DIRECTORY));
+  const existingHealth = await readJsonFile(new URL("health.json", SNAPSHOT_DIRECTORY));
+
+  if (!isObject(existingAnalysis) || !isObject(existingHealth)) return true;
+
+  const dataChanged =
+    JSON.stringify(comparableAnalysis(existingAnalysis)) !==
+    JSON.stringify(comparableAnalysis(analysis));
+  if (dataChanged) return true;
+
+  const previousUpdatedAt = Date.parse(existingHealth.updated_at);
+  const currentUpdatedAt = Date.parse(updatedAt);
+  return (
+    !Number.isFinite(previousUpdatedAt) ||
+    !Number.isFinite(currentUpdatedAt) ||
+    currentUpdatedAt - previousUpdatedAt >= SNAPSHOT_HEARTBEAT_MS
   );
 }
 
@@ -92,6 +132,23 @@ await Promise.all([
   writeFile(new URL(".nojekyll", OUTPUT_DIRECTORY), "", "utf8"),
 ]);
 
+const snapshotRefreshed = await shouldRefreshSnapshot(analysis, updatedAt);
+if (snapshotRefreshed) {
+  await mkdir(SNAPSHOT_DIRECTORY, { recursive: true });
+  await Promise.all([
+    writeFile(
+      new URL("analysis.json", SNAPSHOT_DIRECTORY),
+      `${JSON.stringify(analysis, null, 2)}\n`,
+      "utf8",
+    ),
+    writeFile(
+      new URL("health.json", SNAPSHOT_DIRECTORY),
+      `${JSON.stringify(health, null, 2)}\n`,
+      "utf8",
+    ),
+  ]);
+}
+
 console.log(
-  `Validated ${EXPECTED_CHARACTER}: combat_summary present; wrote analysis.json (${Buffer.byteLength(body, "utf8")} source bytes) and health.json.`,
+  `Validated ${EXPECTED_CHARACTER}: combat_summary present; wrote Pages files (${Buffer.byteLength(body, "utf8")} source bytes); repository snapshot ${snapshotRefreshed ? "refreshed" : "unchanged"}.`,
 );
