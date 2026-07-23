@@ -1,7 +1,7 @@
 {
   "meta": {
     "character_name": "豹豹奶霜",
-    "fetched_at": "2026-07-23T22:42:57.044Z",
+    "fetched_at": "2026-07-23T23:06:51.109Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -32,17 +32,17 @@
     "combat_power": "35161184",
     "main_stat": {
       "name": "DEX",
-      "value": "35591"
+      "value": "35711"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "3769"
+      "value": "3859"
     },
-    "attack_power": "3205",
+    "attack_power": "3210",
     "damage": "56.00",
-    "boss_damage": "319.00",
-    "ignore_defense": "95.57",
-    "critical_rate": "131",
+    "boss_damage": "374.00",
+    "ignore_defense": "96.90",
+    "critical_rate": "144",
     "critical_damage": "92.00",
     "final_damage": "112.41",
     "buff_duration": "30",
@@ -1640,7 +1640,7 @@
       "name": "真實符文：桃源境",
       "level": 4,
       "force": "40",
-      "growth_count": 5,
+      "growth_count": 105,
       "required_growth_count": 224,
       "stat_increase": {
         "str": "0",
@@ -1899,21 +1899,21 @@
     }
   ],
   "hyper_stat": {
-    "active_preset": "1",
+    "active_preset": "2",
     "available_points": 1282,
-    "remaining_points": 77,
+    "remaining_points": 35,
     "stats": [
       {
         "stat_type": "STR",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 7,
+        "stat_level": 3,
+        "stat_increase": "力量增加 90"
       },
       {
         "stat_type": "DEX",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 15,
+        "stat_level": 4,
+        "stat_increase": "增加敏捷 120"
       },
       {
         "stat_type": "INT",
@@ -1947,9 +1947,9 @@
       },
       {
         "stat_type": "爆擊機率",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 115,
+        "stat_level": 9,
+        "stat_increase": "爆擊機率增加 13%"
       },
       {
         "stat_type": "爆擊傷害",
@@ -1959,9 +1959,9 @@
       },
       {
         "stat_type": "無視防禦率",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 150,
+        "stat_level": 10,
+        "stat_increase": "無視防禦率增加 30%"
       },
       {
         "stat_type": "傷害",
@@ -1971,9 +1971,9 @@
       },
       {
         "stat_type": "Boss傷害",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 550,
+        "stat_level": 15,
+        "stat_increase": "攻擊Boss怪物時，傷害增加 55%"
       },
       {
         "stat_type": "異常狀態耐性",
@@ -1983,15 +1983,15 @@
       },
       {
         "stat_type": "攻擊力／魔力",
-        "stat_point": 40,
-        "stat_level": 6,
-        "stat_increase": "增加攻擊力與魔力18"
+        "stat_point": 60,
+        "stat_level": 7,
+        "stat_increase": "增加攻擊力與魔力21"
       },
       {
         "stat_type": "獲得經驗值",
-        "stat_point": 550,
-        "stat_level": 15,
-        "stat_increase": "獲得經驗值提高10.0%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "神祕力量",
@@ -2001,9 +2001,9 @@
       },
       {
         "stat_type": "一般傷害",
-        "stat_point": 265,
-        "stat_level": 12,
-        "stat_increase": "攻擊一般怪物時傷害增加43%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       }
     ]
   },
@@ -2392,6 +2392,146 @@
           }
         ],
         "summoned_flag": "true",
+        "slot_id": "not link"
+      },
+      {
+        "name": "邪惡綿羊",
+        "nickname": "邪惡綿羊",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "魔法攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "最終傷害 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "泡泡魚",
+        "nickname": "泡泡魚",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "INT",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "大副凱丁",
+        "nickname": "大副凱丁",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "封印效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "STR",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "垃圾桶",
+        "nickname": "垃圾桶",
+        "grade": "BOSS怪物傷害",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "物理攻擊力 (%)",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "肥肥",
+        "nickname": "肥肥",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "魔法攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "物理攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "STR",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
         "slot_id": "not link"
       }
     ]
