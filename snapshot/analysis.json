@@ -1,7 +1,7 @@
 {
   "meta": {
     "character_name": "豹豹奶霜",
-    "fetched_at": "2026-07-23T23:06:51.109Z",
+    "fetched_at": "2026-07-24T00:14:13.920Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -29,21 +29,21 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "35161184",
+    "combat_power": "35234192",
     "main_stat": {
       "name": "DEX",
-      "value": "35711"
+      "value": "35761"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "3859"
+      "value": "3884"
     },
-    "attack_power": "3210",
-    "damage": "56.00",
-    "boss_damage": "374.00",
-    "ignore_defense": "96.90",
+    "attack_power": "3238",
+    "damage": "86.00",
+    "boss_damage": "419.00",
+    "ignore_defense": "97.36",
     "critical_rate": "144",
-    "critical_damage": "92.00",
+    "critical_damage": "122.00",
     "final_damage": "112.41",
     "buff_duration": "30",
     "cooldown_reduction": {
@@ -217,7 +217,7 @@
       "equipment_type": "臉飾",
       "name": "口紅控制器標誌",
       "starforce": "20",
-      "scroll_upgrade": "4",
+      "scroll_upgrade": "5",
       "potential_grade": "傳說",
       "potential_lines": [
         "LUK +19",
@@ -2011,7 +2011,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 15982,
+    "remaining_fame": 982,
     "lines": [
       {
         "ability_no": "1",
@@ -2026,7 +2026,7 @@
       {
         "ability_no": "2",
         "ability_grade": "稀有",
-        "ability_value": "增加STR 16 、DEX 8"
+        "ability_value": "增加STR 16 、 LUK 8"
       }
     ]
   },
