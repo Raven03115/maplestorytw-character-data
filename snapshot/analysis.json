@@ -1,7 +1,7 @@
 {
   "meta": {
     "character_name": "豹豹奶霜",
-    "fetched_at": "2026-07-24T18:26:04.175Z",
+    "fetched_at": "2026-07-24T19:58:19.270Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -29,22 +29,22 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "30224278",
+    "combat_power": "29884845",
     "main_stat": {
       "name": "DEX",
-      "value": "35529"
+      "value": "36297"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "3712"
+      "value": "3933"
     },
-    "attack_power": "3238",
+    "attack_power": "3008",
     "damage": "56.00",
     "boss_damage": "300.00",
-    "ignore_defense": "95.57",
-    "critical_rate": "125",
-    "critical_damage": "92.00",
-    "final_damage": "112.41",
+    "ignore_defense": "95.41",
+    "critical_rate": "104",
+    "critical_damage": "75.00",
+    "final_damage": "106.22",
     "buff_duration": "30",
     "cooldown_reduction": {
       "seconds": "0",
@@ -700,9 +700,9 @@
       "scroll_upgrade": "0",
       "potential_grade": "傳說",
       "potential_lines": [
-        "DEX +19",
-        "MaxMP +230",
-        "防禦力 +240"
+        "全屬性 +10%",
+        "INT +10%",
+        "DEX +10%"
       ],
       "additional_potential_grade": "特殊",
       "additional_potential_lines": [
@@ -1269,6 +1269,54 @@
       "set_name": null
     },
     {
+      "part": "墜飾2",
+      "equipment_type": "墜飾",
+      "name": "精靈墜飾",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
       "part": "圖騰1",
       "equipment_type": "圖騰",
       "name": "柏林的痕跡",
@@ -1663,30 +1711,6 @@
         {
           "set_count": 5,
           "set_option": "全屬性 +8, 攻擊力 +20, 魔法攻擊力 +20, 無視怪物防禦率 +30%"
-        }
-      ]
-    },
-    {
-      "set_name": "迷你吉祥物菇菇套組",
-      "equipped_count": 1,
-      "effects": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        }
-      ],
-      "full_set_options": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        },
-        {
-          "set_count": 2,
-          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
-        },
-        {
-          "set_count": 3,
-          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
         }
       ]
     },
@@ -2335,20 +2359,20 @@
           {
             "option_no": 1,
             "option_name": "魔法攻擊力",
-            "option_value": "5"
+            "option_value": "0"
           },
           {
             "option_no": 2,
             "option_name": "最終傷害 (%)",
-            "option_value": "3"
+            "option_value": "0"
           },
           {
             "option_no": 3,
             "option_name": "攻擊時有3%機率恢復 HP",
-            "option_value": "18"
+            "option_value": "0"
           }
         ],
-        "summoned_flag": "true",
+        "summoned_flag": "false",
         "slot_id": "not link"
       },
       {
