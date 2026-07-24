@@ -1,7 +1,7 @@
 {
   "meta": {
     "character_name": "豹豹奶霜",
-    "fetched_at": "2026-07-24T16:54:40.107Z",
+    "fetched_at": "2026-07-24T18:26:04.175Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -29,22 +29,22 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "34050737",
+    "combat_power": "30224278",
     "main_stat": {
       "name": "DEX",
-      "value": "35649"
+      "value": "35529"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "3859"
+      "value": "3712"
     },
-    "attack_power": "2987",
+    "attack_power": "3238",
     "damage": "56.00",
-    "boss_damage": "374.00",
-    "ignore_defense": "96.79",
-    "critical_rate": "123",
-    "critical_damage": "75.00",
-    "final_damage": "106.22",
+    "boss_damage": "300.00",
+    "ignore_defense": "95.57",
+    "critical_rate": "125",
+    "critical_damage": "92.00",
+    "final_damage": "112.41",
     "buff_duration": "30",
     "cooldown_reduction": {
       "seconds": "0",
@@ -743,14 +743,14 @@
     {
       "part": "戒指2",
       "equipment_type": "戒指",
-      "name": "挑戰者規範戒指",
+      "name": "覺醒戒指",
       "starforce": "0",
-      "scroll_upgrade": "0",
-      "potential_grade": null,
+      "scroll_upgrade": "3",
+      "potential_grade": "傳說",
       "potential_lines": [
-        null,
-        null,
-        null
+        "楓幣獲得量 +20%",
+        "DEX +9%",
+        "DEX +9%"
       ],
       "additional_potential_grade": null,
       "additional_potential_lines": [
@@ -1269,54 +1269,6 @@
       "set_name": null
     },
     {
-      "part": "墜飾2",
-      "equipment_type": "墜飾",
-      "name": "支配者墜飾",
-      "starforce": "15",
-      "scroll_upgrade": "5",
-      "potential_grade": "罕見",
-      "potential_lines": [
-        "DEX +9%",
-        "DEX +6%",
-        "爆擊機率 +6%"
-      ],
-      "additional_potential_grade": null,
-      "additional_potential_lines": [
-        null,
-        null,
-        null
-      ],
-      "flame_additional_options": {
-        "str": "0",
-        "dex": "0",
-        "int": "0",
-        "luk": "0",
-        "max_hp": "0",
-        "max_mp": "0",
-        "attack_power": "0",
-        "magic_power": "0",
-        "armor": "0",
-        "speed": "0",
-        "jump": "0",
-        "boss_damage": "0",
-        "damage": "0",
-        "all_stat": "0",
-        "equipment_level_decrease": 0
-      },
-      "exceptional_options": {
-        "str": "0",
-        "dex": "0",
-        "int": "0",
-        "luk": "0",
-        "max_hp": "0",
-        "max_mp": "0",
-        "attack_power": "0",
-        "magic_power": "0",
-        "exceptional_upgrade": 0
-      },
-      "set_name": null
-    },
-    {
       "part": "圖騰1",
       "equipment_type": "圖騰",
       "name": "柏林的痕跡",
@@ -1542,7 +1494,7 @@
       "name": "祕法符文：拉契爾恩",
       "level": 18,
       "force": "200",
-      "growth_count": 99,
+      "growth_count": 155,
       "required_growth_count": 335,
       "stat_increase": {
         "str": "0",
@@ -1556,7 +1508,7 @@
       "name": "祕法符文：阿爾卡娜",
       "level": 19,
       "force": "210",
-      "growth_count": 9,
+      "growth_count": 65,
       "required_growth_count": 372,
       "stat_increase": {
         "str": "0",
@@ -1570,7 +1522,7 @@
       "name": "祕法符文：魔菈斯",
       "level": 17,
       "force": "190",
-      "growth_count": 198,
+      "growth_count": 254,
       "required_growth_count": 300,
       "stat_increase": {
         "str": "0",
@@ -1584,7 +1536,7 @@
       "name": "祕法符文：艾斯佩拉",
       "level": 18,
       "force": "200",
-      "growth_count": 190,
+      "growth_count": 246,
       "required_growth_count": 335,
       "stat_increase": {
         "str": "0",
@@ -1598,7 +1550,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 6,
       "force": "60",
-      "growth_count": 1072,
+      "growth_count": 1108,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1612,7 +1564,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 5,
       "force": "50",
-      "growth_count": 627,
+      "growth_count": 648,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1626,7 +1578,7 @@
       "name": "真實符文：奧迪溫",
       "level": 5,
       "force": "50",
-      "growth_count": 529,
+      "growth_count": 550,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1640,7 +1592,7 @@
       "name": "真實符文：桃源境",
       "level": 4,
       "force": "40",
-      "growth_count": 105,
+      "growth_count": 126,
       "required_growth_count": 224,
       "stat_increase": {
         "str": "0",
@@ -1711,6 +1663,30 @@
         {
           "set_count": 5,
           "set_option": "全屬性 +8, 攻擊力 +20, 魔法攻擊力 +20, 無視怪物防禦率 +30%"
+        }
+      ]
+    },
+    {
+      "set_name": "迷你吉祥物菇菇套組",
+      "equipped_count": 1,
+      "effects": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        },
+        {
+          "set_count": 2,
+          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
+        },
+        {
+          "set_count": 3,
+          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
         }
       ]
     },
@@ -1816,7 +1792,7 @@
     },
     {
       "set_name": "首領飾品組",
-      "equipped_count": 4,
+      "equipped_count": 3,
       "effects": [
         {
           "set_count": 3,
@@ -1875,21 +1851,21 @@
     }
   ],
   "hyper_stat": {
-    "active_preset": "2",
+    "active_preset": "1",
     "available_points": 1282,
-    "remaining_points": 35,
+    "remaining_points": 77,
     "stats": [
       {
         "stat_type": "STR",
-        "stat_point": 7,
-        "stat_level": 3,
-        "stat_increase": "力量增加 90"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "DEX",
-        "stat_point": 15,
-        "stat_level": 4,
-        "stat_increase": "增加敏捷 120"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "INT",
@@ -1923,9 +1899,9 @@
       },
       {
         "stat_type": "爆擊機率",
-        "stat_point": 115,
-        "stat_level": 9,
-        "stat_increase": "爆擊機率增加 13%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "爆擊傷害",
@@ -1935,9 +1911,9 @@
       },
       {
         "stat_type": "無視防禦率",
-        "stat_point": 150,
-        "stat_level": 10,
-        "stat_increase": "無視防禦率增加 30%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "傷害",
@@ -1947,9 +1923,9 @@
       },
       {
         "stat_type": "Boss傷害",
-        "stat_point": 550,
-        "stat_level": 15,
-        "stat_increase": "攻擊Boss怪物時，傷害增加 55%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "異常狀態耐性",
@@ -1959,15 +1935,15 @@
       },
       {
         "stat_type": "攻擊力／魔力",
-        "stat_point": 60,
-        "stat_level": 7,
-        "stat_increase": "增加攻擊力與魔力21"
+        "stat_point": 40,
+        "stat_level": 6,
+        "stat_increase": "增加攻擊力與魔力18"
       },
       {
         "stat_type": "獲得經驗值",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 550,
+        "stat_level": 15,
+        "stat_increase": "獲得經驗值提高10.0%"
       },
       {
         "stat_type": "神祕力量",
@@ -1977,32 +1953,32 @@
       },
       {
         "stat_type": "一般傷害",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 265,
+        "stat_level": 12,
+        "stat_increase": "攻擊一般怪物時傷害增加43%"
       }
     ]
   },
   "ability": {
     "grade": "傳說",
-    "active_preset": 1,
+    "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 982,
+    "remaining_fame": 3262,
     "lines": [
       {
         "ability_no": "1",
         "ability_grade": "傳說",
-        "ability_value": "攻擊Boss怪物時，傷害增加 19%"
+        "ability_value": "道具掉落率增加 20%"
       },
       {
         "ability_no": "3",
         "ability_grade": "罕見",
-        "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
+        "ability_value": "攻擊一般怪物時傷害增加 8% "
       },
       {
         "ability_no": "2",
         "ability_grade": "稀有",
-        "ability_value": "增加STR 16 、 LUK 8"
+        "ability_value": "增加楓幣獲得量 9% "
       }
     ]
   },
@@ -2285,6 +2261,11 @@
       "core_level": 1
     },
     {
+      "core_name": "原始綻放",
+      "core_type": "強化核心",
+      "core_level": 1
+    },
+    {
       "core_name": "狂野機關砲：超速動能",
       "core_type": "強化核心",
       "core_level": 1
@@ -2354,20 +2335,20 @@
           {
             "option_no": 1,
             "option_name": "魔法攻擊力",
-            "option_value": "0"
+            "option_value": "5"
           },
           {
             "option_no": 2,
             "option_name": "最終傷害 (%)",
-            "option_value": "0"
+            "option_value": "3"
           },
           {
             "option_no": 3,
             "option_name": "攻擊時有3%機率恢復 HP",
-            "option_value": "0"
+            "option_value": "18"
           }
         ],
-        "summoned_flag": "false",
+        "summoned_flag": "true",
         "slot_id": "not link"
       },
       {
