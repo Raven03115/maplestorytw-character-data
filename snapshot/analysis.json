@@ -1,7 +1,7 @@
 {
   "meta": {
     "character_name": "豹豹奶霜",
-    "fetched_at": "2026-07-24T06:35:31.710Z",
+    "fetched_at": "2026-07-24T09:12:35.675Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -29,22 +29,22 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "35234192",
+    "combat_power": "34050737",
     "main_stat": {
       "name": "DEX",
-      "value": "35761"
+      "value": "35649"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "3884"
+      "value": "3859"
     },
-    "attack_power": "3238",
-    "damage": "86.00",
-    "boss_damage": "419.00",
-    "ignore_defense": "97.36",
-    "critical_rate": "144",
-    "critical_damage": "122.00",
-    "final_damage": "112.41",
+    "attack_power": "2987",
+    "damage": "56.00",
+    "boss_damage": "374.00",
+    "ignore_defense": "96.79",
+    "critical_rate": "123",
+    "critical_damage": "75.00",
+    "final_damage": "106.22",
     "buff_duration": "30",
     "cooldown_reduction": {
       "seconds": "0",
@@ -1715,30 +1715,6 @@
       ]
     },
     {
-      "set_name": "迷你吉祥物菇菇套組",
-      "equipped_count": 1,
-      "effects": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        }
-      ],
-      "full_set_options": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        },
-        {
-          "set_count": 2,
-          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
-        },
-        {
-          "set_count": 3,
-          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
-        }
-      ]
-    },
-    {
       "set_name": "菇菇支援裝備套組(弓箭手)",
       "equipped_count": 7,
       "effects": [
@@ -2378,44 +2354,16 @@
           {
             "option_no": 1,
             "option_name": "魔法攻擊力",
-            "option_value": "5"
+            "option_value": "0"
           },
           {
             "option_no": 2,
             "option_name": "最終傷害 (%)",
-            "option_value": "3"
+            "option_value": "0"
           },
           {
             "option_no": 3,
             "option_name": "攻擊時有3%機率恢復 HP",
-            "option_value": "18"
-          }
-        ],
-        "summoned_flag": "true",
-        "slot_id": "not link"
-      },
-      {
-        "name": "邪惡綿羊",
-        "nickname": "邪惡綿羊",
-        "grade": null,
-        "level": 5,
-        "state": "registered",
-        "skill_name": null,
-        "option_level": 5,
-        "options": [
-          {
-            "option_no": 1,
-            "option_name": "魔法攻擊力",
-            "option_value": "0"
-          },
-          {
-            "option_no": 2,
-            "option_name": "最終傷害 (%)",
-            "option_value": "0"
-          },
-          {
-            "option_no": 3,
-            "option_name": "防禦力",
             "option_value": "0"
           }
         ],
@@ -2479,6 +2427,34 @@
         "slot_id": "not link"
       },
       {
+        "name": "肥肥",
+        "nickname": "肥肥",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "魔法攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "物理攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "STR",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
         "name": "垃圾桶",
         "nickname": "垃圾桶",
         "grade": "BOSS怪物傷害",
@@ -2507,8 +2483,8 @@
         "slot_id": "not link"
       },
       {
-        "name": "肥肥",
-        "nickname": "肥肥",
+        "name": "邪惡綿羊",
+        "nickname": "邪惡綿羊",
         "grade": null,
         "level": 5,
         "state": "registered",
@@ -2522,12 +2498,12 @@
           },
           {
             "option_no": 2,
-            "option_name": "物理攻擊力",
+            "option_name": "最終傷害 (%)",
             "option_value": "0"
           },
           {
             "option_no": 3,
-            "option_name": "STR",
+            "option_name": "防禦力",
             "option_value": "0"
           }
         ],
