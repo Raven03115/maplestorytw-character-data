@@ -1,7 +1,7 @@
 {
   "meta": {
     "character_name": "豹豹奶霜",
-    "fetched_at": "2026-07-25T09:08:38.996Z",
+    "fetched_at": "2026-07-25T10:47:24.837Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -29,22 +29,22 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "30527072",
+    "combat_power": "31571604",
     "main_stat": {
       "name": "DEX",
-      "value": "36142"
+      "value": "36239"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "3933"
+      "value": "3951"
     },
-    "attack_power": "3085",
+    "attack_power": "3417",
     "damage": "56.00",
     "boss_damage": "300.00",
-    "ignore_defense": "95.41",
-    "critical_rate": "104",
-    "critical_damage": "75.00",
-    "final_damage": "106.22",
+    "ignore_defense": "95.57",
+    "critical_rate": "125",
+    "critical_damage": "92.00",
+    "final_damage": "112.41",
     "buff_duration": "30",
     "cooldown_reduction": {
       "seconds": "0",
@@ -1715,6 +1715,30 @@
       ]
     },
     {
+      "set_name": "迷你吉祥物菇菇套組",
+      "equipped_count": 1,
+      "effects": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        },
+        {
+          "set_count": 2,
+          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
+        },
+        {
+          "set_count": 3,
+          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
+        }
+      ]
+    },
+    {
       "set_name": "菇菇支援裝備套組(弓箭手)",
       "equipped_count": 7,
       "effects": [
@@ -1987,7 +2011,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 5522,
+    "remaining_fame": 6602,
     "lines": [
       {
         "ability_no": "1",
@@ -2359,20 +2383,20 @@
           {
             "option_no": 1,
             "option_name": "魔法攻擊力",
-            "option_value": "0"
+            "option_value": "5"
           },
           {
             "option_no": 2,
             "option_name": "最終傷害 (%)",
-            "option_value": "0"
+            "option_value": "3"
           },
           {
             "option_no": 3,
             "option_name": "攻擊時有3%機率恢復 HP",
-            "option_value": "0"
+            "option_value": "18"
           }
         ],
-        "summoned_flag": "false",
+        "summoned_flag": "true",
         "slot_id": "not link"
       },
       {
