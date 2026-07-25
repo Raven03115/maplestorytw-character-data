@@ -1,7 +1,7 @@
 {
   "meta": {
     "character_name": "豹豹奶霜",
-    "fetched_at": "2026-07-25T17:26:20.696Z",
+    "fetched_at": "2026-07-25T18:31:44.331Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -29,16 +29,16 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "36519967",
+    "combat_power": "36621635",
     "main_stat": {
       "name": "DEX",
-      "value": "36300"
+      "value": "36400"
     },
     "secondary_stat": {
       "name": "STR",
       "value": "4046"
     },
-    "attack_power": "3278",
+    "attack_power": "3363",
     "damage": "56.00",
     "boss_damage": "375.00",
     "ignore_defense": "96.90",
@@ -50,7 +50,7 @@
       "seconds": "0",
       "percent": "5"
     },
-    "arc": "1370",
+    "arc": "1380",
     "aut": "310"
   },
   "weapon_secondary_emblem": [
@@ -1542,7 +1542,7 @@
       "name": "祕法符文：拉契爾恩",
       "level": 18,
       "force": "200",
-      "growth_count": 155,
+      "growth_count": 211,
       "required_growth_count": 335,
       "stat_increase": {
         "str": "0",
@@ -1556,7 +1556,7 @@
       "name": "祕法符文：阿爾卡娜",
       "level": 19,
       "force": "210",
-      "growth_count": 65,
+      "growth_count": 121,
       "required_growth_count": 372,
       "stat_increase": {
         "str": "0",
@@ -1568,13 +1568,13 @@
     },
     {
       "name": "祕法符文：魔菈斯",
-      "level": 17,
-      "force": "190",
-      "growth_count": 254,
-      "required_growth_count": 300,
+      "level": 18,
+      "force": "200",
+      "growth_count": 10,
+      "required_growth_count": 335,
       "stat_increase": {
         "str": "0",
-        "dex": "1900",
+        "dex": "2000",
         "int": "0",
         "luk": "0",
         "hp": "0"
@@ -1584,7 +1584,7 @@
       "name": "祕法符文：艾斯佩拉",
       "level": 18,
       "force": "200",
-      "growth_count": 246,
+      "growth_count": 302,
       "required_growth_count": 335,
       "stat_increase": {
         "str": "0",
@@ -1598,7 +1598,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 6,
       "force": "60",
-      "growth_count": 1108,
+      "growth_count": 1144,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1612,7 +1612,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 5,
       "force": "50",
-      "growth_count": 648,
+      "growth_count": 669,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1626,7 +1626,7 @@
       "name": "真實符文：奧迪溫",
       "level": 5,
       "force": "50",
-      "growth_count": 550,
+      "growth_count": 571,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1640,7 +1640,7 @@
       "name": "真實符文：桃源境",
       "level": 4,
       "force": "40",
-      "growth_count": 127,
+      "growth_count": 148,
       "required_growth_count": 224,
       "stat_increase": {
         "str": "0",
@@ -2011,7 +2011,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 10652,
+    "remaining_fame": 11732,
     "lines": [
       {
         "ability_no": "1",
