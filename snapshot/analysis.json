@@ -1,7 +1,7 @@
 {
   "meta": {
     "character_name": "豹豹奶霜",
-    "fetched_at": "2026-07-25T10:47:24.837Z",
+    "fetched_at": "2026-07-25T11:54:17.047Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -32,13 +32,13 @@
     "combat_power": "31571604",
     "main_stat": {
       "name": "DEX",
-      "value": "36239"
+      "value": "36199"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "3951"
+      "value": "3933"
     },
-    "attack_power": "3417",
+    "attack_power": "3315",
     "damage": "56.00",
     "boss_damage": "300.00",
     "ignore_defense": "95.57",
@@ -2011,7 +2011,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 6602,
+    "remaining_fame": 8412,
     "lines": [
       {
         "ability_no": "1",
