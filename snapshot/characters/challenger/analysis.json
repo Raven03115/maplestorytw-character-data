@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-07-26T19:24:47.023Z",
+    "fetched_at": "2026-07-26T21:08:44.695Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,25 +30,25 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "38403846",
+    "combat_power": "40133995",
     "main_stat": {
       "name": "DEX",
-      "value": "37396"
+      "value": "41044"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4246"
+      "value": "4265"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4246"
+      "value": "4265"
     },
-    "attack_power": "3581",
+    "attack_power": "4995",
     "damage": "86.00",
-    "boss_damage": "386.00",
+    "boss_damage": "375.00",
     "ignore_defense": "96.90",
     "critical_rate": "144",
-    "critical_damage": "122.00",
+    "critical_damage": "164.00",
     "final_damage": "112.41",
     "buff_duration": "30",
     "cooldown_reduction": {
@@ -2014,24 +2014,24 @@
   },
   "ability": {
     "grade": "傳說",
-    "active_preset": 2,
+    "active_preset": 1,
     "active_preset_grade": "傳說",
     "remaining_fame": 46272,
     "lines": [
       {
         "ability_no": "1",
         "ability_grade": "傳說",
-        "ability_value": "道具掉落率增加 20%"
+        "ability_value": "攻擊Boss怪物時，傷害增加 19%"
       },
       {
         "ability_no": "3",
         "ability_grade": "罕見",
-        "ability_value": "攻擊一般怪物時傷害增加 8% "
+        "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
       },
       {
         "ability_no": "2",
         "ability_grade": "稀有",
-        "ability_value": "增加楓幣獲得量 9% "
+        "ability_value": "增加STR 16 、 LUK 8"
       }
     ]
   },
