@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-07-26T15:14:40.570Z",
+    "fetched_at": "2026-07-26T17:11:54.403Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,20 +30,20 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "31792213",
+    "combat_power": "34097820",
     "main_stat": {
       "name": "DEX",
-      "value": "36417"
+      "value": "37114"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "3898"
+      "value": "4113"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "3898"
+      "value": "4113"
     },
-    "attack_power": "3320",
+    "attack_power": "3483",
     "damage": "56.00",
     "boss_damage": "301.00",
     "ignore_defense": "95.57",
@@ -268,14 +268,14 @@
     {
       "part": "眼飾",
       "equipment_type": "眼飾",
-      "name": "水中信紙眼飾",
-      "starforce": "8",
-      "scroll_upgrade": "3",
-      "potential_grade": "稀有",
+      "name": "拉圖斯標誌",
+      "starforce": "17",
+      "scroll_upgrade": "0",
+      "potential_grade": "傳說",
       "potential_lines": [
-        "DEX +6%",
-        "DEX +3%",
-        "DEX +3%"
+        "MaxHP +300",
+        "DEX +16",
+        "防禦力 +240"
       ],
       "additional_potential_grade": null,
       "additional_potential_lines": [
@@ -284,14 +284,14 @@
         null
       ],
       "flame_additional_options": {
-        "str": "0",
+        "str": "12",
         "dex": "0",
-        "int": "0",
-        "luk": "0",
-        "max_hp": "0",
+        "int": "4",
+        "luk": "16",
+        "max_hp": "840",
         "max_mp": "0",
         "attack_power": "0",
-        "magic_power": "0",
+        "magic_power": "1",
         "armor": "0",
         "speed": "0",
         "jump": "0",
@@ -318,7 +318,7 @@
       "equipment_type": "耳環",
       "name": "頂級培羅德耳環",
       "starforce": "17",
-      "scroll_upgrade": "0",
+      "scroll_upgrade": "2",
       "potential_grade": "傳說",
       "potential_lines": [
         "道具掉落率 +20%",
@@ -990,7 +990,7 @@
       "equipment_type": "腰帶",
       "name": "頂級培羅德烙印腰帶",
       "starforce": "17",
-      "scroll_upgrade": "0",
+      "scroll_upgrade": "4",
       "potential_grade": "傳說",
       "potential_lines": [
         "DEX +12%",
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 18122,
+    "remaining_fame": 23842,
     "lines": [
       {
         "ability_no": "1",
