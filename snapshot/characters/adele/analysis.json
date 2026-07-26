@@ -1,0 +1,5564 @@
+{
+  "meta": {
+    "character_name": "余盼",
+    "character_id": "adele",
+    "fetched_at": "2026-07-26T02:23:52.047Z",
+    "cache_status": "MISS",
+    "partial": false,
+    "warnings": [
+      {
+        "code": "UNION_POWER_NOT_PROVIDED",
+        "field": "union_power",
+        "message": "台服官方聯盟 schema 未提供聯盟戰力欄位，因此未推算或製造數值。"
+      },
+      {
+        "code": "HEXA_STAT_ACTIVE_PRESET_NOT_PROVIDED",
+        "field": "hexamatrix_stat",
+        "message": "台服官方 HEXA 屬性 schema 提供目前與預設核心陣列，但未提供使用中預設編號。"
+      },
+      {
+        "code": "ITEM_SET_NAME_NOT_PROVIDED",
+        "field": "equipment_summary.set_name",
+        "message": "台服官方目前的單件裝備 schema 未提供套裝名稱；set_name 保留 null。"
+      }
+    ]
+  },
+  "basic": {
+    "world": "琉德",
+    "class": "阿戴爾",
+    "level": 269,
+    "guild": "微光嶼岸"
+  },
+  "combat_summary": {
+    "combat_power": "11943052",
+    "main_stat": {
+      "name": "STR",
+      "value": "28498"
+    },
+    "secondary_stat": {
+      "name": "DEX",
+      "value": "2819"
+    },
+    "sub_stat": {
+      "name": "DEX",
+      "value": "2819"
+    },
+    "attack_power": "1971",
+    "damage": "145.00",
+    "boss_damage": "374.00",
+    "ignore_defense": "96.34",
+    "critical_rate": "106",
+    "critical_damage": "91.85",
+    "final_damage": "93.01",
+    "buff_duration": "10",
+    "cooldown_reduction": {
+      "seconds": "0",
+      "percent": "5"
+    },
+    "arc": "1350",
+    "aut": "90"
+  },
+  "weapon_secondary_emblem": [
+    {
+      "name": "高貴手鐲",
+      "part": "輔助武器",
+      "equipment_type": "手鐲",
+      "starforce": "0",
+      "potential_grade": "稀有",
+      "potential_lines": [
+        "傷害 +6%",
+        "傷害 +3%",
+        "魔法攻擊力 +12"
+      ],
+      "additional_potential_grade": "特殊",
+      "additional_potential_lines": [
+        "傷害 +3%",
+        "防禦力 +50",
+        "MaxHP +50"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "soul_effect": null
+    },
+    {
+      "name": "神祕冥界幽靈調節器",
+      "part": "武器",
+      "equipment_type": "調節器",
+      "starforce": "15",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "攻擊Boss怪物時傷害 +35%",
+        "傷害 +12%",
+        "爆擊機率 +12%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "1200",
+        "max_mp": "0",
+        "attack_power": "18",
+        "magic_power": "36",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "1",
+        "equipment_level_decrease": 0
+      },
+      "soul_effect": null
+    },
+    {
+      "name": "黃金騎士徽章",
+      "part": "徽章",
+      "equipment_type": "徽章",
+      "starforce": "0",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "物理攻擊力 +9%",
+        "全屬性 +3%",
+        "攻擊時有3%機率恢復47 MP"
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "DEX +6%",
+        "攻擊時有3%機率恢復47 MP",
+        "STR +6%"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "soul_effect": null
+    }
+  ],
+  "equipment_summary": [
+    {
+      "part": "帽子",
+      "equipment_type": "帽子",
+      "name": "航海師劍士頭盔",
+      "starforce": "10",
+      "scroll_upgrade": "10",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "HP恢復道具及恢復技能效率 +30%",
+        "STR +7%",
+        "全屬性 +4%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "15",
+        "dex": "15",
+        "int": "5",
+        "luk": "5",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "2",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "1",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "臉飾",
+      "equipment_type": "臉飾",
+      "name": "波賽頓紋身",
+      "starforce": "10",
+      "scroll_upgrade": "4",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "STR +10%",
+        "STR +7%",
+        "INT +10%"
+      ],
+      "additional_potential_grade": "特殊",
+      "additional_potential_lines": [
+        "STR +11",
+        "MaxMP +60",
+        "魔法攻擊力 +3"
+      ],
+      "flame_additional_options": {
+        "str": "18",
+        "dex": "5",
+        "int": "0",
+        "luk": "5",
+        "max_hp": "960",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 5
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "眼飾",
+      "equipment_type": "眼飾",
+      "name": "波賽頓眼鏡",
+      "starforce": "17",
+      "scroll_upgrade": "3",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "LUK +10%",
+        "STR +7%",
+        "STR +7%"
+      ],
+      "additional_potential_grade": "特殊",
+      "additional_potential_lines": [
+        "魔法攻擊力 +11",
+        "MaxMP +60",
+        "跳躍力 +4"
+      ],
+      "flame_additional_options": {
+        "str": "18",
+        "dex": "18",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "耳環",
+      "equipment_type": "耳環",
+      "name": "頂級培羅德耳環",
+      "starforce": "17",
+      "scroll_upgrade": "8",
+      "potential_grade": "稀有",
+      "potential_lines": [
+        "STR +6%",
+        "STR +6%",
+        "MaxMP +3%"
+      ],
+      "additional_potential_grade": "特殊",
+      "additional_potential_lines": [
+        "跳躍力 +6",
+        "全屬性 +3",
+        "物理攻擊力 +3"
+      ],
+      "flame_additional_options": {
+        "str": "12",
+        "dex": "0",
+        "int": "12",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "2",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 10
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "上衣",
+      "equipment_type": "上衣",
+      "name": "鷹眼戰士盔甲",
+      "starforce": "10",
+      "scroll_upgrade": "3",
+      "potential_grade": "稀有",
+      "potential_lines": [
+        "STR +6%",
+        "LUK +12",
+        "STR +3%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "褲/裙",
+      "equipment_type": "褲/裙",
+      "name": "黃蜘蛛戰士褲",
+      "starforce": "10",
+      "scroll_upgrade": "6",
+      "potential_grade": "稀有",
+      "potential_lines": [
+        "STR +6%",
+        "MaxHP +120",
+        "STR +3%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "鞋子",
+      "equipment_type": "鞋子",
+      "name": "航海師劍士鞋",
+      "starforce": "10",
+      "scroll_upgrade": "5",
+      "potential_grade": "稀有",
+      "potential_lines": [
+        "STR +7%",
+        "STR +4%",
+        "MaxHP +125"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "42",
+        "dex": "15",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "480",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "2",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "手套",
+      "equipment_type": "手套",
+      "name": "航海師劍士手套",
+      "starforce": "11",
+      "scroll_upgrade": "4",
+      "potential_grade": "稀有",
+      "potential_lines": [
+        "STR +7%",
+        "STR +4%",
+        "STR +13"
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "物理攻擊力 +12",
+        "物理攻擊力 +11",
+        "MaxHP +125"
+      ],
+      "flame_additional_options": {
+        "str": "15",
+        "dex": "24",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "1",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "3",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "披風",
+      "equipment_type": "披風",
+      "name": "航海師劍士斗篷",
+      "starforce": "10",
+      "scroll_upgrade": "3",
+      "potential_grade": "稀有",
+      "potential_lines": [
+        "STR +7%",
+        "防禦力 +120",
+        "防禦力 +120"
+      ],
+      "additional_potential_grade": "特殊",
+      "additional_potential_lines": [
+        "物理攻擊力 +11",
+        "STR +11",
+        "跳躍力 +4"
+      ],
+      "flame_additional_options": {
+        "str": "25",
+        "dex": "10",
+        "int": "5",
+        "luk": "10",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "1",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "輔助武器",
+      "equipment_type": "手鐲",
+      "name": "高貴手鐲",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": "稀有",
+      "potential_lines": [
+        "傷害 +6%",
+        "傷害 +3%",
+        "魔法攻擊力 +12"
+      ],
+      "additional_potential_grade": "特殊",
+      "additional_potential_lines": [
+        "傷害 +3%",
+        "防禦力 +50",
+        "MaxHP +50"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "武器",
+      "equipment_type": "調節器",
+      "name": "神祕冥界幽靈調節器",
+      "starforce": "15",
+      "scroll_upgrade": "8",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "攻擊Boss怪物時傷害 +35%",
+        "傷害 +12%",
+        "爆擊機率 +12%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "1200",
+        "max_mp": "0",
+        "attack_power": "18",
+        "magic_power": "36",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "1",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "戒指1",
+      "equipment_type": "戒指",
+      "name": "泰涅布利斯遠征隊戒指",
+      "starforce": "0",
+      "scroll_upgrade": "3",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "全屬性 +6%",
+        "STR +6%",
+        "全屬性 +3%"
+      ],
+      "additional_potential_grade": "特殊",
+      "additional_potential_lines": [
+        "物理攻擊力 +10",
+        "移動速度 +4",
+        "LUK +6"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "戒指2",
+      "equipment_type": "戒指",
+      "name": "覺醒戒指",
+      "starforce": "0",
+      "scroll_upgrade": "3",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "道具掉落率 +20%",
+        "全屬性 +6%",
+        "STR +9%"
+      ],
+      "additional_potential_grade": "特殊",
+      "additional_potential_lines": [
+        "INT +2%",
+        "移動速度 +4",
+        "DEX +6"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "戒指3",
+      "equipment_type": "戒指",
+      "name": "GLORY小隊戒指：總司令",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "STR +12%",
+        "STR +9%",
+        "楓幣獲得量 +20%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "戒指4",
+      "equipment_type": "戒指",
+      "name": "頂級培羅德戒指",
+      "starforce": "17",
+      "scroll_upgrade": "7",
+      "potential_grade": "稀有",
+      "potential_lines": [
+        "STR +6%",
+        "MaxMP +120",
+        "STR +3%"
+      ],
+      "additional_potential_grade": "特殊",
+      "additional_potential_lines": [
+        "LUK +2%",
+        "INT +6",
+        "移動速度 +4"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "墜飾",
+      "equipment_type": "墜飾",
+      "name": "支配者墜飾",
+      "starforce": "15",
+      "scroll_upgrade": "5",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "STR +9%",
+        "STR +6%",
+        "爆擊機率 +6%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "24",
+        "int": "24",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "1",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "2",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "勳章",
+      "equipment_type": "勳章",
+      "name": "混沌貝倫殺手",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "腰帶",
+      "equipment_type": "腰帶",
+      "name": "頂級培羅德烙印腰帶",
+      "starforce": "17",
+      "scroll_upgrade": "3",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "MaxHP +240",
+        "防禦力 +6%",
+        "全屬性 +3%"
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "MaxMP +180",
+        "物理攻擊力 +10",
+        "MaxHP +100"
+      ],
+      "flame_additional_options": {
+        "str": "28",
+        "dex": "0",
+        "int": "4",
+        "luk": "0",
+        "max_hp": "900",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "2",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "肩膀裝飾",
+      "equipment_type": "肩膀裝飾",
+      "name": "航海師劍士護肩",
+      "starforce": "12",
+      "scroll_upgrade": "1",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "MaxMP +10%",
+        "STR +10%",
+        "DEX +10%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "口袋道具",
+      "equipment_type": "口袋道具",
+      "name": "查‧克羅斯",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "機器心臟",
+      "equipment_type": "機器心臟",
+      "name": "妖精之心",
+      "starforce": "8",
+      "scroll_upgrade": "10",
+      "potential_grade": "稀有",
+      "potential_lines": [
+        "STR +6%",
+        "STR +3%",
+        "INT +3%"
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "胸章",
+      "equipment_type": "胸章",
+      "name": "水晶溫杜斯胸章",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "徽章",
+      "equipment_type": "徽章",
+      "name": "黃金騎士徽章",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": "罕見",
+      "potential_lines": [
+        "物理攻擊力 +9%",
+        "全屬性 +3%",
+        "攻擊時有3%機率恢復47 MP"
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "DEX +6%",
+        "攻擊時有3%機率恢復47 MP",
+        "STR +6%"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "墜飾2",
+      "equipment_type": "墜飾",
+      "name": "頂級培羅德烙印墜飾",
+      "starforce": "17",
+      "scroll_upgrade": "3",
+      "potential_grade": "傳說",
+      "potential_lines": [
+        "STR +12%",
+        "全屬性 +6%",
+        "MaxHP +9%"
+      ],
+      "additional_potential_grade": "稀有",
+      "additional_potential_lines": [
+        "全屬性 +2%",
+        "全屬性 +3",
+        "防禦力 +2%"
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "圖騰1",
+      "equipment_type": "圖騰",
+      "name": "貝奧武夫的痕跡",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "圖騰2",
+      "equipment_type": "圖騰",
+      "name": "萬事的痕跡",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "圖騰3",
+      "equipment_type": "圖騰",
+      "name": "柏林的痕跡",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
+      "part": "寶石",
+      "equipment_type": "寶石",
+      "name": "伊妮絲的寶玉",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    }
+  ],
+  "symbols": [
+    {
+      "name": "祕法符文：消逝的旅途",
+      "level": 20,
+      "force": "220",
+      "growth_count": 0,
+      "required_growth_count": 411,
+      "stat_increase": {
+        "str": "2200",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "祕法符文：啾啾艾爾蘭",
+      "level": 20,
+      "force": "220",
+      "growth_count": 0,
+      "required_growth_count": 411,
+      "stat_increase": {
+        "str": "2200",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "祕法符文：拉契爾恩",
+      "level": 20,
+      "force": "220",
+      "growth_count": 0,
+      "required_growth_count": 411,
+      "stat_increase": {
+        "str": "2200",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "祕法符文：阿爾卡娜",
+      "level": 20,
+      "force": "220",
+      "growth_count": 0,
+      "required_growth_count": 411,
+      "stat_increase": {
+        "str": "2200",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "祕法符文：魔菈斯",
+      "level": 20,
+      "force": "220",
+      "growth_count": 0,
+      "required_growth_count": 411,
+      "stat_increase": {
+        "str": "2200",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "祕法符文：艾斯佩拉",
+      "level": 20,
+      "force": "220",
+      "growth_count": 0,
+      "required_growth_count": 411,
+      "stat_increase": {
+        "str": "2200",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "真實符文：賽爾尼溫",
+      "level": 7,
+      "force": "70",
+      "growth_count": 2126,
+      "required_growth_count": 581,
+      "stat_increase": {
+        "str": "1700",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    },
+    {
+      "name": "真實符文：阿爾克斯",
+      "level": 2,
+      "force": "20",
+      "growth_count": 65,
+      "required_growth_count": 76,
+      "stat_increase": {
+        "str": "700",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "hp": "0"
+      }
+    }
+  ],
+  "set_effects": [
+    {
+      "set_name": "頂級培羅德套裝",
+      "equipped_count": 4,
+      "effects": [
+        {
+          "set_count": 2,
+          "set_option": "全屬性 +20, 最大HP +1500, 最大MP +1500"
+        },
+        {
+          "set_count": 3,
+          "set_option": "最大HP +13%, 最大MP +13%, 攻擊力 +35, 魔法攻擊力 +35"
+        },
+        {
+          "set_count": 4,
+          "set_option": "攻擊Boss怪物時傷害 +30%, 無視怪物防禦率 +30%"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 2,
+          "set_option": "全屬性 +20, 最大HP +1500, 最大MP +1500"
+        },
+        {
+          "set_count": 3,
+          "set_option": "最大HP +13%, 最大MP +13%, 攻擊力 +35, 魔法攻擊力 +35"
+        },
+        {
+          "set_count": 4,
+          "set_option": "攻擊Boss怪物時傷害 +30%, 無視怪物防禦率 +30%"
+        }
+      ]
+    },
+    {
+      "set_name": "航海師套裝(戰士)",
+      "equipped_count": 5,
+      "effects": [
+        {
+          "set_count": 2,
+          "set_option": "最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +30, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 4,
+          "set_option": "攻擊力 +25, 魔法攻擊力 +25, 防禦力 +200, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 攻擊Boss怪物時傷害 +10%"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 2,
+          "set_option": "最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +30, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 4,
+          "set_option": "攻擊力 +25, 魔法攻擊力 +25, 防禦力 +200, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 6,
+          "set_option": "最大HP +20%, 最大MP +20%, 攻擊力 +20, 魔法攻擊力 +20"
+        },
+        {
+          "set_count": 7,
+          "set_option": "攻擊力 +20, 魔法攻擊力 +20, 無視怪物防禦率 +10%"
+        }
+      ]
+    },
+    {
+      "set_name": "死後世界的的痕跡",
+      "equipped_count": 3,
+      "effects": [
+        {
+          "set_count": 3,
+          "set_option": "攻擊力 +10, 魔法攻擊力 +10"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 3,
+          "set_option": "攻擊力 +10, 魔法攻擊力 +10"
+        }
+      ]
+    },
+    {
+      "set_name": "迷你吉祥物菇菇套組",
+      "equipped_count": 1,
+      "effects": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        },
+        {
+          "set_count": 2,
+          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
+        },
+        {
+          "set_count": 3,
+          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
+        }
+      ]
+    },
+    {
+      "set_name": "首領飾品組",
+      "equipped_count": 2,
+      "effects": [],
+      "full_set_options": [
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +10, 最大HP +5%, 最大MP +5%, 攻擊力 +5, 魔法攻擊力 +5"
+        },
+        {
+          "set_count": 5,
+          "set_option": "全屬性 +10, 最大HP +5%, 最大MP +5%, 攻擊力 +5, 魔法攻擊力 +5"
+        },
+        {
+          "set_count": 7,
+          "set_option": "全屬性 +10, 攻擊力 +10, 魔法攻擊力 +10, 防禦力 +80, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 9,
+          "set_option": "全屬性 +15, 攻擊力 +10, 魔法攻擊力 +10, 防禦力 +100, 攻擊Boss怪物時傷害 +10%"
+        }
+      ]
+    },
+    {
+      "set_name": "神祕冥界套裝(戰士)",
+      "equipped_count": 1,
+      "effects": [],
+      "full_set_options": [
+        {
+          "set_count": 2,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 3,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 防禦力 +400, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 4,
+          "set_option": "全屬性 +50, 攻擊力 +35, 魔法攻擊力 +35, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "最大HP +2000, 最大MP +2000, 攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 6,
+          "set_option": "最大HP +30%, 最大MP +30%, 攻擊力 +30, 魔法攻擊力 +30"
+        },
+        {
+          "set_count": 7,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 無視怪物防禦率 +10%"
+        }
+      ]
+    },
+    {
+      "set_name": "露塔必思套裝(劍士)",
+      "equipped_count": 2,
+      "effects": [
+        {
+          "set_count": 2,
+          "set_option": "STR  +20, DEX  +20, 最大HP +1000, 最大MP +1000"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 2,
+          "set_option": "STR  +20, DEX  +20, 最大HP +1000, 最大MP +1000"
+        },
+        {
+          "set_count": 3,
+          "set_option": "最大HP +10%, 最大MP +10%, 攻擊力 +50"
+        },
+        {
+          "set_count": 4,
+          "set_option": "攻擊Boss怪物時傷害 +30%"
+        }
+      ]
+    }
+  ],
+  "hyper_stat": {
+    "active_preset": "1",
+    "available_points": 1170,
+    "remaining_points": 27,
+    "stats": [
+      {
+        "stat_type": "STR",
+        "stat_point": 25,
+        "stat_level": 5,
+        "stat_increase": "力量增加 150"
+      },
+      {
+        "stat_type": "DEX",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "INT",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "LUK",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "HP",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "MP",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "DF/TF",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "爆擊機率",
+        "stat_point": 3,
+        "stat_level": 2,
+        "stat_increase": "爆擊機率增加 2%"
+      },
+      {
+        "stat_type": "爆擊傷害",
+        "stat_point": 200,
+        "stat_level": 11,
+        "stat_increase": "爆擊傷害11%增加"
+      },
+      {
+        "stat_type": "無視防禦率",
+        "stat_point": 345,
+        "stat_level": 13,
+        "stat_increase": "無視防禦率增加 39%"
+      },
+      {
+        "stat_type": "傷害",
+        "stat_point": 200,
+        "stat_level": 11,
+        "stat_increase": "提高傷害 33% "
+      },
+      {
+        "stat_type": "Boss傷害",
+        "stat_point": 345,
+        "stat_level": 13,
+        "stat_increase": "攻擊Boss怪物時，傷害增加 47%"
+      },
+      {
+        "stat_type": "異常狀態耐性",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "攻擊力／魔力",
+        "stat_point": 25,
+        "stat_level": 5,
+        "stat_increase": "增加攻擊力與魔力15"
+      },
+      {
+        "stat_type": "獲得經驗值",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "神祕力量",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      },
+      {
+        "stat_type": "一般傷害",
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
+      }
+    ]
+  },
+  "ability": {
+    "grade": "傳說",
+    "active_preset": 1,
+    "active_preset_grade": "傳說",
+    "remaining_fame": 6998,
+    "lines": [
+      {
+        "ability_no": "1",
+        "ability_grade": "傳說",
+        "ability_value": "使用技能時，依20%機率，沒有冷卻時間"
+      },
+      {
+        "ability_no": "2",
+        "ability_grade": "罕見",
+        "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
+      },
+      {
+        "ability_no": "3",
+        "ability_grade": "稀有",
+        "ability_value": "攻擊力增加9 "
+      }
+    ]
+  },
+  "vmatrix": [
+    {
+      "core_name": "毀滅",
+      "core_type": "技能核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "1"
+    },
+    {
+      "core_name": "無限",
+      "core_type": "技能核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "2"
+    },
+    {
+      "core_name": "復原",
+      "core_type": "技能核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "3"
+    },
+    {
+      "core_name": "乙太風暴",
+      "core_type": "技能核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "4"
+    },
+    {
+      "core_name": "切割/碎片/奇蹟強化",
+      "core_type": "強化核心",
+      "core_level": 60,
+      "slot_enhancement": 0,
+      "total_level": 60,
+      "slot_position": "1"
+    },
+    {
+      "core_name": "追蹤/踐踏/死亡標記強化",
+      "core_type": "強化核心",
+      "core_level": 60,
+      "slot_enhancement": 0,
+      "total_level": 60,
+      "slot_position": "2"
+    },
+    {
+      "core_name": "穿刺/魔劍共鳴/回歸/綻放強化",
+      "core_type": "強化核心",
+      "core_level": 60,
+      "slot_enhancement": 0,
+      "total_level": 60,
+      "slot_position": "3"
+    },
+    {
+      "core_name": "創造/劍域/魔力爆裂/狂風強化",
+      "core_type": "強化核心",
+      "core_level": 60,
+      "slot_enhancement": 0,
+      "total_level": 60,
+      "slot_position": "4"
+    },
+    {
+      "core_name": "平射/閃擊強化",
+      "core_type": "強化核心",
+      "core_level": 60,
+      "slot_enhancement": 0,
+      "total_level": 60,
+      "slot_position": "5"
+    },
+    {
+      "core_name": "刺擊/十字斬強化",
+      "core_type": "強化核心",
+      "core_level": 60,
+      "slot_enhancement": 0,
+      "total_level": 60,
+      "slot_position": "6"
+    },
+    {
+      "core_name": "格蘭蒂斯女神的祝福",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "1"
+    },
+    {
+      "core_name": "魔法迴路效能全開",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "2"
+    },
+    {
+      "core_name": "幻靈武具",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "3"
+    },
+    {
+      "core_name": "鋼鐵之軀",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "4"
+    },
+    {
+      "core_name": "艾爾達斯的新星",
+      "core_type": "共用核心",
+      "core_level": 16,
+      "slot_enhancement": 0,
+      "total_level": 16,
+      "slot_position": "5"
+    },
+    {
+      "core_name": "艾爾達斯的意志",
+      "core_type": "共用核心",
+      "core_level": 15,
+      "slot_enhancement": 0,
+      "total_level": 15,
+      "slot_position": "6"
+    },
+    {
+      "core_name": "瞬移",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "7"
+    },
+    {
+      "core_name": "艾爾達斯降臨",
+      "core_type": "共用核心",
+      "core_level": 15,
+      "slot_enhancement": 0,
+      "total_level": 15,
+      "slot_position": "8"
+    },
+    {
+      "core_name": "連接繩索",
+      "core_type": "共用核心",
+      "core_level": 18,
+      "slot_enhancement": 0,
+      "total_level": 18,
+      "slot_position": "9"
+    },
+    {
+      "core_name": "值得使用的神聖象徵",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "10"
+    },
+    {
+      "core_name": "實用的神聖之泉",
+      "core_type": "共用核心",
+      "core_level": 25,
+      "slot_enhancement": 0,
+      "total_level": 25,
+      "slot_position": "11"
+    },
+    {
+      "core_name": "實用的最終極速",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "12"
+    },
+    {
+      "core_name": "實用的進階祝福",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "13"
+    },
+    {
+      "core_name": "實用的戰鬥命令",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "14"
+    },
+    {
+      "core_name": "實用的神聖之火",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "15"
+    },
+    {
+      "core_name": "實用的會心之眼",
+      "core_type": "共用核心",
+      "core_level": 30,
+      "slot_enhancement": 0,
+      "total_level": 30,
+      "slot_position": "16"
+    },
+    {
+      "core_name": "實用的時空門",
+      "core_type": "共用核心",
+      "core_level": 19,
+      "slot_enhancement": 0,
+      "total_level": 19,
+      "slot_position": "17"
+    },
+    {
+      "core_name": "蜘蛛之鏡",
+      "core_type": "共用核心",
+      "core_level": 1,
+      "slot_enhancement": 0,
+      "total_level": 1,
+      "slot_position": "18"
+    },
+    {
+      "core_name": "烈陽印記",
+      "core_type": "共用核心",
+      "core_level": 8,
+      "slot_enhancement": 0,
+      "total_level": 8,
+      "slot_position": "19"
+    }
+  ],
+  "hexamatrix": [
+    {
+      "core_name": "無限劍製",
+      "core_type": "技能核心",
+      "core_level": 4
+    },
+    {
+      "core_name": "統一",
+      "core_type": "技能核心",
+      "core_level": 1
+    },
+    {
+      "core_name": "切割VI / 碎片VI / 奇蹟VI",
+      "core_type": "精通核心",
+      "core_level": 12
+    },
+    {
+      "core_name": "追蹤VI/踐踏VI",
+      "core_type": "精通核心",
+      "core_level": 2
+    },
+    {
+      "core_name": "穿刺VI/魔劍共鳴VI/回歸VI/綻放VI",
+      "core_type": "精通核心",
+      "core_level": 1
+    },
+    {
+      "core_name": "創造VI/劍域VI/魔力爆裂VI",
+      "core_type": "精通核心",
+      "core_level": 1
+    },
+    {
+      "core_name": "毀滅",
+      "core_type": "強化核心",
+      "core_level": 1
+    },
+    {
+      "core_name": "無限",
+      "core_type": "強化核心",
+      "core_level": 1
+    },
+    {
+      "core_name": "復原",
+      "core_type": "強化核心",
+      "core_level": 30
+    },
+    {
+      "core_name": "乙太風暴",
+      "core_type": "強化核心",
+      "core_level": 1
+    }
+  ],
+  "hexamatrix_stat": {
+    "current": [
+      {
+        "slot_id": "0",
+        "main_stat_name": "無視防禦率增加",
+        "sub_stat_name_1": "boss傷害增加",
+        "sub_stat_name_2": "爆擊傷害增加",
+        "main_stat_level": 1,
+        "sub_stat_level_1": 1,
+        "sub_stat_level_2": 1,
+        "stat_grade": 3
+      }
+    ],
+    "current_2": [],
+    "current_3": [],
+    "preset_1": [
+      {
+        "slot_id": "0",
+        "main_stat_name": "無視防禦率增加",
+        "sub_stat_name_1": "boss傷害增加",
+        "sub_stat_name_2": "爆擊傷害增加",
+        "main_stat_level": 1,
+        "sub_stat_level_1": 1,
+        "sub_stat_level_2": 1,
+        "stat_grade": 3
+      },
+      {
+        "slot_id": "1",
+        "main_stat_name": null,
+        "sub_stat_name_1": null,
+        "sub_stat_name_2": null,
+        "main_stat_level": 0,
+        "sub_stat_level_1": 0,
+        "sub_stat_level_2": 0,
+        "stat_grade": 0
+      }
+    ],
+    "preset_2": [],
+    "preset_3": []
+  },
+  "link_skills": [
+    {
+      "skill_name": "惡魔之怒",
+      "skill_level": 2,
+      "skill_effect": "攻擊BOSS怪物時傷害增加 15%"
+    },
+    {
+      "skill_name": "狂暴鬥氣",
+      "skill_level": 2,
+      "skill_effect": "傷害增加10%"
+    },
+    {
+      "skill_name": "判斷",
+      "skill_level": 2,
+      "skill_effect": "增加爆擊傷害4%"
+    },
+    {
+      "skill_name": "紫扇傳授",
+      "skill_level": 2,
+      "skill_effect": "發動攻擊技能40次時滿足條件\\n[紫扇傳授]：12秒內傷害增加15%"
+    },
+    {
+      "skill_name": "無我",
+      "skill_level": 2,
+      "skill_effect": "戰鬥狀態若持續 5秒就會發動，最多可重疊 5次，持續時間 5秒。\\n發動時傷害增加 1%，每重疊傷害追加增加 2%"
+    },
+    {
+      "skill_name": "實戰的知識",
+      "skill_level": 6,
+      "skill_effect": "以25%機率掌握發動攻擊的敵人的弱點。掌握的弱點將持續10秒，最多疊加至3層。\\n每疊加1層，傷害增加3%、無視防禦率增加3%"
+    },
+    {
+      "skill_name": "靈魂契約",
+      "skill_level": 2,
+      "skill_effect": "10秒間傷害增加 45%\\n冷卻時間60秒"
+    },
+    {
+      "skill_name": "致命本能",
+      "skill_level": 2,
+      "skill_effect": "爆擊機率增加 15% "
+    },
+    {
+      "skill_name": "氣魄",
+      "skill_level": 2,
+      "skill_effect": "每當攻擊BOSS怪物時傷害提升4%，攻擊對象若為BOSS怪物，每當攻擊成功時會額外增加2%，最大可重疊6次，重疊於2秒發動一次，持續時間5秒。"
+    },
+    {
+      "skill_name": "集中狂攻",
+      "skill_level": 2,
+      "skill_effect": "攻擊比角色等級低的怪物時傷害增加6%，攻擊狀態異常的怪物時傷害增加6%"
+    },
+    {
+      "skill_name": "事前準備",
+      "skill_level": 2,
+      "skill_effect": "解決敵人8名，或攻擊BOSS怪物5次時，完成事前準備1次，完成5次事前準備時，連續20秒傷害增加17%。\\n冷卻時間40秒"
+    },
+    {
+      "skill_name": "精靈集中",
+      "skill_level": 2,
+      "skill_effect": "Boss怪攻擊力增加7%\\n爆擊機率增加7%\\n最大增加HP 4%\\n最大增加MP 4%"
+    }
+  ],
+  "union_summary": {
+    "level": 4385,
+    "grade": "老手戰地聯盟 3",
+    "artifact_level": 23,
+    "artifact_exp": 840,
+    "artifact_point": 4650,
+    "active_raider_preset": 1,
+    "raider_stats": [
+      "增加LUK 40",
+      "增加STR 100",
+      "增加爆擊傷害 5%",
+      "技能冷卻時間降低 5%",
+      "增加無視防禦率 5%",
+      "增加攻擊BOSS傷害 5%",
+      "增加STR 20",
+      "增加INT 40",
+      "增加最大MP 3%",
+      "增加楓幣獲得量 2% ",
+      "增加DEX 40",
+      "每當敵人攻擊時70%的機率恢復純HP的4%",
+      "增加經驗值獲得量 10%",
+      "增加DEX 40",
+      "每當敵人攻擊時70%的機率恢復純MP的4%",
+      "增加狀態異常耐性 2",
+      "增加爆擊機率 4%",
+      "增加攻擊BOSS傷害 5%",
+      "增加爆擊傷害 5%",
+      "增加爆擊機率 4%"
+    ],
+    "occupied_stats": [
+      "增加攻擊力 5",
+      "增加攻擊BOSS怪物時傷害 21%。",
+      "增加魔力1",
+      "增加STR 45",
+      "增加爆擊傷害 3.50%",
+      "增加最大HP 250",
+      "增加無視防禦率 21%"
+    ],
+    "inner_stats": [
+      {
+        "stat_field_id": "0",
+        "stat_field_effect": "聯盟最大MP"
+      },
+      {
+        "stat_field_id": "1",
+        "stat_field_effect": "聯盟DEX"
+      },
+      {
+        "stat_field_id": "2",
+        "stat_field_effect": "聯盟INT"
+      },
+      {
+        "stat_field_id": "3",
+        "stat_field_effect": "聯盟攻擊力"
+      },
+      {
+        "stat_field_id": "4",
+        "stat_field_effect": "聯盟魔力"
+      },
+      {
+        "stat_field_id": "5",
+        "stat_field_effect": "聯盟STR"
+      },
+      {
+        "stat_field_id": "6",
+        "stat_field_effect": "聯盟最大HP"
+      },
+      {
+        "stat_field_id": "7",
+        "stat_field_effect": "聯盟LUK"
+      }
+    ],
+    "artifact_effects": [
+      {
+        "name": "全屬性增加120",
+        "level": 8
+      },
+      {
+        "name": "攻擊力增加24、魔力增加24",
+        "level": 8
+      },
+      {
+        "name": "傷害增加12.00%",
+        "level": 8
+      },
+      {
+        "name": "攻擊BOSS怪物時傷害增加15.00%",
+        "level": 10
+      },
+      {
+        "name": "無視怪物防禦率增加20%",
+        "level": 10
+      },
+      {
+        "name": "爆擊傷害增加4.00%",
+        "level": 10
+      }
+    ],
+    "artifact_remaining_ap": 2,
+    "champions": [],
+    "champion_badges": []
+  },
+  "familiar_summary": {
+    "link_slots": [
+      {
+        "slot_id": "1",
+        "familiar_name": null,
+        "active_flag": "false",
+        "expire_date": null
+      },
+      {
+        "slot_id": "2",
+        "familiar_name": null,
+        "active_flag": "false",
+        "expire_date": null
+      },
+      {
+        "slot_id": "3",
+        "familiar_name": null,
+        "active_flag": "false",
+        "expire_date": null
+      },
+      {
+        "slot_id": "vip",
+        "familiar_name": null,
+        "active_flag": "false",
+        "expire_date": null
+      }
+    ],
+    "familiars": [
+      {
+        "name": "[★] 煉獄獵犬",
+        "nickname": "[★] 煉獄獵犬",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "最終傷害 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "STR",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "奸笑的發芽木妖",
+        "nickname": "奸笑的發芽木妖",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "大蛇王",
+        "nickname": "大蛇王",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "全屬性",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "INT",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "紅寶",
+        "nickname": "紅寶",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "全屬性",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黃金雪吉拉和企鵝國王",
+        "nickname": "黃金雪吉拉和企鵝國王",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "紅寶",
+        "nickname": "紅寶",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "依照角色全部屬性來追加萌獸的攻擊力 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "封印效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "STR (%)",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "路燈",
+        "nickname": "路燈",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "嫩寶",
+        "nickname": "嫩寶",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "奇怪的里程碑",
+        "nickname": "奇怪的里程碑",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黃金雪吉拉和企鵝國王",
+        "nickname": "黃金雪吉拉和企鵝國王",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "爆擊機率 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "魔法攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "萊西",
+        "nickname": "萊西",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "最終傷害 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "巡邏機器人",
+        "nickname": "巡邏機器人",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "中毒的肥肥",
+        "nickname": "中毒的肥肥",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "依照角色全部屬性來追加萌獸的攻擊力 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "爆擊機率 (%)",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "雪吉拉娃娃機",
+        "nickname": "雪吉拉娃娃機",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "全屬性",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黑肥肥",
+        "nickname": "黑肥肥",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "爆擊機率 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "嫩寶",
+        "nickname": "嫩寶",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "INT",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "發芽木妖",
+        "nickname": "發芽木妖",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "最終傷害 (%)",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黑暗萊西",
+        "nickname": "黑暗萊西",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "煩躁的殭屍菇菇",
+        "nickname": "煩躁的殭屍菇菇",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "抹茶珍奶",
+        "nickname": "抹茶珍奶",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "最終傷害 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "暈眩效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "垃圾桶",
+        "nickname": "垃圾桶",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黑暗萊西",
+        "nickname": "黑暗萊西",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "橡木甲蟲",
+        "nickname": "橡木甲蟲",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "綠海馬",
+        "nickname": "海馬瀨人",
+        "grade": "BOSS怪物傷害",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "物理攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "爆擊機率 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "魔法攻擊力 (%)",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "[★] 煉獄獵犬",
+        "nickname": "[★] 煉獄獵犬",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "大副凱丁",
+        "nickname": "大副凱丁",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "封印效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "斧木妖",
+        "nickname": "斧木妖",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "攻擊時有3%機率恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "物理攻擊力 (%)",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "奇怪的里程碑",
+        "nickname": "奇怪的里程碑",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "暈眩效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "藍寶",
+        "nickname": "藍寶",
+        "grade": "BOSS怪物傷害",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "緩慢效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "攻擊時有3%機率恢復 HP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黑龍",
+        "nickname": "黑龍",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "最終傷害 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "爆擊機率 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "喇叭花花盆",
+        "nickname": "喇叭花花盆",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "幼黃獨角獅",
+        "nickname": "幼黃獨角獅",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "三眼章魚",
+        "nickname": "三眼章魚",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "STR",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "幼紅獨角獅",
+        "nickname": "幼紅獨角獅",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "INT",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "蝙蝠",
+        "nickname": "蝙蝠",
+        "grade": "BOSS怪物傷害",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "8"
+          },
+          {
+            "option_no": 2,
+            "option_name": "最終傷害 (%)",
+            "option_value": "8"
+          },
+          {
+            "option_no": 3,
+            "option_name": "中毒效果",
+            "option_value": "1000"
+          }
+        ],
+        "summoned_flag": "true",
+        "slot_id": "not link"
+      },
+      {
+        "name": "殭屍菇菇",
+        "nickname": "殭屍菇菇",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "攻擊時有3%機率恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黑木妖",
+        "nickname": "黑木妖",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "暗黑三角龍",
+        "nickname": "暗黑三角龍",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "STR",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "叛徒菇菇仔",
+        "nickname": "叛徒菇菇仔",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "全屬性",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "防禦力 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "頭盔企鵝王",
+        "nickname": "頭盔企鵝王",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "石面怪人",
+        "nickname": "石面怪人",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "STR",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "變身娃娃機",
+        "nickname": "變身娃娃機",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "沼澤爛泥怪物",
+        "nickname": "沼澤爛泥怪物",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "攻擊時有3%機率恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力 (%)",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "刺菇菇",
+        "nickname": "刺菇菇",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黃金雪吉拉和企鵝國王",
+        "nickname": "黃金雪吉拉和企鵝國王",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "巡邏機器人",
+        "nickname": "巡邏機器人",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "STR",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "菇菇寶貝",
+        "nickname": "菇菇寶貝",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "物理攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "LUK (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "中毒效果",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "金屬甲蟲",
+        "nickname": "金屬甲蟲",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "大蛇王",
+        "nickname": "大蛇王",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "紅寶",
+        "nickname": "紅寶",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "闇黑效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "緩慢效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "封印效果",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "奇怪的里程碑",
+        "nickname": "奇怪的里程碑",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "變身娃娃機",
+        "nickname": "變身娃娃機",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "防禦力 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "物理攻擊力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "木面怪人",
+        "nickname": "木面怪人",
+        "grade": "BOSS怪物傷害",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "中毒效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "物理攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "LUK",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "鋰礦穆太",
+        "nickname": "鋰礦穆太",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "魔法攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "STR",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "菇菇寶貝",
+        "nickname": "菇菇寶貝",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "最終傷害 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黃金海馬",
+        "nickname": "黃金海馬",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "斧木妖",
+        "nickname": "斧木妖",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "中毒效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "中毒效果",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "紅寶王",
+        "nickname": "紅寶王",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "綠海馬",
+        "nickname": "綠海馬",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "魔法攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "冰結效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黑肥肥",
+        "nickname": "黑肥肥",
+        "grade": "BOSS怪物傷害",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "攻擊時有3%機率恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "闇黑效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "喇叭花花盆",
+        "nickname": "喇叭花花盆",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "魔法攻擊力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "緞帶肥肥",
+        "nickname": "緞帶肥肥",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "變身娃娃機",
+        "nickname": "變身娃娃機",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "爆擊機率 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "萊西",
+        "nickname": "萊西",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "LUK",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "暗黑半人馬",
+        "nickname": "暗黑半人馬",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "全屬性",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黑龍",
+        "nickname": "黑龍",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "大副凱丁",
+        "nickname": "大副凱丁",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "物理攻擊力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "惡魔綿羊",
+        "nickname": "惡魔綿羊",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "肥肥",
+        "nickname": "肥肥",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "INT",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "蝙蝠",
+        "nickname": "蝙蝠",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "INT",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "邪惡綿羊",
+        "nickname": "邪惡綿羊",
+        "grade": "BOSS怪物傷害",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "封印效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "幼藍獨角獅",
+        "nickname": "幼藍獨角獅",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "STR",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "菇菇寶貝",
+        "nickname": "菇菇寶貝",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "毒菇",
+        "nickname": "毒菇",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "魔法攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "泡泡魚",
+        "nickname": "泡泡魚",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "魔法攻擊力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "斧木妖",
+        "nickname": "斧木妖",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "緩慢效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "物理攻擊力 (%)",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "惡魔綿羊",
+        "nickname": "惡魔綿羊",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "暈眩效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "LUK",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "垃圾桶",
+        "nickname": "垃圾桶",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "物理攻擊力 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "雪吉拉娃娃機",
+        "nickname": "雪吉拉娃娃機",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "封印效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "緩慢效果",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黃金海馬",
+        "nickname": "黃金海馬",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "鋼之肥肥",
+        "nickname": "鋼之肥肥",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黃金雪吉拉和企鵝國王",
+        "nickname": "黃金雪吉拉和企鵝國王",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "菇菇寶貝",
+        "nickname": "菇菇寶貝",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "喇叭花花盆",
+        "nickname": "喇叭花花盆",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "防禦力 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "攻擊時有3%機率恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "暗獨眼獸",
+        "nickname": "暗獨眼獸",
+        "grade": "BOSS怪物傷害",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "防禦力 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "菇菇寶貝",
+        "nickname": "菇菇寶貝",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "大蛇王",
+        "nickname": "大蛇王",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "封印效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "爆擊機率 (%)",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "哭泣的藍菇菇",
+        "nickname": "哭泣的藍菇菇",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "物理攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "月牙牛魔王",
+        "nickname": "月牙牛魔王",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "最終傷害 (%)",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "頭盔企鵝王",
+        "nickname": "頭盔企鵝王",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "鋼鐵穆太",
+        "nickname": "鋼鐵穆太",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "LUK",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "[★] 煉獄獵犬",
+        "nickname": "[★] 煉獄獵犬",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "爆擊機率 (%)",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "沼澤爛泥怪物",
+        "nickname": "沼澤爛泥怪物",
+        "grade": "BOSS怪物傷害",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "緩慢效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "魔法攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "全屬性 (%)",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "小企鵝王娃娃機",
+        "nickname": "小企鵝王娃娃機",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "最終傷害 (%)",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "菇菇寶貝",
+        "nickname": "菇菇寶貝",
+        "grade": "攻擊力/魔法攻擊力",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "封印效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "冰龍",
+        "nickname": "冰龍",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "垃圾桶",
+        "nickname": "垃圾桶",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "抹茶珍奶",
+        "nickname": "抹茶珍奶",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "INT",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "哭泣的藍菇菇",
+        "nickname": "哭泣的藍菇菇",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "暗黑半人馬",
+        "nickname": "暗黑半人馬",
+        "grade": "BOSS怪物傷害",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "STR (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "藍菇菇",
+        "nickname": "藍菇菇",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "芽芽花盆",
+        "nickname": "芽芽花盆",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "爆擊機率 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "鋰礦穆太",
+        "nickname": "鋰礦穆太",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "INT",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "喇叭花花盆",
+        "nickname": "喇叭花花盆",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "寒冰半人馬",
+        "nickname": "寒冰半人馬",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "獨角尼莫",
+        "nickname": "獨角尼莫",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "橡木甲蟲",
+        "nickname": "橡木甲蟲",
+        "grade": "BOSS怪物傷害",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "中毒效果",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "中毒效果",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "花鯰魚",
+        "nickname": "花鯰魚",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "菇菇仔",
+        "nickname": "菇菇仔",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "LUK",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黃金海馬",
+        "nickname": "黃金海馬",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "LUK",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      }
+    ]
+  },
+  "errors": []
+}
