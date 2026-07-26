@@ -3,7 +3,7 @@ name: Refresh character analysis
 on:
   workflow_dispatch:
   schedule:
-    - cron: "3,18,33,48 * * * *"
+    - cron: "7 * * * *"
 
 permissions:
   contents: write
@@ -22,12 +22,18 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v6
 
-      - name: Fetch and validate public character analysis
+      - name: Install project metadata
+        run: npm ci
+
+      - name: Run generator tests
+        run: npm run check
+
+      - name: Fetch and validate both public character analyses
         run: node scripts/build-pages.mjs
 
       - name: Commit connector-readable snapshot
         run: |
-          git add snapshot/analysis.json snapshot/health.json
+          git add snapshot/analysis.json snapshot/health.json snapshot/characters
           if git diff --cached --quiet; then
             echo "Repository snapshot is already current."
             exit 0
