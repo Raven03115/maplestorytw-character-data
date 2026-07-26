@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-07-26T21:08:44.695Z",
+    "fetched_at": "2026-07-26T23:07:56.073Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -33,22 +33,22 @@
     "combat_power": "40133995",
     "main_stat": {
       "name": "DEX",
-      "value": "41044"
+      "value": "37396"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4265"
+      "value": "4262"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4265"
+      "value": "4262"
     },
-    "attack_power": "4995",
-    "damage": "86.00",
+    "attack_power": "3465",
+    "damage": "56.00",
     "boss_damage": "375.00",
     "ignore_defense": "96.90",
     "critical_rate": "144",
-    "critical_damage": "164.00",
+    "critical_damage": "92.00",
     "final_damage": "112.41",
     "buff_duration": "30",
     "cooldown_reduction": {
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 4,
       "force": "40",
-      "growth_count": 169,
+      "growth_count": 189,
       "required_growth_count": 224,
       "stat_increase": {
         "str": "0",
