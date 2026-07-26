@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-07-26T13:49:21.899Z",
+    "fetched_at": "2026-07-26T15:14:40.570Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,10 +30,10 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "31615543",
+    "combat_power": "31792213",
     "main_stat": {
       "name": "DEX",
-      "value": "36217"
+      "value": "36417"
     },
     "secondary_stat": {
       "name": "STR",
@@ -43,7 +43,7 @@
       "name": "STR",
       "value": "3898"
     },
-    "attack_power": "3335",
+    "attack_power": "3320",
     "damage": "56.00",
     "boss_damage": "301.00",
     "ignore_defense": "95.57",
@@ -56,7 +56,7 @@
       "percent": "5"
     },
     "arc": "1380",
-    "aut": "310"
+    "aut": "320"
   },
   "weapon_secondary_emblem": [
     {
@@ -1615,13 +1615,13 @@
     },
     {
       "name": "真實符文：阿爾克斯",
-      "level": 5,
-      "force": "50",
-      "growth_count": 669,
-      "required_growth_count": 325,
+      "level": 6,
+      "force": "60",
+      "growth_count": 344,
+      "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
-        "dex": "1300",
+        "dex": "1500",
         "int": "0",
         "luk": "0",
         "hp": "0"
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 14942,
+    "remaining_fame": 18122,
     "lines": [
       {
         "ability_no": "1",
