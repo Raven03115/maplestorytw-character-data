@@ -1,0 +1,12 @@
+{
+  "name": "maplestorytw-character-data",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "typecheck": "node --check scripts/build-pages.mjs",
+    "build": "node --check scripts/build-pages.mjs",
+    "check": "npm run test && npm run typecheck && npm run build"
+  }
+}
