@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-07-27T19:48:18.046Z",
+    "fetched_at": "2026-07-27T21:20:42.223Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -2310,6 +2310,11 @@
     },
     {
       "core_name": "指令：掠食者之眼",
+      "core_type": "強化核心",
+      "core_level": 1
+    },
+    {
+      "core_name": "狂暴咬擊",
       "core_type": "強化核心",
       "core_level": 1
     },
