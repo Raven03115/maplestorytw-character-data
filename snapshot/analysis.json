@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-07-27T21:20:42.223Z",
+    "fetched_at": "2026-07-27T23:15:49.109Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,10 +30,10 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "34419490",
+    "combat_power": "33276672",
     "main_stat": {
       "name": "DEX",
-      "value": "37214"
+      "value": "37157"
     },
     "secondary_stat": {
       "name": "STR",
@@ -43,13 +43,13 @@
       "name": "STR",
       "value": "4113"
     },
-    "attack_power": "3488",
+    "attack_power": "3247",
     "damage": "56.00",
     "boss_damage": "301.00",
-    "ignore_defense": "95.57",
-    "critical_rate": "125",
-    "critical_damage": "92.00",
-    "final_damage": "112.41",
+    "ignore_defense": "95.41",
+    "critical_rate": "104",
+    "critical_damage": "75.00",
+    "final_damage": "106.22",
     "buff_duration": "30",
     "cooldown_reduction": {
       "seconds": "0",
@@ -1720,30 +1720,6 @@
       ]
     },
     {
-      "set_name": "迷你吉祥物菇菇套組",
-      "equipped_count": 1,
-      "effects": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        }
-      ],
-      "full_set_options": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        },
-        {
-          "set_count": 2,
-          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
-        },
-        {
-          "set_count": 3,
-          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
-        }
-      ]
-    },
-    {
       "set_name": "菇菇支援裝備套組(弓箭手)",
       "equipped_count": 7,
       "effects": [
@@ -2016,7 +1992,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 55012,
+    "remaining_fame": 8622,
     "lines": [
       {
         "ability_no": "1",
@@ -2255,9 +2231,9 @@
     {
       "core_name": "蜘蛛之鏡",
       "core_type": "共用核心",
-      "core_level": 20,
+      "core_level": 30,
       "slot_enhancement": 0,
-      "total_level": 20,
+      "total_level": 30,
       "slot_position": "18"
     },
     {
@@ -2393,20 +2369,20 @@
           {
             "option_no": 1,
             "option_name": "魔法攻擊力",
-            "option_value": "5"
+            "option_value": "0"
           },
           {
             "option_no": 2,
             "option_name": "最終傷害 (%)",
-            "option_value": "3"
+            "option_value": "0"
           },
           {
             "option_no": 3,
             "option_name": "攻擊時有3%機率恢復 HP",
-            "option_value": "18"
+            "option_value": "0"
           }
         ],
-        "summoned_flag": "true",
+        "summoned_flag": "false",
         "slot_id": "not link"
       },
       {
