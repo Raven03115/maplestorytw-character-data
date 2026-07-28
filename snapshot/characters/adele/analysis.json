@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-07-28T14:32:37.483Z",
+    "fetched_at": "2026-07-28T16:48:09.220Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -33,22 +33,22 @@
     "combat_power": "11943052",
     "main_stat": {
       "name": "STR",
-      "value": "28498"
+      "value": "28448"
     },
     "secondary_stat": {
       "name": "DEX",
-      "value": "2819"
+      "value": "2795"
     },
     "sub_stat": {
       "name": "DEX",
-      "value": "2819"
+      "value": "2795"
     },
-    "attack_power": "1971",
-    "damage": "145.00",
-    "boss_damage": "374.00",
-    "ignore_defense": "96.34",
+    "attack_power": "1925",
+    "damage": "118.00",
+    "boss_damage": "309.00",
+    "ignore_defense": "95.69",
     "critical_rate": "106",
-    "critical_damage": "91.85",
+    "critical_damage": "61.85",
     "final_damage": "93.01",
     "buff_duration": "10",
     "cooldown_reduction": {
@@ -1941,7 +1941,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 6998,
+    "remaining_fame": 8798,
     "lines": [
       {
         "ability_no": "1",
@@ -2349,11 +2349,11 @@
     }
   ],
   "union_summary": {
-    "level": 4385,
-    "grade": "老手戰地聯盟 3",
+    "level": 4645,
+    "grade": "老手戰地聯盟 4",
     "artifact_level": 23,
-    "artifact_exp": 840,
-    "artifact_point": 4650,
+    "artifact_exp": 1340,
+    "artifact_point": 5150,
     "active_raider_preset": 1,
     "raider_stats": [
       "增加LUK 40",
