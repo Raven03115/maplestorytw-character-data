@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-07-29T15:16:53.855Z",
+    "fetched_at": "2026-07-29T17:24:25.375Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,24 +30,24 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "33386015",
+    "combat_power": "37760860",
     "main_stat": {
       "name": "DEX",
-      "value": "37281"
+      "value": "37401"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4113"
+      "value": "4203"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4113"
+      "value": "4203"
     },
-    "attack_power": "3247",
+    "attack_power": "3250",
     "damage": "56.00",
-    "boss_damage": "301.00",
-    "ignore_defense": "95.41",
-    "critical_rate": "104",
+    "boss_damage": "355.00",
+    "ignore_defense": "96.79",
+    "critical_rate": "117",
     "critical_damage": "75.00",
     "final_damage": "106.22",
     "buff_duration": "30",
@@ -1880,21 +1880,21 @@
     }
   ],
   "hyper_stat": {
-    "active_preset": "1",
+    "active_preset": "2",
     "available_points": 1298,
-    "remaining_points": 13,
+    "remaining_points": 51,
     "stats": [
       {
         "stat_type": "STR",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 7,
+        "stat_level": 3,
+        "stat_increase": "力量增加 90"
       },
       {
         "stat_type": "DEX",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 15,
+        "stat_level": 4,
+        "stat_increase": "增加敏捷 120"
       },
       {
         "stat_type": "INT",
@@ -1928,9 +1928,9 @@
       },
       {
         "stat_type": "爆擊機率",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 115,
+        "stat_level": 9,
+        "stat_increase": "爆擊機率增加 13%"
       },
       {
         "stat_type": "爆擊傷害",
@@ -1940,9 +1940,9 @@
       },
       {
         "stat_type": "無視防禦率",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 150,
+        "stat_level": 10,
+        "stat_increase": "無視防禦率增加 30%"
       },
       {
         "stat_type": "傷害",
@@ -1952,9 +1952,9 @@
       },
       {
         "stat_type": "Boss傷害",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 550,
+        "stat_level": 15,
+        "stat_increase": "攻擊Boss怪物時，傷害增加 55%"
       },
       {
         "stat_type": "異常狀態耐性",
@@ -1964,15 +1964,15 @@
       },
       {
         "stat_type": "攻擊力／魔力",
-        "stat_point": 40,
-        "stat_level": 6,
-        "stat_increase": "增加攻擊力與魔力18"
+        "stat_point": 60,
+        "stat_level": 7,
+        "stat_increase": "增加攻擊力與魔力21"
       },
       {
         "stat_type": "獲得經驗值",
-        "stat_point": 550,
-        "stat_level": 15,
-        "stat_increase": "獲得經驗值提高10.0%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "神祕力量",
@@ -1982,9 +1982,9 @@
       },
       {
         "stat_type": "一般傷害",
-        "stat_point": 345,
-        "stat_level": 13,
-        "stat_increase": "攻擊一般怪物時傷害增加47%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       }
     ]
   },
