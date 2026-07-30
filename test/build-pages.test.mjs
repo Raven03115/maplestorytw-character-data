@@ -5,7 +5,12 @@ import { join } from "node:path";
 import test from "node:test";
 import { pathToFileURL } from "node:url";
 
-import { buildPages, CHARACTERS, containsForbiddenKey } from "../scripts/build-pages.mjs";
+import {
+  buildPages,
+  CHARACTERS,
+  containsForbiddenKey,
+  PUBLIC_SECTIONS,
+} from "../scripts/build-pages.mjs";
 
 function analysisFor(character) {
   return {
@@ -32,6 +37,47 @@ function analysisFor(character) {
   };
 }
 
+function sectionFor(slug) {
+  const base = { date: "2026-07-26" };
+  switch (slug) {
+    case "stat":
+      return { ...base, final_stat: [{ stat_name: "戰鬥力", stat_value: "123456789" }] };
+    case "hyper-stat":
+      return {
+        ...base,
+        use_preset_no: "2",
+        use_available_hyper_stat: 1400,
+        hyper_stat_preset_1: [],
+        hyper_stat_preset_2: [],
+        hyper_stat_preset_3: [],
+      };
+    case "ability":
+      return {
+        ...base,
+        preset_no: 1,
+        ability_info: [],
+        ability_preset_1: { ability_preset_grade: "傳說", ability_info: [] },
+        ability_preset_2: { ability_preset_grade: "傳說", ability_info: [] },
+        ability_preset_3: { ability_preset_grade: "傳說", ability_info: [] },
+      };
+    case "item-equipment":
+      return {
+        ...base,
+        preset_no: 3,
+        item_equipment: [],
+        item_equipment_preset_1: [],
+        item_equipment_preset_2: [],
+        item_equipment_preset_3: [],
+      };
+    case "set-effect":
+      return { ...base, set_effect: [] };
+    case "familiar":
+      return { ...base, familiar_link_slot: [], familiar_info: [] };
+    default:
+      throw new Error(`未知測試分區：${slug}`);
+  }
+}
+
 function jsonResponse(body) {
   return new Response(JSON.stringify(body), {
     status: 200,
@@ -51,7 +97,7 @@ async function withDirectories(run) {
   }
 }
 
-test("依序取得兩個固定角色，根目錄維持 challenger 相容別名", async () => {
+test("依序取得兩個固定角色與原始預設分區，根目錄維持 challenger 相容別名", async () => {
   await withDirectories(async ({ outputDirectory, snapshotDirectory }) => {
     const requested = [];
     const fetchFn = async (input) => {
@@ -59,7 +105,10 @@ test("依序取得兩個固定角色，根目錄維持 challenger 相容別名",
       requested.push(url.pathname);
       const character = CHARACTERS.find(({ id }) => url.pathname.includes(`/${id}/`));
       assert.ok(character);
-      return jsonResponse(analysisFor(character));
+      if (url.pathname.endsWith("/analysis")) return jsonResponse(analysisFor(character));
+      const slug = url.pathname.split("/section/")[1];
+      assert.ok(slug);
+      return jsonResponse(sectionFor(slug));
     };
 
     await buildPages({
@@ -69,10 +118,15 @@ test("依序取得兩個固定角色，根目錄維持 challenger 相容別名",
       now: () => new Date("2026-07-26T01:02:03.000Z"),
     });
 
-    assert.deepEqual(requested, [
-      "/characters/challenger/analysis",
-      "/characters/adele/analysis",
-    ]);
+    const expected = [];
+    for (const character of CHARACTERS) {
+      expected.push(`/characters/${character.id}/analysis`);
+      for (const { slug } of PUBLIC_SECTIONS) {
+        expected.push(`/characters/${character.id}/section/${slug}`);
+      }
+    }
+    assert.deepEqual(requested, expected);
+
     const rootAnalysis = JSON.parse(await readFile(new URL("analysis.json", outputDirectory), "utf8"));
     const challengerAnalysis = JSON.parse(
       await readFile(new URL("characters/challenger/analysis.json", outputDirectory), "utf8"),
@@ -87,6 +141,16 @@ test("依序取得兩個固定角色，根目錄維持 challenger 相容別名",
     const adeleSnapshot = JSON.parse(
       await readFile(new URL("characters/adele/analysis.json", snapshotDirectory), "utf8"),
     );
+    const rootHyper = JSON.parse(
+      await readFile(new URL("raw/hyper-stat.json", snapshotDirectory), "utf8"),
+    );
+    const challengerEquipment = JSON.parse(
+      await readFile(
+        new URL("characters/challenger/raw/item-equipment.json", snapshotDirectory),
+        "utf8",
+      ),
+    );
+
     assert.deepEqual(rootAnalysis, challengerAnalysis);
     assert.deepEqual(rootHealth, challengerHealth);
     assert.equal(rootAnalysis.meta.character_name, "豹豹奶霜");
@@ -94,9 +158,13 @@ test("依序取得兩個固定角色，根目錄維持 challenger 相容別名",
     assert.equal(rootHealth.updated_at, "2026-07-26T01:02:03.000Z");
     assert.equal(adeleAnalysis.combat_summary.main_stat.name, "STR");
     assert.equal(adeleAnalysis.combat_summary.sub_stat.name, "DEX");
+    assert.equal(rootHyper.use_preset_no, "2");
+    assert.equal(challengerEquipment.preset_no, 3);
     assert.equal(containsForbiddenKey(rootAnalysis), false);
     assert.equal(containsForbiddenKey(adeleAnalysis), false);
     assert.equal(containsForbiddenKey(adeleSnapshot), false);
+    assert.equal(containsForbiddenKey(rootHyper), false);
+    assert.equal(containsForbiddenKey(challengerEquipment), false);
   });
 });
 
@@ -115,9 +183,14 @@ test("任一角色驗證失敗時不覆寫既有輸出", async () => {
       const url = new URL(input);
       const character = CHARACTERS.find(({ id }) => url.pathname.includes(`/${id}/`));
       assert.ok(character);
-      const analysis = analysisFor(character);
-      if (character.id === "adele") analysis.basic.class = "錯誤職業";
-      return jsonResponse(analysis);
+      if (url.pathname.endsWith("/analysis")) {
+        const analysis = analysisFor(character);
+        if (character.id === "adele") analysis.basic.class = "錯誤職業";
+        return jsonResponse(analysis);
+      }
+      const slug = url.pathname.split("/section/")[1];
+      assert.ok(slug);
+      return jsonResponse(sectionFor(slug));
     };
 
     await assert.rejects(
