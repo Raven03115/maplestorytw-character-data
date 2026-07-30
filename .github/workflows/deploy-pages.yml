@@ -33,7 +33,7 @@ jobs:
 
       - name: Commit connector-readable snapshot
         run: |
-          git add snapshot/analysis.json snapshot/health.json snapshot/characters
+          git add snapshot/analysis.json snapshot/health.json snapshot/raw snapshot/characters
           if git diff --cached --quiet; then
             echo "Repository snapshot is already current."
             exit 0
