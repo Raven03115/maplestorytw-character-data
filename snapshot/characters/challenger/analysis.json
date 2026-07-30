@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-07-30T09:36:44.263Z",
+    "fetched_at": "2026-07-30T14:26:44.107Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,20 +30,20 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "37056289",
+    "combat_power": "37674241",
     "main_stat": {
       "name": "DEX",
-      "value": "38060"
+      "value": "38402"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4159"
+      "value": "4177"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4159"
+      "value": "4177"
     },
-    "attack_power": "3752",
+    "attack_power": "3780",
     "damage": "56.00",
     "boss_damage": "300.00",
     "ignore_defense": "95.45",
@@ -55,7 +55,7 @@
       "seconds": "0",
       "percent": "5"
     },
-    "arc": "1400",
+    "arc": "1430",
     "aut": "320"
   },
   "weapon_secondary_emblem": [
@@ -1547,7 +1547,7 @@
       "name": "祕法符文：拉契爾恩",
       "level": 19,
       "force": "210",
-      "growth_count": 44,
+      "growth_count": 340,
       "required_growth_count": 372,
       "stat_increase": {
         "str": "0",
@@ -1559,13 +1559,13 @@
     },
     {
       "name": "祕法符文：阿爾卡娜",
-      "level": 19,
-      "force": "210",
-      "growth_count": 289,
-      "required_growth_count": 372,
+      "level": 20,
+      "force": "220",
+      "growth_count": 0,
+      "required_growth_count": 411,
       "stat_increase": {
         "str": "0",
-        "dex": "2100",
+        "dex": "2200",
         "int": "0",
         "luk": "0",
         "hp": "0"
@@ -1573,13 +1573,13 @@
     },
     {
       "name": "祕法符文：魔菈斯",
-      "level": 18,
-      "force": "200",
-      "growth_count": 178,
-      "required_growth_count": 335,
+      "level": 19,
+      "force": "210",
+      "growth_count": 139,
+      "required_growth_count": 372,
       "stat_increase": {
         "str": "0",
-        "dex": "2000",
+        "dex": "2100",
         "int": "0",
         "luk": "0",
         "hp": "0"
@@ -1587,13 +1587,13 @@
     },
     {
       "name": "祕法符文：艾斯佩拉",
-      "level": 19,
-      "force": "210",
-      "growth_count": 135,
-      "required_growth_count": 372,
+      "level": 20,
+      "force": "220",
+      "growth_count": 0,
+      "required_growth_count": 411,
       "stat_increase": {
         "str": "0",
-        "dex": "2100",
+        "dex": "2200",
         "int": "0",
         "luk": "0",
         "hp": "0"
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 6,
       "force": "60",
-      "growth_count": 1252,
+      "growth_count": 1288,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 6,
       "force": "60",
-      "growth_count": 407,
+      "growth_count": 428,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 5,
       "force": "50",
-      "growth_count": 634,
+      "growth_count": 655,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 13806,
+    "remaining_fame": 14526,
     "lines": [
       {
         "ability_no": "1",
@@ -2321,7 +2321,7 @@
     {
       "core_name": "原始綻放",
       "core_type": "強化核心",
-      "core_level": 1
+      "core_level": 2
     },
     {
       "core_name": "狂野機關砲：超速動能",
