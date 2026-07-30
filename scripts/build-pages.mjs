@@ -19,6 +19,15 @@ export const CHARACTERS = [
   },
 ];
 
+export const PUBLIC_SECTIONS = [
+  { slug: "stat", file: "stat.json" },
+  { slug: "hyper-stat", file: "hyper-stat.json" },
+  { slug: "ability", file: "ability.json" },
+  { slug: "item-equipment", file: "item-equipment.json" },
+  { slug: "set-effect", file: "set-effect.json" },
+  { slug: "familiar", file: "familiar.json" },
+];
+
 const WORKER_BASE_URL = "https://maplestorytw-character-api.boy185608.workers.dev";
 const DEFAULT_OUTPUT_DIRECTORY = new URL("../_site/", import.meta.url);
 const DEFAULT_SNAPSHOT_DIRECTORY = new URL("../snapshot/", import.meta.url);
@@ -102,8 +111,16 @@ function validateAnalysis(analysis, character) {
   }
 }
 
-async function fetchAnalysis(character, fetchFn) {
-  const sourceUrl = `${WORKER_BASE_URL}/characters/${character.id}/analysis`;
+function validateSection(section, character, slug) {
+  if (!isObject(section)) {
+    throw new Error(`${character.id}/${slug}: 來源 JSON 不是物件。`);
+  }
+  if (containsForbiddenKey(section)) {
+    throw new Error(`${character.id}/${slug}: 來源 JSON 含有禁止公開的敏感欄位。`);
+  }
+}
+
+async function fetchJson(sourceUrl, label, fetchFn) {
   const response = await fetchFn(sourceUrl, {
     headers: { Accept: "application/json" },
     redirect: "error",
@@ -111,34 +128,60 @@ async function fetchAnalysis(character, fetchFn) {
   });
 
   if (response.status !== 200) {
-    throw new Error(`${character.id}: 來源端點 HTTP 狀態不是 200，而是 ${response.status}。`);
+    throw new Error(`${label}: 來源端點 HTTP 狀態不是 200，而是 ${response.status}。`);
   }
 
   const contentType = response.headers.get("content-type") ?? "";
   if (!/^application\/json(?:\s*;|$)/i.test(contentType)) {
-    throw new Error(
-      `${character.id}: 來源端點 Content-Type 不是 application/json：${contentType || "(missing)"}`,
-    );
+    throw new Error(`${label}: 來源端點 Content-Type 不是 application/json：${contentType || "(missing)"}`);
   }
 
   const declaredLength = Number(response.headers.get("content-length"));
   if (Number.isFinite(declaredLength) && declaredLength > MAX_RESPONSE_BYTES) {
-    throw new Error(`${character.id}: 來源 JSON 超過允許大小。`);
+    throw new Error(`${label}: 來源 JSON 超過允許大小。`);
   }
 
   const body = await response.text();
   if (Buffer.byteLength(body, "utf8") > MAX_RESPONSE_BYTES) {
-    throw new Error(`${character.id}: 來源 JSON 超過允許大小。`);
+    throw new Error(`${label}: 來源 JSON 超過允許大小。`);
   }
 
-  let analysis;
+  let value;
   try {
-    analysis = JSON.parse(body);
+    value = JSON.parse(body);
   } catch {
-    throw new Error(`${character.id}: 來源內容不是可解析的 JSON。`);
+    throw new Error(`${label}: 來源內容不是可解析的 JSON。`);
   }
-  validateAnalysis(analysis, character);
-  return { analysis, sourceBytes: Buffer.byteLength(body, "utf8") };
+  return { value, sourceBytes: Buffer.byteLength(body, "utf8") };
+}
+
+async function fetchCharacter(character, fetchFn) {
+  const analysisFetched = await fetchJson(
+    `${WORKER_BASE_URL}/characters/${character.id}/analysis`,
+    character.id,
+    fetchFn,
+  );
+  validateAnalysis(analysisFetched.value, character);
+
+  const sectionResults = await Promise.all(
+    PUBLIC_SECTIONS.map(async ({ slug, file }) => {
+      const fetched = await fetchJson(
+        `${WORKER_BASE_URL}/characters/${character.id}/section/${slug}`,
+        `${character.id}/${slug}`,
+        fetchFn,
+      );
+      validateSection(fetched.value, character, slug);
+      return { slug, file, value: fetched.value, sourceBytes: fetched.sourceBytes };
+    }),
+  );
+
+  return {
+    analysis: analysisFetched.value,
+    sections: Object.fromEntries(sectionResults.map(({ file, value }) => [file, value])),
+    sourceBytes:
+      analysisFetched.sourceBytes +
+      sectionResults.reduce((total, result) => total + result.sourceBytes, 0),
+  };
 }
 
 function healthFor(character, updatedAt) {
@@ -153,7 +196,7 @@ function healthFor(character, updatedAt) {
 }
 
 async function shouldRefreshSnapshots(results, updatedAt, snapshotDirectory) {
-  for (const { character, analysis } of results) {
+  for (const { character, analysis, sections } of results) {
     const roleDirectory = new URL(`characters/${character.id}/`, snapshotDirectory);
     const existingAnalysis = await readJsonFile(new URL("analysis.json", roleDirectory));
     const existingHealth = await readJsonFile(new URL("health.json", roleDirectory));
@@ -163,6 +206,11 @@ async function shouldRefreshSnapshots(results, updatedAt, snapshotDirectory) {
       JSON.stringify(comparableAnalysis(analysis))
     ) {
       return true;
+    }
+
+    for (const { file } of PUBLIC_SECTIONS) {
+      const existingSection = await readJsonFile(new URL(`raw/${file}`, roleDirectory));
+      if (JSON.stringify(existingSection) !== JSON.stringify(sections[file])) return true;
     }
   }
 
@@ -176,12 +224,23 @@ async function shouldRefreshSnapshots(results, updatedAt, snapshotDirectory) {
   );
 }
 
-async function writeRole(directory, character, analysis, health) {
+async function writeRaw(directory, sections) {
+  const rawDirectory = new URL("raw/", directory);
+  await mkdir(rawDirectory, { recursive: true });
+  await Promise.all(
+    PUBLIC_SECTIONS.map(({ file }) =>
+      writeFile(new URL(file, rawDirectory), `${JSON.stringify(sections[file], null, 2)}\n`, "utf8"),
+    ),
+  );
+}
+
+async function writeRole(directory, character, analysis, health, sections) {
   const roleDirectory = new URL(`characters/${character.id}/`, directory);
   await mkdir(roleDirectory, { recursive: true });
   await Promise.all([
     writeFile(new URL("analysis.json", roleDirectory), `${JSON.stringify(analysis, null, 2)}\n`, "utf8"),
     writeFile(new URL("health.json", roleDirectory), `${JSON.stringify(health, null, 2)}\n`, "utf8"),
+    writeRaw(roleDirectory, sections),
   ]);
 }
 
@@ -193,11 +252,11 @@ export async function buildPages({
 } = {}) {
   const results = [];
   for (const character of CHARACTERS) {
-    const fetched = await fetchAnalysis(character, fetchFn);
+    const fetched = await fetchCharacter(character, fetchFn);
     results.push({ character, ...fetched });
   }
 
-  // No files are touched until every fixed role has passed validation.
+  // No files are touched until every fixed role and public section has passed validation.
   const updatedAt = now().toISOString();
   const completeResults = results.map((result) => ({
     ...result,
@@ -219,9 +278,10 @@ export async function buildPages({
       `${JSON.stringify(challenger.health, null, 2)}\n`,
       "utf8",
     ),
+    writeRaw(outputDirectory, challenger.sections),
     writeFile(new URL(".nojekyll", outputDirectory), "", "utf8"),
-    ...completeResults.map(({ character, analysis, health }) =>
-      writeRole(outputDirectory, character, analysis, health),
+    ...completeResults.map(({ character, analysis, health, sections }) =>
+      writeRole(outputDirectory, character, analysis, health, sections),
     ),
   ]);
 
@@ -243,15 +303,16 @@ export async function buildPages({
         `${JSON.stringify(challenger.health, null, 2)}\n`,
         "utf8",
       ),
-      ...completeResults.map(({ character, analysis, health }) =>
-        writeRole(snapshotDirectory, character, analysis, health),
+      writeRaw(snapshotDirectory, challenger.sections),
+      ...completeResults.map(({ character, analysis, health, sections }) =>
+        writeRole(snapshotDirectory, character, analysis, health, sections),
       ),
     ]);
   }
 
   const totalSourceBytes = completeResults.reduce((total, result) => total + result.sourceBytes, 0);
   console.log(
-    `Validated ${completeResults.length} fixed roles; wrote Pages files (${totalSourceBytes} source bytes); repository snapshot ${snapshotRefreshed ? "refreshed" : "unchanged"}.`,
+    `Validated ${completeResults.length} fixed roles and ${PUBLIC_SECTIONS.length} raw sections each; wrote Pages files (${totalSourceBytes} source bytes); repository snapshot ${snapshotRefreshed ? "refreshed" : "unchanged"}.`,
   );
   return { results: completeResults, snapshotRefreshed };
 }
