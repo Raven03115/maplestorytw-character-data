@@ -1,0 +1,203 @@
+{
+  "date": null,
+  "set_effect": [
+    {
+      "set_name": "頂級培羅德套裝",
+      "total_set_count": 4,
+      "set_effect_info": [
+        {
+          "set_count": 2,
+          "set_option": "全屬性 +20, 最大HP +1500, 最大MP +1500"
+        },
+        {
+          "set_count": 3,
+          "set_option": "最大HP +13%, 最大MP +13%, 攻擊力 +35, 魔法攻擊力 +35"
+        },
+        {
+          "set_count": 4,
+          "set_option": "攻擊Boss怪物時傷害 +30%, 無視怪物防禦率 +30%"
+        }
+      ],
+      "set_option_full": [
+        {
+          "set_count": 2,
+          "set_option": "全屬性 +20, 最大HP +1500, 最大MP +1500"
+        },
+        {
+          "set_count": 3,
+          "set_option": "最大HP +13%, 最大MP +13%, 攻擊力 +35, 魔法攻擊力 +35"
+        },
+        {
+          "set_count": 4,
+          "set_option": "攻擊Boss怪物時傷害 +30%, 無視怪物防禦率 +30%"
+        }
+      ]
+    },
+    {
+      "set_name": "航海師套裝(戰士)",
+      "total_set_count": 5,
+      "set_effect_info": [
+        {
+          "set_count": 2,
+          "set_option": "最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +30, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 4,
+          "set_option": "攻擊力 +25, 魔法攻擊力 +25, 防禦力 +200, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 攻擊Boss怪物時傷害 +10%"
+        }
+      ],
+      "set_option_full": [
+        {
+          "set_count": 2,
+          "set_option": "最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +30, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 4,
+          "set_option": "攻擊力 +25, 魔法攻擊力 +25, 防禦力 +200, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 6,
+          "set_option": "最大HP +20%, 最大MP +20%, 攻擊力 +20, 魔法攻擊力 +20"
+        },
+        {
+          "set_count": 7,
+          "set_option": "攻擊力 +20, 魔法攻擊力 +20, 無視怪物防禦率 +10%"
+        }
+      ]
+    },
+    {
+      "set_name": "死後世界的的痕跡",
+      "total_set_count": 3,
+      "set_effect_info": [
+        {
+          "set_count": 3,
+          "set_option": "攻擊力 +10, 魔法攻擊力 +10"
+        }
+      ],
+      "set_option_full": [
+        {
+          "set_count": 3,
+          "set_option": "攻擊力 +10, 魔法攻擊力 +10"
+        }
+      ]
+    },
+    {
+      "set_name": "迷你吉祥物菇菇套組",
+      "total_set_count": 1,
+      "set_effect_info": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        }
+      ],
+      "set_option_full": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        },
+        {
+          "set_count": 2,
+          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
+        },
+        {
+          "set_count": 3,
+          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
+        }
+      ]
+    },
+    {
+      "set_name": "首領飾品組",
+      "total_set_count": 2,
+      "set_effect_info": [],
+      "set_option_full": [
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +10, 最大HP +5%, 最大MP +5%, 攻擊力 +5, 魔法攻擊力 +5"
+        },
+        {
+          "set_count": 5,
+          "set_option": "全屬性 +10, 最大HP +5%, 最大MP +5%, 攻擊力 +5, 魔法攻擊力 +5"
+        },
+        {
+          "set_count": 7,
+          "set_option": "全屬性 +10, 攻擊力 +10, 魔法攻擊力 +10, 防禦力 +80, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 9,
+          "set_option": "全屬性 +15, 攻擊力 +10, 魔法攻擊力 +10, 防禦力 +100, 攻擊Boss怪物時傷害 +10%"
+        }
+      ]
+    },
+    {
+      "set_name": "神祕冥界套裝(戰士)",
+      "total_set_count": 1,
+      "set_effect_info": [],
+      "set_option_full": [
+        {
+          "set_count": 2,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 3,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 防禦力 +400, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 4,
+          "set_option": "全屬性 +50, 攻擊力 +35, 魔法攻擊力 +35, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "最大HP +2000, 最大MP +2000, 攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 6,
+          "set_option": "最大HP +30%, 最大MP +30%, 攻擊力 +30, 魔法攻擊力 +30"
+        },
+        {
+          "set_count": 7,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 無視怪物防禦率 +10%"
+        }
+      ]
+    },
+    {
+      "set_name": "露塔必思套裝(劍士)",
+      "total_set_count": 2,
+      "set_effect_info": [
+        {
+          "set_count": 2,
+          "set_option": "STR  +20, DEX  +20, 最大HP +1000, 最大MP +1000"
+        }
+      ],
+      "set_option_full": [
+        {
+          "set_count": 2,
+          "set_option": "STR  +20, DEX  +20, 最大HP +1000, 最大MP +1000"
+        },
+        {
+          "set_count": 3,
+          "set_option": "最大HP +10%, 最大MP +10%, 攻擊力 +50"
+        },
+        {
+          "set_count": 4,
+          "set_option": "攻擊Boss怪物時傷害 +30%"
+        }
+      ]
+    }
+  ]
+}

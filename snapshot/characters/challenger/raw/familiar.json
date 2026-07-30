@@ -1,0 +1,217 @@
+{
+  "date": null,
+  "familiar_link_slot": [
+    {
+      "slot_id": "1",
+      "familiar_name": null,
+      "active_flag": "false",
+      "expire_date": null
+    },
+    {
+      "slot_id": "2",
+      "familiar_name": null,
+      "active_flag": "false",
+      "expire_date": null
+    },
+    {
+      "slot_id": "3",
+      "familiar_name": null,
+      "active_flag": "false",
+      "expire_date": null
+    },
+    {
+      "slot_id": "vip",
+      "familiar_name": null,
+      "active_flag": "false",
+      "expire_date": null
+    }
+  ],
+  "familiar_info": [
+    {
+      "familiar_name": "菇菇寶貝",
+      "familiar_nickname": "菇菇寶貝",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "魔法攻擊力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "最終傷害 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "攻擊時有3%機率恢復 HP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "泡泡魚",
+      "familiar_nickname": "泡泡魚",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "4秒內恢復 HP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "INT",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "大副凱丁",
+      "familiar_nickname": "大副凱丁",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "封印效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "STR",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "肥肥",
+      "familiar_nickname": "肥肥",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "魔法攻擊力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "物理攻擊力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "STR",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "垃圾桶",
+      "familiar_nickname": "垃圾桶",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "防禦力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "物理攻擊力 (%)",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "BOSS怪物傷害",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "邪惡綿羊",
+      "familiar_nickname": "邪惡綿羊",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "魔法攻擊力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "最終傷害 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    }
+  ]
+}

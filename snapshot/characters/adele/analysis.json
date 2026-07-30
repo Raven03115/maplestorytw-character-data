@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-07-30T14:26:52.372Z",
+    "fetched_at": "2026-07-30T16:30:57.831Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -46,10 +46,10 @@
     "attack_power": "1871",
     "damage": "120.00",
     "boss_damage": "243.00",
-    "ignore_defense": "92.43",
+    "ignore_defense": "93.64",
     "critical_rate": "101",
     "critical_damage": "56.85",
-    "final_damage": "82.08",
+    "final_damage": "93.01",
     "buff_duration": "10",
     "cooldown_reduction": {
       "seconds": "0",
@@ -1941,7 +1941,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 8958,
+    "remaining_fame": 9369,
     "lines": [
       {
         "ability_no": "1",
@@ -2352,8 +2352,8 @@
     "level": 4905,
     "grade": "老手戰地聯盟 4",
     "artifact_level": 23,
-    "artifact_exp": 2090,
-    "artifact_point": 5900,
+    "artifact_exp": 2290,
+    "artifact_point": 6100,
     "active_raider_preset": 1,
     "raider_stats": [
       "增加LUK 40",

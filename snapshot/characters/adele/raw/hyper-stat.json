@@ -1,0 +1,321 @@
+{
+  "date": null,
+  "character_class": "阿戴爾",
+  "use_preset_no": "2",
+  "use_available_hyper_stat": 1170,
+  "hyper_stat_preset_1": [
+    {
+      "stat_type": "STR",
+      "stat_point": 25,
+      "stat_level": 5,
+      "stat_increase": "力量增加 150"
+    },
+    {
+      "stat_type": "DEX",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "INT",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "LUK",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "HP",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "MP",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "DF/TF",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "爆擊機率",
+      "stat_point": 3,
+      "stat_level": 2,
+      "stat_increase": "爆擊機率增加 2%"
+    },
+    {
+      "stat_type": "爆擊傷害",
+      "stat_point": 200,
+      "stat_level": 11,
+      "stat_increase": "爆擊傷害11%增加"
+    },
+    {
+      "stat_type": "無視防禦率",
+      "stat_point": 345,
+      "stat_level": 13,
+      "stat_increase": "無視防禦率增加 39%"
+    },
+    {
+      "stat_type": "傷害",
+      "stat_point": 200,
+      "stat_level": 11,
+      "stat_increase": "提高傷害 33% "
+    },
+    {
+      "stat_type": "Boss傷害",
+      "stat_point": 345,
+      "stat_level": 13,
+      "stat_increase": "攻擊Boss怪物時，傷害增加 47%"
+    },
+    {
+      "stat_type": "異常狀態耐性",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "攻擊力／魔力",
+      "stat_point": 25,
+      "stat_level": 5,
+      "stat_increase": "增加攻擊力與魔力15"
+    },
+    {
+      "stat_type": "獲得經驗值",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "神祕力量",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "一般傷害",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    }
+  ],
+  "hyper_stat_preset_1_remain_point": 27,
+  "hyper_stat_preset_2": [
+    {
+      "stat_type": "STR",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "DEX",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "INT",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "LUK",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "HP",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "MP",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "DF/TF",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "爆擊機率",
+      "stat_point": 3,
+      "stat_level": 2,
+      "stat_increase": "爆擊機率增加 2%"
+    },
+    {
+      "stat_type": "爆擊傷害",
+      "stat_point": 150,
+      "stat_level": 10,
+      "stat_increase": "爆擊傷害10%增加"
+    },
+    {
+      "stat_type": "無視防禦率",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "傷害",
+      "stat_point": 200,
+      "stat_level": 11,
+      "stat_increase": "提高傷害 33% "
+    },
+    {
+      "stat_type": "Boss傷害",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "異常狀態耐性",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "攻擊力／魔力",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "獲得經驗值",
+      "stat_point": 550,
+      "stat_level": 15,
+      "stat_increase": "獲得經驗值提高10.0%"
+    },
+    {
+      "stat_type": "神祕力量",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "一般傷害",
+      "stat_point": 265,
+      "stat_level": 12,
+      "stat_increase": "攻擊一般怪物時傷害增加43%"
+    }
+  ],
+  "hyper_stat_preset_2_remain_point": 2,
+  "hyper_stat_preset_3": [
+    {
+      "stat_type": "STR",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "DEX",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "INT",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "LUK",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "HP",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "MP",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "DF/TF",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "爆擊機率",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "爆擊傷害",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "無視防禦率",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "傷害",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "Boss傷害",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "異常狀態耐性",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "攻擊力／魔力",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "獲得經驗值",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "神祕力量",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    },
+    {
+      "stat_type": "一般傷害",
+      "stat_point": null,
+      "stat_level": 0,
+      "stat_increase": null
+    }
+  ],
+  "hyper_stat_preset_3_remain_point": 1170
+}
