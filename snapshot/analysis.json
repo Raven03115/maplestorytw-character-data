@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-07-31T21:16:59.831Z",
+    "fetched_at": "2026-07-31T23:12:40.729Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,10 +30,10 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "44120171",
+    "combat_power": "45502774",
     "main_stat": {
       "name": "DEX",
-      "value": "38860"
+      "value": "38969"
     },
     "secondary_stat": {
       "name": "STR",
@@ -43,13 +43,13 @@
       "name": "STR",
       "value": "4301"
     },
-    "attack_power": "3430",
+    "attack_power": "3667",
     "damage": "56.00",
-    "boss_damage": "379.00",
-    "ignore_defense": "96.71",
-    "critical_rate": "123",
-    "critical_damage": "76.00",
-    "final_damage": "106.22",
+    "boss_damage": "385.00",
+    "ignore_defense": "96.82",
+    "critical_rate": "144",
+    "critical_damage": "93.00",
+    "final_damage": "112.41",
     "buff_duration": "30",
     "cooldown_reduction": {
       "seconds": "0",
@@ -273,9 +273,9 @@
       "scroll_upgrade": "0",
       "potential_grade": "傳說",
       "potential_lines": [
-        "MaxHP +300",
+        "全屬性 +12",
         "DEX +16",
-        "防禦力 +240"
+        "MaxHP +240"
       ],
       "additional_potential_grade": null,
       "additional_potential_lines": [
@@ -284,14 +284,14 @@
         null
       ],
       "flame_additional_options": {
-        "str": "12",
+        "str": "0",
         "dex": "0",
-        "int": "4",
-        "luk": "16",
-        "max_hp": "840",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
         "max_mp": "0",
         "attack_power": "0",
-        "magic_power": "1",
+        "magic_power": "0",
         "armor": "0",
         "speed": "0",
         "jump": "0",
@@ -1575,7 +1575,7 @@
       "name": "祕法符文：魔菈斯",
       "level": 19,
       "force": "210",
-      "growth_count": 195,
+      "growth_count": 251,
       "required_growth_count": 372,
       "stat_increase": {
         "str": "0",
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 6,
       "force": "60",
-      "growth_count": 1324,
+      "growth_count": 1362,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 6,
       "force": "60",
-      "growth_count": 449,
+      "growth_count": 472,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 5,
       "force": "50",
-      "growth_count": 676,
+      "growth_count": 699,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 22634,
+    "remaining_fame": 44404,
     "lines": [
       {
         "ability_no": "1",
