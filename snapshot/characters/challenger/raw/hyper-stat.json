@@ -1,7 +1,7 @@
 {
   "date": null,
   "character_class": "狂豹獵人",
-  "use_preset_no": "1",
+  "use_preset_no": "2",
   "use_available_hyper_stat": 1298,
   "hyper_stat_preset_1": [
     {
@@ -159,9 +159,9 @@
     },
     {
       "stat_type": "爆擊傷害",
-      "stat_point": 150,
-      "stat_level": 10,
-      "stat_increase": "爆擊傷害10%增加"
+      "stat_point": 200,
+      "stat_level": 11,
+      "stat_increase": "爆擊傷害11%增加"
     },
     {
       "stat_type": "無視防禦率",
@@ -212,7 +212,7 @@
       "stat_increase": null
     }
   ],
-  "hyper_stat_preset_2_remain_point": 51,
+  "hyper_stat_preset_2_remain_point": 1,
   "hyper_stat_preset_3": [
     {
       "stat_type": "STR",
