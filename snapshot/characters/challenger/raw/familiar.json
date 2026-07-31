@@ -40,22 +40,22 @@
         {
           "option_no": 1,
           "option_name": "魔法攻擊力",
-          "option_value": "0"
+          "option_value": "5"
         },
         {
           "option_no": 2,
           "option_name": "最終傷害 (%)",
-          "option_value": "0"
+          "option_value": "3"
         },
         {
           "option_no": 3,
           "option_name": "攻擊時有3%機率恢復 HP",
-          "option_value": "0"
+          "option_value": "18"
         }
       ],
       "familiar_grade": "攻擊力/魔法攻擊力",
       "look_name": null,
-      "summoned_flag": "false",
+      "summoned_flag": "true",
       "slot_id": "not link"
     },
     {
