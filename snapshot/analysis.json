@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-01T17:10:48.903Z",
+    "fetched_at": "2026-08-01T19:23:11.445Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 46834,
+    "remaining_fame": 6834,
     "lines": [
       {
         "ability_no": "1",
@@ -2024,14 +2024,14 @@
         "ability_value": "攻擊Boss怪物時，傷害增加 19%"
       },
       {
-        "ability_no": "2",
-        "ability_grade": "罕見",
-        "ability_value": "道具掉落率增加 13%"
-      },
-      {
         "ability_no": "3",
         "ability_grade": "罕見",
         "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
+      },
+      {
+        "ability_no": "2",
+        "ability_grade": "稀有",
+        "ability_value": "按照投入幸運的 5%增加敏捷"
       }
     ]
   },

@@ -8,17 +8,17 @@
       "ability_value": "攻擊Boss怪物時，傷害增加 19%"
     },
     {
-      "ability_no": "2",
-      "ability_grade": "罕見",
-      "ability_value": "道具掉落率增加 13%"
-    },
-    {
       "ability_no": "3",
       "ability_grade": "罕見",
       "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
+    },
+    {
+      "ability_no": "2",
+      "ability_grade": "稀有",
+      "ability_value": "按照投入幸運的 5%增加敏捷"
     }
   ],
-  "remain_fame": 46834,
+  "remain_fame": 6834,
   "preset_no": 1,
   "ability_preset_1": {
     "ability_preset_grade": "傳說",
@@ -29,14 +29,14 @@
         "ability_value": "攻擊Boss怪物時，傷害增加 19%"
       },
       {
-        "ability_no": "2",
-        "ability_grade": "罕見",
-        "ability_value": "道具掉落率增加 13%"
-      },
-      {
         "ability_no": "3",
         "ability_grade": "罕見",
         "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
+      },
+      {
+        "ability_no": "2",
+        "ability_grade": "稀有",
+        "ability_value": "按照投入幸運的 5%增加敏捷"
       }
     ]
   },
