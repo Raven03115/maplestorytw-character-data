@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-01T21:05:37.233Z",
+    "fetched_at": "2026-08-01T22:08:08.389Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,22 +30,22 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "38891661",
+    "combat_power": "39601182",
     "main_stat": {
       "name": "DEX",
       "value": "38663"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4168"
+      "value": "4471"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4168"
+      "value": "4471"
     },
-    "attack_power": "3698",
-    "damage": "56.00",
-    "boss_damage": "311.00",
+    "attack_power": "3403",
+    "damage": "46.00",
+    "boss_damage": "371.00",
     "ignore_defense": "95.45",
     "critical_rate": "125",
     "critical_damage": "92.00",
@@ -102,9 +102,9 @@
       "starforce": "17",
       "potential_grade": "傳說",
       "potential_lines": [
-        "物理攻擊力 +13%",
-        "魔法攻擊力 +10%",
-        "傷害 +10%"
+        "STR +13%",
+        "攻擊Boss怪物時傷害 +30%",
+        "攻擊Boss怪物時傷害 +30%"
       ],
       "additional_potential_grade": "稀有",
       "additional_potential_lines": [
@@ -657,9 +657,9 @@
       "scroll_upgrade": "9",
       "potential_grade": "傳說",
       "potential_lines": [
-        "物理攻擊力 +13%",
-        "魔法攻擊力 +10%",
-        "傷害 +10%"
+        "STR +13%",
+        "攻擊Boss怪物時傷害 +30%",
+        "攻擊Boss怪物時傷害 +30%"
       ],
       "additional_potential_grade": "稀有",
       "additional_potential_lines": [
