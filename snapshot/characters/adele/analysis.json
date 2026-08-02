@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-02T06:42:23.069Z",
+    "fetched_at": "2026-08-02T09:17:57.600Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,20 +30,20 @@
     "guild": "微光嶼岸"
   },
   "combat_summary": {
-    "combat_power": "9320944",
+    "combat_power": "9676854",
     "main_stat": {
       "name": "STR",
-      "value": "28184"
+      "value": "27960"
     },
     "secondary_stat": {
       "name": "DEX",
-      "value": "2854"
+      "value": "2749"
     },
     "sub_stat": {
       "name": "DEX",
-      "value": "2854"
+      "value": "2749"
     },
-    "attack_power": "1793",
+    "attack_power": "1944",
     "damage": "119.00",
     "boss_damage": "222.00",
     "ignore_defense": "90.30",
@@ -56,7 +56,7 @@
       "percent": "5"
     },
     "arc": "1350",
-    "aut": "90"
+    "aut": "100"
   },
   "weapon_secondary_emblem": [
     {
@@ -72,9 +72,9 @@
       ],
       "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        "傷害 +3%",
-        "防禦力 +50",
-        "MaxHP +50"
+        "LUK +12",
+        "INT +6",
+        "魔法攻擊力 +6"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -144,9 +144,9 @@
       ],
       "additional_potential_grade": "稀有",
       "additional_potential_lines": [
-        "DEX +6%",
-        "攻擊時有3%機率恢復47 MP",
-        "STR +6%"
+        "物理攻擊力 +6%",
+        "跳躍力 +5",
+        "MaxMP +2%"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -615,9 +615,9 @@
       ],
       "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        "傷害 +3%",
-        "防禦力 +50",
-        "MaxHP +50"
+        "LUK +12",
+        "INT +6",
+        "魔法攻擊力 +6"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -1239,9 +1239,9 @@
       ],
       "additional_potential_grade": "稀有",
       "additional_potential_lines": [
-        "DEX +6%",
-        "攻擊時有3%機率恢復47 MP",
-        "STR +6%"
+        "物理攻擊力 +6%",
+        "跳躍力 +5",
+        "MaxMP +2%"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 7,
       "force": "70",
-      "growth_count": 2199,
+      "growth_count": 2239,
       "required_growth_count": 581,
       "stat_increase": {
         "str": "1700",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 2,
       "force": "20",
-      "growth_count": 108,
+      "growth_count": 133,
       "required_growth_count": 76,
       "stat_increase": {
         "str": "700",
@@ -1917,7 +1917,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 9769,
+    "remaining_fame": 9919,
     "lines": [
       {
         "ability_no": "1",
