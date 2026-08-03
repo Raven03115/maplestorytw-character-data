@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-03T18:01:17.394Z",
+    "fetched_at": "2026-08-03T19:51:34.742Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,20 +30,20 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "49687445",
+    "combat_power": "50358043",
     "main_stat": {
       "name": "DEX",
-      "value": "39475"
+      "value": "39898"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4496"
+      "value": "4354"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4496"
+      "value": "4354"
     },
-    "attack_power": "3408",
+    "attack_power": "3420",
     "damage": "46.00",
     "boss_damage": "465.00",
     "ignore_defense": "97.61",
@@ -702,7 +702,7 @@
       "equipment_type": "戒指",
       "name": "巨大的恐怖",
       "starforce": "17",
-      "scroll_upgrade": "1",
+      "scroll_upgrade": "3",
       "potential_grade": "傳說",
       "potential_lines": [
         "DEX +13%",
@@ -801,8 +801,8 @@
       "scroll_upgrade": "0",
       "potential_grade": "傳說",
       "potential_lines": [
-        "INT +12%",
-        "全屬性 +6%",
+        "DEX +12%",
+        "楓幣獲得量 +20%",
         "STR +9%"
       ],
       "additional_potential_grade": null,
@@ -897,9 +897,9 @@
       "scroll_upgrade": "0",
       "potential_grade": "傳說",
       "potential_lines": [
-        "MaxHP +12%",
-        "STR +9%",
-        "DEX +9%"
+        "DEX +12%",
+        "INT +12%",
+        "STR +9%"
       ],
       "additional_potential_grade": null,
       "additional_potential_lines": [

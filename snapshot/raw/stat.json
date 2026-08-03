@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "19926390"
+      "stat_value": "20187413"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "23170219"
+      "stat_value": "23473734"
     },
     {
       "stat_name": "傷害",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "47498"
+      "stat_value": "47382"
     },
     {
       "stat_name": "移動速度",
@@ -68,23 +68,23 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "4496"
+      "stat_value": "4354"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "39475"
+      "stat_value": "39898"
     },
     {
       "stat_name": "INT",
-      "stat_value": "2420"
+      "stat_value": "2338"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "2237"
+      "stat_value": "2155"
     },
     {
       "stat_name": "HP",
-      "stat_value": "97080"
+      "stat_value": "92529"
     },
     {
       "stat_name": "MP",
@@ -120,7 +120,7 @@
     },
     {
       "stat_name": "楓幣獲得量",
-      "stat_value": "0"
+      "stat_value": "20"
     },
     {
       "stat_name": "Buff持續時間",
@@ -164,7 +164,7 @@
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "3408"
+      "stat_value": "3420"
     },
     {
       "stat_name": "魔法攻擊力",
@@ -172,7 +172,7 @@
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "49687445"
+      "stat_value": "50358043"
     },
     {
       "stat_name": "召喚獸持續時間增加",
