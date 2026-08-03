@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "19633769"
+      "stat_value": "20158514"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "22829962"
+      "stat_value": "23440130"
     },
     {
       "stat_name": "傷害",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "46963"
+      "stat_value": "47200"
     },
     {
       "stat_name": "移動速度",
@@ -68,27 +68,27 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "4490"
+      "stat_value": "4492"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "38705"
+      "stat_value": "38710"
     },
     {
       "stat_name": "INT",
-      "stat_value": "2242"
+      "stat_value": "2244"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "2101"
+      "stat_value": "2102"
     },
     {
       "stat_name": "HP",
-      "stat_value": "102746"
+      "stat_value": "103976"
     },
     {
       "stat_name": "MP",
-      "stat_value": "46684"
+      "stat_value": "47549"
     },
     {
       "stat_name": "AP配點STR",
@@ -160,15 +160,15 @@
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "164.50"
+      "stat_value": "224.50"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "3423"
+      "stat_value": "3514"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1203"
+      "stat_value": "1247"
     },
     {
       "stat_name": "戰鬥力",
