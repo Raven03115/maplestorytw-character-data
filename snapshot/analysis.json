@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-04T06:37:10.650Z",
+    "fetched_at": "2026-08-04T15:32:13.586Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -26,29 +26,29 @@
   "basic": {
     "world": "挑戰者",
     "class": "狂豹獵人",
-    "level": 277,
+    "level": 278,
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "50358043",
+    "combat_power": "50543133",
     "main_stat": {
       "name": "DEX",
-      "value": "39898"
+      "value": "40275"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4354"
+      "value": "4498"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4354"
+      "value": "4498"
     },
-    "attack_power": "3420",
-    "damage": "46.00",
-    "boss_damage": "465.00",
-    "ignore_defense": "97.61",
+    "attack_power": "3976",
+    "damage": "76.00",
+    "boss_damage": "555.00",
+    "ignore_defense": "98.43",
     "critical_rate": "144",
-    "critical_damage": "98.00",
+    "critical_damage": "129.00",
     "final_damage": "112.41",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -1422,7 +1422,7 @@
       "equipment_type": "圖騰",
       "name": "時空挑戰者的圖騰",
       "starforce": "0",
-      "scroll_upgrade": "2",
+      "scroll_upgrade": "3",
       "potential_grade": null,
       "potential_lines": [
         null,
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 6,
       "force": "60",
-      "growth_count": 1476,
+      "growth_count": 1576,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1905,8 +1905,8 @@
   ],
   "hyper_stat": {
     "active_preset": "2",
-    "available_points": 1298,
-    "remaining_points": 1,
+    "available_points": 1314,
+    "remaining_points": 17,
     "stats": [
       {
         "stat_type": "STR",
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 13384,
+    "remaining_fame": 16384,
     "lines": [
       {
         "ability_no": "1",

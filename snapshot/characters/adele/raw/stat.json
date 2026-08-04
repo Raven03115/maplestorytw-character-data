@@ -4,15 +4,15 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "9853229"
+      "stat_value": "11538404"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "10948030"
+      "stat_value": "12679563"
     },
     {
       "stat_name": "傷害",
-      "stat_value": "116.00"
+      "stat_value": "117.00"
     },
     {
       "stat_name": "BOSS怪物傷害",
@@ -20,19 +20,19 @@
     },
     {
       "stat_name": "最終傷害",
-      "stat_value": "80.69"
+      "stat_value": "93.01"
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "90.30"
+      "stat_value": "91.95"
     },
     {
       "stat_name": "爆擊機率",
-      "stat_value": "90"
+      "stat_value": "101"
     },
     {
       "stat_name": "爆擊傷害",
-      "stat_value": "48.35"
+      "stat_value": "56.35"
     },
     {
       "stat_name": "狀態異常耐性",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "53242"
+      "stat_value": "53317"
     },
     {
       "stat_name": "移動速度",
@@ -68,7 +68,7 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "27960"
+      "stat_value": "28006"
     },
     {
       "stat_name": "DEX",
@@ -84,11 +84,11 @@
     },
     {
       "stat_name": "HP",
-      "stat_value": "81990"
+      "stat_value": "102361"
     },
     {
       "stat_name": "MP",
-      "stat_value": "32664"
+      "stat_value": "41674"
     },
     {
       "stat_name": "AP配點STR",
@@ -116,7 +116,7 @@
     },
     {
       "stat_name": "道具掉落率",
-      "stat_value": "20"
+      "stat_value": "44"
     },
     {
       "stat_name": "楓幣獲得量",
@@ -156,23 +156,23 @@
     },
     {
       "stat_name": "武器熟練度",
-      "stat_value": "90"
+      "stat_value": "91"
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "50.25"
+      "stat_value": "85.25"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "1883"
+      "stat_value": "2029"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "669"
+      "stat_value": "758"
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "9676854"
+      "stat_value": "10197422"
     },
     {
       "stat_name": "召喚獸持續時間增加",
