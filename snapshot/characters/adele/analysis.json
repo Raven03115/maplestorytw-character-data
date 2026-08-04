@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-04T19:50:43.011Z",
+    "fetched_at": "2026-08-04T21:22:53.149Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,30 +30,30 @@
     "guild": "微光嶼岸"
   },
   "combat_summary": {
-    "combat_power": "8344204",
+    "combat_power": "10197422",
     "main_stat": {
       "name": "STR",
-      "value": "27758"
+      "value": "28006"
     },
     "secondary_stat": {
       "name": "DEX",
-      "value": "2611"
+      "value": "2749"
     },
     "sub_stat": {
       "name": "DEX",
-      "value": "2611"
+      "value": "2749"
     },
-    "attack_power": "1951",
-    "damage": "116.00",
-    "boss_damage": "207.00",
-    "ignore_defense": "89.79",
-    "critical_rate": "82",
-    "critical_damage": "35.35",
-    "final_damage": "67.31",
+    "attack_power": "1966",
+    "damage": "117.00",
+    "boss_damage": "222.00",
+    "ignore_defense": "91.95",
+    "critical_rate": "101",
+    "critical_damage": "56.35",
+    "final_damage": "93.01",
     "buff_duration": "10",
     "cooldown_reduction": {
       "seconds": "0",
-      "percent": "0"
+      "percent": "5"
     },
     "arc": "1350",
     "aut": "100"
