@@ -1,0 +1,17 @@
+{
+  "character_id": "challenger",
+  "character_name": "豹豹奶霜",
+  "world": "挑戰者",
+  "class": "狂豹獵人",
+  "preset_roles": {
+    "boss_equipment_preset": 1,
+    "boss_hyper_stat_preset": 2,
+    "boss_ability_preset": 1
+  },
+  "reading_rules": {
+    "boss_equipment_source": "raw/item-equipment.json:item_equipment_preset_1",
+    "do_not_treat_top_level_item_equipment_as_boss_equipment": true,
+    "reason": "NEXON item-equipment top-level/current payload has been observed to lag behind or disagree with the character's actual in-game boss preset."
+  },
+  "confirmed_by_user_at": "2026-08-05T06:14:00+08:00"
+}
