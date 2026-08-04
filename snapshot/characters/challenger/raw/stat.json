@@ -4,19 +4,19 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "28576892"
+      "stat_value": "20791340"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "33228942"
+      "stat_value": "24175975"
     },
     {
       "stat_name": "傷害",
-      "stat_value": "76.00"
+      "stat_value": "46.00"
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "555.00"
+      "stat_value": "465.00"
     },
     {
       "stat_name": "最終傷害",
@@ -24,7 +24,7 @@
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "98.43"
+      "stat_value": "97.61"
     },
     {
       "stat_name": "爆擊機率",
@@ -32,7 +32,7 @@
     },
     {
       "stat_name": "爆擊傷害",
-      "stat_value": "129.00"
+      "stat_value": "98.00"
     },
     {
       "stat_name": "狀態異常耐性",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "47370"
+      "stat_value": "47437"
     },
     {
       "stat_name": "移動速度",
@@ -68,27 +68,27 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "4498"
+      "stat_value": "4363"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "40275"
+      "stat_value": "39946"
     },
     {
       "stat_name": "INT",
-      "stat_value": "2473"
+      "stat_value": "2346"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "2281"
+      "stat_value": "2163"
     },
     {
       "stat_name": "HP",
-      "stat_value": "105215"
+      "stat_value": "92588"
     },
     {
       "stat_name": "MP",
-      "stat_value": "52477"
+      "stat_value": "43006"
     },
     {
       "stat_name": "AP配點STR",
@@ -160,15 +160,15 @@
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "124.50"
+      "stat_value": "174.50"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "3976"
+      "stat_value": "3518"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1576"
+      "stat_value": "1240"
     },
     {
       "stat_name": "戰鬥力",

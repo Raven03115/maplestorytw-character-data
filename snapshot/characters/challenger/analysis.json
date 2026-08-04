@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-04T15:32:13.586Z",
+    "fetched_at": "2026-08-04T18:00:19.984Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -33,22 +33,22 @@
     "combat_power": "50543133",
     "main_stat": {
       "name": "DEX",
-      "value": "40275"
+      "value": "39946"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4498"
+      "value": "4363"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4498"
+      "value": "4363"
     },
-    "attack_power": "3976",
-    "damage": "76.00",
-    "boss_damage": "555.00",
-    "ignore_defense": "98.43",
+    "attack_power": "3518",
+    "damage": "46.00",
+    "boss_damage": "465.00",
+    "ignore_defense": "97.61",
     "critical_rate": "144",
-    "critical_damage": "129.00",
+    "critical_damage": "98.00",
     "final_damage": "112.41",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 16384,
+    "remaining_fame": 22574,
     "lines": [
       {
         "ability_no": "1",
