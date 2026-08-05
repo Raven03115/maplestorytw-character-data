@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-05T15:24:35.414Z",
+    "fetched_at": "2026-08-05T17:50:47.965Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,26 +30,26 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "42638750",
+    "combat_power": "44105061",
     "main_stat": {
       "name": "DEX",
-      "value": "39716"
+      "value": "39823"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4235"
+      "value": "4253"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4235"
+      "value": "4253"
     },
-    "attack_power": "3206",
+    "attack_power": "3542",
     "damage": "46.00",
     "boss_damage": "391.00",
-    "ignore_defense": "96.47",
-    "critical_rate": "104",
-    "critical_damage": "80.00",
-    "final_damage": "106.22",
+    "ignore_defense": "96.59",
+    "critical_rate": "124",
+    "critical_damage": "96.00",
+    "final_damage": "112.41",
     "buff_duration": "60",
     "cooldown_reduction": {
       "seconds": "0",
@@ -1720,6 +1720,30 @@
       ]
     },
     {
+      "set_name": "迷你吉祥物菇菇套組",
+      "equipped_count": 1,
+      "effects": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        },
+        {
+          "set_count": 2,
+          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
+        },
+        {
+          "set_count": 3,
+          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
+        }
+      ]
+    },
+    {
       "set_name": "菇菇支援裝備套組(弓箭手)",
       "equipped_count": 7,
       "effects": [
@@ -1992,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 45724,
+    "remaining_fame": 48734,
     "lines": [
       {
         "ability_no": "1",
@@ -2277,7 +2301,7 @@
     {
       "core_name": "指令VI",
       "core_type": "精通核心",
-      "core_level": 11
+      "core_level": 12
     },
     {
       "core_name": "另一個咬擊VI/終極攻擊VI/陷阱散佈器VI",
@@ -2374,20 +2398,20 @@
           {
             "option_no": 1,
             "option_name": "魔法攻擊力",
-            "option_value": "0"
+            "option_value": "5"
           },
           {
             "option_no": 2,
             "option_name": "最終傷害 (%)",
-            "option_value": "0"
+            "option_value": "3"
           },
           {
             "option_no": 3,
             "option_name": "攻擊時有3%機率恢復 HP",
-            "option_value": "0"
+            "option_value": "18"
           }
         ],
-        "summoned_flag": "false",
+        "summoned_flag": "true",
         "slot_id": "not link"
       },
       {

@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-05T15:24:51.246Z",
+    "fetched_at": "2026-08-05T17:50:55.096Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,26 +30,26 @@
     "guild": "微光嶼岸"
   },
   "combat_summary": {
-    "combat_power": "10390310",
+    "combat_power": "12640970",
     "main_stat": {
       "name": "STR",
-      "value": "28523"
+      "value": "28738"
     },
     "secondary_stat": {
       "name": "DEX",
-      "value": "2749"
+      "value": "2691"
     },
     "sub_stat": {
       "name": "DEX",
-      "value": "2749"
+      "value": "2691"
     },
-    "attack_power": "2029",
-    "damage": "117.00",
-    "boss_damage": "222.00",
-    "ignore_defense": "91.95",
-    "critical_rate": "101",
-    "critical_damage": "56.35",
-    "final_damage": "93.01",
+    "attack_power": "2087",
+    "damage": "112.00",
+    "boss_damage": "329.00",
+    "ignore_defense": "94.87",
+    "critical_rate": "106",
+    "critical_damage": "61.85",
+    "final_damage": "82.08",
     "buff_duration": "10",
     "cooldown_reduction": {
       "seconds": "0",
@@ -1843,15 +1843,15 @@
     }
   ],
   "hyper_stat": {
-    "active_preset": "2",
+    "active_preset": "1",
     "available_points": 1186,
-    "remaining_points": 18,
+    "remaining_points": 43,
     "stats": [
       {
         "stat_type": "STR",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 25,
+        "stat_level": 5,
+        "stat_increase": "力量增加 150"
       },
       {
         "stat_type": "DEX",
@@ -1897,15 +1897,15 @@
       },
       {
         "stat_type": "爆擊傷害",
-        "stat_point": 150,
-        "stat_level": 10,
-        "stat_increase": "爆擊傷害10%增加"
+        "stat_point": 200,
+        "stat_level": 11,
+        "stat_increase": "爆擊傷害11%增加"
       },
       {
         "stat_type": "無視防禦率",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 345,
+        "stat_level": 13,
+        "stat_increase": "無視防禦率增加 39%"
       },
       {
         "stat_type": "傷害",
@@ -1915,9 +1915,9 @@
       },
       {
         "stat_type": "Boss傷害",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 345,
+        "stat_level": 13,
+        "stat_increase": "攻擊Boss怪物時，傷害增加 47%"
       },
       {
         "stat_type": "異常狀態耐性",
@@ -1927,15 +1927,15 @@
       },
       {
         "stat_type": "攻擊力／魔力",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 25,
+        "stat_level": 5,
+        "stat_increase": "增加攻擊力與魔力15"
       },
       {
         "stat_type": "獲得經驗值",
-        "stat_point": 550,
-        "stat_level": 15,
-        "stat_increase": "獲得經驗值提高10.0%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "神祕力量",
@@ -1945,9 +1945,9 @@
       },
       {
         "stat_type": "一般傷害",
-        "stat_point": 265,
-        "stat_level": 12,
-        "stat_increase": "攻擊一般怪物時傷害增加43%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       }
     ]
   },
@@ -2227,7 +2227,7 @@
     {
       "core_name": "追蹤VI/踐踏VI",
       "core_type": "精通核心",
-      "core_level": 2
+      "core_level": 3
     },
     {
       "core_name": "穿刺VI/魔劍共鳴VI/回歸VI/綻放VI",
@@ -2302,14 +2302,9 @@
   },
   "link_skills": [
     {
-      "skill_name": "大自然夥伴",
+      "skill_name": "惡魔之怒",
       "skill_level": 2,
-      "skill_effect": "傷害5%增加\\n擊退一般怪物20隻時，發動大自然的幫助。大自然的幫助發動時，30秒內攻擊一般怪物時傷害增加11%\\n冷卻時間30秒"
-    },
-    {
-      "skill_name": "自信心",
-      "skill_level": 2,
-      "skill_effect": "無視防禦率增加10%，攻擊HP為100%的怪物時傷害增加14%"
+      "skill_effect": "攻擊BOSS怪物時傷害增加 15%"
     },
     {
       "skill_name": "狂暴鬥氣",
@@ -2317,24 +2312,9 @@
       "skill_effect": "傷害增加10%"
     },
     {
-      "skill_name": "事前準備",
+      "skill_name": "判斷",
       "skill_level": 2,
-      "skill_effect": "解決敵人8名，或攻擊BOSS怪物5次時，完成事前準備1次，完成5次事前準備時，連續20秒傷害增加17%。\\n冷卻時間40秒"
-    },
-    {
-      "skill_name": "探險家的好奇心",
-      "skill_level": 6,
-      "skill_effect": "增加怪物收藏登錄率35%、爆擊機率10%"
-    },
-    {
-      "skill_name": "連續擊殺優勢",
-      "skill_level": 2,
-      "skill_effect": "連續擊殺之珠經驗值獲得量永久增加650%"
-    },
-    {
-      "skill_name": "無我",
-      "skill_level": 2,
-      "skill_effect": "戰鬥狀態若持續 5秒就會發動，最多可重疊 5次，持續時間 5秒。\\n發動時傷害增加 1%，每重疊傷害追加增加 2%"
+      "skill_effect": "增加爆擊傷害4%"
     },
     {
       "skill_name": "紫扇傳授",
@@ -2342,33 +2322,53 @@
       "skill_effect": "發動攻擊技能40次時滿足條件\\n[紫扇傳授]：12秒內傷害增加15%"
     },
     {
-      "skill_name": "精靈的祝福",
+      "skill_name": "無我",
       "skill_level": 2,
-      "skill_effect": "使用時返回櫻花處\\n冷卻時間1800秒\\n[被動效果：經驗值獲得量增加15%]"
-    },
-    {
-      "skill_name": "輪之堅持",
-      "skill_level": 2,
-      "skill_effect": "解放的輪之力有效時間增加50%。"
-    },
-    {
-      "skill_name": "精靈集中",
-      "skill_level": 2,
-      "skill_effect": "Boss怪攻擊力增加7%\\n爆擊機率增加7%\\n最大增加HP 4%\\n最大增加MP 4%"
+      "skill_effect": "戰鬥狀態若持續 5秒就會發動，最多可重疊 5次，持續時間 5秒。\\n發動時傷害增加 1%，每重疊傷害追加增加 2%"
     },
     {
       "skill_name": "實戰的知識",
       "skill_level": 6,
       "skill_effect": "以25%機率掌握發動攻擊的敵人的弱點。掌握的弱點將持續10秒，最多疊加至3層。\\n每疊加1層，傷害增加3%、無視防禦率增加3%"
+    },
+    {
+      "skill_name": "靈魂契約",
+      "skill_level": 2,
+      "skill_effect": "10秒間傷害增加 45%\\n冷卻時間60秒"
+    },
+    {
+      "skill_name": "致命本能",
+      "skill_level": 2,
+      "skill_effect": "爆擊機率增加 15% "
+    },
+    {
+      "skill_name": "氣魄",
+      "skill_level": 2,
+      "skill_effect": "每當攻擊BOSS怪物時傷害提升4%，攻擊對象若為BOSS怪物，每當攻擊成功時會額外增加2%，最大可重疊6次，重疊於2秒發動一次，持續時間5秒。"
+    },
+    {
+      "skill_name": "集中狂攻",
+      "skill_level": 2,
+      "skill_effect": "攻擊比角色等級低的怪物時傷害增加6%，攻擊狀態異常的怪物時傷害增加6%"
+    },
+    {
+      "skill_name": "事前準備",
+      "skill_level": 2,
+      "skill_effect": "解決敵人8名，或攻擊BOSS怪物5次時，完成事前準備1次，完成5次事前準備時，連續20秒傷害增加17%。\\n冷卻時間40秒"
+    },
+    {
+      "skill_name": "精靈集中",
+      "skill_level": 2,
+      "skill_effect": "Boss怪攻擊力增加7%\\n爆擊機率增加7%\\n最大增加HP 4%\\n最大增加MP 4%"
     }
   ],
   "union_summary": {
     "level": 4906,
     "grade": "老手戰地聯盟 4",
     "artifact_level": 24,
-    "artifact_exp": 490,
-    "artifact_point": 7400,
-    "active_raider_preset": 2,
+    "artifact_exp": 1990,
+    "artifact_point": 8900,
+    "active_raider_preset": 1,
     "raider_stats": [
       "增加LUK 40",
       "增加STR 100",
@@ -2376,13 +2376,13 @@
       "技能冷卻時間降低 5%",
       "增加無視防禦率 5%",
       "增加攻擊BOSS傷害 5%",
+      "增加INT 40",
       "增加最大MP 3%",
       "增加STR 20",
-      "增加DEX 20",
-      "增加經驗值獲得量 10%",
       "增加楓幣獲得量 2% ",
       "增加DEX 40",
       "每當敵人攻擊時70%的機率恢復純HP的4%",
+      "增加經驗值獲得量 10%",
       "增加DEX 40",
       "每當敵人攻擊時70%的機率恢復純MP的4%",
       "增加爆擊機率 4%",
@@ -2392,18 +2392,18 @@
       "增加爆擊機率 4%"
     ],
     "occupied_stats": [
-      "增加最大HP 250",
-      "增加DEX 25",
-      "增加STR 25",
-      "增加爆擊傷害 3.00%",
       "增加攻擊力 5",
-      "增加獲得經驗值 5.25%",
-      "增加攻擊一般怪物時傷害 21%"
+      "增加攻擊BOSS怪物時傷害 21%。",
+      "增加魔力1",
+      "增加STR 45",
+      "增加爆擊傷害 3.50%",
+      "增加最大HP 250",
+      "增加無視防禦率 21%"
     ],
     "inner_stats": [
       {
         "stat_field_id": "0",
-        "stat_field_effect": "聯盟最大HP"
+        "stat_field_effect": "聯盟最大MP"
       },
       {
         "stat_field_id": "1",
@@ -2415,23 +2415,23 @@
       },
       {
         "stat_field_id": "3",
-        "stat_field_effect": "聯盟LUK"
+        "stat_field_effect": "聯盟攻擊力"
       },
       {
         "stat_field_id": "4",
-        "stat_field_effect": "聯盟STR"
-      },
-      {
-        "stat_field_id": "5",
-        "stat_field_effect": "聯盟最大MP"
-      },
-      {
-        "stat_field_id": "6",
         "stat_field_effect": "聯盟魔力"
       },
       {
+        "stat_field_id": "5",
+        "stat_field_effect": "聯盟STR"
+      },
+      {
+        "stat_field_id": "6",
+        "stat_field_effect": "聯盟最大HP"
+      },
+      {
         "stat_field_id": "7",
-        "stat_field_effect": "聯盟攻擊力"
+        "stat_field_effect": "聯盟LUK"
       }
     ],
     "artifact_effects": [
