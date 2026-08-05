@@ -4,19 +4,19 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "28797816"
+      "stat_value": "18714300"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "33485831"
+      "stat_value": "22016821"
     },
     {
       "stat_name": "傷害",
-      "stat_value": "76.00"
+      "stat_value": "46.00"
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "555.00"
+      "stat_value": "465.00"
     },
     {
       "stat_name": "最終傷害",
@@ -24,15 +24,15 @@
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "98.43"
+      "stat_value": "97.53"
     },
     {
       "stat_name": "爆擊機率",
-      "stat_value": "143"
+      "stat_value": "123"
     },
     {
       "stat_name": "爆擊傷害",
-      "stat_value": "129.00"
+      "stat_value": "81.00"
     },
     {
       "stat_name": "狀態異常耐性",
@@ -44,11 +44,11 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "48313"
+      "stat_value": "48341"
     },
     {
       "stat_name": "移動速度",
-      "stat_value": "210"
+      "stat_value": "160"
     },
     {
       "stat_name": "跳躍力",
@@ -68,27 +68,27 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "4503"
+      "stat_value": "4368"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "40437"
+      "stat_value": "40045"
     },
     {
       "stat_name": "INT",
-      "stat_value": "2478"
+      "stat_value": "2351"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "2322"
+      "stat_value": "2204"
     },
     {
       "stat_name": "HP",
-      "stat_value": "106581"
+      "stat_value": "77532"
     },
     {
       "stat_name": "MP",
-      "stat_value": "53684"
+      "stat_value": "33835"
     },
     {
       "stat_name": "AP配點STR",
@@ -116,7 +116,7 @@
     },
     {
       "stat_name": "道具掉落率",
-      "stat_value": "84"
+      "stat_value": "60"
     },
     {
       "stat_name": "楓幣獲得量",
@@ -156,19 +156,19 @@
     },
     {
       "stat_name": "武器熟練度",
-      "stat_value": "86"
+      "stat_value": "85"
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "124.50"
+      "stat_value": "89.50"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "3991"
+      "stat_value": "3196"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1591"
+      "stat_value": "1091"
     },
     {
       "stat_name": "戰鬥力",
