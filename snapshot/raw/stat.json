@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "26382853"
+      "stat_value": "24356520"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "30677734"
+      "stat_value": "28654727"
     },
     {
       "stat_name": "傷害",
@@ -24,15 +24,15 @@
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "97.97"
+      "stat_value": "97.90"
     },
     {
       "stat_name": "爆擊機率",
-      "stat_value": "143"
+      "stat_value": "123"
     },
     {
       "stat_name": "爆擊傷害",
-      "stat_value": "127.00"
+      "stat_value": "111.00"
     },
     {
       "stat_name": "狀態異常耐性",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "47970"
+      "stat_value": "47931"
     },
     {
       "stat_name": "移動速度",
@@ -72,7 +72,7 @@
     },
     {
       "stat_name": "DEX",
-      "stat_value": "40284"
+      "stat_value": "40222"
     },
     {
       "stat_name": "INT",
@@ -84,11 +84,11 @@
     },
     {
       "stat_name": "HP",
-      "stat_value": "101274"
+      "stat_value": "84672"
     },
     {
       "stat_name": "MP",
-      "stat_value": "46044"
+      "stat_value": "35980"
     },
     {
       "stat_name": "AP配點STR",
@@ -116,7 +116,7 @@
     },
     {
       "stat_name": "道具掉落率",
-      "stat_value": "84"
+      "stat_value": "60"
     },
     {
       "stat_name": "楓幣獲得量",
@@ -156,19 +156,19 @@
     },
     {
       "stat_name": "武器熟練度",
-      "stat_value": "86"
+      "stat_value": "85"
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "124.50"
+      "stat_value": "89.50"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "3672"
+      "stat_value": "3435"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1260"
+      "stat_value": "1150"
     },
     {
       "stat_name": "戰鬥力",
