@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-07T17:04:26.732Z",
+    "fetched_at": "2026-08-07T17:58:28.950Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -33,22 +33,22 @@
     "combat_power": "52262361",
     "main_stat": {
       "name": "DEX",
-      "value": "40600"
+      "value": "40268"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4513"
+      "value": "4378"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4513"
+      "value": "4378"
     },
-    "attack_power": "4067",
-    "damage": "76.00",
-    "boss_damage": "555.00",
-    "ignore_defense": "98.43",
-    "critical_rate": "144",
-    "critical_damage": "129.00",
+    "attack_power": "3525",
+    "damage": "46.00",
+    "boss_damage": "465.00",
+    "ignore_defense": "97.61",
+    "critical_rate": "143",
+    "critical_damage": "97.00",
     "final_damage": "112.41",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 78550,
+    "remaining_fame": 85210,
     "lines": [
       {
         "ability_no": "1",
@@ -2321,7 +2321,7 @@
     {
       "core_name": "原始綻放",
       "core_type": "強化核心",
-      "core_level": 2
+      "core_level": 11
     },
     {
       "core_name": "狂野機關砲：超速動能",
