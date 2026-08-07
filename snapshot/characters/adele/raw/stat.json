@@ -4,39 +4,39 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "9465032"
+      "stat_value": "11315516"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "10516700"
+      "stat_value": "12434630"
     },
     {
       "stat_name": "傷害",
-      "stat_value": "111.00"
+      "stat_value": "112.00"
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "273.00"
+      "stat_value": "314.00"
     },
     {
       "stat_name": "最終傷害",
-      "stat_value": "67.31"
+      "stat_value": "93.01"
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "93.08"
+      "stat_value": "95.91"
     },
     {
       "stat_name": "爆擊機率",
-      "stat_value": "87"
+      "stat_value": "106"
     },
     {
       "stat_name": "爆擊傷害",
-      "stat_value": "40.35"
+      "stat_value": "61.85"
     },
     {
       "stat_name": "狀態異常耐性",
-      "stat_value": "56"
+      "stat_value": "58"
     },
     {
       "stat_name": "格擋",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "53919"
+      "stat_value": "54506"
     },
     {
       "stat_name": "移動速度",
@@ -68,27 +68,27 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "28428"
+      "stat_value": "28752"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "2611"
+      "stat_value": "2697"
     },
     {
       "stat_name": "INT",
-      "stat_value": "1808"
+      "stat_value": "1855"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "1786"
+      "stat_value": "1844"
     },
     {
       "stat_name": "HP",
-      "stat_value": "81697"
+      "stat_value": "103100"
     },
     {
       "stat_name": "MP",
-      "stat_value": "31996"
+      "stat_value": "42241"
     },
     {
       "stat_name": "AP配點STR",
@@ -116,11 +116,11 @@
     },
     {
       "stat_name": "道具掉落率",
-      "stat_value": "20"
+      "stat_value": "44"
     },
     {
       "stat_name": "楓幣獲得量",
-      "stat_value": "20"
+      "stat_value": "22"
     },
     {
       "stat_name": "Buff持續時間",
@@ -140,7 +140,7 @@
     },
     {
       "stat_name": "冷卻時間減少(％)",
-      "stat_value": "0"
+      "stat_value": "5"
     },
     {
       "stat_name": "未套用冷卻時間",
@@ -156,23 +156,23 @@
     },
     {
       "stat_name": "武器熟練度",
-      "stat_value": "90"
+      "stat_value": "91"
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "5.00"
+      "stat_value": "55.00"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "1970"
+      "stat_value": "1986"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "739"
+      "stat_value": "746"
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "9847238"
+      "stat_value": "12808906"
     },
     {
       "stat_name": "召喚獸持續時間增加",

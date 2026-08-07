@@ -12812,9 +12812,9 @@
     }
   ],
   "title": {
-    "title_name": "MVP青銅 II",
-    "title_icon": "https://open.api.nexon.com/static/maplestorytw/item/icon/KGICLEKD",
-    "title_description": "達成MVP銅牌II等級。\r\n穿戴時攻擊力/魔力 +2，全屬性 +4",
+    "title_name": "露塔必思無懼者",
+    "title_icon": "https://open.api.nexon.com/static/maplestorytw/item/icon/KGICLENI",
+    "title_description": "擊敗守護露塔必思的四大Boss後獲得的稱號。能獲得此稱號的勇士，堪稱楓之谷世界最□。\r\n全屬性 +8，攻擊力/魔力 +3\n對Boss怪物傷害 +5%\n無視怪物防禦率 +5%\n最大 HP、MP +300",
     "date_expire": null,
     "date_option_expire": null,
     "title_shape_name": null,
