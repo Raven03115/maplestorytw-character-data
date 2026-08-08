@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-08T14:43:22.806Z",
+    "fetched_at": "2026-08-08T15:39:00.838Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 5,
       "force": "50",
-      "growth_count": 244,
+      "growth_count": 264,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -2291,17 +2291,17 @@
     {
       "core_name": "狂野機關砲：巔峰VI",
       "core_type": "精通核心",
-      "core_level": 15
+      "core_level": 16
     },
     {
       "core_name": "助攻VI",
       "core_type": "精通核心",
-      "core_level": 9
+      "core_level": 12
     },
     {
       "core_name": "指令VI",
       "core_type": "精通核心",
-      "core_level": 15
+      "core_level": 16
     },
     {
       "core_name": "另一個咬擊VI/終極攻擊VI/陷阱散佈器VI",
