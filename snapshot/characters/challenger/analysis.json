@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-08T22:40:25.876Z",
+    "fetched_at": "2026-08-08T23:39:00.142Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -33,22 +33,22 @@
     "combat_power": "54728154",
     "main_stat": {
       "name": "DEX",
-      "value": "44843"
+      "value": "44776"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4628"
+      "value": "4600"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4628"
+      "value": "4600"
     },
-    "attack_power": "3965",
-    "damage": "106.00",
-    "boss_damage": "500.00",
-    "ignore_defense": "97.97",
-    "critical_rate": "163",
-    "critical_damage": "127.00",
+    "attack_power": "3845",
+    "damage": "176.00",
+    "boss_damage": "435.00",
+    "ignore_defense": "97.63",
+    "critical_rate": "164",
+    "critical_damage": "98.00",
     "final_damage": "112.41",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 401900,
+    "remaining_fame": 411910,
     "lines": [
       {
         "ability_no": "1",
@@ -2331,7 +2331,7 @@
     {
       "core_name": "靈魂赫卡忒",
       "core_type": "共用核心",
-      "core_level": 2
+      "core_level": 3
     }
   ],
   "hexamatrix_stat": {
