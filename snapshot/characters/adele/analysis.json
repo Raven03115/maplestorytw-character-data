@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-08T19:38:46.531Z",
+    "fetched_at": "2026-08-08T20:43:32.798Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,7 +30,7 @@
     "guild": "微光嶼岸"
   },
   "combat_summary": {
-    "combat_power": "12808906",
+    "combat_power": "12906144",
     "main_stat": {
       "name": "STR",
       "value": "28709"
@@ -43,7 +43,7 @@
       "name": "DEX",
       "value": "2697"
     },
-    "attack_power": "1983",
+    "attack_power": "1996",
     "damage": "111.00",
     "boss_damage": "314.00",
     "ignore_defense": "95.07",
@@ -2363,8 +2363,8 @@
     }
   ],
   "union_summary": {
-    "level": 4906,
-    "grade": "老手戰地聯盟 4",
+    "level": 6706,
+    "grade": "大師戰地聯盟 3",
     "artifact_level": 24,
     "artifact_exp": 3590,
     "artifact_point": 10000,
