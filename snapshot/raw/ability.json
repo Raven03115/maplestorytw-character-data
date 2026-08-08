@@ -5,21 +5,21 @@
     {
       "ability_no": "1",
       "ability_grade": "傳說",
-      "ability_value": "道具掉落率增加 20%"
+      "ability_value": "攻擊Boss怪物時，傷害增加 19%"
     },
     {
       "ability_no": "3",
       "ability_grade": "罕見",
-      "ability_value": "攻擊一般怪物時傷害增加 8% "
+      "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
     },
     {
       "ability_no": "2",
       "ability_grade": "稀有",
-      "ability_value": "增加楓幣獲得量 9% "
+      "ability_value": "增加INT 18 、DEX 9"
     }
   ],
   "remain_fame": 401900,
-  "preset_no": 2,
+  "preset_no": 1,
   "ability_preset_1": {
     "ability_preset_grade": "傳說",
     "ability_info": [
