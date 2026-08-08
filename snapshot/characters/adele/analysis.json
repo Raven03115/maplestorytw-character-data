@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-08T10:45:37.563Z",
+    "fetched_at": "2026-08-08T13:07:26.217Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -2366,7 +2366,7 @@
     "level": 4906,
     "grade": "老手戰地聯盟 4",
     "artifact_level": 24,
-    "artifact_exp": 2490,
+    "artifact_exp": 2990,
     "artifact_point": 9400,
     "active_raider_preset": 1,
     "raider_stats": [
