@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "11668050"
+      "stat_value": "11286796"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "12822030"
+      "stat_value": "12403070"
     },
     {
       "stat_name": "傷害",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "55709"
+      "stat_value": "55446"
     },
     {
       "stat_name": "移動速度",
@@ -56,11 +56,11 @@
     },
     {
       "stat_name": "星力",
-      "stat_value": "221"
+      "stat_value": "206"
     },
     {
       "stat_name": "神秘力量",
-      "stat_value": "1350"
+      "stat_value": "1320"
     },
     {
       "stat_name": "真實之力",
@@ -68,23 +68,23 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "29360"
+      "stat_value": "29229"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "2902"
+      "stat_value": "2842"
     },
     {
       "stat_name": "INT",
-      "stat_value": "1970"
+      "stat_value": "1908"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "2145"
+      "stat_value": "2085"
     },
     {
       "stat_name": "HP",
-      "stat_value": "109665"
+      "stat_value": "105545"
     },
     {
       "stat_name": "MP",
@@ -132,7 +132,7 @@
     },
     {
       "stat_name": "一般怪物傷害",
-      "stat_value": "32.00"
+      "stat_value": "20.00"
     },
     {
       "stat_name": "冷卻時間減少(秒)",
@@ -164,11 +164,11 @@
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "2003"
+      "stat_value": "1947"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "756"
+      "stat_value": "711"
     },
     {
       "stat_name": "戰鬥力",

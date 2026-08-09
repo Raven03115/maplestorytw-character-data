@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-09T19:43:17.878Z",
+    "fetched_at": "2026-08-09T20:47:37.277Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,26 +30,26 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "47670975",
+    "combat_power": "46108070",
     "main_stat": {
       "name": "DEX",
-      "value": "40541"
+      "value": "40432"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4486"
+      "value": "4467"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4486"
+      "value": "4467"
     },
-    "attack_power": "3863",
+    "attack_power": "3594",
     "damage": "46.00",
     "boss_damage": "361.00",
-    "ignore_defense": "96.61",
-    "critical_rate": "145",
-    "critical_damage": "97.00",
-    "final_damage": "112.41",
+    "ignore_defense": "96.49",
+    "critical_rate": "124",
+    "critical_damage": "80.00",
+    "final_damage": "106.22",
     "buff_duration": "60",
     "cooldown_reduction": {
       "seconds": "0",
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 6,
       "force": "60",
-      "growth_count": 1774,
+      "growth_count": 1814,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 6,
       "force": "60",
-      "growth_count": 664,
+      "growth_count": 689,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 5,
       "force": "50",
-      "growth_count": 891,
+      "growth_count": 916,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 5,
       "force": "50",
-      "growth_count": 292,
+      "growth_count": 317,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1716,30 +1716,6 @@
         {
           "set_count": 5,
           "set_option": "全屬性 +8, 攻擊力 +20, 魔法攻擊力 +20, 無視怪物防禦率 +30%"
-        }
-      ]
-    },
-    {
-      "set_name": "迷你吉祥物菇菇套組",
-      "equipped_count": 1,
-      "effects": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        }
-      ],
-      "full_set_options": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        },
-        {
-          "set_count": 2,
-          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
-        },
-        {
-          "set_count": 3,
-          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
         }
       ]
     },
@@ -2016,7 +1992,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 430850,
+    "remaining_fame": 431860,
     "lines": [
       {
         "ability_no": "1",
@@ -2398,20 +2374,20 @@
           {
             "option_no": 1,
             "option_name": "魔法攻擊力",
-            "option_value": "5"
+            "option_value": "0"
           },
           {
             "option_no": 2,
             "option_name": "最終傷害 (%)",
-            "option_value": "3"
+            "option_value": "0"
           },
           {
             "option_no": 3,
             "option_name": "攻擊時有3%機率恢復 HP",
-            "option_value": "18"
+            "option_value": "0"
           }
         ],
-        "summoned_flag": "true",
+        "summoned_flag": "false",
         "slot_id": "not link"
       },
       {
