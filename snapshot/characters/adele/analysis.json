@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-09T14:46:19.227Z",
+    "fetched_at": "2026-08-09T15:40:52.693Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,26 +30,26 @@
     "guild": "微光嶼岸"
   },
   "combat_summary": {
-    "combat_power": "10055818",
+    "combat_power": "10894571",
     "main_stat": {
       "name": "STR",
-      "value": "28441"
+      "value": "28494"
     },
     "secondary_stat": {
       "name": "DEX",
-      "value": "2617"
+      "value": "2622"
     },
     "sub_stat": {
       "name": "DEX",
-      "value": "2617"
+      "value": "2622"
     },
-    "attack_power": "1983",
-    "damage": "111.00",
-    "boss_damage": "278.00",
-    "ignore_defense": "93.43",
-    "critical_rate": "87",
-    "critical_damage": "40.35",
-    "final_damage": "67.31",
+    "attack_power": "1996",
+    "damage": "112.00",
+    "boss_damage": "283.00",
+    "ignore_defense": "94.55",
+    "critical_rate": "98",
+    "critical_damage": "48.35",
+    "final_damage": "93.01",
     "buff_duration": "10",
     "cooldown_reduction": {
       "seconds": "0",
@@ -855,9 +855,9 @@
       ],
       "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        "LUK +2%",
-        "INT +6",
-        "移動速度 +4"
+        "全屬性 +3",
+        "MaxMP +60",
+        "物理攻擊力 +3"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -2365,81 +2365,44 @@
   "union_summary": {
     "level": 8226,
     "grade": "宗師戰地聯盟 1",
-    "artifact_level": 24,
-    "artifact_exp": 3590,
+    "artifact_level": 26,
+    "artifact_exp": 1590,
     "artifact_point": 10000,
-    "active_raider_preset": 2,
-    "raider_stats": [
-      "增加LUK 40",
-      "增加STR 100",
-      "增加爆擊傷害 5%",
-      "技能冷卻時間降低 5%",
-      "增加無視防禦率 5%",
-      "增加攻擊BOSS傷害 5%",
-      "增加STR 20",
-      "增加STR、DEX、LUK 40",
-      "增加最大MP 3%",
-      "增加DEX 80",
-      "增加經驗值獲得量 10%",
-      "增加楓幣獲得量 4% ",
-      "每當敵人攻擊時70%的機率恢復純HP的4%",
-      "增加DEX 80",
-      "增加無視防禦率 6%",
-      "增加DEX 40",
-      "每當敵人攻擊時70%的機率恢復純MP的4%",
-      "增加狀態異常耐性 4",
-      "增加爆擊機率 4%",
-      "增加攻擊BOSS傷害 5%",
-      "增加爆擊傷害 6%",
-      "增加DEX 80",
-      "增加爆擊傷害 5%",
-      "增加爆擊機率 4%",
-      "增加LUK 80"
-    ],
-    "occupied_stats": [
-      "增加最大HP 250",
-      "增加DEX 25",
-      "增加爆擊傷害 3.00%",
-      "增加STR 25",
-      "增加魔力1",
-      "增加攻擊力 5",
-      "增加獲得經驗值 9.75%",
-      "增加爆擊機率 2%",
-      "增加攻擊一般怪物時傷害 22%",
-      "增加無視防禦率 1%"
-    ],
+    "active_raider_preset": 3,
+    "raider_stats": [],
+    "occupied_stats": [],
     "inner_stats": [
       {
         "stat_field_id": "0",
-        "stat_field_effect": "聯盟最大HP"
-      },
-      {
-        "stat_field_id": "1",
-        "stat_field_effect": "聯盟DEX"
-      },
-      {
-        "stat_field_id": "2",
         "stat_field_effect": "聯盟INT"
       },
       {
-        "stat_field_id": "3",
-        "stat_field_effect": "聯盟LUK"
-      },
-      {
-        "stat_field_id": "4",
+        "stat_field_id": "1",
         "stat_field_effect": "聯盟STR"
       },
       {
-        "stat_field_id": "5",
-        "stat_field_effect": "聯盟最大MP"
+        "stat_field_id": "2",
+        "stat_field_effect": "聯盟LUK"
       },
       {
-        "stat_field_id": "6",
+        "stat_field_id": "3",
+        "stat_field_effect": "聯盟DEX"
+      },
+      {
+        "stat_field_id": "4",
+        "stat_field_effect": "聯盟攻擊力"
+      },
+      {
+        "stat_field_id": "5",
         "stat_field_effect": "聯盟魔力"
       },
       {
+        "stat_field_id": "6",
+        "stat_field_effect": "聯盟最大HP"
+      },
+      {
         "stat_field_id": "7",
-        "stat_field_effect": "聯盟攻擊力"
+        "stat_field_effect": "聯盟最大MP"
       }
     ],
     "artifact_effects": [
@@ -2468,7 +2431,7 @@
         "level": 10
       }
     ],
-    "artifact_remaining_ap": 3,
+    "artifact_remaining_ap": 6,
     "champions": [],
     "champion_badges": []
   },
