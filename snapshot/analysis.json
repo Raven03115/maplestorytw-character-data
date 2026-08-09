@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-09T08:55:59.693Z",
+    "fetched_at": "2026-08-09T11:38:31.339Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -33,22 +33,22 @@
     "combat_power": "55097919",
     "main_stat": {
       "name": "DEX",
-      "value": "40681"
+      "value": "44789"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4602"
+      "value": "4605"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4602"
+      "value": "4605"
     },
-    "attack_power": "3579",
-    "damage": "46.00",
-    "boss_damage": "435.00",
-    "ignore_defense": "97.54",
-    "critical_rate": "143",
-    "critical_damage": "81.00",
+    "attack_power": "3962",
+    "damage": "206.00",
+    "boss_damage": "485.00",
+    "ignore_defense": "97.63",
+    "critical_rate": "164",
+    "critical_damage": "210.00",
     "final_damage": "112.41",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -2807,6 +2807,62 @@
         "slot_id": "not link"
       },
       {
+        "name": "藍色緞帶肥肥",
+        "nickname": "藍色緞帶肥肥",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "STR",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "物理攻擊力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "防禦力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "刺菇菇",
+        "nickname": "刺菇菇",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
         "name": "綠海馬",
         "nickname": "綠海馬",
         "grade": null,
@@ -2884,62 +2940,6 @@
           {
             "option_no": 3,
             "option_name": "LUK",
-            "option_value": "0"
-          }
-        ],
-        "summoned_flag": "false",
-        "slot_id": "not link"
-      },
-      {
-        "name": "藍色緞帶肥肥",
-        "nickname": "藍色緞帶肥肥",
-        "grade": null,
-        "level": 5,
-        "state": "registered",
-        "skill_name": null,
-        "option_level": 5,
-        "options": [
-          {
-            "option_no": 1,
-            "option_name": "STR",
-            "option_value": "0"
-          },
-          {
-            "option_no": 2,
-            "option_name": "物理攻擊力",
-            "option_value": "0"
-          },
-          {
-            "option_no": 3,
-            "option_name": "防禦力",
-            "option_value": "0"
-          }
-        ],
-        "summoned_flag": "false",
-        "slot_id": "not link"
-      },
-      {
-        "name": "刺菇菇",
-        "nickname": "刺菇菇",
-        "grade": null,
-        "level": 5,
-        "state": "registered",
-        "skill_name": null,
-        "option_level": 5,
-        "options": [
-          {
-            "option_no": 1,
-            "option_name": "防禦力",
-            "option_value": "0"
-          },
-          {
-            "option_no": 2,
-            "option_name": "MaxHP",
-            "option_value": "0"
-          },
-          {
-            "option_no": 3,
-            "option_name": "DEX",
             "option_value": "0"
           }
         ],

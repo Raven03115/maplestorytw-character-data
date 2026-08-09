@@ -493,6 +493,68 @@
       "slot_id": "not link"
     },
     {
+      "familiar_name": "藍色緞帶肥肥",
+      "familiar_nickname": "藍色緞帶肥肥",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "物理攻擊力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "刺菇菇",
+      "familiar_nickname": "刺菇菇",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "防禦力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "DEX",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
       "familiar_name": "綠海馬",
       "familiar_nickname": "綠海馬",
       "familiar_special_flag": "false",
@@ -577,68 +639,6 @@
         {
           "option_no": 3,
           "option_name": "LUK",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "藍色緞帶肥肥",
-      "familiar_nickname": "藍色緞帶肥肥",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 5,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "物理攻擊力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "防禦力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "刺菇菇",
-      "familiar_nickname": "刺菇菇",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 5,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "DEX",
           "option_value": "0"
         }
       ],
