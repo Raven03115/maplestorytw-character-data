@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-10T19:09:58.338Z",
+    "fetched_at": "2026-08-10T20:56:03.656Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -33,21 +33,21 @@
     "combat_power": "47670975",
     "main_stat": {
       "name": "DEX",
-      "value": "40496"
+      "value": "40478"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4467"
+      "value": "4486"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4467"
+      "value": "4486"
     },
-    "attack_power": "3847",
+    "attack_power": "3860",
     "damage": "46.00",
     "boss_damage": "361.00",
-    "ignore_defense": "96.61",
-    "critical_rate": "144",
+    "ignore_defense": "96.49",
+    "critical_rate": "145",
     "critical_damage": "96.00",
     "final_damage": "112.41",
     "buff_duration": "60",
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 6,
       "force": "60",
-      "growth_count": 1814,
+      "growth_count": 1854,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 6,
       "force": "60",
-      "growth_count": 689,
+      "growth_count": 714,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 5,
       "force": "50",
-      "growth_count": 916,
+      "growth_count": 941,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 5,
       "force": "50",
-      "growth_count": 317,
+      "growth_count": 342,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 438020,
+    "remaining_fame": 441540,
     "lines": [
       {
         "ability_no": "1",

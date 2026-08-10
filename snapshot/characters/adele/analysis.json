@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-10T19:10:03.982Z",
+    "fetched_at": "2026-08-10T20:56:10.389Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,30 +30,30 @@
     "guild": "BoBing哥"
   },
   "combat_summary": {
-    "combat_power": "15718867",
+    "combat_power": "10087566",
     "main_stat": {
       "name": "STR",
-      "value": "29229"
+      "value": "28320"
     },
     "secondary_stat": {
       "name": "DEX",
-      "value": "2842"
+      "value": "2562"
     },
     "sub_stat": {
       "name": "DEX",
-      "value": "2842"
+      "value": "2562"
     },
-    "attack_power": "1985",
-    "damage": "116.00",
-    "boss_damage": "333.00",
-    "ignore_defense": "97.08",
-    "critical_rate": "106",
-    "critical_damage": "84.35",
-    "final_damage": "93.01",
+    "attack_power": "1968",
+    "damage": "111.00",
+    "boss_damage": "278.00",
+    "ignore_defense": "93.43",
+    "critical_rate": "87",
+    "critical_damage": "40.35",
+    "final_damage": "67.31",
     "buff_duration": "10",
     "cooldown_reduction": {
       "seconds": "0",
-      "percent": "5"
+      "percent": "0"
     },
     "arc": "1320",
     "aut": "110"
