@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-10T13:36:43.902Z",
+    "fetched_at": "2026-08-10T15:11:00.623Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -33,22 +33,22 @@
     "combat_power": "47670975",
     "main_stat": {
       "name": "DEX",
-      "value": "40541"
+      "value": "40432"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4486"
+      "value": "4467"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4486"
+      "value": "4467"
     },
-    "attack_power": "3847",
-    "damage": "146.00",
+    "attack_power": "3717",
+    "damage": "46.00",
     "boss_damage": "361.00",
-    "ignore_defense": "96.61",
-    "critical_rate": "144",
-    "critical_damage": "96.00",
+    "ignore_defense": "96.49",
+    "critical_rate": "124",
+    "critical_damage": "80.00",
     "final_damage": "112.41",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 431860,
+    "remaining_fame": 438020,
     "lines": [
       {
         "ability_no": "1",
@@ -2296,7 +2296,7 @@
     {
       "core_name": "助攻VI",
       "core_type": "精通核心",
-      "core_level": 14
+      "core_level": 15
     },
     {
       "core_name": "指令VI",
