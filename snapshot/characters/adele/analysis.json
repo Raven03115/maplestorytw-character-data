@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-10T17:03:56.963Z",
+    "fetched_at": "2026-08-10T17:58:54.880Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -27,24 +27,24 @@
     "world": "琉德",
     "class": "阿戴爾",
     "level": 270,
-    "guild": null
+    "guild": "BoBing哥"
   },
   "combat_summary": {
     "combat_power": "15718867",
     "main_stat": {
       "name": "STR",
-      "value": "29261"
+      "value": "29229"
     },
     "secondary_stat": {
       "name": "DEX",
-      "value": "2857"
+      "value": "2842"
     },
     "sub_stat": {
       "name": "DEX",
-      "value": "2857"
+      "value": "2842"
     },
-    "attack_power": "1947",
-    "damage": "112.00",
+    "attack_power": "2048",
+    "damage": "121.00",
     "boss_damage": "333.00",
     "ignore_defense": "97.08",
     "critical_rate": "106",
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 7,
       "force": "70",
-      "growth_count": 2279,
+      "growth_count": 2319,
       "required_growth_count": 581,
       "stat_increase": {
         "str": "1700",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 2,
       "force": "20",
-      "growth_count": 158,
+      "growth_count": 183,
       "required_growth_count": 76,
       "stat_increase": {
         "str": "700",
