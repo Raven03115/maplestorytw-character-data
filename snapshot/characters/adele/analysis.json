@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-11T13:35:03.625Z",
+    "fetched_at": "2026-08-11T15:11:19.747Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -43,7 +43,7 @@
       "name": "DEX",
       "value": "2842"
     },
-    "attack_power": "2022",
+    "attack_power": "2048",
     "damage": "112.00",
     "boss_damage": "333.00",
     "ignore_defense": "97.08",
@@ -1955,7 +1955,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 16919,
+    "remaining_fame": 16929,
     "lines": [
       {
         "ability_no": "1",
@@ -2366,8 +2366,8 @@
     "level": 8226,
     "grade": "宗師戰地聯盟 1",
     "artifact_level": 26,
-    "artifact_exp": 1790,
-    "artifact_point": 10200,
+    "artifact_exp": 1840,
+    "artifact_point": 10250,
     "active_raider_preset": 1,
     "raider_stats": [
       "增加爆擊機率 4%",
@@ -4273,118 +4273,6 @@
         "slot_id": "not link"
       },
       {
-        "name": "萊西",
-        "nickname": "萊西",
-        "grade": null,
-        "level": 5,
-        "state": "registered",
-        "skill_name": null,
-        "option_level": 1,
-        "options": [
-          {
-            "option_no": 1,
-            "option_name": "DEX",
-            "option_value": "0"
-          },
-          {
-            "option_no": 2,
-            "option_name": "MaxMP",
-            "option_value": "0"
-          },
-          {
-            "option_no": 3,
-            "option_name": "LUK",
-            "option_value": "0"
-          }
-        ],
-        "summoned_flag": "false",
-        "slot_id": "not link"
-      },
-      {
-        "name": "暗黑半人馬",
-        "nickname": "暗黑半人馬",
-        "grade": null,
-        "level": 5,
-        "state": "registered",
-        "skill_name": null,
-        "option_level": 1,
-        "options": [
-          {
-            "option_no": 1,
-            "option_name": "LUK",
-            "option_value": "0"
-          },
-          {
-            "option_no": 2,
-            "option_name": "防禦力",
-            "option_value": "0"
-          },
-          {
-            "option_no": 3,
-            "option_name": "全屬性",
-            "option_value": "0"
-          }
-        ],
-        "summoned_flag": "false",
-        "slot_id": "not link"
-      },
-      {
-        "name": "黑龍",
-        "nickname": "黑龍",
-        "grade": null,
-        "level": 5,
-        "state": "registered",
-        "skill_name": null,
-        "option_level": 1,
-        "options": [
-          {
-            "option_no": 1,
-            "option_name": "DEX",
-            "option_value": "0"
-          },
-          {
-            "option_no": 2,
-            "option_name": "INT",
-            "option_value": "0"
-          },
-          {
-            "option_no": 3,
-            "option_name": "4秒內恢復 MP",
-            "option_value": "0"
-          }
-        ],
-        "summoned_flag": "false",
-        "slot_id": "not link"
-      },
-      {
-        "name": "大副凱丁",
-        "nickname": "大副凱丁",
-        "grade": null,
-        "level": 5,
-        "state": "registered",
-        "skill_name": null,
-        "option_level": 1,
-        "options": [
-          {
-            "option_no": 1,
-            "option_name": "4秒內恢復 MP",
-            "option_value": "0"
-          },
-          {
-            "option_no": 2,
-            "option_name": "DEX",
-            "option_value": "0"
-          },
-          {
-            "option_no": 3,
-            "option_name": "物理攻擊力",
-            "option_value": "0"
-          }
-        ],
-        "summoned_flag": "false",
-        "slot_id": "not link"
-      },
-      {
         "name": "惡魔綿羊",
         "nickname": "惡魔綿羊",
         "grade": null,
@@ -5274,6 +5162,118 @@
           {
             "option_no": 3,
             "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "大副凱丁",
+        "nickname": "大副凱丁",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "物理攻擊力",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "黑龍",
+        "nickname": "黑龍",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "暗黑半人馬",
+        "nickname": "暗黑半人馬",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "全屬性",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "萊西",
+        "nickname": "萊西",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 1,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "LUK",
             "option_value": "0"
           }
         ],
