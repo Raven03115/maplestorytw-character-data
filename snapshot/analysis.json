@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-11T15:11:13.911Z",
+    "fetched_at": "2026-08-11T17:08:33.737Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -26,24 +26,24 @@
   "basic": {
     "world": "挑戰者",
     "class": "狂豹獵人",
-    "level": 278,
+    "level": 279,
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "47670975",
+    "combat_power": "43983716",
     "main_stat": {
       "name": "DEX",
-      "value": "40496"
+      "value": "38758"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4467"
+      "value": "4319"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4467"
+      "value": "4319"
     },
-    "attack_power": "3847",
+    "attack_power": "3726",
     "damage": "46.00",
     "boss_damage": "361.00",
     "ignore_defense": "96.61",
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 6,
       "force": "60",
-      "growth_count": 1854,
+      "growth_count": 1894,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 6,
       "force": "60",
-      "growth_count": 714,
+      "growth_count": 739,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 5,
       "force": "50",
-      "growth_count": 941,
+      "growth_count": 966,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 5,
       "force": "50",
-      "growth_count": 342,
+      "growth_count": 367,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1905,8 +1905,8 @@
   ],
   "hyper_stat": {
     "active_preset": "1",
-    "available_points": 1314,
-    "remaining_points": 29,
+    "available_points": 1330,
+    "remaining_points": 45,
     "stats": [
       {
         "stat_type": "STR",
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 444280,
+    "remaining_fame": 447390,
     "lines": [
       {
         "ability_no": "1",

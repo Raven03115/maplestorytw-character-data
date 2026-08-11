@@ -3470,7 +3470,7 @@
       "item_shape_icon": "https://open.api.nexon.com/static/maplestorytw/item/icon/KEIKLHOB",
       "item_gender": null,
       "item_total_option": {
-        "str": "0",
+        "str": "50",
         "dex": "0",
         "int": "0",
         "luk": "0",
