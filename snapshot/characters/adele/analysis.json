@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-12T17:07:32.801Z",
+    "fetched_at": "2026-08-12T20:58:05.687Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,7 +30,7 @@
     "guild": "BoBing哥"
   },
   "combat_summary": {
-    "combat_power": "15110344",
+    "combat_power": "15909033",
     "main_stat": {
       "name": "STR",
       "value": "29316"
@@ -43,7 +43,7 @@
       "name": "DEX",
       "value": "3002"
     },
-    "attack_power": "1912",
+    "attack_power": "1992",
     "damage": "111.00",
     "boss_damage": "333.00",
     "ignore_defense": "96.48",
@@ -1736,6 +1736,30 @@
         {
           "set_count": 3,
           "set_option": "攻擊力 +10, 魔法攻擊力 +10"
+        }
+      ]
+    },
+    {
+      "set_name": "迷你吉祥物菇菇套組",
+      "equipped_count": 1,
+      "effects": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        },
+        {
+          "set_count": 2,
+          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
+        },
+        {
+          "set_count": 3,
+          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
         }
       ]
     },
