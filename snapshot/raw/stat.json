@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "20511820"
+      "stat_value": "21618202"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "24131551"
+      "stat_value": "25433178"
     },
     {
       "stat_name": "傷害",
@@ -16,11 +16,11 @@
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "429.00"
+      "stat_value": "435.00"
     },
     {
       "stat_name": "最終傷害",
-      "stat_value": "106.22"
+      "stat_value": "112.41"
     },
     {
       "stat_name": "無視防禦率",
@@ -44,11 +44,11 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "48444"
+      "stat_value": "48907"
     },
     {
       "stat_name": "移動速度",
-      "stat_value": "160"
+      "stat_value": "210"
     },
     {
       "stat_name": "跳躍力",
@@ -68,27 +68,27 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "4602"
+      "stat_value": "4579"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "40367"
+      "stat_value": "41231"
     },
     {
       "stat_name": "INT",
-      "stat_value": "2542"
+      "stat_value": "2520"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "2363"
+      "stat_value": "2343"
     },
     {
       "stat_name": "HP",
-      "stat_value": "77581"
+      "stat_value": "77091"
     },
     {
       "stat_name": "MP",
-      "stat_value": "33800"
+      "stat_value": "38055"
     },
     {
       "stat_name": "AP配點STR",
@@ -160,19 +160,19 @@
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "82.50"
+      "stat_value": "89.50"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "3575"
+      "stat_value": "3584"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1132"
+      "stat_value": "1138"
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "53130387"
+      "stat_value": "55845881"
     },
     {
       "stat_name": "召喚獸持續時間增加",
