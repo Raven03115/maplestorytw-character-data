@@ -28,161 +28,6 @@
   ],
   "familiar_info": [
     {
-      "familiar_name": "[★] 煉獄獵犬",
-      "familiar_nickname": "[★] 煉獄獵犬",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "最終傷害 (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "LUK",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "STR",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "奸笑的發芽木妖",
-      "familiar_nickname": "奸笑的發芽木妖",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "LUK",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "4秒內恢復 HP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "大蛇王",
-      "familiar_nickname": "大蛇王",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "全屬性",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "INT",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "紅寶",
-      "familiar_nickname": "紅寶",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "全屬性",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "LUK",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "DEX",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "黃金雪吉拉和企鵝國王",
-      "familiar_nickname": "黃金雪吉拉和企鵝國王",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "4秒內恢復 HP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "DEX",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
       "familiar_name": "紅寶",
       "familiar_nickname": "紅寶",
       "familiar_special_flag": "false",
@@ -338,192 +183,6 @@
       "slot_id": "not link"
     },
     {
-      "familiar_name": "萊西",
-      "familiar_nickname": "萊西",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "最終傷害 (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "防禦力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "巡邏機器人",
-      "familiar_nickname": "巡邏機器人",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "4秒內恢復 HP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "中毒的肥肥",
-      "familiar_nickname": "中毒的肥肥",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "依照角色全部屬性來追加萌獸的攻擊力 (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "爆擊機率 (%)",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "雪吉拉娃娃機",
-      "familiar_nickname": "雪吉拉娃娃機",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "全屬性",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "防禦力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "黑肥肥",
-      "familiar_nickname": "黑肥肥",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "爆擊機率 (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "DEX",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "嫩寶",
-      "familiar_nickname": "嫩寶",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "INT",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
       "familiar_name": "發芽木妖",
       "familiar_nickname": "發芽木妖",
       "familiar_special_flag": "false",
@@ -550,99 +209,6 @@
         }
       ],
       "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "黑暗萊西",
-      "familiar_nickname": "黑暗萊西",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "4秒內恢復 HP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "煩躁的殭屍菇菇",
-      "familiar_nickname": "煩躁的殭屍菇菇",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "LUK",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "4秒內恢復 MP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "抹茶珍奶",
-      "familiar_nickname": "抹茶珍奶",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "最終傷害 (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "暈眩效果",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
       "look_name": null,
       "summoned_flag": "false",
       "slot_id": "not link"
@@ -710,161 +276,6 @@
       "slot_id": "not link"
     },
     {
-      "familiar_name": "橡木甲蟲",
-      "familiar_nickname": "橡木甲蟲",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "4秒內恢復 MP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "綠海馬",
-      "familiar_nickname": "海馬瀨人",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "物理攻擊力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "爆擊機率 (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "魔法攻擊力 (%)",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "BOSS怪物傷害",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "[★] 煉獄獵犬",
-      "familiar_nickname": "[★] 煉獄獵犬",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "LUK",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "大副凱丁",
-      "familiar_nickname": "大副凱丁",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "封印效果",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "DEX",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "斧木妖",
-      "familiar_nickname": "斧木妖",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "攻擊時有3%機率恢復 MP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "物理攻擊力 (%)",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
       "familiar_name": "奇怪的里程碑",
       "familiar_nickname": "奇怪的里程碑",
       "familiar_special_flag": "false",
@@ -887,254 +298,6 @@
         {
           "option_no": 3,
           "option_name": "4秒內恢復 MP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "藍寶",
-      "familiar_nickname": "藍寶",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "緩慢效果",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "攻擊時有3%機率恢復 HP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "BOSS怪物傷害",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "黑龍",
-      "familiar_nickname": "黑龍",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "最終傷害 (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "爆擊機率 (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "DEX",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "喇叭花花盆",
-      "familiar_nickname": "喇叭花花盆",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "防禦力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "幼黃獨角獅",
-      "familiar_nickname": "幼黃獨角獅",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "三眼章魚",
-      "familiar_nickname": "三眼章魚",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "4秒內恢復 HP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "STR",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "幼紅獨角獅",
-      "familiar_nickname": "幼紅獨角獅",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "INT",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "蝙蝠",
-      "familiar_nickname": "蝙蝠",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "LUK",
-          "option_value": "8"
-        },
-        {
-          "option_no": 2,
-          "option_name": "最終傷害 (%)",
-          "option_value": "8"
-        },
-        {
-          "option_no": 3,
-          "option_name": "中毒效果",
-          "option_value": "1000"
-        }
-      ],
-      "familiar_grade": "BOSS怪物傷害",
-      "look_name": null,
-      "summoned_flag": "true",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "殭屍菇菇",
-      "familiar_nickname": "殭屍菇菇",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "攻擊時有3%機率恢復 HP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "LUK",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "防禦力",
           "option_value": "0"
         }
       ],
@@ -1268,967 +431,6 @@
       "slot_id": "not link"
     },
     {
-      "familiar_name": "石面怪人",
-      "familiar_nickname": "石面怪人",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "STR",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "變身娃娃機",
-      "familiar_nickname": "變身娃娃機",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "沼澤爛泥怪物",
-      "familiar_nickname": "沼澤爛泥怪物",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "攻擊時有3%機率恢復 MP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "防禦力 (%)",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "刺菇菇",
-      "familiar_nickname": "刺菇菇",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "LUK",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "4秒內恢復 HP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "黃金雪吉拉和企鵝國王",
-      "familiar_nickname": "黃金雪吉拉和企鵝國王",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "LUK",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "DEX",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "巡邏機器人",
-      "familiar_nickname": "巡邏機器人",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "STR",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "菇菇寶貝",
-      "familiar_nickname": "菇菇寶貝",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "物理攻擊力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "LUK (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "中毒效果",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "金屬甲蟲",
-      "familiar_nickname": "金屬甲蟲",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "LUK",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "LUK",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "防禦力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "大蛇王",
-      "familiar_nickname": "大蛇王",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "防禦力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "紅寶",
-      "familiar_nickname": "紅寶",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "闇黑效果",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "緩慢效果",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "封印效果",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "奇怪的里程碑",
-      "familiar_nickname": "奇怪的里程碑",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "4秒內恢復 HP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "DEX",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "變身娃娃機",
-      "familiar_nickname": "變身娃娃機",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "防禦力 (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "DEX (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "物理攻擊力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "木面怪人",
-      "familiar_nickname": "木面怪人",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "中毒效果",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "物理攻擊力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "LUK",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "BOSS怪物傷害",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "鋰礦穆太",
-      "familiar_nickname": "鋰礦穆太",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "魔法攻擊力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "STR",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "菇菇寶貝",
-      "familiar_nickname": "菇菇寶貝",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "4秒內恢復 MP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "最終傷害 (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "黃金海馬",
-      "familiar_nickname": "黃金海馬",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "防禦力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "斧木妖",
-      "familiar_nickname": "斧木妖",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "中毒效果",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "中毒效果",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "紅寶王",
-      "familiar_nickname": "紅寶王",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "4秒內恢復 HP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "4秒內恢復 HP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "DEX",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "綠海馬",
-      "familiar_nickname": "綠海馬",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "魔法攻擊力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "冰結效果",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "防禦力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "黑肥肥",
-      "familiar_nickname": "黑肥肥",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "攻擊時有3%機率恢復 MP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "闇黑效果",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "BOSS怪物傷害",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "喇叭花花盆",
-      "familiar_nickname": "喇叭花花盆",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "魔法攻擊力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "緞帶肥肥",
-      "familiar_nickname": "緞帶肥肥",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "變身娃娃機",
-      "familiar_nickname": "變身娃娃機",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "爆擊機率 (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "DEX",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "萊西",
-      "familiar_nickname": "萊西",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "LUK",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "暗黑半人馬",
-      "familiar_nickname": "暗黑半人馬",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "LUK",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "全屬性",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "黑龍",
-      "familiar_nickname": "黑龍",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "4秒內恢復 MP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "大副凱丁",
-      "familiar_nickname": "大副凱丁",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "4秒內恢復 MP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "物理攻擊力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "惡魔綿羊",
-      "familiar_nickname": "惡魔綿羊",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "4秒內恢復 MP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "肥肥",
-      "familiar_nickname": "肥肥",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "INT",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "蝙蝠",
-      "familiar_nickname": "蝙蝠",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "INT",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "邪惡綿羊",
-      "familiar_nickname": "邪惡綿羊",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "封印效果",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "4秒內恢復 MP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "BOSS怪物傷害",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
       "familiar_name": "幼藍獨角獅",
       "familiar_nickname": "幼藍獨角獅",
       "familiar_special_flag": "false",
@@ -2291,161 +493,6 @@
       "slot_id": "not link"
     },
     {
-      "familiar_name": "毒菇",
-      "familiar_nickname": "毒菇",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "魔法攻擊力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "防禦力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "泡泡魚",
-      "familiar_nickname": "泡泡魚",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "4秒內恢復 HP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "魔法攻擊力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "斧木妖",
-      "familiar_nickname": "斧木妖",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "緩慢效果",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "物理攻擊力 (%)",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "惡魔綿羊",
-      "familiar_nickname": "惡魔綿羊",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "暈眩效果",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "4秒內恢復 HP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "LUK",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "垃圾桶",
-      "familiar_nickname": "垃圾桶",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "物理攻擊力 (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
       "familiar_name": "雪吉拉娃娃機",
       "familiar_nickname": "雪吉拉娃娃機",
       "familiar_special_flag": "false",
@@ -2472,37 +519,6 @@
         }
       ],
       "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "黃金海馬",
-      "familiar_nickname": "黃金海馬",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "防禦力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
       "look_name": null,
       "summoned_flag": "false",
       "slot_id": "not link"
@@ -2570,68 +586,6 @@
       "slot_id": "not link"
     },
     {
-      "familiar_name": "菇菇寶貝",
-      "familiar_nickname": "菇菇寶貝",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "4秒內恢復 MP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "喇叭花花盆",
-      "familiar_nickname": "喇叭花花盆",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "防禦力 (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "攻擊時有3%機率恢復 MP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
       "familiar_name": "暗獨眼獸",
       "familiar_nickname": "暗獨眼獸",
       "familiar_special_flag": "false",
@@ -2694,8 +648,8 @@
       "slot_id": "not link"
     },
     {
-      "familiar_name": "大蛇王",
-      "familiar_nickname": "大蛇王",
+      "familiar_name": "橡木甲蟲",
+      "familiar_nickname": "橡木甲蟲",
       "familiar_special_flag": "false",
       "familiar_state": "registered",
       "familiar_level": 5,
@@ -2705,28 +659,28 @@
       "option": [
         {
           "option_no": 1,
-          "option_name": "STR",
+          "option_name": "INT",
           "option_value": "0"
         },
         {
           "option_no": 2,
-          "option_name": "封印效果",
+          "option_name": "中毒效果",
           "option_value": "0"
         },
         {
           "option_no": 3,
-          "option_name": "爆擊機率 (%)",
+          "option_name": "中毒效果",
           "option_value": "0"
         }
       ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
+      "familiar_grade": "BOSS怪物傷害",
       "look_name": null,
       "summoned_flag": "false",
       "slot_id": "not link"
     },
     {
-      "familiar_name": "哭泣的藍菇菇",
-      "familiar_nickname": "哭泣的藍菇菇",
+      "familiar_name": "菇菇仔",
+      "familiar_nickname": "菇菇仔",
       "familiar_special_flag": "false",
       "familiar_state": "registered",
       "familiar_level": 5,
@@ -2741,7 +695,162 @@
         },
         {
           "option_no": 2,
-          "option_name": "物理攻擊力",
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "LUK",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "藍菇菇",
+      "familiar_nickname": "藍菇菇",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "冰龍",
+      "familiar_nickname": "冰龍",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "[★] 煉獄獵犬",
+      "familiar_nickname": "[★] 煉獄獵犬",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "爆擊機率 (%)",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "鋼鐵穆太",
+      "familiar_nickname": "鋼鐵穆太",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "4秒內恢復 MP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "4秒內恢復 HP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "LUK",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "頭盔企鵝王",
+      "familiar_nickname": "頭盔企鵝王",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "防禦力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "DEX",
           "option_value": "0"
         },
         {
@@ -2787,39 +896,8 @@
       "slot_id": "not link"
     },
     {
-      "familiar_name": "頭盔企鵝王",
-      "familiar_nickname": "頭盔企鵝王",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "DEX",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "鋼鐵穆太",
-      "familiar_nickname": "鋼鐵穆太",
+      "familiar_name": "哭泣的藍菇菇",
+      "familiar_nickname": "哭泣的藍菇菇",
       "familiar_special_flag": "false",
       "familiar_state": "registered",
       "familiar_level": 5,
@@ -2834,12 +912,12 @@
         },
         {
           "option_no": 2,
-          "option_name": "4秒內恢復 HP",
+          "option_name": "物理攻擊力",
           "option_value": "0"
         },
         {
           "option_no": 3,
-          "option_name": "LUK",
+          "option_name": "DEX",
           "option_value": "0"
         }
       ],
@@ -2849,8 +927,8 @@
       "slot_id": "not link"
     },
     {
-      "familiar_name": "[★] 煉獄獵犬",
-      "familiar_nickname": "[★] 煉獄獵犬",
+      "familiar_name": "大蛇王",
+      "familiar_nickname": "大蛇王",
       "familiar_special_flag": "false",
       "familiar_state": "registered",
       "familiar_level": 5,
@@ -2860,12 +938,12 @@
       "option": [
         {
           "option_no": 1,
-          "option_name": "MaxMP",
+          "option_name": "STR",
           "option_value": "0"
         },
         {
           "option_no": 2,
-          "option_name": "INT",
+          "option_name": "封印效果",
           "option_value": "0"
         },
         {
@@ -2874,14 +952,14 @@
           "option_value": "0"
         }
       ],
-      "familiar_grade": null,
+      "familiar_grade": "攻擊力/魔法攻擊力",
       "look_name": null,
       "summoned_flag": "false",
       "slot_id": "not link"
     },
     {
-      "familiar_name": "沼澤爛泥怪物",
-      "familiar_nickname": "沼澤爛泥怪物",
+      "familiar_name": "喇叭花花盆",
+      "familiar_nickname": "喇叭花花盆",
       "familiar_special_flag": "false",
       "familiar_state": "registered",
       "familiar_level": 5,
@@ -2891,48 +969,17 @@
       "option": [
         {
           "option_no": 1,
-          "option_name": "緩慢效果",
+          "option_name": "防禦力",
           "option_value": "0"
         },
         {
           "option_no": 2,
-          "option_name": "魔法攻擊力",
+          "option_name": "防禦力 (%)",
           "option_value": "0"
         },
         {
           "option_no": 3,
-          "option_name": "全屬性 (%)",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "BOSS怪物傷害",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "小企鵝王娃娃機",
-      "familiar_nickname": "小企鵝王娃娃機",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "最終傷害 (%)",
+          "option_name": "攻擊時有3%機率恢復 MP",
           "option_value": "0"
         }
       ],
@@ -2953,28 +1000,28 @@
       "option": [
         {
           "option_no": 1,
-          "option_name": "封印效果",
+          "option_name": "MaxHP",
           "option_value": "0"
         },
         {
           "option_no": 2,
-          "option_name": "4秒內恢復 MP",
+          "option_name": "防禦力",
           "option_value": "0"
         },
         {
           "option_no": 3,
-          "option_name": "DEX",
+          "option_name": "4秒內恢復 MP",
           "option_value": "0"
         }
       ],
-      "familiar_grade": "攻擊力/魔法攻擊力",
+      "familiar_grade": null,
       "look_name": null,
       "summoned_flag": "false",
       "slot_id": "not link"
     },
     {
-      "familiar_name": "冰龍",
-      "familiar_nickname": "冰龍",
+      "familiar_name": "黃金海馬",
+      "familiar_nickname": "黃金海馬",
       "familiar_special_flag": "false",
       "familiar_state": "registered",
       "familiar_level": 5,
@@ -2984,17 +1031,17 @@
       "option": [
         {
           "option_no": 1,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
           "option_name": "DEX",
           "option_value": "0"
         },
         {
+          "option_no": 2,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
           "option_no": 3,
-          "option_name": "MaxHP",
+          "option_name": "防禦力",
           "option_value": "0"
         }
       ],
@@ -3015,7 +1062,844 @@
       "option": [
         {
           "option_no": 1,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "物理攻擊力 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "惡魔綿羊",
+      "familiar_nickname": "惡魔綿羊",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "暈眩效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "4秒內恢復 HP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "LUK",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "斧木妖",
+      "familiar_nickname": "斧木妖",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
           "option_name": "防禦力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "緩慢效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "物理攻擊力 (%)",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "泡泡魚",
+      "familiar_nickname": "泡泡魚",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "防禦力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "4秒內恢復 HP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "魔法攻擊力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "毒菇",
+      "familiar_nickname": "毒菇",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "魔法攻擊力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "邪惡綿羊",
+      "familiar_nickname": "邪惡綿羊",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "封印效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "4秒內恢復 MP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "BOSS怪物傷害",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "蝙蝠",
+      "familiar_nickname": "蝙蝠",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "防禦力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "INT",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "肥肥",
+      "familiar_nickname": "肥肥",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "INT",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "惡魔綿羊",
+      "familiar_nickname": "惡魔綿羊",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "4秒內恢復 MP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "大副凱丁",
+      "familiar_nickname": "大副凱丁",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "4秒內恢復 MP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "物理攻擊力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "黑龍",
+      "familiar_nickname": "黑龍",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "4秒內恢復 MP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "暗黑半人馬",
+      "familiar_nickname": "暗黑半人馬",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "防禦力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "全屬性",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "萊西",
+      "familiar_nickname": "萊西",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "LUK",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "變身娃娃機",
+      "familiar_nickname": "變身娃娃機",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "爆擊機率 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "DEX",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "緞帶肥肥",
+      "familiar_nickname": "緞帶肥肥",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "喇叭花花盆",
+      "familiar_nickname": "喇叭花花盆",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "魔法攻擊力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "黑肥肥",
+      "familiar_nickname": "黑肥肥",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "攻擊時有3%機率恢復 MP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "闇黑效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "BOSS怪物傷害",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "綠海馬",
+      "familiar_nickname": "綠海馬",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "魔法攻擊力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "冰結效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "紅寶王",
+      "familiar_nickname": "紅寶王",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "4秒內恢復 HP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "4秒內恢復 HP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "DEX",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "斧木妖",
+      "familiar_nickname": "斧木妖",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "中毒效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "中毒效果",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "黃金海馬",
+      "familiar_nickname": "黃金海馬",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "菇菇寶貝",
+      "familiar_nickname": "菇菇寶貝",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "4秒內恢復 MP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "最終傷害 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "鋰礦穆太",
+      "familiar_nickname": "鋰礦穆太",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "魔法攻擊力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "STR",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "木面怪人",
+      "familiar_nickname": "木面怪人",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "中毒效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "物理攻擊力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "LUK",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "BOSS怪物傷害",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "變身娃娃機",
+      "familiar_nickname": "變身娃娃機",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "防禦力 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "DEX (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "物理攻擊力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "奇怪的里程碑",
+      "familiar_nickname": "奇怪的里程碑",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "4秒內恢復 HP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "DEX",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "紅寶",
+      "familiar_nickname": "紅寶",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "闇黑效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "緩慢效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "封印效果",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "大蛇王",
+      "familiar_nickname": "大蛇王",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "DEX",
           "option_value": "0"
         },
         {
@@ -3026,6 +1910,657 @@
         {
           "option_no": 3,
           "option_name": "防禦力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "金屬甲蟲",
+      "familiar_nickname": "金屬甲蟲",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "菇菇寶貝",
+      "familiar_nickname": "菇菇寶貝",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "物理攻擊力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "LUK (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "中毒效果",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "巡邏機器人",
+      "familiar_nickname": "巡邏機器人",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "STR",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "黃金雪吉拉和企鵝國王",
+      "familiar_nickname": "黃金雪吉拉和企鵝國王",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "DEX",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "刺菇菇",
+      "familiar_nickname": "刺菇菇",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "4秒內恢復 HP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "沼澤爛泥怪物",
+      "familiar_nickname": "沼澤爛泥怪物",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "攻擊時有3%機率恢復 MP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力 (%)",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "變身娃娃機",
+      "familiar_nickname": "變身娃娃機",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "石面怪人",
+      "familiar_nickname": "石面怪人",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "STR",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "殭屍菇菇",
+      "familiar_nickname": "殭屍菇菇",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "攻擊時有3%機率恢復 HP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "蝙蝠",
+      "familiar_nickname": "蝙蝠",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "LUK",
+          "option_value": "8"
+        },
+        {
+          "option_no": 2,
+          "option_name": "最終傷害 (%)",
+          "option_value": "8"
+        },
+        {
+          "option_no": 3,
+          "option_name": "中毒效果",
+          "option_value": "1000"
+        }
+      ],
+      "familiar_grade": "BOSS怪物傷害",
+      "look_name": null,
+      "summoned_flag": "true",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "幼紅獨角獅",
+      "familiar_nickname": "幼紅獨角獅",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "INT",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "三眼章魚",
+      "familiar_nickname": "三眼章魚",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "4秒內恢復 HP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "STR",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "幼黃獨角獅",
+      "familiar_nickname": "幼黃獨角獅",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "喇叭花花盆",
+      "familiar_nickname": "喇叭花花盆",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "黑龍",
+      "familiar_nickname": "黑龍",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "最終傷害 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "爆擊機率 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "DEX",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "藍寶",
+      "familiar_nickname": "藍寶",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "緩慢效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "攻擊時有3%機率恢復 HP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "BOSS怪物傷害",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "斧木妖",
+      "familiar_nickname": "斧木妖",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "攻擊時有3%機率恢復 MP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "防禦力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "物理攻擊力 (%)",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "大副凱丁",
+      "familiar_nickname": "大副凱丁",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "封印效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "DEX",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "[★] 煉獄獵犬",
+      "familiar_nickname": "[★] 煉獄獵犬",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "綠海馬",
+      "familiar_nickname": "海馬瀨人",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "物理攻擊力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "爆擊機率 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "魔法攻擊力 (%)",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "BOSS怪物傷害",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "橡木甲蟲",
+      "familiar_nickname": "橡木甲蟲",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "4秒內恢復 MP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "MaxHP",
           "option_value": "0"
         }
       ],
@@ -3046,7 +2581,69 @@
       "option": [
         {
           "option_no": 1,
+          "option_name": "最終傷害 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "暈眩效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "煩躁的殭屍菇菇",
+      "familiar_nickname": "煩躁的殭屍菇菇",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
           "option_name": "4秒內恢復 MP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "黑暗萊西",
+      "familiar_nickname": "黑暗萊西",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "STR",
           "option_value": "0"
         },
         {
@@ -3056,7 +2653,472 @@
         },
         {
           "option_no": 3,
+          "option_name": "4秒內恢復 HP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "嫩寶",
+      "familiar_nickname": "嫩寶",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
           "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "INT",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "黑肥肥",
+      "familiar_nickname": "黑肥肥",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "爆擊機率 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "DEX",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "雪吉拉娃娃機",
+      "familiar_nickname": "雪吉拉娃娃機",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "全屬性",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "中毒的肥肥",
+      "familiar_nickname": "中毒的肥肥",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "依照角色全部屬性來追加萌獸的攻擊力 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "爆擊機率 (%)",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "巡邏機器人",
+      "familiar_nickname": "巡邏機器人",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "4秒內恢復 HP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "萊西",
+      "familiar_nickname": "萊西",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "最終傷害 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "防禦力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "黃金雪吉拉和企鵝國王",
+      "familiar_nickname": "黃金雪吉拉和企鵝國王",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "4秒內恢復 HP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "DEX",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "紅寶",
+      "familiar_nickname": "紅寶",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "全屬性",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "DEX",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "大蛇王",
+      "familiar_nickname": "大蛇王",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "全屬性",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "INT",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "奸笑的發芽木妖",
+      "familiar_nickname": "奸笑的發芽木妖",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "防禦力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "4秒內恢復 HP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "[★] 煉獄獵犬",
+      "familiar_nickname": "[★] 煉獄獵犬",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "最終傷害 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "STR",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "花鯰魚",
+      "familiar_nickname": "花鯰魚",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "獨角尼莫",
+      "familiar_nickname": "獨角尼莫",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "DEX",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "寒冰半人馬",
+      "familiar_nickname": "寒冰半人馬",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "芽芽花盆",
+      "familiar_nickname": "芽芽花盆",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "4秒內恢復 MP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "爆擊機率 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "MaxHP",
           "option_value": "0"
         }
       ],
@@ -3097,70 +3159,8 @@
       "slot_id": "not link"
     },
     {
-      "familiar_name": "暗黑半人馬",
-      "familiar_nickname": "暗黑半人馬",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "STR (%)",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "4秒內恢復 HP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "BOSS怪物傷害",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "藍菇菇",
-      "familiar_nickname": "藍菇菇",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "LUK",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "防禦力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "芽芽花盆",
-      "familiar_nickname": "芽芽花盆",
+      "familiar_name": "抹茶珍奶",
+      "familiar_nickname": "抹茶珍奶",
       "familiar_special_flag": "false",
       "familiar_state": "registered",
       "familiar_level": 5,
@@ -3175,7 +3175,193 @@
         },
         {
           "option_no": 2,
-          "option_name": "爆擊機率 (%)",
+          "option_name": "防禦力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "INT",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "垃圾桶",
+      "familiar_nickname": "垃圾桶",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "防禦力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "菇菇寶貝",
+      "familiar_nickname": "菇菇寶貝",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "封印效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "4秒內恢復 MP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "DEX",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "小企鵝王娃娃機",
+      "familiar_nickname": "小企鵝王娃娃機",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "最終傷害 (%)",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "沼澤爛泥怪物",
+      "familiar_nickname": "沼澤爛泥怪物",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "緩慢效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "魔法攻擊力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "全屬性 (%)",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "BOSS怪物傷害",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "黃金海馬",
+      "familiar_nickname": "黃金海馬",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "防禦力",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "LUK",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "喇叭花花盆",
+      "familiar_nickname": "喇叭花花盆",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 1,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "INT",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "4秒內恢復 MP",
           "option_value": "0"
         },
         {
@@ -3221,8 +3407,8 @@
       "slot_id": "not link"
     },
     {
-      "familiar_name": "喇叭花花盆",
-      "familiar_nickname": "喇叭花花盆",
+      "familiar_name": "暗黑半人馬",
+      "familiar_nickname": "暗黑半人馬",
       "familiar_special_flag": "false",
       "familiar_state": "registered",
       "familiar_level": 5,
@@ -3232,207 +3418,21 @@
       "option": [
         {
           "option_no": 1,
-          "option_name": "INT",
+          "option_name": "防禦力",
           "option_value": "0"
         },
         {
           "option_no": 2,
-          "option_name": "4秒內恢復 MP",
+          "option_name": "STR (%)",
           "option_value": "0"
         },
         {
           "option_no": 3,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "寒冰半人馬",
-      "familiar_nickname": "寒冰半人馬",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "DEX",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "獨角尼莫",
-      "familiar_nickname": "獨角尼莫",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "LUK",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "DEX",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "橡木甲蟲",
-      "familiar_nickname": "橡木甲蟲",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "INT",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "中毒效果",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "中毒效果",
+          "option_name": "4秒內恢復 HP",
           "option_value": "0"
         }
       ],
       "familiar_grade": "BOSS怪物傷害",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "花鯰魚",
-      "familiar_nickname": "花鯰魚",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "MaxMP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "防禦力",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "菇菇仔",
-      "familiar_nickname": "菇菇仔",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "4秒內恢復 MP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "LUK",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "LUK",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
-      "familiar_name": "黃金海馬",
-      "familiar_nickname": "黃金海馬",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 1,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "MaxHP",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "LUK",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": null,
       "look_name": null,
       "summoned_flag": "false",
       "slot_id": "not link"
