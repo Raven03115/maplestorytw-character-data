@@ -4,19 +4,19 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "29601043"
+      "stat_value": "21397179"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "34824755"
+      "stat_value": "25173150"
     },
     {
       "stat_name": "傷害",
-      "stat_value": "76.00"
+      "stat_value": "46.00"
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "485.00"
+      "stat_value": "435.00"
     },
     {
       "stat_name": "最終傷害",
@@ -28,11 +28,11 @@
     },
     {
       "stat_name": "爆擊機率",
-      "stat_value": "164"
+      "stat_value": "143"
     },
     {
       "stat_name": "爆擊傷害",
-      "stat_value": "127.00"
+      "stat_value": "81.00"
     },
     {
       "stat_name": "狀態異常耐性",
@@ -48,7 +48,7 @@
     },
     {
       "stat_name": "移動速度",
-      "stat_value": "210"
+      "stat_value": "160"
     },
     {
       "stat_name": "跳躍力",
@@ -84,7 +84,7 @@
     },
     {
       "stat_name": "HP",
-      "stat_value": "81661"
+      "stat_value": "77581"
     },
     {
       "stat_name": "MP",
@@ -164,11 +164,11 @@
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "4113"
+      "stat_value": "3584"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1399"
+      "stat_value": "1138"
     },
     {
       "stat_name": "戰鬥力",
