@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-13T17:07:05.382Z",
+    "fetched_at": "2026-08-13T22:01:52.232Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -5566,34 +5566,6 @@
         "slot_id": "not link"
       },
       {
-        "name": "總理大臣",
-        "nickname": "總理大臣",
-        "grade": null,
-        "level": 5,
-        "state": "registered",
-        "skill_name": null,
-        "option_level": 5,
-        "options": [
-          {
-            "option_no": 1,
-            "option_name": "INT",
-            "option_value": "0"
-          },
-          {
-            "option_no": 2,
-            "option_name": "最終傷害 (%)",
-            "option_value": "0"
-          },
-          {
-            "option_no": 3,
-            "option_name": "DEX",
-            "option_value": "0"
-          }
-        ],
-        "summoned_flag": "false",
-        "slot_id": "not link"
-      },
-      {
         "name": "膽小的黑肥肥",
         "nickname": "膽小的黑肥肥",
         "grade": null,
@@ -5622,8 +5594,8 @@
         "slot_id": "not link"
       },
       {
-        "name": "綠海馬",
-        "nickname": "綠海馬",
+        "name": "魔龍",
+        "nickname": "魔龍",
         "grade": null,
         "level": 5,
         "state": "registered",
@@ -5632,7 +5604,7 @@
         "options": [
           {
             "option_no": 1,
-            "option_name": "DEX",
+            "option_name": "爆擊機率 (%)",
             "option_value": "0"
           },
           {
@@ -5642,7 +5614,7 @@
           },
           {
             "option_no": 3,
-            "option_name": "DEX",
+            "option_name": "全屬性",
             "option_value": "0"
           }
         ],
@@ -5678,8 +5650,8 @@
         "slot_id": "not link"
       },
       {
-        "name": "魔龍",
-        "nickname": "魔龍",
+        "name": "綠海馬",
+        "nickname": "綠海馬",
         "grade": null,
         "level": 5,
         "state": "registered",
@@ -5688,7 +5660,7 @@
         "options": [
           {
             "option_no": 1,
-            "option_name": "爆擊機率 (%)",
+            "option_name": "DEX",
             "option_value": "0"
           },
           {
@@ -5698,7 +5670,35 @@
           },
           {
             "option_no": 3,
-            "option_name": "全屬性",
+            "option_name": "DEX",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "總理大臣",
+        "nickname": "總理大臣",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "INT",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "最終傷害 (%)",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "DEX",
             "option_value": "0"
           }
         ],
