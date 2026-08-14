@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-14T13:34:10.878Z",
+    "fetched_at": "2026-08-14T15:02:57.696Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,33 +30,33 @@
     "guild": "BoBing哥"
   },
   "combat_summary": {
-    "combat_power": "11063259",
+    "combat_power": "13458330",
     "main_stat": {
       "name": "STR",
-      "value": "29202"
+      "value": "29566"
     },
     "secondary_stat": {
       "name": "DEX",
-      "value": "3039"
+      "value": "3002"
     },
     "sub_stat": {
       "name": "DEX",
-      "value": "3039"
+      "value": "3002"
     },
-    "attack_power": "1882",
+    "attack_power": "1893",
     "damage": "116.00",
-    "boss_damage": "227.00",
-    "ignore_defense": "91.34",
+    "boss_damage": "267.00",
+    "ignore_defense": "94.80",
     "critical_rate": "90",
-    "critical_damage": "57.85",
+    "critical_damage": "71.35",
     "final_damage": "80.69",
-    "buff_duration": "48",
+    "buff_duration": "10",
     "cooldown_reduction": {
       "seconds": "0",
       "percent": "5"
     },
     "arc": "1320",
-    "aut": "150"
+    "aut": "160"
   },
   "weapon_secondary_emblem": [
     {
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 7,
       "force": "70",
-      "growth_count": 2403,
+      "growth_count": 2445,
       "required_growth_count": 581,
       "stat_increase": {
         "str": "1700",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 3,
       "force": "30",
-      "growth_count": 161,
+      "growth_count": 188,
       "required_growth_count": 141,
       "stat_increase": {
         "str": "900",
@@ -1629,12 +1629,12 @@
     },
     {
       "name": "真實符文：奧迪溫",
-      "level": 1,
-      "force": "10",
-      "growth_count": 28,
-      "required_growth_count": 29,
+      "level": 2,
+      "force": "20",
+      "growth_count": 26,
+      "required_growth_count": 76,
       "stat_increase": {
-        "str": "500",
+        "str": "700",
         "dex": "0",
         "int": "0",
         "luk": "0",
@@ -1931,7 +1931,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 223702,
+    "remaining_fame": 224562,
     "lines": [
       {
         "ability_no": "1",
@@ -2342,23 +2342,23 @@
     "level": 8553,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 26,
-    "artifact_exp": 2240,
-    "artifact_point": 10650,
-    "active_raider_preset": 2,
+    "artifact_exp": 2390,
+    "artifact_point": 10800,
+    "active_raider_preset": 1,
     "raider_stats": [
       "增加爆擊機率 4%",
       "增加爆擊傷害 5%",
       "增加無視防禦率 5%",
-      "增加LUK 80",
       "增加無視防禦率 6%",
       "增加經驗值獲得量 10%",
       "增加DEX 80",
       "增加楓幣獲得量 4% ",
       "增加爆擊傷害 5%",
       "增加最大HP 2000",
+      "增加LUK 80",
+      "每當敵人攻擊時70%的機率恢復純HP的8%",
       "增加最大HP 2000",
       "增加最大MP 5%",
-      "增加LUK 80",
       "增加狀態異常耐性 4",
       "增加攻擊BOSS傷害 5%",
       "增加最大HP 5%",
@@ -2368,9 +2368,10 @@
       "增加STR 80",
       "增加召喚獸有效時間 10%",
       "增加STR 80",
-      "增加DEX 80",
+      "增加INT 80",
+      "增加INT 80",
       "增加STR 80",
-      "每當敵人攻擊時70%的機率恢復純HP的8%",
+      "增加DEX 80",
       "增加STR 80",
       "增加STR 80",
       "增加STR 80",
@@ -2384,19 +2385,18 @@
       "增加爆擊機率 4%"
     ],
     "occupied_stats": [
+      "增加攻擊力 14",
+      "增加攻擊BOSS怪物時傷害 40%。",
+      "增加魔力1",
+      "增加STR 75",
+      "增加爆擊傷害 20.00%",
       "增加最大HP 250",
-      "增加加持有效時間 38%",
-      "增加DEX 25",
-      "增加STR 25",
-      "增加爆擊傷害 6.50%",
-      "增加攻擊力 5",
-      "增加獲得經驗值 10.0%",
-      "增加攻擊一般怪物時傷害 40%"
+      "增加無視防禦率 40%"
     ],
     "inner_stats": [
       {
         "stat_field_id": "0",
-        "stat_field_effect": "聯盟最大HP"
+        "stat_field_effect": "聯盟最大MP"
       },
       {
         "stat_field_id": "1",
@@ -2408,23 +2408,23 @@
       },
       {
         "stat_field_id": "3",
-        "stat_field_effect": "聯盟LUK"
+        "stat_field_effect": "聯盟攻擊力"
       },
       {
         "stat_field_id": "4",
-        "stat_field_effect": "聯盟STR"
-      },
-      {
-        "stat_field_id": "5",
-        "stat_field_effect": "聯盟最大MP"
-      },
-      {
-        "stat_field_id": "6",
         "stat_field_effect": "聯盟魔力"
       },
       {
+        "stat_field_id": "5",
+        "stat_field_effect": "聯盟STR"
+      },
+      {
+        "stat_field_id": "6",
+        "stat_field_effect": "聯盟最大HP"
+      },
+      {
         "stat_field_id": "7",
-        "stat_field_effect": "聯盟攻擊力"
+        "stat_field_effect": "聯盟LUK"
       }
     ],
     "artifact_effects": [
