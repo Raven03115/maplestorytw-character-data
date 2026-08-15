@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-15T16:36:22.095Z",
+    "fetched_at": "2026-08-15T17:30:15.508Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,10 +30,10 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "56226792",
+    "combat_power": "53950572",
     "main_stat": {
       "name": "DEX",
-      "value": "41018"
+      "value": "40543"
     },
     "secondary_stat": {
       "name": "STR",
@@ -43,13 +43,13 @@
       "name": "STR",
       "value": "4579"
     },
-    "attack_power": "3858",
+    "attack_power": "3611",
     "damage": "46.00",
-    "boss_damage": "435.00",
+    "boss_damage": "429.00",
     "ignore_defense": "97.54",
-    "critical_rate": "163",
-    "critical_damage": "96.00",
-    "final_damage": "112.41",
+    "critical_rate": "143",
+    "critical_damage": "81.00",
+    "final_damage": "106.22",
     "buff_duration": "60",
     "cooldown_reduction": {
       "seconds": "0",
