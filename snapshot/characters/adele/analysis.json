@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-15T12:54:57.530Z",
+    "fetched_at": "2026-08-15T13:38:00.558Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -43,7 +43,7 @@
       "name": "DEX",
       "value": "3002"
     },
-    "attack_power": "2030",
+    "attack_power": "1992",
     "damage": "111.00",
     "boss_damage": "333.00",
     "ignore_defense": "96.48",
