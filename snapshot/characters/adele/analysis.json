@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-15T18:43:14.182Z",
+    "fetched_at": "2026-08-15T19:29:16.152Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -27,7 +27,7 @@
     "world": "琉德",
     "class": "阿戴爾",
     "level": 270,
-    "guild": "BoBing哥"
+    "guild": null
   },
   "combat_summary": {
     "combat_power": "13469875",
@@ -43,7 +43,7 @@
       "name": "DEX",
       "value": "3002"
     },
-    "attack_power": "1893",
+    "attack_power": "1856",
     "damage": "116.00",
     "boss_damage": "267.00",
     "ignore_defense": "94.80",
