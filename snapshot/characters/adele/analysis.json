@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-16T17:29:36.864Z",
+    "fetched_at": "2026-08-16T18:41:56.539Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -1931,7 +1931,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 455582,
+    "remaining_fame": 457572,
     "lines": [
       {
         "ability_no": "1",
