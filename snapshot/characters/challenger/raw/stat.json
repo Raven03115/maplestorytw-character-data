@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "23884649"
+      "stat_value": "22009372"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "27772846"
+      "stat_value": "25893378"
     },
     {
       "stat_name": "傷害",
@@ -24,15 +24,15 @@
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "96.61"
+      "stat_value": "96.49"
     },
     {
       "stat_name": "爆擊機率",
-      "stat_value": "145"
+      "stat_value": "124"
     },
     {
       "stat_name": "爆擊傷害",
-      "stat_value": "97.00"
+      "stat_value": "80.00"
     },
     {
       "stat_name": "狀態異常耐性",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "48245"
+      "stat_value": "47893"
     },
     {
       "stat_name": "移動速度",
@@ -68,27 +68,27 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "4486"
+      "stat_value": "4467"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "40216"
+      "stat_value": "40105"
     },
     {
       "stat_name": "INT",
-      "stat_value": "2484"
+      "stat_value": "2467"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "2347"
+      "stat_value": "2330"
     },
     {
       "stat_name": "HP",
-      "stat_value": "100608"
+      "stat_value": "82440"
     },
     {
       "stat_name": "MP",
-      "stat_value": "48469"
+      "stat_value": "36597"
     },
     {
       "stat_name": "AP配點STR",
@@ -116,7 +116,7 @@
     },
     {
       "stat_name": "道具掉落率",
-      "stat_value": "144"
+      "stat_value": "120"
     },
     {
       "stat_name": "楓幣獲得量",
@@ -156,19 +156,19 @@
     },
     {
       "stat_name": "武器熟練度",
-      "stat_value": "86"
+      "stat_value": "85"
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "224.50"
+      "stat_value": "129.50"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "4012"
+      "stat_value": "3751"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1330"
+      "stat_value": "1203"
     },
     {
       "stat_name": "戰鬥力",
