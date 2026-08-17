@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-17T17:37:36.587Z",
+    "fetched_at": "2026-08-17T18:53:16.926Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 5,
       "force": "50",
-      "growth_count": 497,
+      "growth_count": 524,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 1017863,
+    "remaining_fame": 1020393,
     "lines": [
       {
         "ability_no": "1",
