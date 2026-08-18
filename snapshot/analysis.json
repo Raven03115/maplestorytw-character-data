@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-18T18:51:49.711Z",
+    "fetched_at": "2026-08-18T19:35:10.758Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -33,19 +33,19 @@
     "combat_power": "56437774",
     "main_stat": {
       "name": "DEX",
-      "value": "41156"
+      "value": "41211"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4607"
+      "value": "4629"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4607"
+      "value": "4629"
     },
-    "attack_power": "4194",
+    "attack_power": "4145",
     "damage": "76.00",
-    "boss_damage": "510.00",
+    "boss_damage": "500.00",
     "ignore_defense": "97.98",
     "critical_rate": "169",
     "critical_damage": "128.00",
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 1036633,
+    "remaining_fame": 1041633,
     "lines": [
       {
         "ability_no": "1",
@@ -2183,9 +2183,9 @@
     {
       "core_name": "連接繩索",
       "core_type": "共用核心",
-      "core_level": 12,
+      "core_level": 24,
       "slot_enhancement": 0,
-      "total_level": 12,
+      "total_level": 24,
       "slot_position": "9"
     },
     {
