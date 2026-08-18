@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-18T17:37:26.122Z",
+    "fetched_at": "2026-08-18T18:51:49.711Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -33,22 +33,22 @@
     "combat_power": "56437774",
     "main_stat": {
       "name": "DEX",
-      "value": "41018"
+      "value": "41156"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4579"
+      "value": "4607"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4579"
+      "value": "4607"
     },
-    "attack_power": "3632",
-    "damage": "46.00",
-    "boss_damage": "435.00",
-    "ignore_defense": "97.54",
-    "critical_rate": "148",
-    "critical_damage": "81.00",
+    "attack_power": "4194",
+    "damage": "76.00",
+    "boss_damage": "510.00",
+    "ignore_defense": "97.98",
+    "critical_rate": "169",
+    "critical_damage": "128.00",
     "final_damage": "112.41",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 1021633,
+    "remaining_fame": 1036633,
     "lines": [
       {
         "ability_no": "1",
@@ -2301,7 +2301,7 @@
     {
       "core_name": "指令VI",
       "core_type": "精通核心",
-      "core_level": 17
+      "core_level": 18
     },
     {
       "core_name": "另一個咬擊VI/終極攻擊VI/陷阱散佈器VI",
