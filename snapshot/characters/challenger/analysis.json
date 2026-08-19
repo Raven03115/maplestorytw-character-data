@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-19T19:34:05.305Z",
+    "fetched_at": "2026-08-19T21:35:18.543Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,25 +30,25 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "48197709",
+    "combat_power": "48302066",
     "main_stat": {
       "name": "DEX",
-      "value": "40299"
+      "value": "40344"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4489"
+      "value": "4508"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4489"
+      "value": "4508"
     },
-    "attack_power": "3751",
+    "attack_power": "4000",
     "damage": "46.00",
     "boss_damage": "361.00",
     "ignore_defense": "96.49",
-    "critical_rate": "129",
-    "critical_damage": "80.00",
+    "critical_rate": "149",
+    "critical_damage": "95.00",
     "final_damage": "112.41",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 6,
       "force": "60",
-      "growth_count": 2182,
+      "growth_count": 2224,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 6,
       "force": "60",
-      "growth_count": 922,
+      "growth_count": 949,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 5,
       "force": "50",
-      "growth_count": 1149,
+      "growth_count": 1176,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 5,
       "force": "50",
-      "growth_count": 551,
+      "growth_count": 578,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 1367213,
+    "remaining_fame": 1369347,
     "lines": [
       {
         "ability_no": "1",

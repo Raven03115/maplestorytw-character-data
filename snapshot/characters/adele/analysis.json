@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-19T19:34:11.093Z",
+    "fetched_at": "2026-08-19T21:35:25.489Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -2342,7 +2342,7 @@
     "level": 8553,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 27,
-    "artifact_exp": 840,
+    "artifact_exp": 940,
     "artifact_point": 12700,
     "active_raider_preset": 2,
     "raider_stats": [
@@ -2354,12 +2354,12 @@
       "增加經驗值獲得量 10%",
       "增加DEX 80",
       "增加楓幣獲得量 4% ",
-      "增加狀態異常耐性 4",
       "增加爆擊傷害 5%",
       "增加最大HP 2000",
       "增加最大HP 2000",
       "增加最大MP 5%",
       "增加LUK 80",
+      "增加狀態異常耐性 4",
       "增加攻擊BOSS傷害 5%",
       "增加最大HP 5%",
       "增加DEX 80",
