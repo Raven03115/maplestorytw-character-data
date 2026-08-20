@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-20T16:46:52.852Z",
+    "fetched_at": "2026-08-20T17:39:01.310Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,10 +30,10 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "46336030",
+    "combat_power": "48302066",
     "main_stat": {
       "name": "DEX",
-      "value": "39824"
+      "value": "40366"
     },
     "secondary_stat": {
       "name": "STR",
@@ -43,13 +43,13 @@
       "name": "STR",
       "value": "4489"
     },
-    "attack_power": "3654",
+    "attack_power": "3681",
     "damage": "46.00",
-    "boss_damage": "355.00",
-    "ignore_defense": "96.49",
+    "boss_damage": "361.00",
+    "ignore_defense": "96.61",
     "critical_rate": "129",
-    "critical_damage": "80.00",
-    "final_damage": "106.22",
+    "critical_damage": "81.00",
+    "final_damage": "112.41",
     "buff_duration": "60",
     "cooldown_reduction": {
       "seconds": "0",
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 6,
       "force": "60",
-      "growth_count": 2224,
+      "growth_count": 2266,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 6,
       "force": "60",
-      "growth_count": 949,
+      "growth_count": 976,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 5,
       "force": "50",
-      "growth_count": 1176,
+      "growth_count": 1203,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 5,
       "force": "50",
-      "growth_count": 578,
+      "growth_count": 605,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -2016,7 +2016,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 1369347,
+    "remaining_fame": 1371797,
     "lines": [
       {
         "ability_no": "1",
@@ -2331,7 +2331,7 @@
     {
       "core_name": "靈魂赫卡忒",
       "core_type": "共用核心",
-      "core_level": 3
+      "core_level": 4
     }
   ],
   "hexamatrix_stat": {
