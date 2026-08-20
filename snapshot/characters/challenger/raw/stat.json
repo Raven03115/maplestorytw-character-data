@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "21994021"
+      "stat_value": "21597044"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "25574441"
+      "stat_value": "25408285"
     },
     {
       "stat_name": "傷害",
@@ -24,7 +24,7 @@
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "96.61"
+      "stat_value": "96.49"
     },
     {
       "stat_name": "爆擊機率",
@@ -32,7 +32,7 @@
     },
     {
       "stat_name": "爆擊傷害",
-      "stat_value": "81.00"
+      "stat_value": "80.00"
     },
     {
       "stat_name": "狀態異常耐性",
@@ -44,11 +44,11 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "50056"
+      "stat_value": "50015"
     },
     {
       "stat_name": "移動速度",
-      "stat_value": "210"
+      "stat_value": "160"
     },
     {
       "stat_name": "跳躍力",
@@ -72,7 +72,7 @@
     },
     {
       "stat_name": "DEX",
-      "stat_value": "40366"
+      "stat_value": "40299"
     },
     {
       "stat_name": "INT",
@@ -84,11 +84,11 @@
     },
     {
       "stat_name": "HP",
-      "stat_value": "96888"
+      "stat_value": "79890"
     },
     {
       "stat_name": "MP",
-      "stat_value": "47604"
+      "stat_value": "36597"
     },
     {
       "stat_name": "AP配點STR",
@@ -156,7 +156,7 @@
     },
     {
       "stat_name": "武器熟練度",
-      "stat_value": "86"
+      "stat_value": "85"
     },
     {
       "stat_name": "獲得額外經驗值",
@@ -164,11 +164,11 @@
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "3681"
+      "stat_value": "3663"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1172"
+      "stat_value": "1162"
     },
     {
       "stat_name": "戰鬥力",
