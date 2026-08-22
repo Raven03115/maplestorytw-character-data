@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "10847009"
+      "stat_value": "10808071"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "12052230"
+      "stat_value": "12008965"
     },
     {
       "stat_name": "傷害",
@@ -16,7 +16,7 @@
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "227.00"
+      "stat_value": "222.00"
     },
     {
       "stat_name": "最終傷害",
@@ -160,15 +160,15 @@
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "60.00"
+      "stat_value": "55.00"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "1950"
+      "stat_value": "1943"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "667"
+      "stat_value": "662"
     },
     {
       "stat_name": "戰鬥力",
