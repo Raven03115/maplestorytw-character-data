@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-22T08:41:43.940Z",
+    "fetched_at": "2026-08-22T09:36:40.436Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,10 +30,10 @@
     "guild": "薄冰"
   },
   "combat_summary": {
-    "combat_power": "13270638",
+    "combat_power": "12657561",
     "main_stat": {
       "name": "STR",
-      "value": "29745"
+      "value": "29778"
     },
     "secondary_stat": {
       "name": "DEX",
@@ -43,13 +43,13 @@
       "name": "DEX",
       "value": "3000"
     },
-    "attack_power": "2026",
-    "damage": "117.00",
+    "attack_power": "1943",
+    "damage": "120.00",
     "boss_damage": "222.00",
-    "ignore_defense": "92.81",
-    "critical_rate": "101",
-    "critical_damage": "79.35",
-    "final_damage": "93.01",
+    "ignore_defense": "91.34",
+    "critical_rate": "90",
+    "critical_damage": "71.35",
+    "final_damage": "80.69",
     "buff_duration": "10",
     "cooldown_reduction": {
       "seconds": "0",
@@ -1736,30 +1736,6 @@
         {
           "set_count": 3,
           "set_option": "攻擊力 +10, 魔法攻擊力 +10"
-        }
-      ]
-    },
-    {
-      "set_name": "迷你吉祥物菇菇套組",
-      "equipped_count": 1,
-      "effects": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        }
-      ],
-      "full_set_options": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        },
-        {
-          "set_count": 2,
-          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
-        },
-        {
-          "set_count": 3,
-          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
         }
       ]
     },
