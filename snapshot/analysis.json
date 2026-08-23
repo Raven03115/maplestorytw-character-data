@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-23T12:57:41.838Z",
+    "fetched_at": "2026-08-23T13:40:19.269Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,25 +30,25 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "58576288",
+    "combat_power": "59449062",
     "main_stat": {
       "name": "DEX",
-      "value": "42426"
+      "value": "42560"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4382"
+      "value": "4414"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4382"
+      "value": "4414"
     },
-    "attack_power": "3894",
+    "attack_power": "3690",
     "damage": "46.00",
     "boss_damage": "435.00",
     "ignore_defense": "97.54",
-    "critical_rate": "169",
-    "critical_damage": "97.00",
+    "critical_rate": "148",
+    "critical_damage": "81.00",
     "final_damage": "112.41",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -318,7 +318,7 @@
       "equipment_type": "耳環",
       "name": "頂級培羅德耳環",
       "starforce": "17",
-      "scroll_upgrade": "5",
+      "scroll_upgrade": "8",
       "potential_grade": "傳說",
       "potential_lines": [
         "道具掉落率 +20%",
@@ -798,7 +798,7 @@
       "equipment_type": "戒指",
       "name": "頂級培羅德戒指",
       "starforce": "17",
-      "scroll_upgrade": "0",
+      "scroll_upgrade": "3",
       "potential_grade": "傳說",
       "potential_lines": [
         "DEX +12%",
