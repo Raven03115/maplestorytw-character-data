@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-25T04:49:03.441Z",
+    "fetched_at": "2026-08-25T11:37:08.658Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -33,22 +33,22 @@
     "combat_power": "50772142",
     "main_stat": {
       "name": "DEX",
-      "value": "41779"
+      "value": "41889"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4303"
+      "value": "4320"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4303"
+      "value": "4320"
     },
-    "attack_power": "3713",
+    "attack_power": "4075",
     "damage": "46.00",
     "boss_damage": "361.00",
-    "ignore_defense": "96.49",
-    "critical_rate": "129",
-    "critical_damage": "80.00",
+    "ignore_defense": "96.61",
+    "critical_rate": "150",
+    "critical_damage": "97.00",
     "final_damage": "112.41",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -1276,7 +1276,7 @@
     {
       "part": "墜飾2",
       "equipment_type": "墜飾",
-      "name": "準備好的精靈墜飾",
+      "name": "精靈墜飾",
       "starforce": "0",
       "scroll_upgrade": "0",
       "potential_grade": null,
@@ -2030,7 +2030,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 1388283,
+    "remaining_fame": 1689003,
     "lines": [
       {
         "ability_no": "1",

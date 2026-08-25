@@ -3043,11 +3043,11 @@
     {
       "item_equipment_part": "墜飾",
       "item_equipment_slot": "墜飾2",
-      "item_name": "準備好的精靈墜飾",
-      "item_icon": "https://open.api.nexon.com/static/maplestorytw/item/icon/KEOAJENF",
+      "item_name": "精靈墜飾",
+      "item_icon": "https://open.api.nexon.com/static/maplestorytw/item/icon/KEOAJFPE",
       "item_description": "裝備時可獲得30%額外經驗□效果。",
-      "item_shape_name": "準備好的精靈墜飾",
-      "item_shape_icon": "https://open.api.nexon.com/static/maplestorytw/item/icon/KEOAJENF",
+      "item_shape_name": "精靈墜飾",
+      "item_shape_icon": "https://open.api.nexon.com/static/maplestorytw/item/icon/KEOAJFPE",
       "item_gender": null,
       "item_total_option": {
         "str": "0",
@@ -3169,7 +3169,7 @@
         "jump": "0"
       },
       "special_ring_level": 0,
-      "date_expire": "2026-08-25T09:00+08:00",
+      "date_expire": "2026-09-08T19:24+08:00",
       "freestyle_flag": "0"
     },
     {
@@ -7139,11 +7139,11 @@
     {
       "item_equipment_part": "墜飾",
       "item_equipment_slot": "墜飾2",
-      "item_name": "準備好的精靈墜飾",
-      "item_icon": "https://open.api.nexon.com/static/maplestorytw/item/icon/KEOAJENF",
+      "item_name": "精靈墜飾",
+      "item_icon": "https://open.api.nexon.com/static/maplestorytw/item/icon/KEOAJFPE",
       "item_description": "裝備時可獲得30%額外經驗□效果。",
-      "item_shape_name": "準備好的精靈墜飾",
-      "item_shape_icon": "https://open.api.nexon.com/static/maplestorytw/item/icon/KEOAJENF",
+      "item_shape_name": "精靈墜飾",
+      "item_shape_icon": "https://open.api.nexon.com/static/maplestorytw/item/icon/KEOAJFPE",
       "item_gender": null,
       "item_total_option": {
         "str": "0",
@@ -7265,7 +7265,7 @@
         "jump": "0"
       },
       "special_ring_level": 0,
-      "date_expire": "2026-08-25T09:00+08:00",
+      "date_expire": "2026-09-08T19:24+08:00",
       "freestyle_flag": "0"
     },
     {
