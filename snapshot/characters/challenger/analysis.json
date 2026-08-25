@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-25T13:06:00.231Z",
+    "fetched_at": "2026-08-25T14:00:07.982Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -43,12 +43,12 @@
       "name": "STR",
       "value": "4444"
     },
-    "attack_power": "4307",
+    "attack_power": "6072",
     "damage": "106.00",
     "boss_damage": "510.00",
     "ignore_defense": "97.99",
     "critical_rate": "169",
-    "critical_damage": "128.00",
+    "critical_damage": "212.50",
     "final_damage": "112.41",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -2030,7 +2030,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 1694543,
+    "remaining_fame": 1704543,
     "lines": [
       {
         "ability_no": "1",
@@ -2295,7 +2295,7 @@
     {
       "core_name": "絕對美洲豹時間",
       "core_type": "技能核心",
-      "core_level": 1
+      "core_level": 2
     },
     {
       "core_name": "齒輪風暴",
