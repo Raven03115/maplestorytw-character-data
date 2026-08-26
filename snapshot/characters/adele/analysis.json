@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-26T16:26:31.343Z",
+    "fetched_at": "2026-08-26T19:14:45.613Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,10 +30,10 @@
     "guild": "薄冰"
   },
   "combat_summary": {
-    "combat_power": "12979726",
+    "combat_power": "10829395",
     "main_stat": {
       "name": "STR",
-      "value": "29618"
+      "value": "29468"
     },
     "secondary_stat": {
       "name": "DEX",
@@ -43,13 +43,13 @@
       "name": "DEX",
       "value": "2852"
     },
-    "attack_power": "1945",
-    "damage": "99.00",
-    "boss_damage": "278.00",
-    "ignore_defense": "92.66",
-    "critical_rate": "95",
-    "critical_damage": "72.35",
-    "final_damage": "80.69",
+    "attack_power": "1996",
+    "damage": "104.00",
+    "boss_damage": "212.00",
+    "ignore_defense": "89.17",
+    "critical_rate": "90",
+    "critical_damage": "67.35",
+    "final_damage": "67.31",
     "buff_duration": "10",
     "cooldown_reduction": {
       "seconds": "0",
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 7,
       "force": "70",
-      "growth_count": 2823,
+      "growth_count": 2865,
       "required_growth_count": 581,
       "stat_increase": {
         "str": "1700",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 3,
       "force": "30",
-      "growth_count": 432,
+      "growth_count": 459,
       "required_growth_count": 141,
       "stat_increase": {
         "str": "900",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 3,
       "force": "30",
-      "growth_count": 193,
+      "growth_count": 220,
       "required_growth_count": 141,
       "stat_increase": {
         "str": "900",
@@ -1819,15 +1819,15 @@
     }
   ],
   "hyper_stat": {
-    "active_preset": "1",
+    "active_preset": "2",
     "available_points": 1202,
-    "remaining_points": 59,
+    "remaining_points": 34,
     "stats": [
       {
         "stat_type": "STR",
-        "stat_point": 25,
-        "stat_level": 5,
-        "stat_increase": "力量增加 150"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "DEX",
@@ -1873,15 +1873,15 @@
       },
       {
         "stat_type": "爆擊傷害",
-        "stat_point": 200,
-        "stat_level": 11,
-        "stat_increase": "爆擊傷害11%增加"
+        "stat_point": 150,
+        "stat_level": 10,
+        "stat_increase": "爆擊傷害10%增加"
       },
       {
         "stat_type": "無視防禦率",
-        "stat_point": 345,
-        "stat_level": 13,
-        "stat_increase": "無視防禦率增加 39%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "傷害",
@@ -1891,9 +1891,9 @@
       },
       {
         "stat_type": "Boss傷害",
-        "stat_point": 345,
-        "stat_level": 13,
-        "stat_increase": "攻擊Boss怪物時，傷害增加 47%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "異常狀態耐性",
@@ -1903,15 +1903,15 @@
       },
       {
         "stat_type": "攻擊力／魔力",
-        "stat_point": 25,
-        "stat_level": 5,
-        "stat_increase": "增加攻擊力與魔力15"
-      },
-      {
-        "stat_type": "獲得經驗值",
         "stat_point": null,
         "stat_level": 0,
         "stat_increase": null
+      },
+      {
+        "stat_type": "獲得經驗值",
+        "stat_point": 550,
+        "stat_level": 15,
+        "stat_increase": "獲得經驗值提高10.0%"
       },
       {
         "stat_type": "神祕力量",
@@ -1921,9 +1921,9 @@
       },
       {
         "stat_type": "一般傷害",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 265,
+        "stat_level": 12,
+        "stat_increase": "攻擊一般怪物時傷害增加43%"
       }
     ]
   },
@@ -1931,7 +1931,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 667702,
+    "remaining_fame": 667990,
     "lines": [
       {
         "ability_no": "1",
@@ -2278,9 +2278,14 @@
   },
   "link_skills": [
     {
-      "skill_name": "惡魔之怒",
+      "skill_name": "大自然夥伴",
       "skill_level": 2,
-      "skill_effect": "攻擊BOSS怪物時傷害增加 15%"
+      "skill_effect": "傷害5%增加\\n擊退一般怪物20隻時，發動大自然的幫助。大自然的幫助發動時，30秒內攻擊一般怪物時傷害增加11%\\n冷卻時間30秒"
+    },
+    {
+      "skill_name": "自信心",
+      "skill_level": 2,
+      "skill_effect": "無視防禦率增加10%，攻擊HP為100%的怪物時傷害增加14%"
     },
     {
       "skill_name": "狂暴鬥氣",
@@ -2288,14 +2293,19 @@
       "skill_effect": "傷害增加10%"
     },
     {
-      "skill_name": "判斷",
+      "skill_name": "事前準備",
       "skill_level": 2,
-      "skill_effect": "增加爆擊傷害4%"
+      "skill_effect": "解決敵人8名，或攻擊BOSS怪物5次時，完成事前準備1次，完成5次事前準備時，連續20秒傷害增加17%。\\n冷卻時間40秒"
     },
     {
-      "skill_name": "紫扇傳授",
+      "skill_name": "探險家的好奇心",
+      "skill_level": 6,
+      "skill_effect": "增加怪物收藏登錄率35%、爆擊機率10%"
+    },
+    {
+      "skill_name": "連續擊殺優勢",
       "skill_level": 2,
-      "skill_effect": "發動攻擊技能40次時滿足條件\\n[紫扇傳授]：12秒內傷害增加15%"
+      "skill_effect": "連續擊殺之珠經驗值獲得量永久增加650%"
     },
     {
       "skill_name": "無我",
@@ -2303,46 +2313,36 @@
       "skill_effect": "戰鬥狀態若持續 5秒就會發動，最多可重疊 5次，持續時間 5秒。\\n發動時傷害增加 1%，每重疊傷害追加增加 2%"
     },
     {
-      "skill_name": "實戰的知識",
-      "skill_level": 6,
-      "skill_effect": "以25%機率掌握發動攻擊的敵人的弱點。掌握的弱點將持續10秒，最多疊加至3層。\\n每疊加1層，傷害增加3%、無視防禦率增加3%"
+      "skill_name": "紫扇傳授",
+      "skill_level": 2,
+      "skill_effect": "發動攻擊技能40次時滿足條件\\n[紫扇傳授]：12秒內傷害增加15%"
     },
     {
-      "skill_name": "靈魂契約",
+      "skill_name": "精靈的祝福",
       "skill_level": 2,
-      "skill_effect": "10秒間傷害增加 45%\\n冷卻時間60秒"
+      "skill_effect": "使用時返回櫻花處\\n冷卻時間1800秒\\n[被動效果：經驗值獲得量增加15%]"
     },
     {
-      "skill_name": "致命本能",
+      "skill_name": "輪之堅持",
       "skill_level": 2,
-      "skill_effect": "爆擊機率增加 15% "
-    },
-    {
-      "skill_name": "氣魄",
-      "skill_level": 2,
-      "skill_effect": "每當攻擊BOSS怪物時傷害提升4%，攻擊對象若為BOSS怪物，每當攻擊成功時會額外增加2%，最大可重疊6次，重疊於2秒發動一次，持續時間5秒。"
-    },
-    {
-      "skill_name": "集中狂攻",
-      "skill_level": 2,
-      "skill_effect": "攻擊比角色等級低的怪物時傷害增加6%，攻擊狀態異常的怪物時傷害增加6%"
-    },
-    {
-      "skill_name": "事前準備",
-      "skill_level": 2,
-      "skill_effect": "解決敵人8名，或攻擊BOSS怪物5次時，完成事前準備1次，完成5次事前準備時，連續20秒傷害增加17%。\\n冷卻時間40秒"
+      "skill_effect": "解放的輪之力有效時間增加50%。"
     },
     {
       "skill_name": "精靈集中",
       "skill_level": 2,
       "skill_effect": "Boss怪攻擊力增加7%\\n爆擊機率增加7%\\n最大增加HP 4%\\n最大增加MP 4%"
+    },
+    {
+      "skill_name": "實戰的知識",
+      "skill_level": 6,
+      "skill_effect": "以25%機率掌握發動攻擊的敵人的弱點。掌握的弱點將持續10秒，最多疊加至3層。\\n每疊加1層，傷害增加3%、無視防禦率增加3%"
     }
   ],
   "union_summary": {
     "level": 8580,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 27,
-    "artifact_exp": 3240,
+    "artifact_exp": 3340,
     "artifact_point": 12700,
     "active_raider_preset": 2,
     "raider_stats": [
@@ -3432,20 +3432,20 @@
           {
             "option_no": 1,
             "option_name": "LUK",
-            "option_value": "8"
+            "option_value": "0"
           },
           {
             "option_no": 2,
             "option_name": "最終傷害 (%)",
-            "option_value": "8"
+            "option_value": "0"
           },
           {
             "option_no": 3,
             "option_name": "中毒效果",
-            "option_value": "1000"
+            "option_value": "0"
           }
         ],
-        "summoned_flag": "true",
+        "summoned_flag": "false",
         "slot_id": "not link"
       },
       {
