@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-26T11:38:48.650Z",
+    "fetched_at": "2026-08-26T16:26:25.167Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,10 +30,10 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "59342941",
+    "combat_power": "59524529",
     "main_stat": {
       "name": "DEX",
-      "value": "42551"
+      "value": "42485"
     },
     "secondary_stat": {
       "name": "STR",
@@ -43,12 +43,12 @@
       "name": "STR",
       "value": "4414"
     },
-    "attack_power": "3936",
+    "attack_power": "3701",
     "damage": "46.00",
     "boss_damage": "435.00",
-    "ignore_defense": "97.64",
-    "critical_rate": "169",
-    "critical_damage": "98.00",
+    "ignore_defense": "97.56",
+    "critical_rate": "148",
+    "critical_damage": "81.00",
     "final_damage": "112.41",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -807,9 +807,9 @@
       ],
       "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        "跳躍力 +6",
-        "物理攻擊力 +3",
-        "MaxHP +60"
+        "物理攻擊力 +10",
+        "防禦力 +60",
+        "MaxMP +60"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 6,
       "force": "60",
-      "growth_count": 2434,
+      "growth_count": 2476,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 6,
       "force": "60",
-      "growth_count": 1084,
+      "growth_count": 1111,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 5,
       "force": "50",
-      "growth_count": 1311,
+      "growth_count": 1338,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 5,
       "force": "50",
-      "growth_count": 713,
+      "growth_count": 740,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1659,7 +1659,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 3,
       "force": "30",
-      "growth_count": 105,
+      "growth_count": 132,
       "required_growth_count": 141,
       "stat_increase": {
         "str": "0",
@@ -2030,7 +2030,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 1737043,
+    "remaining_fame": 1737143,
     "lines": [
       {
         "ability_no": "1",
