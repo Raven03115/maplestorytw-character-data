@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-27T09:30:12.816Z",
+    "fetched_at": "2026-08-27T20:20:12.220Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,10 +30,10 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "51129004",
+    "combat_power": "51687020",
     "main_stat": {
       "name": "DEX",
-      "value": "41706"
+      "value": "41906"
     },
     "secondary_stat": {
       "name": "STR",
@@ -43,7 +43,7 @@
       "name": "STR",
       "value": "4303"
     },
-    "attack_power": "3742",
+    "attack_power": "3762",
     "damage": "46.00",
     "boss_damage": "361.00",
     "ignore_defense": "96.51",
@@ -56,7 +56,7 @@
       "percent": "5"
     },
     "arc": "1450",
-    "aut": "360"
+    "aut": "370"
   },
   "weapon_secondary_emblem": [
     {
@@ -232,8 +232,8 @@
       "additional_potential_grade": "特殊",
       "additional_potential_lines": [
         "物理攻擊力 +11",
-        "MaxHP +60",
-        "LUK +6"
+        "防禦力 +60",
+        "物理攻擊力 +3"
       ],
       "flame_additional_options": {
         "str": "42",
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 6,
       "force": "60",
-      "growth_count": 2518,
+      "growth_count": 2560,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 6,
       "force": "60",
-      "growth_count": 1138,
+      "growth_count": 1165,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 5,
       "force": "50",
-      "growth_count": 1365,
+      "growth_count": 1392,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 5,
       "force": "50",
-      "growth_count": 767,
+      "growth_count": 794,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1657,13 +1657,13 @@
     },
     {
       "name": "真實符文：阿爾特利亞",
-      "level": 3,
-      "force": "30",
-      "growth_count": 559,
-      "required_growth_count": 141,
+      "level": 4,
+      "force": "40",
+      "growth_count": 445,
+      "required_growth_count": 224,
       "stat_increase": {
         "str": "0",
-        "dex": "900",
+        "dex": "1100",
         "int": "0",
         "luk": "0",
         "hp": "0"
@@ -2034,7 +2034,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 1738083,
+    "remaining_fame": 1741533,
     "lines": [
       {
         "ability_no": "1",
@@ -2169,9 +2169,9 @@
     {
       "core_name": "艾爾達斯的新星",
       "core_type": "共用核心",
-      "core_level": 5,
+      "core_level": 29,
       "slot_enhancement": 0,
-      "total_level": 5,
+      "total_level": 29,
       "slot_position": "5"
     },
     {
@@ -2304,7 +2304,7 @@
     {
       "core_name": "齒輪風暴",
       "core_type": "技能核心",
-      "core_level": 1
+      "core_level": 2
     },
     {
       "core_name": "狂野機關砲：巔峰VI",
@@ -2314,7 +2314,7 @@
     {
       "core_name": "助攻VI",
       "core_type": "精通核心",
-      "core_level": 18
+      "core_level": 19
     },
     {
       "core_name": "指令VI",
@@ -2329,7 +2329,7 @@
     {
       "core_name": "指令：掠食者之眼",
       "core_type": "強化核心",
-      "core_level": 1
+      "core_level": 11
     },
     {
       "core_name": "狂暴咬擊",

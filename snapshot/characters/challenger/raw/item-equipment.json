@@ -192,8 +192,8 @@
       "potential_option_3": "DEX +10%",
       "additional_potential_option_flag": "false",
       "additional_potential_option_1": "物理攻擊力 +11",
-      "additional_potential_option_2": "MaxHP +60",
-      "additional_potential_option_3": "LUK +6",
+      "additional_potential_option_2": "防禦力 +60",
+      "additional_potential_option_3": "物理攻擊力 +3",
       "equipment_level_increase": 0,
       "item_exceptional_option": {
         "str": "0",
@@ -3890,8 +3890,8 @@
       "potential_option_3": "DEX +10%",
       "additional_potential_option_flag": "false",
       "additional_potential_option_1": "物理攻擊力 +11",
-      "additional_potential_option_2": "MaxHP +60",
-      "additional_potential_option_3": "LUK +6",
+      "additional_potential_option_2": "防禦力 +60",
+      "additional_potential_option_3": "物理攻擊力 +3",
       "equipment_level_increase": 0,
       "item_exceptional_option": {
         "str": "0",
@@ -7456,8 +7456,8 @@
       "potential_option_3": "DEX +10%",
       "additional_potential_option_flag": "false",
       "additional_potential_option_1": "物理攻擊力 +11",
-      "additional_potential_option_2": "MaxHP +60",
-      "additional_potential_option_3": "LUK +6",
+      "additional_potential_option_2": "防禦力 +60",
+      "additional_potential_option_3": "物理攻擊力 +3",
       "equipment_level_increase": 0,
       "item_exceptional_option": {
         "str": "0",
@@ -10494,8 +10494,8 @@
       "potential_option_3": "DEX +10%",
       "additional_potential_option_flag": "false",
       "additional_potential_option_1": "物理攻擊力 +11",
-      "additional_potential_option_2": "MaxHP +60",
-      "additional_potential_option_3": "LUK +6",
+      "additional_potential_option_2": "防禦力 +60",
+      "additional_potential_option_3": "物理攻擊力 +3",
       "equipment_level_increase": 0,
       "item_exceptional_option": {
         "str": "0",

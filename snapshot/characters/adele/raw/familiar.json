@@ -1094,22 +1094,22 @@
         {
           "option_no": 1,
           "option_name": "LUK",
-          "option_value": "0"
+          "option_value": "8"
         },
         {
           "option_no": 2,
           "option_name": "最終傷害 (%)",
-          "option_value": "0"
+          "option_value": "8"
         },
         {
           "option_no": 3,
           "option_name": "中毒效果",
-          "option_value": "0"
+          "option_value": "1000"
         }
       ],
       "familiar_grade": "BOSS怪物傷害",
       "look_name": null,
-      "summoned_flag": "false",
+      "summoned_flag": "true",
       "slot_id": "not link"
     },
     {
