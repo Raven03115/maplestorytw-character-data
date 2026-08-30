@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-08-30T12:47:56.207Z",
+    "fetched_at": "2026-08-30T17:22:34.320Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,20 +30,20 @@
     "guild": "薄冰"
   },
   "combat_summary": {
-    "combat_power": "17227675",
+    "combat_power": "17483314",
     "main_stat": {
       "name": "STR",
       "value": "30127"
     },
     "secondary_stat": {
       "name": "DEX",
-      "value": "3037"
+      "value": "3028"
     },
     "sub_stat": {
       "name": "DEX",
-      "value": "3037"
+      "value": "3028"
     },
-    "attack_power": "2073",
+    "attack_power": "2098",
     "damage": "114.00",
     "boss_damage": "333.00",
     "ignore_defense": "96.48",
@@ -757,11 +757,11 @@
         "全屬性 +6%",
         "STR +9%"
       ],
-      "additional_potential_grade": "特殊",
+      "additional_potential_grade": "稀有",
       "additional_potential_lines": [
-        "INT +2%",
-        "移動速度 +4",
-        "DEX +6"
+        "LUK +14",
+        "物理攻擊力 +10",
+        "物理攻擊力 +10"
       ],
       "flame_additional_options": {
         "str": "0",

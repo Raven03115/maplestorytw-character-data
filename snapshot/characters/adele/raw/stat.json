@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "11586968"
+      "stat_value": "11725852"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "12874407"
+      "stat_value": "13028722"
     },
     {
       "stat_name": "傷害",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "55857"
+      "stat_value": "55862"
     },
     {
       "stat_name": "移動速度",
@@ -72,15 +72,15 @@
     },
     {
       "stat_name": "DEX",
-      "stat_value": "3037"
+      "stat_value": "3028"
     },
     {
       "stat_name": "INT",
-      "stat_value": "1957"
+      "stat_value": "1934"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "1915"
+      "stat_value": "1935"
     },
     {
       "stat_name": "HP",
@@ -164,7 +164,7 @@
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "2073"
+      "stat_value": "2098"
     },
     {
       "stat_name": "魔法攻擊力",
@@ -172,7 +172,7 @@
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "17227675"
+      "stat_value": "17483314"
     },
     {
       "stat_name": "召喚獸持續時間增加",
