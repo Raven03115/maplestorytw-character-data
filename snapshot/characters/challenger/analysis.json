@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-29T18:22:18.171Z",
+    "fetched_at": "2026-08-30T00:11:02.892Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,10 +30,10 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "51687020",
+    "combat_power": "52044053",
     "main_stat": {
       "name": "DEX",
-      "value": "41906"
+      "value": "41344"
     },
     "secondary_stat": {
       "name": "STR",
@@ -46,7 +46,7 @@
     "attack_power": "3762",
     "damage": "46.00",
     "boss_damage": "361.00",
-    "ignore_defense": "96.51",
+    "ignore_defense": "97.01",
     "critical_rate": "129",
     "critical_damage": "80.00",
     "final_damage": "112.41",
@@ -844,14 +844,14 @@
     {
       "part": "戒指4",
       "equipment_type": "戒指",
-      "name": "泰涅布利斯遠征隊戒指",
+      "name": "GLORY小隊戒指：總司令",
       "starforce": "0",
-      "scroll_upgrade": "3",
+      "scroll_upgrade": "0",
       "potential_grade": "傳說",
       "potential_lines": [
-        "DEX +12%",
-        "DEX +9%",
-        "INT +9%"
+        "道具掉落率 +20%",
+        "HP恢復道具及恢復技能效率 +30%",
+        "DEX +9%"
       ],
       "additional_potential_grade": null,
       "additional_potential_lines": [
@@ -2034,7 +2034,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 2246570,
+    "remaining_fame": 2542430,
     "lines": [
       {
         "ability_no": "1",
