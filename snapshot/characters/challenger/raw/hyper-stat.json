@@ -54,9 +54,9 @@
     },
     {
       "stat_type": "爆擊傷害",
-      "stat_point": 150,
-      "stat_level": 10,
-      "stat_increase": "爆擊傷害10%增加"
+      "stat_point": 200,
+      "stat_level": 11,
+      "stat_increase": "爆擊傷害11%增加"
     },
     {
       "stat_type": "無視防禦率",
@@ -107,7 +107,7 @@
       "stat_increase": "攻擊一般怪物時傷害增加47%"
     }
   ],
-  "hyper_stat_preset_1_remain_point": 62,
+  "hyper_stat_preset_1_remain_point": 12,
   "hyper_stat_preset_2": [
     {
       "stat_type": "STR",

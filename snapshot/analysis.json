@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-08-30T06:33:02.538Z",
+    "fetched_at": "2026-08-30T12:47:49.649Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,24 +30,24 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "60501709",
+    "combat_power": "57344444",
     "main_stat": {
       "name": "DEX",
-      "value": "42685"
+      "value": "41464"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4414"
+      "value": "4393"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4414"
+      "value": "4393"
     },
-    "attack_power": "3739",
+    "attack_power": "3766",
     "damage": "46.00",
-    "boss_damage": "435.00",
+    "boss_damage": "416.00",
     "ignore_defense": "97.91",
-    "critical_rate": "148",
+    "critical_rate": "142",
     "critical_damage": "81.00",
     "final_damage": "112.41",
     "buff_duration": "60",
@@ -273,9 +273,9 @@
       "scroll_upgrade": "0",
       "potential_grade": "傳說",
       "potential_lines": [
-        "DEX +12%",
-        "MaxMP +9%",
-        "MaxMP +9%"
+        "道具掉落率 +20%",
+        "道具掉落率 +20%",
+        "防禦力 +240"
       ],
       "additional_potential_grade": null,
       "additional_potential_lines": [
@@ -284,14 +284,14 @@
         null
       ],
       "flame_additional_options": {
-        "str": "0",
+        "str": "12",
         "dex": "0",
-        "int": "0",
-        "luk": "0",
-        "max_hp": "0",
+        "int": "4",
+        "luk": "16",
+        "max_hp": "840",
         "max_mp": "0",
         "attack_power": "0",
-        "magic_power": "0",
+        "magic_power": "1",
         "armor": "0",
         "speed": "0",
         "jump": "0",
@@ -748,14 +748,14 @@
     {
       "part": "戒指2",
       "equipment_type": "戒指",
-      "name": "挑戰者規範戒指",
+      "name": "覺醒戒指",
       "starforce": "0",
-      "scroll_upgrade": "0",
-      "potential_grade": null,
+      "scroll_upgrade": "3",
+      "potential_grade": "傳說",
       "potential_lines": [
-        null,
-        null,
-        null
+        "楓幣獲得量 +20%",
+        "DEX +9%",
+        "DEX +9%"
       ],
       "additional_potential_grade": null,
       "additional_potential_lines": [
@@ -844,14 +844,14 @@
     {
       "part": "戒指4",
       "equipment_type": "戒指",
-      "name": "泰涅布利斯遠征隊戒指",
+      "name": "GLORY小隊戒指：總司令",
       "starforce": "0",
-      "scroll_upgrade": "3",
+      "scroll_upgrade": "0",
       "potential_grade": "傳說",
       "potential_lines": [
-        "DEX +12%",
-        "DEX +9%",
-        "INT +9%"
+        "道具掉落率 +20%",
+        "HP恢復道具及恢復技能效率 +30%",
+        "DEX +9%"
       ],
       "additional_potential_grade": null,
       "additional_potential_lines": [
@@ -1276,14 +1276,14 @@
     {
       "part": "墜飾2",
       "equipment_type": "墜飾",
-      "name": "支配者墜飾",
-      "starforce": "15",
-      "scroll_upgrade": "5",
-      "potential_grade": "罕見",
+      "name": "精靈墜飾",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
       "potential_lines": [
-        "DEX +9%",
-        "DEX +6%",
-        "爆擊機率 +6%"
+        null,
+        null,
+        null
       ],
       "additional_potential_grade": null,
       "additional_potential_lines": [
@@ -1863,7 +1863,7 @@
     },
     {
       "set_name": "首領飾品組",
-      "equipped_count": 4,
+      "equipped_count": 3,
       "effects": [
         {
           "set_count": 3,
@@ -2032,24 +2032,24 @@
   },
   "ability": {
     "grade": "傳說",
-    "active_preset": 1,
+    "active_preset": 2,
     "active_preset_grade": "傳說",
     "remaining_fame": 2544310,
     "lines": [
       {
         "ability_no": "1",
         "ability_grade": "傳說",
-        "ability_value": "攻擊Boss怪物時，傷害增加 19%"
+        "ability_value": "道具掉落率增加 20%"
       },
       {
         "ability_no": "3",
         "ability_grade": "罕見",
-        "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
+        "ability_value": "攻擊一般怪物時傷害增加 8% "
       },
       {
         "ability_no": "2",
         "ability_grade": "稀有",
-        "ability_value": "增加INT 18 、DEX 9"
+        "ability_value": "增加楓幣獲得量 9% "
       }
     ]
   },
