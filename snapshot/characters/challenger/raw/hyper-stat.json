@@ -1,7 +1,7 @@
 {
   "date": null,
   "character_class": "狂豹獵人",
-  "use_preset_no": "1",
+  "use_preset_no": "3",
   "use_available_hyper_stat": 1347,
   "hyper_stat_preset_1": [
     {
@@ -264,9 +264,9 @@
     },
     {
       "stat_type": "爆擊傷害",
-      "stat_point": 115,
-      "stat_level": 9,
-      "stat_increase": "爆擊傷害9%增加"
+      "stat_point": 150,
+      "stat_level": 10,
+      "stat_increase": "爆擊傷害10%增加"
     },
     {
       "stat_type": "無視防禦率",
@@ -282,9 +282,9 @@
     },
     {
       "stat_type": "Boss傷害",
-      "stat_point": 265,
-      "stat_level": 12,
-      "stat_increase": "攻擊Boss怪物時，傷害增加 43%"
+      "stat_point": 345,
+      "stat_level": 13,
+      "stat_increase": "攻擊Boss怪物時，傷害增加 47%"
     },
     {
       "stat_type": "異常狀態耐性",
@@ -294,9 +294,9 @@
     },
     {
       "stat_type": "攻擊力／魔力",
-      "stat_point": 25,
-      "stat_level": 5,
-      "stat_increase": "增加攻擊力與魔力15"
+      "stat_point": 40,
+      "stat_level": 6,
+      "stat_increase": "增加攻擊力與魔力18"
     },
     {
       "stat_type": "獲得經驗值",
@@ -317,5 +317,5 @@
       "stat_increase": null
     }
   ],
-  "hyper_stat_preset_3_remain_point": 135
+  "hyper_stat_preset_3_remain_point": 5
 }

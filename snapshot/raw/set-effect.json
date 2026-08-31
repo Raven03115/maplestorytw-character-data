@@ -92,8 +92,52 @@
       ]
     },
     {
+      "set_name": "永恆套裝(弓箭手)",
+      "total_set_count": 3,
+      "set_effect_info": [
+        {
+          "set_count": 2,
+          "set_option": "最大HP +2500, 最大MP +2500, 攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +50, 攻擊力 +40, 魔法攻擊力 +40, 防禦力 +600, 攻擊Boss怪物時傷害 +10%"
+        }
+      ],
+      "set_option_full": [
+        {
+          "set_count": 2,
+          "set_option": "最大HP +2500, 最大MP +2500, 攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +50, 攻擊力 +40, 魔法攻擊力 +40, 防禦力 +600, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 4,
+          "set_option": "最大HP +15%, 最大MP +15%, 攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "攻擊力 +40, 魔法攻擊力 +40, 無視怪物防禦率 +20%"
+        },
+        {
+          "set_count": 6,
+          "set_option": "攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +15%"
+        },
+        {
+          "set_count": 7,
+          "set_option": "全屬性 +50, 最大HP +2500, 最大MP +2500, 攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +15%"
+        },
+        {
+          "set_count": 8,
+          "set_option": "攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +15%"
+        }
+      ]
+    },
+    {
       "set_name": "菇菇支援裝備套組(弓箭手)",
-      "total_set_count": 7,
+      "total_set_count": 5,
       "set_effect_info": [
         {
           "set_count": 3,
@@ -106,14 +150,6 @@
         {
           "set_count": 5,
           "set_option": "全屬性 +30, 最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
-        },
-        {
-          "set_count": 6,
-          "set_option": "攻擊力 +40, 魔法攻擊力 +40, 防禦力 +200, 無視怪物防禦率 +10%"
-        },
-        {
-          "set_count": 7,
-          "set_option": "攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +10%"
         }
       ],
       "set_option_full": [
@@ -193,7 +229,7 @@
     },
     {
       "set_name": "首領飾品組",
-      "total_set_count": 3,
+      "total_set_count": 4,
       "set_effect_info": [
         {
           "set_count": 3,
@@ -216,37 +252,6 @@
         {
           "set_count": 9,
           "set_option": "全屬性 +15, 攻擊力 +10, 魔法攻擊力 +10, 防禦力 +100, 攻擊Boss怪物時傷害 +10%"
-        }
-      ]
-    },
-    {
-      "set_name": "神祕冥界套裝(弓手)",
-      "total_set_count": 1,
-      "set_effect_info": [],
-      "set_option_full": [
-        {
-          "set_count": 2,
-          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 攻擊Boss怪物時傷害 +10%"
-        },
-        {
-          "set_count": 3,
-          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 防禦力 +400, 無視怪物防禦率 +10%"
-        },
-        {
-          "set_count": 4,
-          "set_option": "全屬性 +50, 攻擊力 +35, 魔法攻擊力 +35, 攻擊Boss怪物時傷害 +10%"
-        },
-        {
-          "set_count": 5,
-          "set_option": "最大HP +2000, 最大MP +2000, 攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +10%"
-        },
-        {
-          "set_count": 6,
-          "set_option": "最大HP +30%, 最大MP +30%, 攻擊力 +30, 魔法攻擊力 +30"
-        },
-        {
-          "set_count": 7,
-          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 無視怪物防禦率 +10%"
         }
       ]
     }

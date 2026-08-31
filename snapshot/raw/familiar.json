@@ -40,22 +40,22 @@
         {
           "option_no": 1,
           "option_name": "魔法攻擊力",
-          "option_value": "5"
+          "option_value": "0"
         },
         {
           "option_no": 2,
           "option_name": "最終傷害 (%)",
-          "option_value": "3"
+          "option_value": "0"
         },
         {
           "option_no": 3,
           "option_name": "攻擊時有3%機率恢復 HP",
-          "option_value": "18"
+          "option_value": "0"
         }
       ],
       "familiar_grade": "攻擊力/魔法攻擊力",
       "look_name": null,
-      "summoned_flag": "true",
+      "summoned_flag": "false",
       "slot_id": "not link"
     },
     {
@@ -645,6 +645,37 @@
       "familiar_grade": null,
       "look_name": null,
       "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "幼黃獨角獅",
+      "familiar_nickname": "小魚小蝦",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "爆擊機率 (%)",
+          "option_value": "20"
+        },
+        {
+          "option_no": 2,
+          "option_name": "最終傷害 (%)",
+          "option_value": "20"
+        },
+        {
+          "option_no": 3,
+          "option_name": "物理攻擊力 (%)",
+          "option_value": "14"
+        }
+      ],
+      "familiar_grade": "爆擊機率",
+      "look_name": null,
+      "summoned_flag": "true",
       "slot_id": "not link"
     }
   ]
