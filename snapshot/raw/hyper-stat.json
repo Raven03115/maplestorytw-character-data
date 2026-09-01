@@ -2,7 +2,7 @@
   "date": null,
   "character_class": "狂豹獵人",
   "use_preset_no": "1",
-  "use_available_hyper_stat": 1347,
+  "use_available_hyper_stat": 1364,
   "hyper_stat_preset_1": [
     {
       "stat_type": "STR",
@@ -107,7 +107,7 @@
       "stat_increase": "攻擊一般怪物時傷害增加47%"
     }
   ],
-  "hyper_stat_preset_1_remain_point": 12,
+  "hyper_stat_preset_1_remain_point": 29,
   "hyper_stat_preset_2": [
     {
       "stat_type": "STR",
@@ -212,7 +212,7 @@
       "stat_increase": null
     }
   ],
-  "hyper_stat_preset_2_remain_point": 50,
+  "hyper_stat_preset_2_remain_point": 67,
   "hyper_stat_preset_3": [
     {
       "stat_type": "STR",
@@ -317,5 +317,5 @@
       "stat_increase": null
     }
   ],
-  "hyper_stat_preset_3_remain_point": 5
+  "hyper_stat_preset_3_remain_point": 22
 }

@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-09-01T14:46:39.445Z",
+    "fetched_at": "2026-09-01T18:24:11.525Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -26,30 +26,30 @@
   "basic": {
     "world": "挑戰者",
     "class": "狂豹獵人",
-    "level": 280,
+    "level": 281,
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "90678626",
+    "combat_power": "69621950",
     "main_stat": {
       "name": "DEX",
-      "value": "41077"
+      "value": "40676"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4727"
+      "value": "4709"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4727"
+      "value": "4709"
     },
-    "attack_power": "5552",
+    "attack_power": "4854",
     "damage": "50.00",
-    "boss_damage": "335.00",
-    "ignore_defense": "96.96",
-    "critical_rate": "169",
-    "critical_damage": "105.00",
-    "final_damage": "172.21",
+    "boss_damage": "330.00",
+    "ignore_defense": "96.86",
+    "critical_rate": "129",
+    "critical_damage": "89.00",
+    "final_damage": "126.84",
     "buff_duration": "60",
     "cooldown_reduction": {
       "seconds": "2",
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 6,
       "force": "60",
-      "growth_count": 2728,
+      "growth_count": 2770,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 6,
       "force": "60",
-      "growth_count": 1273,
+      "growth_count": 1300,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 5,
       "force": "50",
-      "growth_count": 1500,
+      "growth_count": 1527,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 5,
       "force": "50",
-      "growth_count": 902,
+      "growth_count": 929,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1659,7 +1659,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 4,
       "force": "40",
-      "growth_count": 554,
+      "growth_count": 582,
       "required_growth_count": 224,
       "stat_increase": {
         "str": "0",
@@ -1928,8 +1928,8 @@
   ],
   "hyper_stat": {
     "active_preset": "1",
-    "available_points": 1347,
-    "remaining_points": 12,
+    "available_points": 1364,
+    "remaining_points": 29,
     "stats": [
       {
         "stat_type": "STR",
@@ -2039,7 +2039,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 2642440,
+    "remaining_fame": 2671370,
     "lines": [
       {
         "ability_no": "1",
@@ -2364,10 +2364,10 @@
         "main_stat_name": "主要屬性增加",
         "sub_stat_name_1": "攻擊力增加",
         "sub_stat_name_2": "boss傷害增加",
-        "main_stat_level": 6,
+        "main_stat_level": 7,
         "sub_stat_level_1": 9,
-        "sub_stat_level_2": 0,
-        "stat_grade": 15
+        "sub_stat_level_2": 1,
+        "stat_grade": 17
       }
     ],
     "current_2": [],
@@ -2378,10 +2378,10 @@
         "main_stat_name": "主要屬性增加",
         "sub_stat_name_1": "攻擊力增加",
         "sub_stat_name_2": "boss傷害增加",
-        "main_stat_level": 6,
+        "main_stat_level": 7,
         "sub_stat_level_1": 9,
-        "sub_stat_level_2": 0,
-        "stat_grade": 15
+        "sub_stat_level_2": 1,
+        "stat_grade": 17
       },
       {
         "slot_id": "1",
