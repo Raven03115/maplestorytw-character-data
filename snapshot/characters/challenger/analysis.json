@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-09-02T09:30:26.546Z",
+    "fetched_at": "2026-09-02T18:35:54.915Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,24 +30,24 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "91365755",
+    "combat_power": "109361994",
     "main_stat": {
       "name": "DEX",
-      "value": "41201"
+      "value": "43068"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4709"
+      "value": "4794"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4709"
+      "value": "4794"
     },
-    "attack_power": "5251",
+    "attack_power": "5196",
     "damage": "50.00",
-    "boss_damage": "336.00",
-    "ignore_defense": "96.86",
-    "critical_rate": "149",
+    "boss_damage": "410.00",
+    "ignore_defense": "97.80",
+    "critical_rate": "168",
     "critical_damage": "89.00",
     "final_damage": "172.21",
     "buff_duration": "60",
@@ -56,7 +56,7 @@
       "percent": "5"
     },
     "arc": "1480",
-    "aut": "370"
+    "aut": "380"
   },
   "weapon_secondary_emblem": [
     {
@@ -72,9 +72,9 @@
       ],
       "additional_potential_grade": "稀有",
       "additional_potential_lines": [
-        "攻擊時有3%機率恢復47 MP",
-        "跳躍力 +5",
-        "LUK +12"
+        "STR +6%",
+        "物理攻擊力 +3%",
+        "DEX +12"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -108,9 +108,9 @@
       ],
       "additional_potential_grade": "罕見",
       "additional_potential_lines": [
-        "LUK +10%",
-        "STR +7%",
-        "物理攻擊力 +7%"
+        "DEX +10%",
+        "INT +7%",
+        "LUK +7%"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -270,28 +270,28 @@
       "equipment_type": "眼飾",
       "name": "拉圖斯標誌",
       "starforce": "17",
-      "scroll_upgrade": "0",
+      "scroll_upgrade": "6",
       "potential_grade": "傳說",
       "potential_lines": [
-        "道具掉落率 +20%",
-        "道具掉落率 +20%",
-        "防禦力 +240"
+        "DEX +12%",
+        "MaxMP +9%",
+        "MaxMP +9%"
       ],
-      "additional_potential_grade": null,
+      "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        null,
-        null,
-        null
+        "物理攻擊力 +10",
+        "移動速度 +4",
+        "跳躍力 +4"
       ],
       "flame_additional_options": {
-        "str": "12",
+        "str": "0",
         "dex": "0",
-        "int": "4",
-        "luk": "16",
-        "max_hp": "840",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
         "max_mp": "0",
         "attack_power": "0",
-        "magic_power": "1",
+        "magic_power": "0",
         "armor": "0",
         "speed": "0",
         "jump": "0",
@@ -615,9 +615,9 @@
       ],
       "additional_potential_grade": "稀有",
       "additional_potential_lines": [
-        "攻擊時有3%機率恢復47 MP",
-        "跳躍力 +5",
-        "LUK +12"
+        "STR +6%",
+        "物理攻擊力 +3%",
+        "DEX +12"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -663,9 +663,9 @@
       ],
       "additional_potential_grade": "罕見",
       "additional_potential_lines": [
-        "LUK +10%",
-        "STR +7%",
-        "物理攻擊力 +7%"
+        "DEX +10%",
+        "INT +7%",
+        "LUK +7%"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -748,14 +748,14 @@
     {
       "part": "戒指2",
       "equipment_type": "戒指",
-      "name": "覺醒戒指",
+      "name": "挑戰者規範戒指",
       "starforce": "0",
-      "scroll_upgrade": "3",
-      "potential_grade": "傳說",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
       "potential_lines": [
-        "楓幣獲得量 +20%",
-        "DEX +9%",
-        "DEX +9%"
+        null,
+        null,
+        null
       ],
       "additional_potential_grade": null,
       "additional_potential_lines": [
@@ -844,20 +844,20 @@
     {
       "part": "戒指4",
       "equipment_type": "戒指",
-      "name": "GLORY小隊戒指：總司令",
+      "name": "泰涅布利斯遠征隊戒指",
       "starforce": "0",
-      "scroll_upgrade": "0",
+      "scroll_upgrade": "3",
       "potential_grade": "傳說",
       "potential_lines": [
-        "道具掉落率 +20%",
-        "HP恢復道具及恢復技能效率 +30%",
-        "DEX +9%"
+        "DEX +12%",
+        "DEX +9%",
+        "INT +9%"
       ],
-      "additional_potential_grade": null,
+      "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        null,
-        null,
-        null
+        "物理攻擊力 +10",
+        "移動速度 +4",
+        "移動速度 +4"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -1276,14 +1276,14 @@
     {
       "part": "墜飾2",
       "equipment_type": "墜飾",
-      "name": "精靈墜飾",
-      "starforce": "0",
-      "scroll_upgrade": "0",
-      "potential_grade": null,
+      "name": "支配者墜飾",
+      "starforce": "15",
+      "scroll_upgrade": "5",
+      "potential_grade": "罕見",
       "potential_lines": [
-        null,
-        null,
-        null
+        "DEX +9%",
+        "DEX +6%",
+        "爆擊機率 +6%"
       ],
       "additional_potential_grade": null,
       "additional_potential_lines": [
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 6,
       "force": "60",
-      "growth_count": 2770,
+      "growth_count": 2812,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 6,
       "force": "60",
-      "growth_count": 1300,
+      "growth_count": 1327,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 5,
       "force": "50",
-      "growth_count": 1527,
+      "growth_count": 1554,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 5,
       "force": "50",
-      "growth_count": 929,
+      "growth_count": 956,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1659,7 +1659,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 4,
       "force": "40",
-      "growth_count": 582,
+      "growth_count": 609,
       "required_growth_count": 224,
       "stat_increase": {
         "str": "0",
@@ -1899,7 +1899,7 @@
     },
     {
       "set_name": "首領飾品組",
-      "equipped_count": 3,
+      "equipped_count": 4,
       "effects": [
         {
           "set_count": 3,
@@ -1927,21 +1927,21 @@
     }
   ],
   "hyper_stat": {
-    "active_preset": "1",
+    "active_preset": "2",
     "available_points": 1364,
-    "remaining_points": 29,
+    "remaining_points": 67,
     "stats": [
       {
         "stat_type": "STR",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 7,
+        "stat_level": 3,
+        "stat_increase": "力量增加 90"
       },
       {
         "stat_type": "DEX",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 15,
+        "stat_level": 4,
+        "stat_increase": "增加敏捷 120"
       },
       {
         "stat_type": "INT",
@@ -1975,9 +1975,9 @@
       },
       {
         "stat_type": "爆擊機率",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 115,
+        "stat_level": 9,
+        "stat_increase": "爆擊機率增加 13%"
       },
       {
         "stat_type": "爆擊傷害",
@@ -1987,9 +1987,9 @@
       },
       {
         "stat_type": "無視防禦率",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 150,
+        "stat_level": 10,
+        "stat_increase": "無視防禦率增加 30%"
       },
       {
         "stat_type": "傷害",
@@ -1999,9 +1999,9 @@
       },
       {
         "stat_type": "Boss傷害",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 550,
+        "stat_level": 15,
+        "stat_increase": "攻擊Boss怪物時，傷害增加 55%"
       },
       {
         "stat_type": "異常狀態耐性",
@@ -2011,15 +2011,15 @@
       },
       {
         "stat_type": "攻擊力／魔力",
-        "stat_point": 40,
-        "stat_level": 6,
-        "stat_increase": "增加攻擊力與魔力18"
+        "stat_point": 60,
+        "stat_level": 7,
+        "stat_increase": "增加攻擊力與魔力21"
       },
       {
         "stat_type": "獲得經驗值",
-        "stat_point": 550,
-        "stat_level": 15,
-        "stat_increase": "獲得經驗值提高10.0%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "神祕力量",
@@ -2029,32 +2029,32 @@
       },
       {
         "stat_type": "一般傷害",
-        "stat_point": 345,
-        "stat_level": 13,
-        "stat_increase": "攻擊一般怪物時傷害增加47%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       }
     ]
   },
   "ability": {
     "grade": "傳說",
-    "active_preset": 2,
+    "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 2671370,
+    "remaining_fame": 2672423,
     "lines": [
       {
         "ability_no": "1",
         "ability_grade": "傳說",
-        "ability_value": "道具掉落率增加 20%"
+        "ability_value": "攻擊Boss怪物時，傷害增加 19%"
       },
       {
         "ability_no": "3",
         "ability_grade": "罕見",
-        "ability_value": "攻擊一般怪物時傷害增加 8% "
+        "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
       },
       {
         "ability_no": "2",
         "ability_grade": "稀有",
-        "ability_value": "增加楓幣獲得量 9% "
+        "ability_value": "增加INT 18 、DEX 9"
       }
     ]
   },
