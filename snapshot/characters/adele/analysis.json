@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-09-02T18:36:20.749Z",
+    "fetched_at": "2026-09-02T21:45:24.791Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 7,
       "force": "70",
-      "growth_count": 2991,
+      "growth_count": 3033,
       "required_growth_count": 581,
       "stat_increase": {
         "str": "1700",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 3,
       "force": "30",
-      "growth_count": 541,
+      "growth_count": 568,
       "required_growth_count": 141,
       "stat_increase": {
         "str": "900",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 3,
       "force": "30",
-      "growth_count": 301,
+      "growth_count": 328,
       "required_growth_count": 141,
       "stat_increase": {
         "str": "900",
