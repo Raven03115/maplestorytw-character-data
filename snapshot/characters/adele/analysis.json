@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-09-04T14:16:16.627Z",
+    "fetched_at": "2026-09-04T18:19:11.021Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -2371,8 +2371,8 @@
     "level": 8581,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 28,
-    "artifact_exp": 1140,
-    "artifact_point": 8950,
+    "artifact_exp": 1440,
+    "artifact_point": 9250,
     "active_raider_preset": 2,
     "raider_stats": [
       "增加爆擊機率 4%",

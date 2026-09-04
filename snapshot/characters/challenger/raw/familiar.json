@@ -660,22 +660,22 @@
         {
           "option_no": 1,
           "option_name": "爆擊機率 (%)",
-          "option_value": "4"
+          "option_value": "20"
         },
         {
           "option_no": 2,
           "option_name": "最終傷害 (%)",
-          "option_value": "2"
+          "option_value": "20"
         },
         {
           "option_no": 3,
           "option_name": "物理攻擊力 (%)",
-          "option_value": "4"
+          "option_value": "14"
         }
       ],
       "familiar_grade": "爆擊機率",
       "look_name": null,
-      "summoned_flag": "false",
+      "summoned_flag": "true",
       "slot_id": "not link"
     },
     {

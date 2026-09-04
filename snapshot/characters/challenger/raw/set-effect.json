@@ -64,6 +64,34 @@
       ]
     },
     {
+      "set_name": "迷你吉祥物菇菇套組",
+      "total_set_count": 2,
+      "set_effect_info": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        },
+        {
+          "set_count": 2,
+          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
+        }
+      ],
+      "set_option_full": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        },
+        {
+          "set_count": 2,
+          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
+        },
+        {
+          "set_count": 3,
+          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
+        }
+      ]
+    },
+    {
       "set_name": "永恆套裝(弓箭手)",
       "total_set_count": 3,
       "set_effect_info": [
