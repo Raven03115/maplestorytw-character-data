@@ -660,22 +660,177 @@
         {
           "option_no": 1,
           "option_name": "爆擊機率 (%)",
-          "option_value": "20"
+          "option_value": "4"
         },
         {
           "option_no": 2,
           "option_name": "最終傷害 (%)",
-          "option_value": "20"
+          "option_value": "2"
         },
         {
           "option_no": 3,
           "option_name": "物理攻擊力 (%)",
-          "option_value": "14"
+          "option_value": "4"
         }
       ],
       "familiar_grade": "爆擊機率",
       "look_name": null,
-      "summoned_flag": "true",
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "藍菇菇",
+      "familiar_nickname": "藍菇菇",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "最終傷害 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "暈眩效果",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "攻擊力/魔法攻擊力",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "藍色雙角龍",
+      "familiar_nickname": "藍色雙角龍",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "DEX",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "INT",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "強化鋼鐵穆太",
+      "familiar_nickname": "強化鋼鐵穆太",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "STR",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "LUK",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "青蛇",
+      "familiar_nickname": "青蛇",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "MaxHP",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "LUK",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "4秒內恢復 MP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": null,
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "肥肥",
+      "familiar_nickname": "肥肥",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "封印效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "封印效果",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "MaxMP",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "BOSS怪物傷害",
+      "look_name": null,
+      "summoned_flag": "false",
       "slot_id": "not link"
     }
   ]
