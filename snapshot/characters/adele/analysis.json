@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-09-05T12:37:23.001Z",
+    "fetched_at": "2026-09-05T15:59:05.783Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -44,7 +44,7 @@
       "value": "3080"
     },
     "attack_power": "2090",
-    "damage": "163.00",
+    "damage": "131.00",
     "boss_damage": "227.00",
     "ignore_defense": "92.81",
     "critical_rate": "101",
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 7,
       "force": "70",
-      "growth_count": 3075,
+      "growth_count": 3117,
       "required_growth_count": 581,
       "stat_increase": {
         "str": "1700",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 3,
       "force": "30",
-      "growth_count": 595,
+      "growth_count": 622,
       "required_growth_count": 141,
       "stat_increase": {
         "str": "900",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 3,
       "force": "30",
-      "growth_count": 355,
+      "growth_count": 382,
       "required_growth_count": 141,
       "stat_increase": {
         "str": "900",
@@ -1955,7 +1955,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 673394,
+    "remaining_fame": 673624,
     "lines": [
       {
         "ability_no": "1",

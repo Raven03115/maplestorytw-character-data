@@ -4,15 +4,15 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "15474955"
+      "stat_value": "13592071"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "17005442"
+      "stat_value": "14936339"
     },
     {
       "stat_name": "傷害",
-      "stat_value": "163.00"
+      "stat_value": "131.00"
     },
     {
       "stat_name": "BOSS怪物傷害",
@@ -132,7 +132,7 @@
     },
     {
       "stat_name": "一般怪物傷害",
-      "stat_value": "114.00"
+      "stat_value": "103.00"
     },
     {
       "stat_name": "冷卻時間減少(秒)",
