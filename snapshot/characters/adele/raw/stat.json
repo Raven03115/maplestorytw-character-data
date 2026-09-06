@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "11814181"
+      "stat_value": "11745857"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "13126865"
+      "stat_value": "13050950"
     },
     {
       "stat_name": "傷害",
@@ -16,7 +16,7 @@
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "227.00"
+      "stat_value": "228.00"
     },
     {
       "stat_name": "最終傷害",
@@ -160,19 +160,19 @@
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "62.50"
+      "stat_value": "64.50"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "2075"
+      "stat_value": "2063"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "743"
+      "stat_value": "734"
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "13884917"
+      "stat_value": "13776933"
     },
     {
       "stat_name": "召喚獸持續時間增加",
