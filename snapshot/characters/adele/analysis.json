@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-09-07T04:25:51.138Z",
+    "fetched_at": "2026-09-07T16:24:38.143Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -2368,7 +2368,7 @@
     }
   ],
   "union_summary": {
-    "level": 8581,
+    "level": 8582,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 28,
     "artifact_exp": 2040,
