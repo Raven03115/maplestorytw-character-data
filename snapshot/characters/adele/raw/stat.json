@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "11614808"
+      "stat_value": "11098830"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "12905340"
+      "stat_value": "12332031"
     },
     {
       "stat_name": "傷害",
@@ -16,7 +16,7 @@
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "228.00"
+      "stat_value": "178.00"
     },
     {
       "stat_name": "最終傷害",
@@ -24,7 +24,7 @@
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "91.34"
+      "stat_value": "85.56"
     },
     {
       "stat_name": "爆擊機率",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "55162"
+      "stat_value": "55035"
     },
     {
       "stat_name": "移動速度",
@@ -64,23 +64,23 @@
     },
     {
       "stat_name": "真實之力",
-      "stat_value": "180"
+      "stat_value": "130"
     },
     {
       "stat_name": "STR",
-      "stat_value": "29634"
+      "stat_value": "29570"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "3065"
+      "stat_value": "3035"
     },
     {
       "stat_name": "INT",
-      "stat_value": "1844"
+      "stat_value": "1813"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "2095"
+      "stat_value": "2066"
     },
     {
       "stat_name": "HP",
@@ -128,11 +128,11 @@
     },
     {
       "stat_name": "攻擊速度",
-      "stat_value": "6"
+      "stat_value": "7"
     },
     {
       "stat_name": "一般怪物傷害",
-      "stat_value": "103.00"
+      "stat_value": "88.00"
     },
     {
       "stat_name": "冷卻時間減少(秒)",
@@ -160,19 +160,19 @@
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "64.50"
+      "stat_value": "54.50"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "2063"
+      "stat_value": "1976"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "734"
+      "stat_value": "664"
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "13632057"
+      "stat_value": "11192452"
     },
     {
       "stat_name": "召喚獸持續時間增加",
