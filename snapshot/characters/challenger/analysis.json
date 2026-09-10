@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-09-10T09:36:17.166Z",
+    "fetched_at": "2026-09-10T14:19:47.582Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -43,7 +43,7 @@
       "name": "STR",
       "value": "4258"
     },
-    "attack_power": "5155",
+    "attack_power": "5212",
     "damage": "50.00",
     "boss_damage": "279.00",
     "ignore_defense": "94.11",
