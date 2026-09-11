@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-09-11T14:20:27.251Z",
+    "fetched_at": "2026-09-11T18:24:12.696Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -26,29 +26,29 @@
   "basic": {
     "world": "挑戰者",
     "class": "狂豹獵人",
-    "level": 281,
+    "level": 282,
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "52923875",
+    "combat_power": "87761603",
     "main_stat": {
       "name": "DEX",
-      "value": "44907"
+      "value": "48761"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4275"
+      "value": "4262"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4275"
+      "value": "4262"
     },
-    "attack_power": "5174",
-    "damage": "43.00",
-    "boss_damage": "129.00",
-    "ignore_defense": "90.65",
+    "attack_power": "5352",
+    "damage": "80.00",
+    "boss_damage": "289.00",
+    "ignore_defense": "94.11",
     "critical_rate": "129",
-    "critical_damage": "89.00",
+    "critical_damage": "153.50",
     "final_damage": "172.21",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -1324,7 +1324,7 @@
     {
       "part": "圖騰1",
       "equipment_type": "圖騰",
-      "name": "貝奧武夫的痕跡",
+      "name": "芙莉蓮圖騰",
       "starforce": "0",
       "scroll_upgrade": "0",
       "potential_grade": null,
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 10,
       "force": "100",
-      "growth_count": 429,
+      "growth_count": 586,
       "required_growth_count": 1100,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 7,
       "force": "70",
-      "growth_count": 1051,
+      "growth_count": 1085,
       "required_growth_count": 581,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 6,
       "force": "60",
-      "growth_count": 1397,
+      "growth_count": 1431,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 6,
       "force": "60",
-      "growth_count": 799,
+      "growth_count": 833,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1659,7 +1659,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 5,
       "force": "50",
-      "growth_count": 553,
+      "growth_count": 589,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1705,7 +1705,7 @@
     },
     {
       "set_name": "死後世界的的痕跡",
-      "equipped_count": 2,
+      "equipped_count": 1,
       "effects": [],
       "full_set_options": [
         {
@@ -1924,8 +1924,8 @@
   ],
   "hyper_stat": {
     "active_preset": "1",
-    "available_points": 1364,
-    "remaining_points": 29,
+    "available_points": 1381,
+    "remaining_points": 46,
     "stats": [
       {
         "stat_type": "STR",
@@ -2035,7 +2035,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 4134940,
+    "remaining_fame": 4832649,
     "lines": [
       {
         "ability_no": "1",
