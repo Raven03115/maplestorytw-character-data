@@ -1248,8 +1248,8 @@
       "potential_option_3": "物理攻擊力 +9%",
       "additional_potential_option_flag": "false",
       "additional_potential_option_1": "物理攻擊力 +6%",
-      "additional_potential_option_2": "全屬性 +5",
-      "additional_potential_option_3": "DEX +12",
+      "additional_potential_option_2": "物理攻擊力 +3%",
+      "additional_potential_option_3": "物理攻擊力 +12",
       "equipment_level_increase": 0,
       "item_exceptional_option": {
         "str": "0",
@@ -3579,7 +3579,7 @@
       "item_gender": null,
       "item_total_option": {
         "str": "0",
-        "dex": "0",
+        "dex": "575",
         "int": "0",
         "luk": "0",
         "max_hp": "0",
@@ -4814,8 +4814,8 @@
       "potential_option_3": "物理攻擊力 +9%",
       "additional_potential_option_flag": "false",
       "additional_potential_option_1": "物理攻擊力 +6%",
-      "additional_potential_option_2": "全屬性 +5",
-      "additional_potential_option_3": "DEX +12",
+      "additional_potential_option_2": "物理攻擊力 +3%",
+      "additional_potential_option_3": "物理攻擊力 +12",
       "equipment_level_increase": 0,
       "item_exceptional_option": {
         "str": "0",
@@ -8512,8 +8512,8 @@
       "potential_option_3": "物理攻擊力 +9%",
       "additional_potential_option_flag": "false",
       "additional_potential_option_1": "物理攻擊力 +6%",
-      "additional_potential_option_2": "全屬性 +5",
-      "additional_potential_option_3": "DEX +12",
+      "additional_potential_option_2": "物理攻擊力 +3%",
+      "additional_potential_option_3": "物理攻擊力 +12",
       "equipment_level_increase": 0,
       "item_exceptional_option": {
         "str": "0",
@@ -11286,8 +11286,8 @@
       "potential_option_3": "物理攻擊力 +9%",
       "additional_potential_option_flag": "false",
       "additional_potential_option_1": "物理攻擊力 +6%",
-      "additional_potential_option_2": "全屬性 +5",
-      "additional_potential_option_3": "DEX +12",
+      "additional_potential_option_2": "物理攻擊力 +3%",
+      "additional_potential_option_3": "物理攻擊力 +12",
       "equipment_level_increase": 0,
       "item_exceptional_option": {
         "str": "0",

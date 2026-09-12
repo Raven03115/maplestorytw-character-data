@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-09-12T19:12:53.703Z",
+    "fetched_at": "2026-09-12T22:11:58.114Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,26 +30,26 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "66847116",
+    "combat_power": "89456511",
     "main_stat": {
       "name": "DEX",
-      "value": "44403"
+      "value": "45009"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4258"
+      "value": "4267"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4258"
+      "value": "4267"
     },
-    "attack_power": "4768",
+    "attack_power": "5567",
     "damage": "50.00",
-    "boss_damage": "283.00",
-    "ignore_defense": "94.11",
-    "critical_rate": "109",
-    "critical_damage": "89.00",
-    "final_damage": "126.84",
+    "boss_damage": "290.00",
+    "ignore_defense": "94.31",
+    "critical_rate": "150",
+    "critical_damage": "106.00",
+    "final_damage": "172.21",
     "buff_duration": "60",
     "cooldown_reduction": {
       "seconds": "2",
@@ -73,8 +73,8 @@
       "additional_potential_grade": "稀有",
       "additional_potential_lines": [
         "物理攻擊力 +6%",
-        "全屬性 +5",
-        "DEX +12"
+        "物理攻擊力 +3%",
+        "物理攻擊力 +12"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -616,8 +616,8 @@
       "additional_potential_grade": "稀有",
       "additional_potential_lines": [
         "物理攻擊力 +6%",
-        "全屬性 +5",
-        "DEX +12"
+        "物理攻擊力 +3%",
+        "物理攻擊力 +12"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -2035,7 +2035,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 4832649,
+    "remaining_fame": 4834009,
     "lines": [
       {
         "ability_no": "1",
