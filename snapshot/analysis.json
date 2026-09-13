@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-09-12T22:11:58.114Z",
+    "fetched_at": "2026-09-13T00:53:06.124Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,25 +30,25 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "89456511",
+    "combat_power": "90711761",
     "main_stat": {
       "name": "DEX",
-      "value": "45009"
+      "value": "45394"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4267"
+      "value": "4283"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4267"
+      "value": "4283"
     },
-    "attack_power": "5567",
+    "attack_power": "5579",
     "damage": "50.00",
     "boss_damage": "290.00",
-    "ignore_defense": "94.31",
+    "ignore_defense": "94.11",
     "critical_rate": "150",
-    "critical_damage": "106.00",
+    "critical_damage": "105.00",
     "final_damage": "172.21",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -1139,7 +1139,7 @@
       "potential_lines": [
         "DEX +9%",
         "DEX +6%",
-        "防禦力 +6%"
+        "DEX +6%"
       ],
       "additional_potential_grade": null,
       "additional_potential_lines": [
@@ -1372,7 +1372,7 @@
     {
       "part": "圖騰2",
       "equipment_type": "圖騰",
-      "name": "柏林的痕跡",
+      "name": "費倫圖騰",
       "starforce": "0",
       "scroll_upgrade": "0",
       "potential_grade": null,
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 10,
       "force": "100",
-      "growth_count": 586,
+      "growth_count": 623,
       "required_growth_count": 1100,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 7,
       "force": "70",
-      "growth_count": 1085,
+      "growth_count": 1102,
       "required_growth_count": 581,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 6,
       "force": "60",
-      "growth_count": 1431,
+      "growth_count": 1448,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1659,7 +1659,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 5,
       "force": "50",
-      "growth_count": 589,
+      "growth_count": 606,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1700,17 +1700,6 @@
         {
           "set_count": 4,
           "set_option": "攻擊Boss怪物時傷害 +30%, 無視怪物防禦率 +30%"
-        }
-      ]
-    },
-    {
-      "set_name": "死後世界的的痕跡",
-      "equipped_count": 1,
-      "effects": [],
-      "full_set_options": [
-        {
-          "set_count": 3,
-          "set_option": "攻擊力 +10, 魔法攻擊力 +10"
         }
       ]
     },
@@ -2035,7 +2024,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 4834009,
+    "remaining_fame": 5186159,
     "lines": [
       {
         "ability_no": "1",
@@ -2300,7 +2289,7 @@
     {
       "core_name": "絕對美洲豹時間",
       "core_type": "技能核心",
-      "core_level": 2
+      "core_level": 3
     },
     {
       "core_name": "齒輪風暴",
@@ -2382,10 +2371,10 @@
         "main_stat_name": "攻擊力增加",
         "sub_stat_name_1": "主要屬性增加",
         "sub_stat_name_2": "boss傷害增加",
-        "main_stat_level": 2,
-        "sub_stat_level_1": 4,
+        "main_stat_level": 3,
+        "sub_stat_level_1": 6,
         "sub_stat_level_2": 1,
-        "stat_grade": 7
+        "stat_grade": 10
       }
     ],
     "current_3": [],
@@ -2417,10 +2406,10 @@
         "main_stat_name": "攻擊力增加",
         "sub_stat_name_1": "主要屬性增加",
         "sub_stat_name_2": "boss傷害增加",
-        "main_stat_level": 2,
-        "sub_stat_level_1": 4,
+        "main_stat_level": 3,
+        "sub_stat_level_1": 6,
         "sub_stat_level_2": 1,
-        "stat_grade": 7
+        "stat_grade": 10
       },
       {
         "slot_id": "1",
