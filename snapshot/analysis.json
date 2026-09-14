@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-09-14T06:07:31.947Z",
+    "fetched_at": "2026-09-14T13:54:47.887Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -33,22 +33,22 @@
     "combat_power": "89891624",
     "main_stat": {
       "name": "DEX",
-      "value": "44953"
+      "value": "44909"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4485"
+      "value": "4468"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4485"
+      "value": "4468"
     },
-    "attack_power": "5587",
+    "attack_power": "5291",
     "damage": "50.00",
-    "boss_damage": "310.00",
+    "boss_damage": "290.00",
     "ignore_defense": "94.14",
-    "critical_rate": "150",
-    "critical_damage": "105.00",
+    "critical_rate": "129",
+    "critical_damage": "89.00",
     "final_damage": "172.21",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 10,
       "force": "100",
-      "growth_count": 623,
+      "growth_count": 663,
       "required_growth_count": 1100,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 7,
       "force": "70",
-      "growth_count": 1102,
+      "growth_count": 1119,
       "required_growth_count": 581,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 6,
       "force": "60",
-      "growth_count": 1448,
+      "growth_count": 1465,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 6,
       "force": "60",
-      "growth_count": 833,
+      "growth_count": 850,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1659,7 +1659,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 5,
       "force": "50",
-      "growth_count": 606,
+      "growth_count": 623,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -2024,7 +2024,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 5221519,
+    "remaining_fame": 5553699,
     "lines": [
       {
         "ability_no": "1",
@@ -2349,7 +2349,7 @@
     {
       "core_name": "末日反抗步兵陣VI",
       "core_type": "共用核心",
-      "core_level": 2
+      "core_level": 4
     }
   ],
   "hexamatrix_stat": {
