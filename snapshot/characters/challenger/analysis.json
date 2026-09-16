@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-09-16T07:37:03.640Z",
+    "fetched_at": "2026-09-16T22:04:16.408Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,25 +30,25 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "91968969",
+    "combat_power": "90894565",
     "main_stat": {
       "name": "DEX",
-      "value": "45401"
+      "value": "45335"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4503"
+      "value": "4478"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4503"
+      "value": "4478"
     },
-    "attack_power": "5903",
-    "damage": "80.00",
-    "boss_damage": "360.00",
-    "ignore_defense": "95.02",
-    "critical_rate": "150",
-    "critical_damage": "135.00",
+    "attack_power": "5358",
+    "damage": "50.00",
+    "boss_damage": "290.00",
+    "ignore_defense": "94.14",
+    "critical_rate": "129",
+    "critical_damage": "89.00",
     "final_damage": "172.21",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 10,
       "force": "100",
-      "growth_count": 744,
+      "growth_count": 760,
       "required_growth_count": 1100,
       "stat_increase": {
         "str": "0",
@@ -2024,7 +2024,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 6260419,
+    "remaining_fame": 6603983,
     "lines": [
       {
         "ability_no": "1",
