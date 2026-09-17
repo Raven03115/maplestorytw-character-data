@@ -4,15 +4,15 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "13190339"
+      "stat_value": "11136254"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "14655930"
+      "stat_value": "12373613"
     },
     {
       "stat_name": "傷害",
-      "stat_value": "145.00"
+      "stat_value": "119.00"
     },
     {
       "stat_name": "BOSS怪物傷害",
@@ -20,11 +20,11 @@
     },
     {
       "stat_name": "最終傷害",
-      "stat_value": "91.54"
+      "stat_value": "80.69"
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "87.87"
+      "stat_value": "85.56"
     },
     {
       "stat_name": "爆擊機率",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "55064"
+      "stat_value": "55128"
     },
     {
       "stat_name": "移動速度",
@@ -68,19 +68,19 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "29602"
+      "stat_value": "29634"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "3050"
+      "stat_value": "3065"
     },
     {
       "stat_name": "INT",
-      "stat_value": "1829"
+      "stat_value": "1844"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "2001"
+      "stat_value": "2015"
     },
     {
       "stat_name": "HP",
@@ -132,7 +132,7 @@
     },
     {
       "stat_name": "一般怪物傷害",
-      "stat_value": "104.00"
+      "stat_value": "93.00"
     },
     {
       "stat_name": "冷卻時間減少(秒)",
