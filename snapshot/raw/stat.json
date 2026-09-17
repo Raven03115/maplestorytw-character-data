@@ -4,19 +4,19 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "46648728"
+      "stat_value": "44044383"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "54880854"
+      "stat_value": "51816919"
     },
     {
       "stat_name": "傷害",
-      "stat_value": "50.00"
+      "stat_value": "43.00"
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "290.00"
+      "stat_value": "140.00"
     },
     {
       "stat_name": "最終傷害",
@@ -24,7 +24,7 @@
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "94.14"
+      "stat_value": "90.70"
     },
     {
       "stat_name": "爆擊機率",
@@ -44,11 +44,11 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "54458"
+      "stat_value": "54764"
     },
     {
       "stat_name": "移動速度",
-      "stat_value": "160"
+      "stat_value": "170"
     },
     {
       "stat_name": "跳躍力",
@@ -68,19 +68,19 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "4478"
+      "stat_value": "4495"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "45335"
+      "stat_value": "45379"
     },
     {
       "stat_name": "INT",
-      "stat_value": "2132"
+      "stat_value": "2148"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "2531"
+      "stat_value": "2549"
     },
     {
       "stat_name": "HP",
@@ -116,7 +116,7 @@
     },
     {
       "stat_name": "道具掉落率",
-      "stat_value": "140"
+      "stat_value": "170"
     },
     {
       "stat_name": "楓幣獲得量",
@@ -160,19 +160,19 @@
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "112.50"
+      "stat_value": "257.50"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "5358"
+      "stat_value": "5301"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1231"
+      "stat_value": "1201"
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "90894565"
+      "stat_value": "57158284"
     },
     {
       "stat_name": "召喚獸持續時間增加",
