@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-09-19T00:12:20.557Z",
+    "fetched_at": "2026-09-19T10:49:53.492Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -43,7 +43,7 @@
       "name": "STR",
       "value": "4478"
     },
-    "attack_power": "5301",
+    "attack_power": "5411",
     "damage": "50.00",
     "boss_damage": "290.00",
     "ignore_defense": "94.14",
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 10,
       "force": "100",
-      "growth_count": 851,
+      "growth_count": 875,
       "required_growth_count": 1100,
       "stat_increase": {
         "str": "0",
@@ -2024,7 +2024,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 6957547,
+    "remaining_fame": 7270037,
     "lines": [
       {
         "ability_no": "1",
