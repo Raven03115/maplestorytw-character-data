@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-09-20T06:06:06.745Z",
+    "fetched_at": "2026-09-20T11:16:12.671Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,29 +30,29 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "93380958",
+    "combat_power": "92162354",
     "main_stat": {
       "name": "DEX",
-      "value": "45335"
+      "value": "44827"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4293"
+      "value": "4317"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4293"
+      "value": "4317"
     },
-    "attack_power": "5301",
-    "damage": "57.00",
-    "boss_damage": "295.00",
-    "ignore_defense": "94.32",
-    "critical_rate": "129",
-    "critical_damage": "89.00",
+    "attack_power": "5722",
+    "damage": "87.00",
+    "boss_damage": "360.00",
+    "ignore_defense": "95.33",
+    "critical_rate": "150",
+    "critical_damage": "136.00",
     "final_damage": "172.21",
     "buff_duration": "60",
     "cooldown_reduction": {
-      "seconds": "2",
+      "seconds": "4",
       "percent": "5"
     },
     "arc": "1350",
@@ -178,8 +178,8 @@
       "potential_grade": "傳說",
       "potential_lines": [
         "技能冷卻時間 -2秒",
-        "可以使用<實用的時空門> 技能",
-        "DEX +13%"
+        "技能冷卻時間 -2秒",
+        "LUK +10%"
       ],
       "additional_potential_grade": "稀有",
       "additional_potential_lines": [
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 10,
       "force": "100",
-      "growth_count": 875,
+      "growth_count": 918,
       "required_growth_count": 1100,
       "stat_increase": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 7,
       "force": "70",
-      "growth_count": 1188,
+      "growth_count": 1206,
       "required_growth_count": 581,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 6,
       "force": "60",
-      "growth_count": 1534,
+      "growth_count": 1552,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 6,
       "force": "60",
-      "growth_count": 919,
+      "growth_count": 937,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1659,7 +1659,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 5,
       "force": "50",
-      "growth_count": 692,
+      "growth_count": 710,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -2024,7 +2024,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 7270037,
+    "remaining_fame": 7548157,
     "lines": [
       {
         "ability_no": "1",
@@ -2309,7 +2309,7 @@
     {
       "core_name": "指令VI",
       "core_type": "精通核心",
-      "core_level": 21
+      "core_level": 22
     },
     {
       "core_name": "另一個咬擊VI/終極攻擊VI/陷阱散佈器VI",
