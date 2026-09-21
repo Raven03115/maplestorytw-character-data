@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-09-21T06:11:59.349Z",
+    "fetched_at": "2026-09-21T13:58:16.386Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -2203,7 +2203,7 @@
     {
       "core_name": "追蹤VI/踐踏VI",
       "core_type": "精通核心",
-      "core_level": 3
+      "core_level": 4
     },
     {
       "core_name": "穿刺VI/魔劍共鳴VI/回歸VI/綻放VI",
@@ -2346,9 +2346,9 @@
   "union_summary": {
     "level": 8701,
     "grade": "宗師戰地聯盟 2",
-    "artifact_level": 28,
-    "artifact_exp": 4140,
-    "artifact_point": 11950,
+    "artifact_level": 29,
+    "artifact_exp": 240,
+    "artifact_point": 12550,
     "active_raider_preset": 2,
     "raider_stats": [
       "增加爆擊機率 4%",
@@ -2458,7 +2458,7 @@
         "level": 10
       }
     ],
-    "artifact_remaining_ap": 5,
+    "artifact_remaining_ap": 6,
     "champions": [
       {
         "champion_name": "余盼",
