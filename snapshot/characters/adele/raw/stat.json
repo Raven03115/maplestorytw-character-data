@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "11123158"
+      "stat_value": "11790548"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "12359063"
+      "stat_value": "13100606"
     },
     {
       "stat_name": "傷害",
@@ -20,11 +20,11 @@
     },
     {
       "stat_name": "最終傷害",
-      "stat_value": "80.69"
+      "stat_value": "91.54"
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "85.56"
+      "stat_value": "87.87"
     },
     {
       "stat_name": "爆擊機率",
@@ -128,11 +128,11 @@
     },
     {
       "stat_name": "攻擊速度",
-      "stat_value": "7"
+      "stat_value": "8"
     },
     {
       "stat_name": "一般怪物傷害",
-      "stat_value": "93.00"
+      "stat_value": "104.00"
     },
     {
       "stat_name": "冷卻時間減少(秒)",
@@ -160,7 +160,7 @@
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "57.00"
+      "stat_value": "157.00"
     },
     {
       "stat_name": "攻擊力",
