@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-09-27T08:02:12.809Z",
+    "fetched_at": "2026-09-27T13:52:25.544Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -43,8 +43,8 @@
       "name": "DEX",
       "value": "3050"
     },
-    "attack_power": "1978",
-    "damage": "119.00",
+    "attack_power": "1991",
+    "damage": "145.00",
     "boss_damage": "183.00",
     "ignore_defense": "87.87",
     "critical_rate": "90",
@@ -1603,7 +1603,7 @@
       "name": "真實符文：賽爾尼溫",
       "level": 7,
       "force": "70",
-      "growth_count": 3258,
+      "growth_count": 3291,
       "required_growth_count": 581,
       "stat_increase": {
         "str": "1700",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 3,
       "force": "30",
-      "growth_count": 703,
+      "growth_count": 721,
       "required_growth_count": 141,
       "stat_increase": {
         "str": "900",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 3,
       "force": "30",
-      "growth_count": 463,
+      "growth_count": 481,
       "required_growth_count": 141,
       "stat_increase": {
         "str": "900",
@@ -1931,7 +1931,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 699014,
+    "remaining_fame": 701664,
     "lines": [
       {
         "ability_no": "1",
@@ -2347,8 +2347,8 @@
     "level": 8704,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 29,
-    "artifact_exp": 340,
-    "artifact_point": 12650,
+    "artifact_exp": 840,
+    "artifact_point": 12900,
     "active_raider_preset": 2,
     "raider_stats": [
       "增加爆擊機率 4%",
