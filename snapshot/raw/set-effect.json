@@ -162,11 +162,15 @@
     },
     {
       "set_name": "漆黑BOSS套裝",
-      "total_set_count": 2,
+      "total_set_count": 3,
       "set_effect_info": [
         {
           "set_count": 2,
           "set_option": "全屬性 +10, 最大HP +250, 攻擊力 +10, 魔法攻擊力 +10, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +10, 最大HP +250, 攻擊力 +10, 魔法攻擊力 +10, 防禦力 +250, 無視怪物防禦率 +10%"
         }
       ],
       "set_option_full": [
@@ -210,7 +214,7 @@
     },
     {
       "set_name": "首領飾品組",
-      "total_set_count": 3,
+      "total_set_count": 4,
       "set_effect_info": [
         {
           "set_count": 3,
