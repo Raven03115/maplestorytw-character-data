@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-02T09:38:53.281Z",
+    "fetched_at": "2026-10-02T16:13:48.651Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 7,
       "force": "70",
-      "growth_count": 1673,
+      "growth_count": 1689,
       "required_growth_count": 581,
       "stat_increase": {
         "str": "0",
@@ -1659,7 +1659,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 5,
       "force": "50",
-      "growth_count": 892,
+      "growth_count": 910,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -2020,7 +2020,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 9231974,
+    "remaining_fame": 9565174,
     "lines": [
       {
         "ability_no": "1",
@@ -2340,7 +2340,7 @@
     {
       "core_name": "靈魂赫卡忒",
       "core_type": "共用核心",
-      "core_level": 6
+      "core_level": 7
     },
     {
       "core_name": "末日反抗步兵陣VI",
