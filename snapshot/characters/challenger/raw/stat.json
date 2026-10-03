@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "48679004"
+      "stat_value": "48858508"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "57269414"
+      "stat_value": "57480596"
     },
     {
       "stat_name": "傷害",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "52558"
+      "stat_value": "52788"
     },
     {
       "stat_name": "移動速度",
@@ -164,11 +164,11 @@
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "5695"
+      "stat_value": "5716"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1188"
+      "stat_value": "1198"
     },
     {
       "stat_name": "戰鬥力",
