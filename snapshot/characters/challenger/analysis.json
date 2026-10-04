@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-03T21:08:13.935Z",
+    "fetched_at": "2026-10-04T00:31:12.678Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -26,28 +26,28 @@
   "basic": {
     "world": "挑戰者",
     "class": "狂豹獵人",
-    "level": 283,
+    "level": 284,
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "127778831",
+    "combat_power": "132295538",
     "main_stat": {
       "name": "DEX",
-      "value": "47155"
+      "value": "47561"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4705"
+      "value": "4788"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4705"
+      "value": "4788"
     },
-    "attack_power": "5793",
+    "attack_power": "5927",
     "damage": "53.00",
     "boss_damage": "389.00",
     "ignore_defense": "95.90",
-    "critical_rate": "148",
+    "critical_rate": "142",
     "critical_damage": "89.00",
     "final_damage": "172.21",
     "buff_duration": "60",
@@ -55,7 +55,7 @@
       "seconds": "4",
       "percent": "5"
     },
-    "arc": "1350",
+    "arc": "1370",
     "aut": "350"
   },
   "weapon_secondary_emblem": [
@@ -1276,14 +1276,14 @@
     {
       "part": "墜飾2",
       "equipment_type": "墜飾",
-      "name": "支配者墜飾",
-      "starforce": "15",
-      "scroll_upgrade": "5",
-      "potential_grade": "罕見",
+      "name": "頂級培羅德烙印墜飾",
+      "starforce": "17",
+      "scroll_upgrade": "7",
+      "potential_grade": "傳說",
       "potential_lines": [
+        "所有技能的MP消耗 -30%",
         "DEX +9%",
-        "DEX +6%",
-        "爆擊機率 +6%"
+        "DEX +9%"
       ],
       "additional_potential_grade": null,
       "additional_potential_lines": [
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 7,
       "force": "70",
-      "growth_count": 1721,
+      "growth_count": 2321,
       "required_growth_count": 581,
       "stat_increase": {
         "str": "0",
@@ -1884,7 +1884,7 @@
     },
     {
       "set_name": "首領飾品組",
-      "equipped_count": 4,
+      "equipped_count": 3,
       "effects": [
         {
           "set_count": 3,
@@ -1913,8 +1913,8 @@
   ],
   "hyper_stat": {
     "active_preset": "2",
-    "available_points": 1398,
-    "remaining_points": 36,
+    "available_points": 1415,
+    "remaining_points": 53,
     "stats": [
       {
         "stat_type": "STR",
@@ -2024,7 +2024,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 9928464,
+    "remaining_fame": 8367464,
     "lines": [
       {
         "ability_no": "1",
@@ -2034,7 +2034,7 @@
       {
         "ability_no": "2",
         "ability_grade": "罕見",
-        "ability_value": "增加STR 29 、DEX 15"
+        "ability_value": "增加所有能力值 25"
       },
       {
         "ability_no": "3",
@@ -2314,7 +2314,7 @@
     {
       "core_name": "另一個咬擊VI/終極攻擊VI/陷阱散佈器VI",
       "core_type": "精通核心",
-      "core_level": 16
+      "core_level": 17
     },
     {
       "core_name": "指令：掠食者之眼",
@@ -2384,9 +2384,9 @@
         "sub_stat_name_1": "攻擊力增加",
         "sub_stat_name_2": "主要屬性增加",
         "main_stat_level": 0,
-        "sub_stat_level_1": 0,
-        "sub_stat_level_2": 0,
-        "stat_grade": 0
+        "sub_stat_level_1": 3,
+        "sub_stat_level_2": 1,
+        "stat_grade": 4
       }
     ],
     "preset_1": [
@@ -2440,9 +2440,9 @@
         "sub_stat_name_1": "攻擊力增加",
         "sub_stat_name_2": "主要屬性增加",
         "main_stat_level": 0,
-        "sub_stat_level_1": 0,
-        "sub_stat_level_2": 0,
-        "stat_grade": 0
+        "sub_stat_level_1": 3,
+        "sub_stat_level_2": 1,
+        "stat_grade": 4
       },
       {
         "slot_id": "1",
