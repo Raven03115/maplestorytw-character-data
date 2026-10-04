@@ -4,19 +4,19 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "69662233"
+      "stat_value": "59443160"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "81955565"
+      "stat_value": "69933127"
     },
     {
       "stat_name": "傷害",
-      "stat_value": "83.00"
+      "stat_value": "53.00"
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "379.00"
+      "stat_value": "419.00"
     },
     {
       "stat_name": "最終傷害",
@@ -24,7 +24,7 @@
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "96.72"
+      "stat_value": "97.37"
     },
     {
       "stat_name": "爆擊機率",
@@ -32,7 +32,7 @@
     },
     {
       "stat_name": "爆擊傷害",
-      "stat_value": "119.00"
+      "stat_value": "89.00"
     },
     {
       "stat_name": "狀態異常耐性",
@@ -44,11 +44,11 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "60539"
+      "stat_value": "60519"
     },
     {
       "stat_name": "移動速度",
-      "stat_value": "210"
+      "stat_value": "160"
     },
     {
       "stat_name": "跳躍力",
@@ -60,7 +60,7 @@
     },
     {
       "stat_name": "神秘力量",
-      "stat_value": "1370"
+      "stat_value": "1380"
     },
     {
       "stat_name": "真實之力",
@@ -68,27 +68,27 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "5786"
+      "stat_value": "5745"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "47246"
+      "stat_value": "48181"
     },
     {
       "stat_name": "INT",
-      "stat_value": "3029"
+      "stat_value": "3241"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "3274"
+      "stat_value": "3575"
     },
     {
       "stat_name": "HP",
-      "stat_value": "70122"
+      "stat_value": "69872"
     },
     {
       "stat_name": "MP",
-      "stat_value": "39775"
+      "stat_value": "43422"
     },
     {
       "stat_name": "AP配點STR",
@@ -164,15 +164,15 @@
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "6257"
+      "stat_value": "6267"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1372"
+      "stat_value": "1342"
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "134848906"
+      "stat_value": "140975890"
     },
     {
       "stat_name": "召喚獸持續時間增加",

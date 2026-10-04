@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-10-04T13:08:56.633Z",
+    "fetched_at": "2026-10-04T18:05:57.030Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,10 +30,10 @@
     "guild": "薄冰"
   },
   "combat_summary": {
-    "combat_power": "9730246",
+    "combat_power": "10027608",
     "main_stat": {
       "name": "STR",
-      "value": "29126"
+      "value": "29526"
     },
     "secondary_stat": {
       "name": "DEX",
@@ -45,7 +45,7 @@
     },
     "attack_power": "1941",
     "damage": "104.00",
-    "boss_damage": "168.00",
+    "boss_damage": "173.00",
     "ignore_defense": "81.95",
     "critical_rate": "90",
     "critical_damage": "67.35",
@@ -56,7 +56,7 @@
       "percent": "5"
     },
     "arc": "1350",
-    "aut": "160"
+    "aut": "180"
   },
   "weapon_secondary_emblem": [
     {
@@ -1615,12 +1615,12 @@
     },
     {
       "name": "真實符文：阿爾克斯",
-      "level": 3,
-      "force": "30",
-      "growth_count": 721,
-      "required_growth_count": 141,
+      "level": 4,
+      "force": "40",
+      "growth_count": 599,
+      "required_growth_count": 224,
       "stat_increase": {
-        "str": "900",
+        "str": "1100",
         "dex": "0",
         "int": "0",
         "luk": "0",
@@ -1629,12 +1629,12 @@
     },
     {
       "name": "真實符文：奧迪溫",
-      "level": 3,
-      "force": "30",
-      "growth_count": 481,
-      "required_growth_count": 141,
+      "level": 4,
+      "force": "40",
+      "growth_count": 360,
+      "required_growth_count": 224,
       "stat_increase": {
-        "str": "900",
+        "str": "1100",
         "dex": "0",
         "int": "0",
         "luk": "0",
@@ -1931,7 +1931,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 701664,
+    "remaining_fame": 704864,
     "lines": [
       {
         "ability_no": "1",
@@ -2347,7 +2347,7 @@
     "level": 8704,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 29,
-    "artifact_exp": 1240,
+    "artifact_exp": 1540,
     "artifact_point": 12900,
     "active_raider_preset": 2,
     "raider_stats": [
