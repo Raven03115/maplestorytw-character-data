@@ -78,7 +78,7 @@
     },
     {
       "set_name": "永恆套裝(弓箭手)",
-      "total_set_count": 3,
+      "total_set_count": 5,
       "set_effect_info": [
         {
           "set_count": 2,
@@ -87,6 +87,14 @@
         {
           "set_count": 3,
           "set_option": "全屬性 +50, 攻擊力 +40, 魔法攻擊力 +40, 防禦力 +600, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 4,
+          "set_option": "最大HP +15%, 最大MP +15%, 攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "攻擊力 +40, 魔法攻擊力 +40, 無視怪物防禦率 +20%"
         }
       ],
       "set_option_full": [
@@ -122,19 +130,11 @@
     },
     {
       "set_name": "菇菇支援裝備套組(弓箭手)",
-      "total_set_count": 5,
+      "total_set_count": 3,
       "set_effect_info": [
         {
           "set_count": 3,
           "set_option": "全屬性 +20, 最大HP +1000, 最大MP +1000, 攻擊力 +20, 魔法攻擊力 +20"
-        },
-        {
-          "set_count": 4,
-          "set_option": "最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
-        },
-        {
-          "set_count": 5,
-          "set_option": "全屬性 +30, 最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
         }
       ],
       "set_option_full": [

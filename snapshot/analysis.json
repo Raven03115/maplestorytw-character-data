@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-04T06:46:24.638Z",
+    "fetched_at": "2026-10-04T13:08:50.473Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,25 +30,25 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "132295538",
+    "combat_power": "134848906",
     "main_stat": {
       "name": "DEX",
-      "value": "47561"
+      "value": "47246"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4788"
+      "value": "5786"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4788"
+      "value": "5786"
     },
-    "attack_power": "5927",
-    "damage": "53.00",
-    "boss_damage": "389.00",
-    "ignore_defense": "95.90",
+    "attack_power": "6257",
+    "damage": "83.00",
+    "boss_damage": "379.00",
+    "ignore_defense": "96.72",
     "critical_rate": "142",
-    "critical_damage": "89.00",
+    "critical_damage": "119.00",
     "final_damage": "172.21",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -269,7 +269,7 @@
       "part": "眼飾",
       "equipment_type": "眼飾",
       "name": "拉圖斯標誌",
-      "starforce": "17",
+      "starforce": "18",
       "scroll_upgrade": "6",
       "potential_grade": "傳說",
       "potential_lines": [
@@ -364,36 +364,36 @@
     {
       "part": "上衣",
       "equipment_type": "上衣",
-      "name": "菇菇守護者頭巾",
-      "starforce": "18",
-      "scroll_upgrade": "7",
-      "potential_grade": "罕見",
+      "name": "永恆弓箭手連帽衫",
+      "starforce": "17",
+      "scroll_upgrade": "8",
+      "potential_grade": "傳說",
       "potential_lines": [
-        "DEX +9%",
-        "DEX +6%",
-        null
+        "全屬性 +10%",
+        "INT +10%",
+        "全屬性 +7%"
       ],
-      "additional_potential_grade": "稀有",
+      "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        "DEX +4%",
-        "物理攻擊力 +10",
-        null
+        "全屬性 +4",
+        "LUK +6",
+        "魔法攻擊力 +3"
       ],
       "flame_additional_options": {
-        "str": "12",
-        "dex": "36",
+        "str": "0",
+        "dex": "0",
         "int": "0",
         "luk": "0",
         "max_hp": "0",
         "max_mp": "0",
-        "attack_power": "3",
+        "attack_power": "0",
         "magic_power": "0",
         "armor": "0",
         "speed": "0",
         "jump": "0",
         "boss_damage": "0",
         "damage": "0",
-        "all_stat": "3",
+        "all_stat": "0",
         "equipment_level_decrease": 0
       },
       "exceptional_options": {
@@ -994,8 +994,8 @@
       "potential_grade": "傳說",
       "potential_lines": [
         "DEX +12%",
-        "防禦力 +240",
-        "防禦力 +240"
+        "MaxHP +12%",
+        "STR +9%"
       ],
       "additional_potential_grade": "特殊",
       "additional_potential_lines": [
@@ -1036,20 +1036,20 @@
     {
       "part": "肩膀裝飾",
       "equipment_type": "肩膀裝飾",
-      "name": "菇菇弓箭手肩膀",
+      "name": "永恆弓箭手肩膀",
       "starforce": "18",
-      "scroll_upgrade": "1",
-      "potential_grade": "罕見",
+      "scroll_upgrade": "0",
+      "potential_grade": "傳說",
       "potential_lines": [
-        "DEX +9%",
-        "DEX +6%",
-        null
+        "全屬性 +10%",
+        "MaxMP +10%",
+        "DEX +10%"
       ],
-      "additional_potential_grade": "稀有",
+      "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        "DEX +4%",
-        "物理攻擊力 +10",
-        null
+        "DEX +3%",
+        "跳躍力 +4",
+        "防禦力 +60"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -1617,7 +1617,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 7,
       "force": "70",
-      "growth_count": 2321,
+      "growth_count": 2357,
       "required_growth_count": 581,
       "stat_increase": {
         "str": "0",
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 6,
       "force": "60",
-      "growth_count": 1768,
+      "growth_count": 1786,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1645,7 +1645,7 @@
       "name": "真實符文：桃源境",
       "level": 6,
       "force": "60",
-      "growth_count": 1153,
+      "growth_count": 1171,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1659,7 +1659,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 5,
       "force": "50",
-      "growth_count": 928,
+      "growth_count": 947,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1748,7 +1748,7 @@
     },
     {
       "set_name": "永恆套裝(弓箭手)",
-      "equipped_count": 3,
+      "equipped_count": 5,
       "effects": [
         {
           "set_count": 2,
@@ -1757,6 +1757,14 @@
         {
           "set_count": 3,
           "set_option": "全屬性 +50, 攻擊力 +40, 魔法攻擊力 +40, 防禦力 +600, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 4,
+          "set_option": "最大HP +15%, 最大MP +15%, 攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "攻擊力 +40, 魔法攻擊力 +40, 無視怪物防禦率 +20%"
         }
       ],
       "full_set_options": [
@@ -1792,19 +1800,11 @@
     },
     {
       "set_name": "菇菇支援裝備套組(弓箭手)",
-      "equipped_count": 5,
+      "equipped_count": 3,
       "effects": [
         {
           "set_count": 3,
           "set_option": "全屬性 +20, 最大HP +1000, 最大MP +1000, 攻擊力 +20, 魔法攻擊力 +20"
-        },
-        {
-          "set_count": 4,
-          "set_option": "最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
-        },
-        {
-          "set_count": 5,
-          "set_option": "全屬性 +30, 最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
         }
       ],
       "full_set_options": [
@@ -2024,7 +2024,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 8367464,
+    "remaining_fame": 9210864,
     "lines": [
       {
         "ability_no": "1",
