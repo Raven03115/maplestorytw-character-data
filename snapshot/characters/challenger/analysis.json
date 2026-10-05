@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-05T06:54:25.572Z",
+    "fetched_at": "2026-10-05T15:54:41.008Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -30,25 +30,25 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "120150267",
+    "combat_power": "143176851",
     "main_stat": {
       "name": "DEX",
-      "value": "47965"
+      "value": "48929"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "5599"
+      "value": "5862"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "5599"
+      "value": "5862"
     },
-    "attack_power": "6230",
-    "damage": "50.00",
-    "boss_damage": "310.00",
-    "ignore_defense": "95.57",
-    "critical_rate": "129",
-    "critical_damage": "90.00",
+    "attack_power": "6332",
+    "damage": "53.00",
+    "boss_damage": "385.00",
+    "ignore_defense": "97.07",
+    "critical_rate": "142",
+    "critical_damage": "89.00",
     "final_damage": "172.21",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -56,7 +56,7 @@
       "percent": "5"
     },
     "arc": "1380",
-    "aut": "350"
+    "aut": "390"
   },
   "weapon_secondary_emblem": [
     {
@@ -711,8 +711,8 @@
       ],
       "additional_potential_grade": "稀有",
       "additional_potential_lines": [
-        "INT +5%",
-        "物理攻擊力 +11",
+        "STR +5%",
+        "全屬性 +4",
         "物理攻擊力 +11"
       ],
       "flame_additional_options": {
@@ -1615,13 +1615,13 @@
     },
     {
       "name": "真實符文：阿爾克斯",
-      "level": 7,
-      "force": "70",
-      "growth_count": 2375,
-      "required_growth_count": 581,
+      "level": 10,
+      "force": "100",
+      "growth_count": 173,
+      "required_growth_count": 1100,
       "stat_increase": {
         "str": "0",
-        "dex": "1700",
+        "dex": "2300",
         "int": "0",
         "luk": "0",
         "hp": "0"
@@ -1657,13 +1657,13 @@
     },
     {
       "name": "真實符文：阿爾特利亞",
-      "level": 5,
-      "force": "50",
-      "growth_count": 947,
-      "required_growth_count": 325,
+      "level": 6,
+      "force": "60",
+      "growth_count": 641,
+      "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
-        "dex": "1300",
+        "dex": "1500",
         "int": "0",
         "luk": "0",
         "hp": "0"
@@ -1912,21 +1912,21 @@
     }
   ],
   "hyper_stat": {
-    "active_preset": "1",
+    "active_preset": "2",
     "available_points": 1415,
-    "remaining_points": 15,
+    "remaining_points": 53,
     "stats": [
       {
         "stat_type": "STR",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 7,
+        "stat_level": 3,
+        "stat_increase": "力量增加 90"
       },
       {
         "stat_type": "DEX",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 15,
+        "stat_level": 4,
+        "stat_increase": "增加敏捷 120"
       },
       {
         "stat_type": "INT",
@@ -1960,33 +1960,33 @@
       },
       {
         "stat_type": "爆擊機率",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 115,
+        "stat_level": 9,
+        "stat_increase": "爆擊機率增加 13%"
       },
       {
         "stat_type": "爆擊傷害",
-        "stat_point": 265,
-        "stat_level": 12,
-        "stat_increase": "爆擊傷害12%增加"
+        "stat_point": 200,
+        "stat_level": 11,
+        "stat_increase": "爆擊傷害11%增加"
       },
       {
         "stat_type": "無視防禦率",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 150,
+        "stat_level": 10,
+        "stat_increase": "無視防禦率增加 30%"
       },
       {
         "stat_type": "傷害",
-        "stat_point": 200,
-        "stat_level": 11,
-        "stat_increase": "提高傷害 33% "
+        "stat_point": 265,
+        "stat_level": 12,
+        "stat_increase": "提高傷害 36% "
       },
       {
         "stat_type": "Boss傷害",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 550,
+        "stat_level": 15,
+        "stat_increase": "攻擊Boss怪物時，傷害增加 55%"
       },
       {
         "stat_type": "異常狀態耐性",
@@ -1996,15 +1996,15 @@
       },
       {
         "stat_type": "攻擊力／魔力",
-        "stat_point": 40,
-        "stat_level": 6,
-        "stat_increase": "增加攻擊力與魔力18"
+        "stat_point": 60,
+        "stat_level": 7,
+        "stat_increase": "增加攻擊力與魔力21"
       },
       {
         "stat_type": "獲得經驗值",
-        "stat_point": 550,
-        "stat_level": 15,
-        "stat_increase": "獲得經驗值提高10.0%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "神祕力量",
@@ -2014,32 +2014,32 @@
       },
       {
         "stat_type": "一般傷害",
-        "stat_point": 345,
-        "stat_level": 13,
-        "stat_increase": "攻擊一般怪物時傷害增加47%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       }
     ]
   },
   "ability": {
     "grade": "傳說",
-    "active_preset": 2,
+    "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 9235964,
+    "remaining_fame": 9578914,
     "lines": [
       {
         "ability_no": "1",
         "ability_grade": "傳說",
-        "ability_value": "道具掉落率增加 20%"
+        "ability_value": "攻擊Boss怪物時，傷害增加 19%"
+      },
+      {
+        "ability_no": "2",
+        "ability_grade": "罕見",
+        "ability_value": "增加所有能力值 25"
       },
       {
         "ability_no": "3",
         "ability_grade": "罕見",
-        "ability_value": "攻擊一般怪物時傷害增加 8% "
-      },
-      {
-        "ability_no": "2",
-        "ability_grade": "稀有",
-        "ability_value": "增加楓幣獲得量 9% "
+        "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
       }
     ]
   },
@@ -2271,9 +2271,9 @@
     {
       "core_name": "烈陽印記",
       "core_type": "共用核心",
-      "core_level": 0,
+      "core_level": 1,
       "slot_enhancement": 0,
-      "total_level": 0,
+      "total_level": 1,
       "slot_position": "19"
     },
     {
@@ -2299,7 +2299,7 @@
     {
       "core_name": "狂野機關砲：巔峰VI",
       "core_type": "精通核心",
-      "core_level": 19
+      "core_level": 20
     },
     {
       "core_name": "助攻VI",
@@ -2383,10 +2383,10 @@
         "main_stat_name": "boss傷害增加",
         "sub_stat_name_1": "攻擊力增加",
         "sub_stat_name_2": "主要屬性增加",
-        "main_stat_level": 0,
+        "main_stat_level": 1,
         "sub_stat_level_1": 3,
         "sub_stat_level_2": 1,
-        "stat_grade": 4
+        "stat_grade": 5
       }
     ],
     "preset_1": [
@@ -2439,10 +2439,10 @@
         "main_stat_name": "boss傷害增加",
         "sub_stat_name_1": "攻擊力增加",
         "sub_stat_name_2": "主要屬性增加",
-        "main_stat_level": 0,
+        "main_stat_level": 1,
         "sub_stat_level_1": 3,
         "sub_stat_level_2": 1,
-        "stat_grade": 4
+        "stat_grade": 5
       },
       {
         "slot_id": "1",
