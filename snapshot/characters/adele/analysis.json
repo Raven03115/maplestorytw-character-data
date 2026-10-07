@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-10-06T21:35:24.610Z",
+    "fetched_at": "2026-10-07T01:27:11.586Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -1631,7 +1631,7 @@
       "name": "真實符文：奧迪溫",
       "level": 4,
       "force": "40",
-      "growth_count": 360,
+      "growth_count": 379,
       "required_growth_count": 224,
       "stat_increase": {
         "str": "1100",
@@ -1931,7 +1931,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 704864,
+    "remaining_fame": 704904,
     "lines": [
       {
         "ability_no": "1",
@@ -2347,7 +2347,7 @@
     "level": 8704,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 29,
-    "artifact_exp": 1540,
+    "artifact_exp": 1940,
     "artifact_point": 12900,
     "active_raider_preset": 2,
     "raider_stats": [
