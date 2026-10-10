@@ -59,8 +59,8 @@
       "slot_id": "not link"
     },
     {
-      "familiar_name": "哭泣的藍菇菇",
-      "familiar_nickname": "哭泣的藍菇菇",
+      "familiar_name": "垃圾桶",
+      "familiar_nickname": "垃圾桶",
       "familiar_special_flag": "false",
       "familiar_state": "registered",
       "familiar_level": 5,
@@ -70,21 +70,21 @@
       "option": [
         {
           "option_no": 1,
-          "option_name": "最終傷害 (%)",
+          "option_name": "STR",
           "option_value": "0"
         },
         {
           "option_no": 2,
-          "option_name": "防禦力 (%)",
+          "option_name": "防禦力",
           "option_value": "0"
         },
         {
           "option_no": 3,
-          "option_name": "防禦力 (%)",
+          "option_name": "物理攻擊力 (%)",
           "option_value": "0"
         }
       ],
-      "familiar_grade": "無視怪物防禦率",
+      "familiar_grade": "BOSS怪物傷害",
       "look_name": null,
       "summoned_flag": "false",
       "slot_id": "not link"
@@ -152,37 +152,6 @@
       "slot_id": "not link"
     },
     {
-      "familiar_name": "垃圾桶",
-      "familiar_nickname": "垃圾桶",
-      "familiar_special_flag": "false",
-      "familiar_state": "registered",
-      "familiar_level": 5,
-      "familiar_exp": 0,
-      "skill_name": null,
-      "option_level": 5,
-      "option": [
-        {
-          "option_no": 1,
-          "option_name": "STR",
-          "option_value": "0"
-        },
-        {
-          "option_no": 2,
-          "option_name": "防禦力",
-          "option_value": "0"
-        },
-        {
-          "option_no": 3,
-          "option_name": "物理攻擊力 (%)",
-          "option_value": "0"
-        }
-      ],
-      "familiar_grade": "BOSS怪物傷害",
-      "look_name": null,
-      "summoned_flag": "false",
-      "slot_id": "not link"
-    },
-    {
       "familiar_name": "暗獨眼獸",
       "familiar_nickname": "暗獨眼獸",
       "familiar_special_flag": "false",
@@ -240,6 +209,37 @@
         }
       ],
       "familiar_grade": "BOSS怪物傷害",
+      "look_name": null,
+      "summoned_flag": "false",
+      "slot_id": "not link"
+    },
+    {
+      "familiar_name": "哭泣的藍菇菇",
+      "familiar_nickname": "哭泣的藍菇菇",
+      "familiar_special_flag": "false",
+      "familiar_state": "registered",
+      "familiar_level": 5,
+      "familiar_exp": 0,
+      "skill_name": null,
+      "option_level": 5,
+      "option": [
+        {
+          "option_no": 1,
+          "option_name": "最終傷害 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 2,
+          "option_name": "防禦力 (%)",
+          "option_value": "0"
+        },
+        {
+          "option_no": 3,
+          "option_name": "防禦力 (%)",
+          "option_value": "0"
+        }
+      ],
+      "familiar_grade": "無視怪物防禦率",
       "look_name": null,
       "summoned_flag": "false",
       "slot_id": "not link"
