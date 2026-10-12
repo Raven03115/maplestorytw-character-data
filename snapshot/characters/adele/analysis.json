@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-10-11T20:11:37.607Z",
+    "fetched_at": "2026-10-12T00:27:45.244Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -43,8 +43,8 @@
       "name": "DEX",
       "value": "2828"
     },
-    "attack_power": "1953",
-    "damage": "130.00",
+    "attack_power": "2427",
+    "damage": "185.00",
     "boss_damage": "173.00",
     "ignore_defense": "84.84",
     "critical_rate": "90",
@@ -1931,7 +1931,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 705164,
+    "remaining_fame": 706494,
     "lines": [
       {
         "ability_no": "1",
@@ -2347,7 +2347,7 @@
     "level": 8704,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 29,
-    "artifact_exp": 2290,
+    "artifact_exp": 2640,
     "artifact_point": 12900,
     "active_raider_preset": 2,
     "raider_stats": [
