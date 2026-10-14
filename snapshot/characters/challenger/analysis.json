@@ -2,10 +2,18 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-14T01:08:46.213Z",
+    "fetched_at": "2026-10-14T07:29:11.326Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
+      {
+        "code": "SUMMARY_STAT_NOT_FOUND",
+        "field": "arc",
+        "message": "官方回傳中找不到 arc 的精確名稱，summary 保留 null。",
+        "expected_stat_names": [
+          "神秘力量"
+        ]
+      },
       {
         "code": "UNION_POWER_NOT_PROVIDED",
         "field": "union_power",
@@ -55,7 +63,7 @@
       "seconds": "4",
       "percent": "5"
     },
-    "arc": "1380",
+    "arc": null,
     "aut": "390"
   },
   "weapon_secondary_emblem": [
