@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-15T07:19:41.127Z",
+    "fetched_at": "2026-10-15T13:20:27.369Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -1625,7 +1625,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 10,
       "force": "100",
-      "growth_count": 566,
+      "growth_count": 586,
       "required_growth_count": 1100,
       "stat_increase": {
         "str": "0",
@@ -1639,7 +1639,7 @@
       "name": "真實符文：奧迪溫",
       "level": 6,
       "force": "60",
-      "growth_count": 1957,
+      "growth_count": 1977,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1653,7 +1653,7 @@
       "name": "真實符文：桃源境",
       "level": 6,
       "force": "60",
-      "growth_count": 1342,
+      "growth_count": 1362,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1667,7 +1667,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 6,
       "force": "60",
-      "growth_count": 797,
+      "growth_count": 817,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -2042,7 +2042,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 6801811,
+    "remaining_fame": 6805065,
     "lines": [
       {
         "ability_no": "1",
@@ -2317,7 +2317,7 @@
     {
       "core_name": "狂野機關砲：巔峰VI",
       "core_type": "精通核心",
-      "core_level": 25
+      "core_level": 26
     },
     {
       "core_name": "助攻VI",
@@ -2367,7 +2367,7 @@
     {
       "core_name": "末日反抗步兵陣VI",
       "core_type": "共用核心",
-      "core_level": 5
+      "core_level": 6
     }
   ],
   "hexamatrix_stat": {
