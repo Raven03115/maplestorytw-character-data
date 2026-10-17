@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-17T13:38:48.936Z",
+    "fetched_at": "2026-10-17T17:02:51.415Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,20 +38,20 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "156493343",
+    "combat_power": "162689516",
     "main_stat": {
       "name": "DEX",
-      "value": "51070"
+      "value": "51468"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4794"
+      "value": "4928"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4794"
+      "value": "4928"
     },
-    "attack_power": "5938",
+    "attack_power": "6100",
     "damage": "53.00",
     "boss_damage": "440.00",
     "ignore_defense": "97.36",
@@ -709,7 +709,7 @@
       "part": "戒指1",
       "equipment_type": "戒指",
       "name": "巨大的恐怖",
-      "starforce": "17",
+      "starforce": "20",
       "scroll_upgrade": "3",
       "potential_grade": "傳說",
       "potential_lines": [
@@ -997,7 +997,7 @@
       "part": "腰帶",
       "equipment_type": "腰帶",
       "name": "頂級培羅德烙印腰帶",
-      "starforce": "17",
+      "starforce": "20",
       "scroll_upgrade": "4",
       "potential_grade": "傳說",
       "potential_lines": [
@@ -2056,7 +2056,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 6879145,
+    "remaining_fame": 6879185,
     "lines": [
       {
         "ability_no": "1",
