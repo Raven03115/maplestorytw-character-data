@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-17T17:02:51.415Z",
+    "fetched_at": "2026-10-17T19:16:36.326Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,25 +38,25 @@
     "guild": "基尼太美"
   },
   "combat_summary": {
-    "combat_power": "162689516",
+    "combat_power": "128508677",
     "main_stat": {
       "name": "DEX",
-      "value": "51468"
+      "value": "49111"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "4928"
+      "value": "5000"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "4928"
+      "value": "5000"
     },
-    "attack_power": "6100",
-    "damage": "53.00",
-    "boss_damage": "440.00",
-    "ignore_defense": "97.36",
-    "critical_rate": "149",
-    "critical_damage": "89.00",
+    "attack_power": "5656",
+    "damage": "56.00",
+    "boss_damage": "376.00",
+    "ignore_defense": "96.30",
+    "critical_rate": "134",
+    "critical_damage": "88.00",
     "final_damage": "172.21",
     "buff_duration": "60",
     "cooldown_reduction": {
@@ -116,9 +116,9 @@
       ],
       "additional_potential_grade": "罕見",
       "additional_potential_lines": [
-        "物理攻擊力 +10%",
-        "攻擊時有3%機率恢復54 HP",
-        "物理攻擊力 +7%"
+        "魔法攻擊力 +10%",
+        "全屬性 +4%",
+        "無視怪物防禦率 +3%"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -431,9 +431,9 @@
       ],
       "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        "MaxHP +125",
+        "物理攻擊力 +11",
         "MaxMP +60",
-        "魔法攻擊力 +3"
+        "物理攻擊力 +3"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -468,36 +468,36 @@
     {
       "part": "鞋子",
       "equipment_type": "鞋子",
-      "name": "菇菇弓箭手鞋",
-      "starforce": "18",
-      "scroll_upgrade": "7",
-      "potential_grade": "罕見",
+      "name": "神祕冥界幽靈弓手鞋子",
+      "starforce": "17",
+      "scroll_upgrade": "0",
+      "potential_grade": "傳說",
       "potential_lines": [
-        "DEX +9%",
-        "DEX +6%",
-        null
+        "MaxHP +13%",
+        "MaxMP +10%",
+        "被擊中時有5% 機率無視 20% 傷害"
       ],
-      "additional_potential_grade": "稀有",
+      "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        "DEX +4%",
-        "物理攻擊力 +10",
-        null
+        "移動速度 +6",
+        "DEX +6",
+        "DEX +6"
       ],
       "flame_additional_options": {
-        "str": "12",
-        "dex": "36",
+        "str": "0",
+        "dex": "0",
         "int": "0",
         "luk": "0",
         "max_hp": "0",
         "max_mp": "0",
-        "attack_power": "3",
+        "attack_power": "0",
         "magic_power": "0",
         "armor": "0",
         "speed": "0",
         "jump": "0",
         "boss_damage": "0",
         "damage": "0",
-        "all_stat": "3",
+        "all_stat": "0",
         "equipment_level_decrease": 0
       },
       "exceptional_options": {
@@ -527,9 +527,9 @@
       ],
       "additional_potential_grade": "稀有",
       "additional_potential_lines": [
-        "移動速度 +9",
-        "魔法攻擊力 +12",
-        "物理攻擊力 +12"
+        "全屬性 +3%",
+        "物理攻擊力 +11",
+        "STR +11"
       ],
       "flame_additional_options": {
         "str": "21",
@@ -564,36 +564,36 @@
     {
       "part": "披風",
       "equipment_type": "披風",
-      "name": "菇菇弓箭手斗篷",
-      "starforce": "18",
-      "scroll_upgrade": "7",
-      "potential_grade": "罕見",
+      "name": "神祕冥界幽靈弓手斗篷",
+      "starforce": "17",
+      "scroll_upgrade": "0",
+      "potential_grade": "傳說",
       "potential_lines": [
-        "DEX +9%",
-        "DEX +6%",
-        null
+        "LUK +13%",
+        "DEX +10%",
+        "MaxHP +10%"
       ],
-      "additional_potential_grade": "稀有",
+      "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        "DEX +4%",
-        "物理攻擊力 +10",
-        null
+        "全屬性 +4",
+        "物理攻擊力 +3",
+        "MaxMP +60"
       ],
       "flame_additional_options": {
-        "str": "12",
-        "dex": "36",
+        "str": "0",
+        "dex": "0",
         "int": "0",
         "luk": "0",
         "max_hp": "0",
         "max_mp": "0",
-        "attack_power": "3",
+        "attack_power": "0",
         "magic_power": "0",
         "armor": "0",
         "speed": "0",
         "jump": "0",
         "boss_damage": "0",
         "damage": "0",
-        "all_stat": "3",
+        "all_stat": "0",
         "equipment_level_decrease": 0
       },
       "exceptional_options": {
@@ -671,9 +671,9 @@
       ],
       "additional_potential_grade": "罕見",
       "additional_potential_lines": [
-        "物理攻擊力 +10%",
-        "攻擊時有3%機率恢復54 HP",
-        "物理攻擊力 +7%"
+        "魔法攻擊力 +10%",
+        "全屬性 +4%",
+        "無視怪物防禦率 +3%"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -912,8 +912,8 @@
       "additional_potential_grade": "特殊",
       "additional_potential_lines": [
         "物理攻擊力 +10",
-        "DEX +6",
-        "MaxMP +60"
+        "物理攻擊力 +3",
+        "防禦力 +60"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -1007,9 +1007,9 @@
       ],
       "additional_potential_grade": "稀有",
       "additional_potential_lines": [
-        "LUK +14",
-        "物理攻擊力 +10",
-        "DEX +2%"
+        "物理攻擊力 +11",
+        "DEX +10",
+        "DEX +10"
       ],
       "flame_additional_options": {
         "str": "4",
@@ -1055,9 +1055,9 @@
       ],
       "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        "DEX +3%",
-        "跳躍力 +4",
-        "防禦力 +60"
+        "物理攻擊力 +11",
+        "物理攻擊力 +3",
+        "INT +6"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -1293,11 +1293,11 @@
         "DEX +9%",
         "DEX +9%"
       ],
-      "additional_potential_grade": null,
+      "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        null,
-        null,
-        null
+        "移動速度 +6",
+        "物理攻擊力 +10",
+        "跳躍力 +4"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -1625,7 +1625,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 10,
       "force": "100",
-      "growth_count": 626,
+      "growth_count": 647,
       "required_growth_count": 1100,
       "stat_increase": {
         "str": "0",
@@ -1639,7 +1639,7 @@
       "name": "真實符文：奧迪溫",
       "level": 6,
       "force": "60",
-      "growth_count": 2017,
+      "growth_count": 2038,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1653,7 +1653,7 @@
       "name": "真實符文：桃源境",
       "level": 6,
       "force": "60",
-      "growth_count": 1402,
+      "growth_count": 1423,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1667,7 +1667,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 6,
       "force": "60",
-      "growth_count": 857,
+      "growth_count": 878,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1681,7 +1681,7 @@
       "name": "真實符文：卡爾西溫",
       "level": 2,
       "force": "20",
-      "growth_count": 13,
+      "growth_count": 35,
       "required_growth_count": 76,
       "stat_increase": {
         "str": "0",
@@ -1836,33 +1836,6 @@
       ]
     },
     {
-      "set_name": "菇菇支援裝備套組(弓箭手)",
-      "equipped_count": 2,
-      "effects": [],
-      "full_set_options": [
-        {
-          "set_count": 3,
-          "set_option": "全屬性 +20, 最大HP +1000, 最大MP +1000, 攻擊力 +20, 魔法攻擊力 +20"
-        },
-        {
-          "set_count": 4,
-          "set_option": "最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
-        },
-        {
-          "set_count": 5,
-          "set_option": "全屬性 +30, 最大HP +1500, 最大MP +1500, 攻擊力 +20, 魔法攻擊力 +20, 攻擊Boss怪物時傷害 +10%"
-        },
-        {
-          "set_count": 6,
-          "set_option": "攻擊力 +40, 魔法攻擊力 +40, 防禦力 +200, 無視怪物防禦率 +10%"
-        },
-        {
-          "set_count": 7,
-          "set_option": "攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +10%"
-        }
-      ]
-    },
-    {
       "set_name": "漆黑BOSS套裝",
       "equipped_count": 3,
       "effects": [
@@ -1941,12 +1914,48 @@
           "set_option": "全屬性 +15, 攻擊力 +10, 魔法攻擊力 +10, 防禦力 +100, 攻擊Boss怪物時傷害 +10%"
         }
       ]
+    },
+    {
+      "set_name": "神祕冥界套裝(弓手)",
+      "equipped_count": 2,
+      "effects": [
+        {
+          "set_count": 2,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 攻擊Boss怪物時傷害 +10%"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 2,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 3,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 防禦力 +400, 無視怪物防禦率 +10%"
+        },
+        {
+          "set_count": 4,
+          "set_option": "全屬性 +50, 攻擊力 +35, 魔法攻擊力 +35, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 5,
+          "set_option": "最大HP +2000, 最大MP +2000, 攻擊力 +40, 魔法攻擊力 +40, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 6,
+          "set_option": "最大HP +30%, 最大MP +30%, 攻擊力 +30, 魔法攻擊力 +30"
+        },
+        {
+          "set_count": 7,
+          "set_option": "攻擊力 +30, 魔法攻擊力 +30, 無視怪物防禦率 +10%"
+        }
+      ]
     }
   ],
   "hyper_stat": {
-    "active_preset": "2",
+    "active_preset": "1",
     "available_points": 1432,
-    "remaining_points": 1,
+    "remaining_points": 0,
     "stats": [
       {
         "stat_type": "STR",
@@ -1956,9 +1965,9 @@
       },
       {
         "stat_type": "DEX",
-        "stat_point": 25,
-        "stat_level": 5,
-        "stat_increase": "增加敏捷 150"
+        "stat_point": 15,
+        "stat_level": 4,
+        "stat_increase": "增加敏捷 120"
       },
       {
         "stat_type": "INT",
@@ -1992,33 +2001,33 @@
       },
       {
         "stat_type": "爆擊機率",
-        "stat_point": 150,
-        "stat_level": 10,
-        "stat_increase": "爆擊機率增加 15%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "爆擊傷害",
-        "stat_point": 200,
-        "stat_level": 11,
-        "stat_increase": "爆擊傷害11%增加"
+        "stat_point": 150,
+        "stat_level": 10,
+        "stat_increase": "爆擊傷害10%增加"
       },
       {
         "stat_type": "無視防禦率",
-        "stat_point": 200,
-        "stat_level": 11,
-        "stat_increase": "無視防禦率增加 33%"
+        "stat_point": 1,
+        "stat_level": 1,
+        "stat_increase": "無視防禦率增加 3%"
       },
       {
         "stat_type": "傷害",
-        "stat_point": 265,
-        "stat_level": 12,
-        "stat_increase": "提高傷害 36% "
+        "stat_point": 345,
+        "stat_level": 13,
+        "stat_increase": "提高傷害 39% "
       },
       {
         "stat_type": "Boss傷害",
-        "stat_point": 550,
-        "stat_level": 15,
-        "stat_increase": "攻擊Boss怪物時，傷害增加 55%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "異常狀態耐性",
@@ -2028,15 +2037,15 @@
       },
       {
         "stat_type": "攻擊力／魔力",
-        "stat_point": 40,
-        "stat_level": 6,
-        "stat_increase": "增加攻擊力與魔力18"
+        "stat_point": 25,
+        "stat_level": 5,
+        "stat_increase": "增加攻擊力與魔力15"
       },
       {
         "stat_type": "獲得經驗值",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 550,
+        "stat_level": 15,
+        "stat_increase": "獲得經驗值提高10.0%"
       },
       {
         "stat_type": "神祕力量",
@@ -2046,32 +2055,32 @@
       },
       {
         "stat_type": "一般傷害",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 345,
+        "stat_level": 13,
+        "stat_increase": "攻擊一般怪物時傷害增加47%"
       }
     ]
   },
   "ability": {
     "grade": "傳說",
-    "active_preset": 1,
+    "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 6879185,
+    "remaining_fame": 6879665,
     "lines": [
       {
         "ability_no": "1",
         "ability_grade": "傳說",
-        "ability_value": "攻擊Boss怪物時，傷害增加 19%"
-      },
-      {
-        "ability_no": "2",
-        "ability_grade": "罕見",
-        "ability_value": "增加DEX 25"
+        "ability_value": "道具掉落率增加 20%"
       },
       {
         "ability_no": "3",
         "ability_grade": "罕見",
-        "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
+        "ability_value": "攻擊一般怪物時傷害增加 8% "
+      },
+      {
+        "ability_no": "2",
+        "ability_grade": "稀有",
+        "ability_value": "增加楓幣獲得量 9% "
       }
     ]
   },
