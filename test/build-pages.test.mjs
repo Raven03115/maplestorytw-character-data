@@ -260,6 +260,17 @@ test("上游錯誤資訊含任意字串或 URL 查詢參數時不寫入日誌", 
   }));
   assert.match(message, /HTTP 狀態不是 200，而是 502/);
   assert.doesNotMatch(message, /secret-token|Authorization/);
+
+  const arbitraryTokens = await captureUpstreamFailure(JSON.stringify({
+    error: {
+      code: "SECRETKEYABC123",
+      endpoint: "/maplestorytw/v1/character/secretvalue",
+      upstream_status: 503,
+      nexon_code: "SECRETKEYABC123",
+    },
+  }));
+  assert.doesNotMatch(arbitraryTokens, /SECRETKEYABC123|secretvalue/);
+  assert.match(arbitraryTokens, /上游HTTP=503/);
 });
 
 test("HTML 與過大的 JSON 錯誤回應只保留 HTTP 狀態，不回印內容", async () => {
