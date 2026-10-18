@@ -34,8 +34,16 @@ const DEFAULT_SNAPSHOT_DIRECTORY = new URL("../snapshot/", import.meta.url);
 const SNAPSHOT_HEARTBEAT_MS = 6 * 60 * 60 * 1000;
 const MAX_RESPONSE_BYTES = 2 * 1024 * 1024;
 const MAX_ERROR_BODY_BYTES = 8 * 1024;
-const SAFE_ERROR_TOKEN = /^[A-Z][A-Z0-9_]{0,63}$/;
-const SAFE_NEXON_ENDPOINT = /^\/maplestorytw\/v1\/(?:id|character\/[a-z0-9-]+|user\/[a-z0-9-]+)$/;
+const SAFE_WORKER_ERROR_CODES = new Set([
+  "NEXON_CORE_ENDPOINT_FAILED", "CHARACTER_NOT_FOUND", "SERVICE_NOT_CONFIGURED",
+  "NEXON_CORE_RESPONSE_INVALID", "CHARACTER_IDENTITY_MISMATCH", "INTERNAL_RESPONSE_INVALID",
+]);
+const SAFE_NEXON_CODE = /^OPENAPI\d{5}$/;
+const SAFE_NEXON_ENDPOINTS = new Set([
+  "/maplestorytw/v1/id",
+  ...["basic", "stat", "hyper-stat", "ability", "item-equipment", "symbol-equipment", "set-effect", "vmatrix", "hexamatrix", "hexamatrix-stat", "link-skill", "familiar"].map((slug) => `/maplestorytw/v1/character/${slug}`),
+  ...["union", "union-raider", "union-artifact", "union-champion"].map((slug) => `/maplestorytw/v1/user/${slug}`),
+]);
 const FORBIDDEN_KEYS = new Set([
   "authorization",
   "cookie",
@@ -144,16 +152,16 @@ async function workerErrorDiagnostics(response) {
 
   // Never echo the response body, messages, headers, credentials, or arbitrary URLs.
   const fields = [];
-  if (typeof error.code === "string" && SAFE_ERROR_TOKEN.test(error.code)) {
+  if (typeof error.code === "string" && SAFE_WORKER_ERROR_CODES.has(error.code)) {
     fields.push(`錯誤代碼=${error.code}`);
   }
-  if (typeof error.endpoint === "string" && SAFE_NEXON_ENDPOINT.test(error.endpoint)) {
+  if (typeof error.endpoint === "string" && SAFE_NEXON_ENDPOINTS.has(error.endpoint)) {
     fields.push(`失敗端點=${error.endpoint}`);
   }
   if (Number.isInteger(error.upstream_status) && error.upstream_status >= 100 && error.upstream_status <= 599) {
     fields.push(`上游HTTP=${error.upstream_status}`);
   }
-  if (typeof error.nexon_code === "string" && SAFE_ERROR_TOKEN.test(error.nexon_code)) {
+  if (typeof error.nexon_code === "string" && SAFE_NEXON_CODE.test(error.nexon_code)) {
     fields.push(`NEXON代碼=${error.nexon_code}`);
   }
   return fields.length > 0 ? `；Worker 診斷：${fields.join("、")}` : "";
