@@ -28,7 +28,9 @@ Workflow 支援手動執行；功能分支把未來排程調整為每小時第 7
 
 ## 安全
 
-此 Repository 不需要、也不含任何 NEXON API Key、Cloudflare Token、OCID、Authorization、Cookie 或其他 Secret。產生器會遞迴拒絕這些敏感欄位；Actions 日誌只輸出角色數、來源總位元組數與 snapshot 狀態，不輸出完整 JSON。
+此 Repository 不需要、也不含任何 NEXON API Key、Cloudflare Token、OCID、Authorization、Cookie 或其他 Secret。產生器會遞迴拒絕這些敏感欄位；Actions 成功日誌只輸出角色數、來源總位元組數與 snapshot 狀態，不輸出完整 JSON。
+
+當 Worker 回傳非 HTTP 200（例如 502），Actions 會額外顯示 HTTP 狀態，以及經白名單格式檢查的 `error.code`、NEXON 端點路徑、上游 HTTP 狀態、`error.nexon_code`（若 Worker 有提供）。不輸出完整錯誤內容、`error.message`、查詢參數、任意網址、認證資訊或 OCID。錯誤回應不是 JSON、欄位不符合安全格式，或內容超過 8 KiB 時，仍只記錄 HTTP 狀態；原本的驗證失敗停止更新機制維持不變。
 
 ## 本機驗證
 

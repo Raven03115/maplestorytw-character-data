@@ -33,6 +33,17 @@ const DEFAULT_OUTPUT_DIRECTORY = new URL("../_site/", import.meta.url);
 const DEFAULT_SNAPSHOT_DIRECTORY = new URL("../snapshot/", import.meta.url);
 const SNAPSHOT_HEARTBEAT_MS = 6 * 60 * 60 * 1000;
 const MAX_RESPONSE_BYTES = 2 * 1024 * 1024;
+const MAX_ERROR_BODY_BYTES = 8 * 1024;
+const SAFE_WORKER_ERROR_CODES = new Set([
+  "NEXON_CORE_ENDPOINT_FAILED", "CHARACTER_NOT_FOUND", "SERVICE_NOT_CONFIGURED",
+  "NEXON_CORE_RESPONSE_INVALID", "CHARACTER_IDENTITY_MISMATCH", "INTERNAL_RESPONSE_INVALID",
+]);
+const SAFE_NEXON_CODE = /^OPENAPI\d{5}$/;
+const SAFE_NEXON_ENDPOINTS = new Set([
+  "/maplestorytw/v1/id",
+  ...["basic", "stat", "hyper-stat", "ability", "item-equipment", "symbol-equipment", "set-effect", "vmatrix", "hexamatrix", "hexamatrix-stat", "link-skill", "familiar"].map((slug) => `/maplestorytw/v1/character/${slug}`),
+  ...["union", "union-raider", "union-artifact", "union-champion"].map((slug) => `/maplestorytw/v1/user/${slug}`),
+]);
 const FORBIDDEN_KEYS = new Set([
   "authorization",
   "cookie",
@@ -120,6 +131,42 @@ function validateSection(section, character, slug) {
   }
 }
 
+async function workerErrorDiagnostics(response) {
+  const contentType = response.headers.get("content-type") ?? "";
+  if (!/^application\/json(?:\s*;|$)/i.test(contentType)) return "";
+
+  const declaredLength = response.headers.get("content-length");
+  if (declaredLength !== null && Number(declaredLength) > MAX_ERROR_BODY_BYTES) return "";
+
+  let payload;
+  try {
+    const body = await response.text();
+    if (Buffer.byteLength(body, "utf8") > MAX_ERROR_BODY_BYTES) return "";
+    payload = JSON.parse(body);
+  } catch {
+    return "";
+  }
+
+  const error = isObject(payload) && isObject(payload.error) ? payload.error : null;
+  if (error === null) return "";
+
+  // Never echo the response body, messages, headers, credentials, or arbitrary URLs.
+  const fields = [];
+  if (typeof error.code === "string" && SAFE_WORKER_ERROR_CODES.has(error.code)) {
+    fields.push(`錯誤代碼=${error.code}`);
+  }
+  if (typeof error.endpoint === "string" && SAFE_NEXON_ENDPOINTS.has(error.endpoint)) {
+    fields.push(`失敗端點=${error.endpoint}`);
+  }
+  if (Number.isInteger(error.upstream_status) && error.upstream_status >= 100 && error.upstream_status <= 599) {
+    fields.push(`上游HTTP=${error.upstream_status}`);
+  }
+  if (typeof error.nexon_code === "string" && SAFE_NEXON_CODE.test(error.nexon_code)) {
+    fields.push(`NEXON代碼=${error.nexon_code}`);
+  }
+  return fields.length > 0 ? `；Worker 診斷：${fields.join("、")}` : "";
+}
+
 async function fetchJson(sourceUrl, label, fetchFn) {
   const response = await fetchFn(sourceUrl, {
     headers: { Accept: "application/json" },
@@ -128,7 +175,8 @@ async function fetchJson(sourceUrl, label, fetchFn) {
   });
 
   if (response.status !== 200) {
-    throw new Error(`${label}: 來源端點 HTTP 狀態不是 200，而是 ${response.status}。`);
+    const diagnostics = await workerErrorDiagnostics(response);
+    throw new Error(`${label}: 來源端點 HTTP 狀態不是 200，而是 ${response.status}${diagnostics}。`);
   }
 
   const contentType = response.headers.get("content-type") ?? "";

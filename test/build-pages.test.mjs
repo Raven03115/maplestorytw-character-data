@@ -206,3 +206,81 @@ test("敏感欄位驗證會拒絕 OCID 與認證資料", () => {
   assert.equal(containsForbiddenKey({ nested: { ocid: "forbidden" } }), true);
   assert.equal(containsForbiddenKey({ Authorization: "forbidden" }), true);
 });
+
+async function captureUpstreamFailure(body, contentType = "application/json; charset=utf-8") {
+  let failure;
+  await withDirectories(async ({ outputDirectory, snapshotDirectory }) => {
+    await assert.rejects(
+      buildPages({
+        outputDirectory,
+        snapshotDirectory,
+        fetchFn: async () => new Response(body, {
+          status: 502,
+          headers: { "Content-Type": contentType },
+        }),
+      }),
+      (error) => {
+        failure = error;
+        return true;
+      },
+    );
+  });
+  return failure.message;
+}
+
+test("上游 502 顯示安全的 Worker 與 NEXON 錯誤欄位，不洩漏原始回應", async () => {
+  const message = await captureUpstreamFailure(JSON.stringify({
+    ok: false,
+    ocid: "secret-ocid-value",
+    error: {
+      code: "NEXON_CORE_ENDPOINT_FAILED",
+      endpoint: "/maplestorytw/v1/character/basic",
+      upstream_status: 429,
+      nexon_code: "OPENAPI00007",
+      message: "private-token-value",
+    },
+  }));
+  assert.match(message, /challenger: 來源端點 HTTP 狀態不是 200，而是 502/);
+  assert.match(message, /錯誤代碼=NEXON_CORE_ENDPOINT_FAILED/);
+  assert.match(message, /失敗端點=\/maplestorytw\/v1\/character\/basic/);
+  assert.match(message, /上游HTTP=429/);
+  assert.match(message, /NEXON代碼=OPENAPI00007/);
+  assert.doesNotMatch(message, /secret-ocid-value|private-token-value/);
+});
+
+test("上游錯誤資訊含任意字串或 URL 查詢參數時不寫入日誌", async () => {
+  const message = await captureUpstreamFailure(JSON.stringify({
+    error: {
+      code: "AUTH=secret-token",
+      endpoint: "/maplestorytw/v1/id?Authorization=secret-token",
+      upstream_status: "429 secret-token",
+      nexon_code: "secret-token",
+      message: "secret-token",
+    },
+  }));
+  assert.match(message, /HTTP 狀態不是 200，而是 502/);
+  assert.doesNotMatch(message, /secret-token|Authorization/);
+
+  const arbitraryTokens = await captureUpstreamFailure(JSON.stringify({
+    error: {
+      code: "SECRETKEYABC123",
+      endpoint: "/maplestorytw/v1/character/secretvalue",
+      upstream_status: 503,
+      nexon_code: "SECRETKEYABC123",
+    },
+  }));
+  assert.doesNotMatch(arbitraryTokens, /SECRETKEYABC123|secretvalue/);
+  assert.match(arbitraryTokens, /上游HTTP=503/);
+});
+
+test("HTML 與過大的 JSON 錯誤回應只保留 HTTP 狀態，不回印內容", async () => {
+  const html = await captureUpstreamFailure("<p>secret-html-value</p>", "text/html");
+  assert.match(html, /HTTP 狀態不是 200，而是 502/);
+  assert.doesNotMatch(html, /secret-html-value/);
+
+  const oversized = await captureUpstreamFailure(JSON.stringify({
+    error: { code: "OVERSIZE_SECRET", message: "x".repeat(9000) },
+  }));
+  assert.match(oversized, /HTTP 狀態不是 200，而是 502/);
+  assert.doesNotMatch(oversized, /OVERSIZE_SECRET/);
+});
