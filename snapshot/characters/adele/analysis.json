@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-10-18T10:54:53.565Z",
+    "fetched_at": "2026-10-18T14:30:42.739Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -2491,7 +2491,7 @@
       {
         "champion_name": "豹豹奶霜",
         "champion_slot": 2,
-        "champion_grade": "S",
+        "champion_grade": "SS",
         "champion_class": "狂豹獵人",
         "champion_badge_info": [
           {
@@ -2502,6 +2502,9 @@
           },
           {
             "stat": "攻擊Boss怪物時傷害增加5%"
+          },
+          {
+            "stat": "爆擊傷害增加3.00%"
           }
         ]
       }
@@ -2515,6 +2518,9 @@
       },
       {
         "stat": "攻擊Boss怪物時傷害增加5%"
+      },
+      {
+        "stat": "爆擊傷害增加3.00%"
       }
     ]
   },
