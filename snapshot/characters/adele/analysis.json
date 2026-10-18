@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-10-18T05:46:24.550Z",
+    "fetched_at": "2026-10-18T10:54:53.565Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,7 +38,7 @@
     "guild": "薄冰"
   },
   "combat_summary": {
-    "combat_power": "13191081",
+    "combat_power": "13410136",
     "main_stat": {
       "name": "STR",
       "value": "29875"
@@ -51,9 +51,9 @@
       "name": "DEX",
       "value": "3095"
     },
-    "attack_power": "1996",
+    "attack_power": "2001",
     "damage": "119.00",
-    "boss_damage": "228.00",
+    "boss_damage": "233.00",
     "ignore_defense": "92.20",
     "critical_rate": "143",
     "critical_damage": "71.35",
@@ -1939,7 +1939,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 706494,
+    "remaining_fame": 706944,
     "lines": [
       {
         "ability_no": "1",
@@ -2355,8 +2355,8 @@
     "level": 8813,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 36,
-    "artifact_exp": 240,
-    "artifact_point": 6900,
+    "artifact_exp": 340,
+    "artifact_point": 7000,
     "active_raider_preset": 1,
     "raider_stats": [
       "增加爆擊機率 4%",
@@ -2491,7 +2491,7 @@
       {
         "champion_name": "豹豹奶霜",
         "champion_slot": 2,
-        "champion_grade": "A",
+        "champion_grade": "S",
         "champion_class": "狂豹獵人",
         "champion_badge_info": [
           {
@@ -2499,6 +2499,9 @@
           },
           {
             "stat": "攻擊力/魔力增加 10"
+          },
+          {
+            "stat": "攻擊Boss怪物時傷害增加5%"
           }
         ]
       }
@@ -2509,6 +2512,9 @@
       },
       {
         "stat": "攻擊力/魔力增加 10"
+      },
+      {
+        "stat": "攻擊Boss怪物時傷害增加5%"
       }
     ]
   },

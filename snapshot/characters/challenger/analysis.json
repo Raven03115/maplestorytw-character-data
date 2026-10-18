@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-18T05:46:16.800Z",
+    "fetched_at": "2026-10-18T10:54:46.359Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -35,33 +35,33 @@
     "world": "琉德",
     "class": "狂豹獵人",
     "level": 285,
-    "guild": null
+    "guild": "卡巴拉"
   },
   "combat_summary": {
-    "combat_power": "145314112",
+    "combat_power": "84697477",
     "main_stat": {
       "name": "DEX",
-      "value": "49841"
+      "value": "50396"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "6202"
+      "value": "5749"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "6202"
+      "value": "5749"
     },
-    "attack_power": "5535",
+    "attack_power": "5206",
     "damage": "70.00",
-    "boss_damage": "443.00",
-    "ignore_defense": "96.56",
-    "critical_rate": "192",
-    "critical_damage": "94.00",
-    "final_damage": "172.21",
-    "buff_duration": "42",
+    "boss_damage": "392.00",
+    "ignore_defense": "94.55",
+    "critical_rate": "142",
+    "critical_damage": "58.00",
+    "final_damage": "126.84",
+    "buff_duration": "17",
     "cooldown_reduction": {
       "seconds": "4",
-      "percent": "6"
+      "percent": "0"
     },
     "arc": null,
     "aut": "450"
@@ -522,7 +522,7 @@
       "potential_grade": "傳說",
       "potential_lines": [
         "爆擊傷害 +8%",
-        "被擊中時有5% 機率無視 40% 傷害",
+        "DEX +10%",
         "全屬性 +7%"
       ],
       "additional_potential_grade": "稀有",
@@ -1140,20 +1140,20 @@
     {
       "part": "機器心臟",
       "equipment_type": "機器心臟",
-      "name": "菇菇機器人專用心臟",
-      "starforce": "8",
-      "scroll_upgrade": "11",
-      "potential_grade": "罕見",
+      "name": "電漿之心",
+      "starforce": "17",
+      "scroll_upgrade": "10",
+      "potential_grade": "傳說",
       "potential_lines": [
-        "DEX +9%",
-        "DEX +6%",
-        "DEX +6%"
+        "DEX +12%",
+        "MaxHP +12%",
+        "DEX +9%"
       ],
-      "additional_potential_grade": null,
+      "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        null,
-        null,
-        null
+        "魔法攻擊力 +10",
+        "LUK +6",
+        "魔法攻擊力 +3"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -2563,8 +2563,8 @@
     "level": 8813,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 36,
-    "artifact_exp": 240,
-    "artifact_point": 6900,
+    "artifact_exp": 340,
+    "artifact_point": 7000,
     "active_raider_preset": 1,
     "raider_stats": [
       "增加爆擊機率 4%",
@@ -2699,7 +2699,7 @@
       {
         "champion_name": "豹豹奶霜",
         "champion_slot": 2,
-        "champion_grade": "A",
+        "champion_grade": "S",
         "champion_class": "狂豹獵人",
         "champion_badge_info": [
           {
@@ -2707,6 +2707,9 @@
           },
           {
             "stat": "攻擊力/魔力增加 10"
+          },
+          {
+            "stat": "攻擊Boss怪物時傷害增加5%"
           }
         ]
       }
@@ -2717,6 +2720,9 @@
       },
       {
         "stat": "攻擊力/魔力增加 10"
+      },
+      {
+        "stat": "攻擊Boss怪物時傷害增加5%"
       }
     ]
   },
