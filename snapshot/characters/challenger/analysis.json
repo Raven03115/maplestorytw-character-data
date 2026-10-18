@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-17T19:16:36.326Z",
+    "fetched_at": "2026-10-18T05:46:16.800Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -32,39 +32,39 @@
     ]
   },
   "basic": {
-    "world": "挑戰者",
+    "world": "琉德",
     "class": "狂豹獵人",
     "level": 285,
-    "guild": "基尼太美"
+    "guild": null
   },
   "combat_summary": {
-    "combat_power": "128508677",
+    "combat_power": "145314112",
     "main_stat": {
       "name": "DEX",
-      "value": "49111"
+      "value": "49841"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "5000"
+      "value": "6202"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "5000"
+      "value": "6202"
     },
-    "attack_power": "5656",
-    "damage": "56.00",
-    "boss_damage": "376.00",
-    "ignore_defense": "96.30",
-    "critical_rate": "134",
-    "critical_damage": "88.00",
+    "attack_power": "5535",
+    "damage": "70.00",
+    "boss_damage": "443.00",
+    "ignore_defense": "96.56",
+    "critical_rate": "192",
+    "critical_damage": "94.00",
     "final_damage": "172.21",
-    "buff_duration": "60",
+    "buff_duration": "42",
     "cooldown_reduction": {
       "seconds": "4",
-      "percent": "5"
+      "percent": "6"
     },
     "arc": null,
-    "aut": "410"
+    "aut": "450"
   },
   "weapon_secondary_emblem": [
     {
@@ -422,7 +422,7 @@
       "equipment_type": "褲/裙",
       "name": "永恆弓箭手褲",
       "starforce": "17",
-      "scroll_upgrade": "0",
+      "scroll_upgrade": "8",
       "potential_grade": "傳說",
       "potential_lines": [
         "DEX +13%",
@@ -473,9 +473,9 @@
       "scroll_upgrade": "0",
       "potential_grade": "傳說",
       "potential_lines": [
-        "MaxHP +13%",
-        "MaxMP +10%",
-        "被擊中時有5% 機率無視 20% 傷害"
+        "MaxMP +13%",
+        "全屬性 +7%",
+        "全屬性 +7%"
       ],
       "additional_potential_grade": "特殊",
       "additional_potential_lines": [
@@ -569,9 +569,9 @@
       "scroll_upgrade": "0",
       "potential_grade": "傳說",
       "potential_lines": [
-        "LUK +13%",
-        "DEX +10%",
-        "MaxHP +10%"
+        "DEX +13%",
+        "全屬性 +7%",
+        "HP恢復道具及恢復技能效率 +30%"
       ],
       "additional_potential_grade": "特殊",
       "additional_potential_lines": [
@@ -756,7 +756,7 @@
     {
       "part": "戒指2",
       "equipment_type": "戒指",
-      "name": "挑戰者規範戒指",
+      "name": "規範戒指",
       "starforce": "0",
       "scroll_upgrade": "0",
       "potential_grade": null,
@@ -920,10 +920,10 @@
         "dex": "0",
         "int": "0",
         "luk": "0",
-        "max_hp": "0",
+        "max_hp": "450",
         "max_mp": "0",
-        "attack_power": "0",
-        "magic_power": "0",
+        "attack_power": "2",
+        "magic_power": "3",
         "armor": "0",
         "speed": "0",
         "jump": "0",
@@ -1679,13 +1679,13 @@
     },
     {
       "name": "真實符文：卡爾西溫",
-      "level": 2,
-      "force": "20",
-      "growth_count": 35,
-      "required_growth_count": 76,
+      "level": 3,
+      "force": "30",
+      "growth_count": 80,
+      "required_growth_count": 141,
       "stat_increase": {
         "str": "0",
-        "dex": "700",
+        "dex": "900",
         "int": "0",
         "luk": "0",
         "hp": "0"
@@ -1953,9 +1953,9 @@
     }
   ],
   "hyper_stat": {
-    "active_preset": "1",
+    "active_preset": "2",
     "available_points": 1432,
-    "remaining_points": 0,
+    "remaining_points": 1,
     "stats": [
       {
         "stat_type": "STR",
@@ -1965,9 +1965,9 @@
       },
       {
         "stat_type": "DEX",
-        "stat_point": 15,
-        "stat_level": 4,
-        "stat_increase": "增加敏捷 120"
+        "stat_point": 25,
+        "stat_level": 5,
+        "stat_increase": "增加敏捷 150"
       },
       {
         "stat_type": "INT",
@@ -2001,33 +2001,33 @@
       },
       {
         "stat_type": "爆擊機率",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 150,
+        "stat_level": 10,
+        "stat_increase": "爆擊機率增加 15%"
       },
       {
         "stat_type": "爆擊傷害",
-        "stat_point": 150,
-        "stat_level": 10,
-        "stat_increase": "爆擊傷害10%增加"
+        "stat_point": 200,
+        "stat_level": 11,
+        "stat_increase": "爆擊傷害11%增加"
       },
       {
         "stat_type": "無視防禦率",
-        "stat_point": 1,
-        "stat_level": 1,
-        "stat_increase": "無視防禦率增加 3%"
+        "stat_point": 200,
+        "stat_level": 11,
+        "stat_increase": "無視防禦率增加 33%"
       },
       {
         "stat_type": "傷害",
-        "stat_point": 345,
-        "stat_level": 13,
-        "stat_increase": "提高傷害 39% "
+        "stat_point": 265,
+        "stat_level": 12,
+        "stat_increase": "提高傷害 36% "
       },
       {
         "stat_type": "Boss傷害",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 550,
+        "stat_level": 15,
+        "stat_increase": "攻擊Boss怪物時，傷害增加 55%"
       },
       {
         "stat_type": "異常狀態耐性",
@@ -2037,15 +2037,15 @@
       },
       {
         "stat_type": "攻擊力／魔力",
-        "stat_point": 25,
-        "stat_level": 5,
-        "stat_increase": "增加攻擊力與魔力15"
+        "stat_point": 40,
+        "stat_level": 6,
+        "stat_increase": "增加攻擊力與魔力18"
       },
       {
         "stat_type": "獲得經驗值",
-        "stat_point": 550,
-        "stat_level": 15,
-        "stat_increase": "獲得經驗值提高10.0%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "神祕力量",
@@ -2055,32 +2055,32 @@
       },
       {
         "stat_type": "一般傷害",
-        "stat_point": 345,
-        "stat_level": 13,
-        "stat_increase": "攻擊一般怪物時傷害增加47%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       }
     ]
   },
   "ability": {
     "grade": "傳說",
-    "active_preset": 2,
+    "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 6879665,
+    "remaining_fame": 6880015,
     "lines": [
       {
         "ability_no": "1",
         "ability_grade": "傳說",
-        "ability_value": "道具掉落率增加 20%"
+        "ability_value": "攻擊Boss怪物時，傷害增加 19%"
+      },
+      {
+        "ability_no": "2",
+        "ability_grade": "罕見",
+        "ability_value": "增加DEX 25"
       },
       {
         "ability_no": "3",
         "ability_grade": "罕見",
-        "ability_value": "攻擊一般怪物時傷害增加 8% "
-      },
-      {
-        "ability_no": "2",
-        "ability_grade": "稀有",
-        "ability_value": "增加楓幣獲得量 9% "
+        "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
       }
     ]
   },
@@ -2272,17 +2272,17 @@
     {
       "core_name": "實用的戰鬥命令",
       "core_type": "共用核心",
-      "core_level": 28,
+      "core_level": 30,
       "slot_enhancement": 0,
-      "total_level": 28,
+      "total_level": 30,
       "slot_position": "14"
     },
     {
       "core_name": "實用的神聖之火",
       "core_type": "共用核心",
-      "core_level": 1,
+      "core_level": 17,
       "slot_enhancement": 0,
-      "total_level": 1,
+      "total_level": 17,
       "slot_position": "15"
     },
     {
@@ -2335,7 +2335,7 @@
     {
       "core_name": "齒輪風暴",
       "core_type": "技能核心",
-      "core_level": 2
+      "core_level": 3
     },
     {
       "core_name": "狂野機關砲：巔峰VI",
@@ -2355,7 +2355,7 @@
     {
       "core_name": "另一個咬擊VI/終極攻擊VI/陷阱散佈器VI",
       "core_type": "精通核心",
-      "core_level": 17
+      "core_level": 18
     },
     {
       "core_name": "指令：掠食者之眼",
@@ -2424,10 +2424,10 @@
         "main_stat_name": "boss傷害增加",
         "sub_stat_name_1": "攻擊力增加",
         "sub_stat_name_2": "主要屬性增加",
-        "main_stat_level": 1,
-        "sub_stat_level_1": 3,
-        "sub_stat_level_2": 1,
-        "stat_grade": 5
+        "main_stat_level": 4,
+        "sub_stat_level_1": 10,
+        "sub_stat_level_2": 6,
+        "stat_grade": 20
       }
     ],
     "preset_1": [
@@ -2480,38 +2480,245 @@
         "main_stat_name": "boss傷害增加",
         "sub_stat_name_1": "攻擊力增加",
         "sub_stat_name_2": "主要屬性增加",
-        "main_stat_level": 1,
-        "sub_stat_level_1": 3,
-        "sub_stat_level_2": 1,
-        "stat_grade": 5
+        "main_stat_level": 4,
+        "sub_stat_level_1": 10,
+        "sub_stat_level_2": 6,
+        "stat_grade": 20
       },
       {
         "slot_id": "1",
-        "main_stat_name": null,
-        "sub_stat_name_1": null,
-        "sub_stat_name_2": null,
-        "main_stat_level": 0,
-        "sub_stat_level_1": 0,
-        "sub_stat_level_2": 0,
-        "stat_grade": 0
+        "main_stat_name": "boss傷害增加",
+        "sub_stat_name_1": "攻擊力增加",
+        "sub_stat_name_2": "主要屬性增加",
+        "main_stat_level": 4,
+        "sub_stat_level_1": 10,
+        "sub_stat_level_2": 6,
+        "stat_grade": 20
       }
     ]
   },
-  "link_skills": [],
+  "link_skills": [
+    {
+      "skill_name": "致命本能",
+      "skill_level": 2,
+      "skill_effect": "爆擊機率增加 15% "
+    },
+    {
+      "skill_name": "靈魂契約",
+      "skill_level": 2,
+      "skill_effect": "10秒間傷害增加 45%\n冷卻時間60秒"
+    },
+    {
+      "skill_name": "惡魔之怒",
+      "skill_level": 2,
+      "skill_effect": "攻擊BOSS怪物時傷害增加 15%"
+    },
+    {
+      "skill_name": "蒼刃傳授",
+      "skill_level": 2,
+      "skill_effect": "爆擊機率100%以上，爆擊傷害50%以上時，爆擊傷害增加5%。"
+    },
+    {
+      "skill_name": "精靈集中",
+      "skill_level": 2,
+      "skill_effect": "Boss怪攻擊力增加7%\n爆擊機率增加7%\n最大增加HP 4%\n最大增加MP 4%"
+    },
+    {
+      "skill_name": "滲透",
+      "skill_level": 2,
+      "skill_effect": "無視防禦率增加15%"
+    },
+    {
+      "skill_name": "實戰的知識",
+      "skill_level": 6,
+      "skill_effect": "以25%機率掌握發動攻擊的敵人的弱點。掌握的弱點將持續10秒，最多疊加至3層。\n每疊加1層，傷害增加3%、無視防禦率增加3%"
+    },
+    {
+      "skill_name": "氣魄",
+      "skill_level": 2,
+      "skill_effect": "每當攻擊BOSS怪物時傷害提升4%，攻擊對象若為BOSS怪物，每當攻擊成功時會額外增加2%，最大可重疊6次，重疊於2秒發動一次，持續時間5秒。"
+    },
+    {
+      "skill_name": "紫扇傳授",
+      "skill_level": 2,
+      "skill_effect": "發動攻擊技能40次時滿足條件\n[紫扇傳授]：12秒內傷害增加15%"
+    },
+    {
+      "skill_name": "集中狂攻",
+      "skill_level": 2,
+      "skill_effect": "攻擊比角色等級低的怪物時傷害增加6%，攻擊狀態異常的怪物時傷害增加6%"
+    },
+    {
+      "skill_name": "小偷的狡詐",
+      "skill_level": 6,
+      "skill_effect": "若對敵人造成異常狀態，在接下來10秒內增加18%傷害\n冷卻時間20秒"
+    },
+    {
+      "skill_name": "無我",
+      "skill_level": 2,
+      "skill_effect": "戰鬥狀態若持續 5秒就會發動，最多可重疊 5次，持續時間 5秒。\n發動時傷害增加 1%，每重疊傷害追加增加 2%"
+    }
+  ],
   "union_summary": {
-    "level": null,
-    "grade": null,
-    "artifact_level": null,
-    "artifact_exp": null,
-    "artifact_point": null,
-    "active_raider_preset": 0,
-    "raider_stats": [],
-    "occupied_stats": [],
-    "inner_stats": [],
-    "artifact_effects": [],
-    "artifact_remaining_ap": null,
-    "champions": [],
-    "champion_badges": []
+    "level": 8813,
+    "grade": "宗師戰地聯盟 2",
+    "artifact_level": 36,
+    "artifact_exp": 240,
+    "artifact_point": 6900,
+    "active_raider_preset": 1,
+    "raider_stats": [
+      "增加爆擊機率 4%",
+      "增加爆擊傷害 5%",
+      "增加無視防禦率 5%",
+      "增加無視防禦率 6%",
+      "增加經驗值獲得量 10%",
+      "增加DEX 80",
+      "增加楓幣獲得量 4% ",
+      "增加爆擊傷害 5%",
+      "增加最大HP 2000",
+      "增加最大HP 2000",
+      "增加最大MP 5%",
+      "增加LUK 80",
+      "每當敵人攻擊時70%的機率恢復純HP的8%",
+      "增加狀態異常耐性 4",
+      "增加攻擊BOSS傷害 5%",
+      "增加最大HP 5%",
+      "增加DEX 80",
+      "每當敵人攻擊時70%的機率恢復純MP的8%",
+      "增加爆擊傷害 6%",
+      "增加STR 80",
+      "增加召喚獸有效時間 10%",
+      "增加STR 80",
+      "增加加持有效時間 25%",
+      "攻擊時以20%的機率增加20%的傷害值",
+      "增加DEX 80",
+      "增加STR 80",
+      "增加STR 80",
+      "增加STR 80",
+      "增加STR 80",
+      "增加STR 100",
+      "增加STR 80",
+      "增加DEX 80",
+      "增加攻擊BOSS傷害 5%",
+      "增加STR、DEX、LUK 40",
+      "技能冷卻時間降低 6%",
+      "增加DEX 80",
+      "增加爆擊機率 4%"
+    ],
+    "occupied_stats": [
+      "增加攻擊力 5",
+      "增加攻擊BOSS怪物時傷害 40%。",
+      "增加最大HP 250",
+      "增加STR 5",
+      "增加爆擊傷害 20.00%",
+      "增加DEX 25",
+      "增加爆擊機率 22%",
+      "增加無視防禦率 40%"
+    ],
+    "inner_stats": [
+      {
+        "stat_field_id": "0",
+        "stat_field_effect": "聯盟魔力"
+      },
+      {
+        "stat_field_id": "1",
+        "stat_field_effect": "聯盟最大MP"
+      },
+      {
+        "stat_field_id": "2",
+        "stat_field_effect": "聯盟INT"
+      },
+      {
+        "stat_field_id": "3",
+        "stat_field_effect": "聯盟攻擊力"
+      },
+      {
+        "stat_field_id": "4",
+        "stat_field_effect": "聯盟最大HP"
+      },
+      {
+        "stat_field_id": "5",
+        "stat_field_effect": "聯盟STR"
+      },
+      {
+        "stat_field_id": "6",
+        "stat_field_effect": "聯盟DEX"
+      },
+      {
+        "stat_field_id": "7",
+        "stat_field_effect": "聯盟LUK"
+      }
+    ],
+    "artifact_effects": [
+      {
+        "name": "全屬性增加150",
+        "level": 10
+      },
+      {
+        "name": "攻擊力增加30、魔力增加30",
+        "level": 10
+      },
+      {
+        "name": "傷害增加15.00%",
+        "level": 10
+      },
+      {
+        "name": "攻擊BOSS怪物時傷害增加15.00%",
+        "level": 10
+      },
+      {
+        "name": "無視怪物防禦率增加20%",
+        "level": 10
+      },
+      {
+        "name": "Buff持續時間增加16%",
+        "level": 8
+      },
+      {
+        "name": "爆擊機率增加16%",
+        "level": 8
+      },
+      {
+        "name": "爆擊傷害增加4.00%",
+        "level": 10
+      },
+      {
+        "name": "終極攻擊類技能的傷害增加24%",
+        "level": 8
+      }
+    ],
+    "artifact_remaining_ap": 1,
+    "champions": [
+      {
+        "champion_name": "余盼",
+        "champion_slot": 1,
+        "champion_grade": "C",
+        "champion_class": "阿戴爾",
+        "champion_badge_info": []
+      },
+      {
+        "champion_name": "豹豹奶霜",
+        "champion_slot": 2,
+        "champion_grade": "A",
+        "champion_class": "狂豹獵人",
+        "champion_badge_info": [
+          {
+            "stat": "增加全屬性 20、最大HP/MP 1000"
+          },
+          {
+            "stat": "攻擊力/魔力增加 10"
+          }
+        ]
+      }
+    ],
+    "champion_badges": [
+      {
+        "stat": "增加全屬性 20、最大HP/MP 1000"
+      },
+      {
+        "stat": "攻擊力/魔力增加 10"
+      }
+    ]
   },
   "familiar_summary": {
     "link_slots": [
@@ -2731,6 +2938,146 @@
           {
             "option_no": 3,
             "option_name": "防禦力 (%)",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "魔龍",
+        "nickname": "魔龍",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxHP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "斧木妖",
+        "nickname": "斧木妖",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "LUK",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "叛徒菇菇仔",
+        "nickname": "叛徒菇菇仔",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "LUK",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "4秒內恢復 HP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "叛徒菇菇仔",
+        "nickname": "叛徒菇菇仔",
+        "grade": "BOSS怪物傷害",
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "MaxMP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "攻擊時有3%機率恢復 MP",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "全屬性",
+            "option_value": "0"
+          }
+        ],
+        "summoned_flag": "false",
+        "slot_id": "not link"
+      },
+      {
+        "name": "獨角尼莫",
+        "nickname": "獨角尼莫",
+        "grade": null,
+        "level": 5,
+        "state": "registered",
+        "skill_name": null,
+        "option_level": 5,
+        "options": [
+          {
+            "option_no": 1,
+            "option_name": "DEX",
+            "option_value": "0"
+          },
+          {
+            "option_no": 2,
+            "option_name": "防禦力",
+            "option_value": "0"
+          },
+          {
+            "option_no": 3,
+            "option_name": "LUK",
             "option_value": "0"
           }
         ],

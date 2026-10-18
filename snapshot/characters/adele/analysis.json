@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-10-17T19:16:42.136Z",
+    "fetched_at": "2026-10-18T05:46:24.550Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,30 +38,30 @@
     "guild": "薄冰"
   },
   "combat_summary": {
-    "combat_power": "10027608",
+    "combat_power": "13191081",
     "main_stat": {
       "name": "STR",
-      "value": "29526"
+      "value": "29875"
     },
     "secondary_stat": {
       "name": "DEX",
-      "value": "2828"
+      "value": "3095"
     },
     "sub_stat": {
       "name": "DEX",
-      "value": "2828"
+      "value": "3095"
     },
-    "attack_power": "1941",
-    "damage": "104.00",
-    "boss_damage": "173.00",
-    "ignore_defense": "81.95",
-    "critical_rate": "90",
-    "critical_damage": "67.35",
+    "attack_power": "1996",
+    "damage": "119.00",
+    "boss_damage": "228.00",
+    "ignore_defense": "92.20",
+    "critical_rate": "143",
+    "critical_damage": "71.35",
     "final_damage": "80.69",
-    "buff_duration": "35",
+    "buff_duration": "51",
     "cooldown_reduction": {
       "seconds": "0",
-      "percent": "5"
+      "percent": "6"
     },
     "arc": null,
     "aut": "180"
@@ -2352,17 +2352,16 @@
     }
   ],
   "union_summary": {
-    "level": 8705,
+    "level": 8813,
     "grade": "宗師戰地聯盟 2",
-    "artifact_level": 29,
-    "artifact_exp": 2940,
-    "artifact_point": 12900,
-    "active_raider_preset": 2,
+    "artifact_level": 36,
+    "artifact_exp": 240,
+    "artifact_point": 6900,
+    "active_raider_preset": 1,
     "raider_stats": [
       "增加爆擊機率 4%",
       "增加爆擊傷害 5%",
       "增加無視防禦率 5%",
-      "增加LUK 80",
       "增加無視防禦率 6%",
       "增加經驗值獲得量 10%",
       "增加DEX 80",
@@ -2372,6 +2371,7 @@
       "增加最大HP 2000",
       "增加最大MP 5%",
       "增加LUK 80",
+      "每當敵人攻擊時70%的機率恢復純HP的8%",
       "增加狀態異常耐性 4",
       "增加攻擊BOSS傷害 5%",
       "增加最大HP 5%",
@@ -2382,9 +2382,9 @@
       "增加召喚獸有效時間 10%",
       "增加STR 80",
       "增加加持有效時間 25%",
+      "攻擊時以20%的機率增加20%的傷害值",
       "增加DEX 80",
       "增加STR 80",
-      "每當敵人攻擊時70%的機率恢復純HP的8%",
       "增加STR 80",
       "增加STR 80",
       "增加STR 80",
@@ -2393,27 +2393,28 @@
       "增加DEX 80",
       "增加攻擊BOSS傷害 5%",
       "增加STR、DEX、LUK 40",
-      "技能冷卻時間降低 5%",
+      "技能冷卻時間降低 6%",
       "增加DEX 80",
       "增加爆擊機率 4%"
     ],
     "occupied_stats": [
+      "增加攻擊力 5",
+      "增加攻擊BOSS怪物時傷害 40%。",
       "增加最大HP 250",
-      "增加DEX 25",
-      "增加STR 75",
+      "增加STR 5",
       "增加爆擊傷害 20.00%",
-      "增加攻擊力 11",
-      "增加獲得經驗值 10.0%",
-      "增加攻擊一般怪物時傷害 40%"
+      "增加DEX 25",
+      "增加爆擊機率 22%",
+      "增加無視防禦率 40%"
     ],
     "inner_stats": [
       {
         "stat_field_id": "0",
-        "stat_field_effect": "聯盟最大HP"
+        "stat_field_effect": "聯盟魔力"
       },
       {
         "stat_field_id": "1",
-        "stat_field_effect": "聯盟DEX"
+        "stat_field_effect": "聯盟最大MP"
       },
       {
         "stat_field_id": "2",
@@ -2421,27 +2422,64 @@
       },
       {
         "stat_field_id": "3",
-        "stat_field_effect": "聯盟LUK"
+        "stat_field_effect": "聯盟攻擊力"
       },
       {
         "stat_field_id": "4",
-        "stat_field_effect": "聯盟STR"
+        "stat_field_effect": "聯盟最大HP"
       },
       {
         "stat_field_id": "5",
-        "stat_field_effect": "聯盟最大MP"
+        "stat_field_effect": "聯盟STR"
       },
       {
         "stat_field_id": "6",
-        "stat_field_effect": "聯盟魔力"
+        "stat_field_effect": "聯盟DEX"
       },
       {
         "stat_field_id": "7",
-        "stat_field_effect": "聯盟攻擊力"
+        "stat_field_effect": "聯盟LUK"
       }
     ],
-    "artifact_effects": [],
-    "artifact_remaining_ap": 6,
+    "artifact_effects": [
+      {
+        "name": "全屬性增加150",
+        "level": 10
+      },
+      {
+        "name": "攻擊力增加30、魔力增加30",
+        "level": 10
+      },
+      {
+        "name": "傷害增加15.00%",
+        "level": 10
+      },
+      {
+        "name": "攻擊BOSS怪物時傷害增加15.00%",
+        "level": 10
+      },
+      {
+        "name": "無視怪物防禦率增加20%",
+        "level": 10
+      },
+      {
+        "name": "Buff持續時間增加16%",
+        "level": 8
+      },
+      {
+        "name": "爆擊機率增加16%",
+        "level": 8
+      },
+      {
+        "name": "爆擊傷害增加4.00%",
+        "level": 10
+      },
+      {
+        "name": "終極攻擊類技能的傷害增加24%",
+        "level": 8
+      }
+    ],
+    "artifact_remaining_ap": 1,
     "champions": [
       {
         "champion_name": "余盼",
@@ -2449,9 +2487,30 @@
         "champion_grade": "C",
         "champion_class": "阿戴爾",
         "champion_badge_info": []
+      },
+      {
+        "champion_name": "豹豹奶霜",
+        "champion_slot": 2,
+        "champion_grade": "A",
+        "champion_class": "狂豹獵人",
+        "champion_badge_info": [
+          {
+            "stat": "增加全屬性 20、最大HP/MP 1000"
+          },
+          {
+            "stat": "攻擊力/魔力增加 10"
+          }
+        ]
       }
     ],
-    "champion_badges": []
+    "champion_badges": [
+      {
+        "stat": "增加全屬性 20、最大HP/MP 1000"
+      },
+      {
+        "stat": "攻擊力/魔力增加 10"
+      }
+    ]
   },
   "familiar_summary": {
     "link_slots": [

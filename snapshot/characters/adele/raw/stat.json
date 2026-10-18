@@ -4,19 +4,19 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "10123449"
+      "stat_value": "11329454"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "11248275"
+      "stat_value": "12588280"
     },
     {
       "stat_name": "傷害",
-      "stat_value": "104.00"
+      "stat_value": "119.00"
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "173.00"
+      "stat_value": "228.00"
     },
     {
       "stat_name": "最終傷害",
@@ -24,15 +24,15 @@
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "81.95"
+      "stat_value": "92.20"
     },
     {
       "stat_name": "爆擊機率",
-      "stat_value": "90"
+      "stat_value": "143"
     },
     {
       "stat_name": "爆擊傷害",
-      "stat_value": "67.35"
+      "stat_value": "71.35"
     },
     {
       "stat_name": "狀態異常耐性",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "54755"
+      "stat_value": "55502"
     },
     {
       "stat_name": "移動速度",
@@ -68,27 +68,27 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "29526"
+      "stat_value": "29875"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "2828"
+      "stat_value": "3095"
     },
     {
       "stat_name": "INT",
-      "stat_value": "1593"
+      "stat_value": "1876"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "1779"
+      "stat_value": "1965"
     },
     {
       "stat_name": "HP",
-      "stat_value": "93468"
+      "stat_value": "95278"
     },
     {
       "stat_name": "MP",
-      "stat_value": "33405"
+      "stat_value": "34875"
     },
     {
       "stat_name": "AP配點STR",
@@ -124,7 +124,7 @@
     },
     {
       "stat_name": "Buff持續時間",
-      "stat_value": "35"
+      "stat_value": "51"
     },
     {
       "stat_name": "攻擊速度",
@@ -132,7 +132,7 @@
     },
     {
       "stat_name": "一般怪物傷害",
-      "stat_value": "98.00"
+      "stat_value": "63.00"
     },
     {
       "stat_name": "冷卻時間減少(秒)",
@@ -140,7 +140,7 @@
     },
     {
       "stat_name": "冷卻時間減少(％)",
-      "stat_value": "5"
+      "stat_value": "6"
     },
     {
       "stat_name": "未套用冷卻時間",
@@ -164,15 +164,15 @@
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "1941"
+      "stat_value": "1996"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "639"
+      "stat_value": "689"
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "10027608"
+      "stat_value": "13191081"
     },
     {
       "stat_name": "召喚獸持續時間增加",
