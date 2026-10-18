@@ -33,6 +33,9 @@ const DEFAULT_OUTPUT_DIRECTORY = new URL("../_site/", import.meta.url);
 const DEFAULT_SNAPSHOT_DIRECTORY = new URL("../snapshot/", import.meta.url);
 const SNAPSHOT_HEARTBEAT_MS = 6 * 60 * 60 * 1000;
 const MAX_RESPONSE_BYTES = 2 * 1024 * 1024;
+const MAX_ERROR_BODY_BYTES = 8 * 1024;
+const SAFE_ERROR_TOKEN = /^[A-Z][A-Z0-9_]{0,63}$/;
+const SAFE_NEXON_ENDPOINT = /^\/maplestorytw\/v1\/(?:id|character\/[a-z0-9-]+|user\/[a-z0-9-]+)$/;
 const FORBIDDEN_KEYS = new Set([
   "authorization",
   "cookie",
@@ -120,6 +123,42 @@ function validateSection(section, character, slug) {
   }
 }
 
+async function workerErrorDiagnostics(response) {
+  const contentType = response.headers.get("content-type") ?? "";
+  if (!/^application\/json(?:\s*;|$)/i.test(contentType)) return "";
+
+  const declaredLength = response.headers.get("content-length");
+  if (declaredLength !== null && Number(declaredLength) > MAX_ERROR_BODY_BYTES) return "";
+
+  let payload;
+  try {
+    const body = await response.text();
+    if (Buffer.byteLength(body, "utf8") > MAX_ERROR_BODY_BYTES) return "";
+    payload = JSON.parse(body);
+  } catch {
+    return "";
+  }
+
+  const error = isObject(payload) && isObject(payload.error) ? payload.error : null;
+  if (error === null) return "";
+
+  // Never echo the response body, messages, headers, credentials, or arbitrary URLs.
+  const fields = [];
+  if (typeof error.code === "string" && SAFE_ERROR_TOKEN.test(error.code)) {
+    fields.push(`錯誤代碼=${error.code}`);
+  }
+  if (typeof error.endpoint === "string" && SAFE_NEXON_ENDPOINT.test(error.endpoint)) {
+    fields.push(`失敗端點=${error.endpoint}`);
+  }
+  if (Number.isInteger(error.upstream_status) && error.upstream_status >= 100 && error.upstream_status <= 599) {
+    fields.push(`上游HTTP=${error.upstream_status}`);
+  }
+  if (typeof error.nexon_code === "string" && SAFE_ERROR_TOKEN.test(error.nexon_code)) {
+    fields.push(`NEXON代碼=${error.nexon_code}`);
+  }
+  return fields.length > 0 ? `；Worker 診斷：${fields.join("、")}` : "";
+}
+
 async function fetchJson(sourceUrl, label, fetchFn) {
   const response = await fetchFn(sourceUrl, {
     headers: { Accept: "application/json" },
@@ -128,7 +167,8 @@ async function fetchJson(sourceUrl, label, fetchFn) {
   });
 
   if (response.status !== 200) {
-    throw new Error(`${label}: 來源端點 HTTP 狀態不是 200，而是 ${response.status}。`);
+    const diagnostics = await workerErrorDiagnostics(response);
+    throw new Error(`${label}: 來源端點 HTTP 狀態不是 200，而是 ${response.status}${diagnostics}。`);
   }
 
   const contentType = response.headers.get("content-type") ?? "";
