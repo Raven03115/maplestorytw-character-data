@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "余盼",
     "character_id": "adele",
-    "fetched_at": "2026-10-19T06:08:37.139Z",
+    "fetched_at": "2026-10-19T14:36:31.180Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,7 +38,7 @@
     "guild": "薄冰"
   },
   "combat_summary": {
-    "combat_power": "13410136",
+    "combat_power": "13627187",
     "main_stat": {
       "name": "STR",
       "value": "29875"
@@ -52,11 +52,11 @@
       "value": "3095"
     },
     "attack_power": "2001",
-    "damage": "119.00",
+    "damage": "130.00",
     "boss_damage": "233.00",
     "ignore_defense": "92.20",
     "critical_rate": "143",
-    "critical_damage": "71.35",
+    "critical_damage": "74.35",
     "final_damage": "80.69",
     "buff_duration": "51",
     "cooldown_reduction": {
@@ -2211,7 +2211,7 @@
     {
       "core_name": "追蹤VI/踐踏VI",
       "core_type": "精通核心",
-      "core_level": 4
+      "core_level": 5
     },
     {
       "core_name": "穿刺VI/魔劍共鳴VI/回歸VI/綻放VI",
@@ -2352,11 +2352,11 @@
     }
   ],
   "union_summary": {
-    "level": 8813,
+    "level": 8816,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 36,
-    "artifact_exp": 340,
-    "artifact_point": 7000,
+    "artifact_exp": 940,
+    "artifact_point": 7600,
     "active_raider_preset": 1,
     "raider_stats": [
       "增加爆擊機率 4%",
