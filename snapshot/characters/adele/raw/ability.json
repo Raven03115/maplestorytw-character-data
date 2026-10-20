@@ -18,7 +18,7 @@
       "ability_value": "攻擊力增加9 "
     }
   ],
-  "remain_fame": 706944,
+  "remain_fame": 307244,
   "preset_no": 1,
   "ability_preset_1": {
     "ability_preset_grade": "傳說",
@@ -46,17 +46,17 @@
       {
         "ability_no": "1",
         "ability_grade": "傳說",
-        "ability_value": "增加INT 36 、DEX 18"
+        "ability_value": "攻擊Boss怪物時，傷害增加 20%"
+      },
+      {
+        "ability_no": "3",
+        "ability_grade": "罕見",
+        "ability_value": "增加DEX 25 、 INT 13"
       },
       {
         "ability_no": "2",
         "ability_grade": "稀有",
-        "ability_value": "魔力增加6 "
-      },
-      {
-        "ability_no": "3",
-        "ability_grade": "稀有",
-        "ability_value": "增加LUK 18"
+        "ability_value": "增加STR 20 、 INT 10"
       }
     ]
   },
@@ -66,17 +66,17 @@
       {
         "ability_no": "1",
         "ability_grade": "稀有",
-        "ability_value": "增加所有能力值 15"
+        "ability_value": "按照投入智力的 4%增加幸運"
       },
       {
         "ability_no": "2",
         "ability_grade": "特殊",
-        "ability_value": "增加所有能力值 5"
+        "ability_value": "增加LUK 8 、DEX 4"
       },
       {
         "ability_no": "3",
         "ability_grade": "特殊",
-        "ability_value": "增加所有能力值 5"
+        "ability_value": "增加INT 7 、DEX 4"
       }
     ]
   }
