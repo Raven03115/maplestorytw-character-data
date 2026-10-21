@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-21T04:32:35.703Z",
+    "fetched_at": "2026-10-21T10:01:53.530Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,24 +38,24 @@
     "guild": "卡巴拉"
   },
   "combat_summary": {
-    "combat_power": "152331311",
+    "combat_power": "139073091",
     "main_stat": {
       "name": "DEX",
-      "value": "50861"
+      "value": "51005"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "6458"
+      "value": "6378"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "6458"
+      "value": "6378"
     },
-    "attack_power": "5652",
+    "attack_power": "5640",
     "damage": "70.00",
-    "boss_damage": "448.00",
-    "ignore_defense": "97.08",
-    "critical_rate": "192",
+    "boss_damage": "398.00",
+    "ignore_defense": "94.59",
+    "critical_rate": "155",
     "critical_damage": "97.00",
     "final_damage": "172.21",
     "buff_duration": "42",
@@ -64,7 +64,7 @@
       "percent": "6"
     },
     "arc": null,
-    "aut": "450"
+    "aut": "420"
   },
   "weapon_secondary_emblem": [
     {
@@ -2560,16 +2560,17 @@
     }
   ],
   "union_summary": {
-    "level": 8819,
+    "level": 8825,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 36,
-    "artifact_exp": 1640,
-    "artifact_point": 8300,
-    "active_raider_preset": 1,
+    "artifact_exp": 2240,
+    "artifact_point": 8900,
+    "active_raider_preset": 2,
     "raider_stats": [
       "增加爆擊機率 4%",
       "增加爆擊傷害 5%",
       "增加無視防禦率 5%",
+      "增加LUK 80",
       "增加無視防禦率 6%",
       "增加經驗值獲得量 10%",
       "增加DEX 80",
@@ -2579,7 +2580,6 @@
       "增加最大HP 2000",
       "增加最大MP 5%",
       "增加LUK 80",
-      "每當敵人攻擊時70%的機率恢復純HP的8%",
       "增加狀態異常耐性 4",
       "增加攻擊BOSS傷害 5%",
       "增加最大HP 5%",
@@ -2593,11 +2593,11 @@
       "攻擊時以20%的機率增加20%的傷害值",
       "增加DEX 80",
       "增加STR 80",
+      "每當敵人攻擊時70%的機率恢復純HP的8%",
       "增加STR 80",
       "增加STR 80",
       "增加STR 80",
       "增加STR 100",
-      "增加STR 80",
       "增加DEX 80",
       "增加攻擊BOSS傷害 5%",
       "增加STR、DEX、LUK 40",
@@ -2606,23 +2606,22 @@
       "增加爆擊機率 4%"
     ],
     "occupied_stats": [
-      "增加攻擊力 5",
-      "增加攻擊BOSS怪物時傷害 40%。",
       "增加最大HP 250",
-      "增加STR 5",
+      "增加DEX 75",
+      "增加STR 25",
       "增加爆擊傷害 20.00%",
-      "增加DEX 25",
-      "增加爆擊機率 22%",
-      "增加無視防禦率 40%"
+      "增加攻擊力 13",
+      "增加獲得經驗值 10.0%",
+      "增加攻擊一般怪物時傷害 40%"
     ],
     "inner_stats": [
       {
         "stat_field_id": "0",
-        "stat_field_effect": "聯盟魔力"
+        "stat_field_effect": "聯盟最大HP"
       },
       {
         "stat_field_id": "1",
-        "stat_field_effect": "聯盟最大MP"
+        "stat_field_effect": "聯盟DEX"
       },
       {
         "stat_field_id": "2",
@@ -2630,23 +2629,23 @@
       },
       {
         "stat_field_id": "3",
-        "stat_field_effect": "聯盟攻擊力"
+        "stat_field_effect": "聯盟LUK"
       },
       {
         "stat_field_id": "4",
-        "stat_field_effect": "聯盟最大HP"
-      },
-      {
-        "stat_field_id": "5",
         "stat_field_effect": "聯盟STR"
       },
       {
+        "stat_field_id": "5",
+        "stat_field_effect": "聯盟最大MP"
+      },
+      {
         "stat_field_id": "6",
-        "stat_field_effect": "聯盟DEX"
+        "stat_field_effect": "聯盟魔力"
       },
       {
         "stat_field_id": "7",
-        "stat_field_effect": "聯盟LUK"
+        "stat_field_effect": "聯盟攻擊力"
       }
     ],
     "artifact_effects": [

@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "62997847"
+      "stat_value": "63012645"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "74115112"
+      "stat_value": "74132521"
     },
     {
       "stat_name": "傷害",
@@ -16,7 +16,7 @@
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "448.00"
+      "stat_value": "398.00"
     },
     {
       "stat_name": "最終傷害",
@@ -24,11 +24,11 @@
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "97.08"
+      "stat_value": "94.59"
     },
     {
       "stat_name": "爆擊機率",
-      "stat_value": "192"
+      "stat_value": "155"
     },
     {
       "stat_name": "爆擊傷害",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "64393"
+      "stat_value": "64324"
     },
     {
       "stat_name": "移動速度",
@@ -64,23 +64,23 @@
     },
     {
       "stat_name": "真實之力",
-      "stat_value": "450"
+      "stat_value": "420"
     },
     {
       "stat_name": "STR",
-      "stat_value": "6458"
+      "stat_value": "6378"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "50861"
+      "stat_value": "51005"
     },
     {
       "stat_name": "INT",
-      "stat_value": "3254"
+      "stat_value": "3217"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "3542"
+      "stat_value": "3585"
     },
     {
       "stat_name": "HP",
@@ -132,7 +132,7 @@
     },
     {
       "stat_name": "一般怪物傷害",
-      "stat_value": "32.00"
+      "stat_value": "52.00"
     },
     {
       "stat_name": "冷卻時間減少(秒)",
@@ -160,19 +160,19 @@
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "52.00"
+      "stat_value": "47.00"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "5652"
+      "stat_value": "5640"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1595"
+      "stat_value": "1578"
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "152331311"
+      "stat_value": "139073091"
     },
     {
       "stat_name": "召喚獸持續時間增加",
@@ -180,5 +180,42 @@
     }
   ],
   "remain_ap": 0,
-  "mentorship_stat": []
+  "mentorship_stat": [
+    {
+      "stat_name": "師徒等級",
+      "stat_value": "2"
+    },
+    {
+      "stat_name": "師徒累積內功",
+      "stat_value": "2000"
+    },
+    {
+      "stat_name": "攻擊力",
+      "stat_value": "6"
+    },
+    {
+      "stat_name": "魔法攻擊力",
+      "stat_value": "6"
+    },
+    {
+      "stat_name": "獲得額外經驗值",
+      "stat_value": "7.00"
+    },
+    {
+      "stat_name": "BOSS怪物傷害",
+      "stat_value": "6.00"
+    },
+    {
+      "stat_name": "怪物公園經驗值",
+      "stat_value": "13.00"
+    },
+    {
+      "stat_name": "靈魂艾爾達碎片掉落率",
+      "stat_value": "8.00"
+    },
+    {
+      "stat_name": "祕法符文強化費用優惠",
+      "stat_value": "100.00"
+    }
+  ]
 }
