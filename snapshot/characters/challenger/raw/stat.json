@@ -179,5 +179,6 @@
       "stat_value": "10"
     }
   ],
-  "remain_ap": 0
+  "remain_ap": 0,
+  "mentorship_stat": []
 }
