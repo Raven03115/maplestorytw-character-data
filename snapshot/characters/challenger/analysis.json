@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-21T10:01:53.530Z",
+    "fetched_at": "2026-10-21T15:06:37.622Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,26 +38,26 @@
     "guild": "卡巴拉"
   },
   "combat_summary": {
-    "combat_power": "139073091",
+    "combat_power": "106714953",
     "main_stat": {
       "name": "DEX",
-      "value": "51005"
+      "value": "51053"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "6378"
+      "value": "6398"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "6378"
+      "value": "6398"
     },
-    "attack_power": "5640",
+    "attack_power": "5203",
     "damage": "70.00",
-    "boss_damage": "398.00",
-    "ignore_defense": "94.59",
-    "critical_rate": "155",
+    "boss_damage": "408.00",
+    "ignore_defense": "95.13",
+    "critical_rate": "140",
     "critical_damage": "97.00",
-    "final_damage": "172.21",
+    "final_damage": "126.84",
     "buff_duration": "42",
     "cooldown_reduction": {
       "seconds": "4",
@@ -1625,7 +1625,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 10,
       "force": "100",
-      "growth_count": 689,
+      "growth_count": 704,
       "required_growth_count": 1100,
       "stat_increase": {
         "str": "0",
@@ -1639,7 +1639,7 @@
       "name": "真實符文：奧迪溫",
       "level": 6,
       "force": "60",
-      "growth_count": 2080,
+      "growth_count": 2095,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1653,7 +1653,7 @@
       "name": "真實符文：桃源境",
       "level": 6,
       "force": "60",
-      "growth_count": 1465,
+      "growth_count": 1480,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1667,7 +1667,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 6,
       "force": "60",
-      "growth_count": 920,
+      "growth_count": 935,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1681,7 +1681,7 @@
       "name": "真實符文：卡爾西溫",
       "level": 3,
       "force": "30",
-      "growth_count": 124,
+      "growth_count": 179,
       "required_growth_count": 141,
       "stat_increase": {
         "str": "0",
@@ -1752,30 +1752,6 @@
         {
           "set_count": 5,
           "set_option": "全屬性 +8, 攻擊力 +20, 魔法攻擊力 +20, 無視怪物防禦率 +30%"
-        }
-      ]
-    },
-    {
-      "set_name": "迷你吉祥物菇菇套組",
-      "equipped_count": 1,
-      "effects": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        }
-      ],
-      "full_set_options": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        },
-        {
-          "set_count": 2,
-          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
-        },
-        {
-          "set_count": 3,
-          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
         }
       ]
     },
@@ -2065,7 +2041,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 6890015,
+    "remaining_fame": 6892785,
     "lines": [
       {
         "ability_no": "1",
@@ -2350,7 +2326,7 @@
     {
       "core_name": "指令VI",
       "core_type": "精通核心",
-      "core_level": 26
+      "core_level": 27
     },
     {
       "core_name": "另一個咬擊VI/終極攻擊VI/陷阱散佈器VI",
@@ -2560,7 +2536,7 @@
     }
   ],
   "union_summary": {
-    "level": 8825,
+    "level": 8826,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 36,
     "artifact_exp": 2240,
@@ -2827,20 +2803,20 @@
           {
             "option_no": 1,
             "option_name": "爆擊機率 (%)",
-            "option_value": "20"
+            "option_value": "4"
           },
           {
             "option_no": 2,
             "option_name": "最終傷害 (%)",
-            "option_value": "20"
+            "option_value": "2"
           },
           {
             "option_no": 3,
             "option_name": "物理攻擊力 (%)",
-            "option_value": "14"
+            "option_value": "4"
           }
         ],
-        "summoned_flag": "true",
+        "summoned_flag": "false",
         "slot_id": "not link"
       },
       {
