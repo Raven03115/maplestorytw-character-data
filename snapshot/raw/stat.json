@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "63381708"
+      "stat_value": "48648239"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "74566713"
+      "stat_value": "57233220"
     },
     {
       "stat_name": "傷害",
@@ -20,7 +20,7 @@
     },
     {
       "stat_name": "最終傷害",
-      "stat_value": "172.21"
+      "stat_value": "126.84"
     },
     {
       "stat_name": "無視防禦率",
@@ -28,7 +28,7 @@
     },
     {
       "stat_name": "爆擊機率",
-      "stat_value": "182"
+      "stat_value": "162"
     },
     {
       "stat_name": "爆擊傷害",
@@ -164,15 +164,15 @@
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "5662"
+      "stat_value": "5215"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1600"
+      "stat_value": "1591"
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "149152146"
+      "stat_value": "114444249"
     },
     {
       "stat_name": "召喚獸持續時間增加",
