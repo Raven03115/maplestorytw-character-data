@@ -4,19 +4,19 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "52253688"
+      "stat_value": "61539522"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "61474924"
+      "stat_value": "72399435"
     },
     {
       "stat_name": "傷害",
-      "stat_value": "64.00"
+      "stat_value": "93.00"
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "128.00"
+      "stat_value": "308.00"
     },
     {
       "stat_name": "最終傷害",
@@ -24,15 +24,15 @@
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "87.27"
+      "stat_value": "91.70"
     },
     {
       "stat_name": "爆擊機率",
-      "stat_value": "123"
+      "stat_value": "133"
     },
     {
       "stat_name": "爆擊傷害",
-      "stat_value": "91.00"
+      "stat_value": "95.00"
     },
     {
       "stat_name": "狀態異常耐性",
@@ -44,11 +44,11 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "59683"
+      "stat_value": "60511"
     },
     {
       "stat_name": "移動速度",
-      "stat_value": "170"
+      "stat_value": "160"
     },
     {
       "stat_name": "跳躍力",
@@ -68,27 +68,27 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "5874"
+      "stat_value": "6104"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "46277"
+      "stat_value": "46652"
     },
     {
       "stat_name": "INT",
-      "stat_value": "2675"
+      "stat_value": "2788"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "3652"
+      "stat_value": "3766"
     },
     {
       "stat_name": "HP",
-      "stat_value": "86141"
+      "stat_value": "80316"
     },
     {
       "stat_name": "MP",
-      "stat_value": "47815"
+      "stat_value": "43440"
     },
     {
       "stat_name": "AP配點STR",
@@ -116,7 +116,7 @@
     },
     {
       "stat_name": "道具掉落率",
-      "stat_value": "170"
+      "stat_value": "140"
     },
     {
       "stat_name": "楓幣獲得量",
@@ -132,7 +132,7 @@
     },
     {
       "stat_name": "一般怪物傷害",
-      "stat_value": "142.00"
+      "stat_value": "117.00"
     },
     {
       "stat_name": "冷卻時間減少(秒)",
@@ -160,19 +160,19 @@
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "177.00"
+      "stat_value": "102.00"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "5341"
+      "stat_value": "5297"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1465"
+      "stat_value": "1438"
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "53697231"
+      "stat_value": "100932970"
     },
     {
       "stat_name": "召喚獸持續時間增加",
