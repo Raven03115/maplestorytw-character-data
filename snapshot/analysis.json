@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-25T16:02:51.280Z",
+    "fetched_at": "2026-10-25T18:56:46.267Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,25 +38,25 @@
     "guild": "卡巴拉"
   },
   "combat_summary": {
-    "combat_power": "149750987",
+    "combat_power": "120300404",
     "main_stat": {
       "name": "DEX",
-      "value": "51476"
+      "value": "52161"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "6439"
+      "value": "6694"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "6439"
+      "value": "6694"
     },
-    "attack_power": "5612",
-    "damage": "70.00",
-    "boss_damage": "448.00",
-    "ignore_defense": "97.08",
-    "critical_rate": "182",
-    "critical_damage": "97.00",
+    "attack_power": "5621",
+    "damage": "93.00",
+    "boss_damage": "308.00",
+    "ignore_defense": "92.53",
+    "critical_rate": "133",
+    "critical_damage": "95.00",
     "final_damage": "172.21",
     "buff_duration": "43",
     "cooldown_reduction": {
@@ -1953,9 +1953,9 @@
     }
   ],
   "hyper_stat": {
-    "active_preset": "2",
+    "active_preset": "1",
     "available_points": 1432,
-    "remaining_points": 1,
+    "remaining_points": 0,
     "stats": [
       {
         "stat_type": "STR",
@@ -1965,9 +1965,9 @@
       },
       {
         "stat_type": "DEX",
-        "stat_point": 25,
-        "stat_level": 5,
-        "stat_increase": "增加敏捷 150"
+        "stat_point": 15,
+        "stat_level": 4,
+        "stat_increase": "增加敏捷 120"
       },
       {
         "stat_type": "INT",
@@ -2001,33 +2001,33 @@
       },
       {
         "stat_type": "爆擊機率",
-        "stat_point": 150,
-        "stat_level": 10,
-        "stat_increase": "爆擊機率增加 15%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "爆擊傷害",
-        "stat_point": 200,
-        "stat_level": 11,
-        "stat_increase": "爆擊傷害11%增加"
+        "stat_point": 150,
+        "stat_level": 10,
+        "stat_increase": "爆擊傷害10%增加"
       },
       {
         "stat_type": "無視防禦率",
-        "stat_point": 200,
-        "stat_level": 11,
-        "stat_increase": "無視防禦率增加 33%"
+        "stat_point": 1,
+        "stat_level": 1,
+        "stat_increase": "無視防禦率增加 3%"
       },
       {
         "stat_type": "傷害",
-        "stat_point": 265,
-        "stat_level": 12,
-        "stat_increase": "提高傷害 36% "
+        "stat_point": 345,
+        "stat_level": 13,
+        "stat_increase": "提高傷害 39% "
       },
       {
         "stat_type": "Boss傷害",
-        "stat_point": 550,
-        "stat_level": 15,
-        "stat_increase": "攻擊Boss怪物時，傷害增加 55%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "異常狀態耐性",
@@ -2037,15 +2037,15 @@
       },
       {
         "stat_type": "攻擊力／魔力",
-        "stat_point": 40,
-        "stat_level": 6,
-        "stat_increase": "增加攻擊力與魔力18"
+        "stat_point": 25,
+        "stat_level": 5,
+        "stat_increase": "增加攻擊力與魔力15"
       },
       {
         "stat_type": "獲得經驗值",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 550,
+        "stat_level": 15,
+        "stat_increase": "獲得經驗值提高10.0%"
       },
       {
         "stat_type": "神祕力量",
@@ -2055,32 +2055,32 @@
       },
       {
         "stat_type": "一般傷害",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 345,
+        "stat_level": 13,
+        "stat_increase": "攻擊一般怪物時傷害增加47%"
       }
     ]
   },
   "ability": {
     "grade": "傳說",
-    "active_preset": 1,
+    "active_preset": 2,
     "active_preset_grade": "傳說",
     "remaining_fame": 6936783,
     "lines": [
       {
         "ability_no": "1",
         "ability_grade": "傳說",
-        "ability_value": "攻擊Boss怪物時，傷害增加 19%"
-      },
-      {
-        "ability_no": "2",
-        "ability_grade": "罕見",
-        "ability_value": "增加DEX 25"
+        "ability_value": "道具掉落率增加 20%"
       },
       {
         "ability_no": "3",
         "ability_grade": "罕見",
-        "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
+        "ability_value": "攻擊一般怪物時傷害增加 8% "
+      },
+      {
+        "ability_no": "2",
+        "ability_grade": "稀有",
+        "ability_value": "增加楓幣獲得量 9% "
       }
     ]
   },
@@ -2499,64 +2499,64 @@
   },
   "link_skills": [
     {
-      "skill_name": "致命本能",
+      "skill_name": "大自然夥伴",
       "skill_level": 2,
-      "skill_effect": "爆擊機率增加 15% "
+      "skill_effect": "傷害5%增加\n擊退一般怪物20隻時，發動大自然的幫助。大自然的幫助發動時，30秒內攻擊一般怪物時傷害增加11%\n冷卻時間30秒"
     },
     {
-      "skill_name": "靈魂契約",
+      "skill_name": "天賦",
       "skill_level": 2,
-      "skill_effect": "10秒間傷害增加 45%\n冷卻時間60秒"
+      "skill_effect": "傷害增加5%\n攻擊時，以100%的機率在5秒間，每秒最多恢復HP/MP的2% \n冷卻時間為30秒"
     },
     {
-      "skill_name": "惡魔之怒",
+      "skill_name": "合成邏輯",
       "skill_level": 2,
-      "skill_effect": "攻擊BOSS怪物時傷害增加 15%"
+      "skill_effect": "所有能力值增加10%"
     },
     {
-      "skill_name": "蒼刃傳授",
+      "skill_name": "自信心",
       "skill_level": 2,
-      "skill_effect": "爆擊機率100%以上，爆擊傷害50%以上時，爆擊傷害增加5%。"
+      "skill_effect": "無視防禦率增加10%，攻擊HP為100%的怪物時傷害增加14%"
     },
     {
-      "skill_name": "精靈集中",
+      "skill_name": "判斷",
       "skill_level": 2,
-      "skill_effect": "Boss怪攻擊力增加7%\n爆擊機率增加7%\n最大增加HP 4%\n最大增加MP 4%"
+      "skill_effect": "增加爆擊傷害4%"
     },
     {
-      "skill_name": "滲透",
+      "skill_name": "狂暴鬥氣",
       "skill_level": 2,
-      "skill_effect": "無視防禦率增加15%"
+      "skill_effect": "傷害增加10%"
     },
     {
-      "skill_name": "實戰的知識",
+      "skill_name": "探險家的好奇心",
       "skill_level": 6,
-      "skill_effect": "以25%機率掌握發動攻擊的敵人的弱點。掌握的弱點將持續10秒，最多疊加至3層。\n每疊加1層，傷害增加3%、無視防禦率增加3%"
+      "skill_effect": "增加怪物收藏登錄率35%、爆擊機率10%"
     },
     {
-      "skill_name": "氣魄",
+      "skill_name": "連續擊殺優勢",
       "skill_level": 2,
-      "skill_effect": "每當攻擊BOSS怪物時傷害提升4%，攻擊對象若為BOSS怪物，每當攻擊成功時會額外增加2%，最大可重疊6次，重疊於2秒發動一次，持續時間5秒。"
-    },
-    {
-      "skill_name": "紫扇傳授",
-      "skill_level": 2,
-      "skill_effect": "發動攻擊技能40次時滿足條件\n[紫扇傳授]：12秒內傷害增加15%"
-    },
-    {
-      "skill_name": "集中狂攻",
-      "skill_level": 2,
-      "skill_effect": "攻擊比角色等級低的怪物時傷害增加6%，攻擊狀態異常的怪物時傷害增加6%"
-    },
-    {
-      "skill_name": "小偷的狡詐",
-      "skill_level": 6,
-      "skill_effect": "若對敵人造成異常狀態，在接下來10秒內增加18%傷害\n冷卻時間20秒"
+      "skill_effect": "連續擊殺之珠經驗值獲得量永久增加650%"
     },
     {
       "skill_name": "無我",
       "skill_level": 2,
       "skill_effect": "戰鬥狀態若持續 5秒就會發動，最多可重疊 5次，持續時間 5秒。\n發動時傷害增加 1%，每重疊傷害追加增加 2%"
+    },
+    {
+      "skill_name": "精靈的祝福",
+      "skill_level": 2,
+      "skill_effect": "使用時返回櫻花處\n冷卻時間1800秒\n[被動效果：經驗值獲得量增加15%]"
+    },
+    {
+      "skill_name": "輪之堅持",
+      "skill_level": 2,
+      "skill_effect": "解放的輪之力有效時間增加50%。"
+    },
+    {
+      "skill_name": "戰鬥的流動",
+      "skill_level": 2,
+      "skill_effect": "移動一定距離時發動，最多可重疊4次，持續時間10秒\n，各重疊的傷害增加3%"
     }
   ],
   "union_summary": {
@@ -2565,11 +2565,12 @@
     "artifact_level": 36,
     "artifact_exp": 7740,
     "artifact_point": 14200,
-    "active_raider_preset": 1,
+    "active_raider_preset": 2,
     "raider_stats": [
       "增加爆擊機率 4%",
       "增加爆擊傷害 5%",
       "增加無視防禦率 5%",
+      "增加LUK 80",
       "增加無視防禦率 6%",
       "增加經驗值獲得量 10%",
       "增加DEX 80",
@@ -2579,7 +2580,6 @@
       "增加最大HP 2000",
       "增加最大MP 5%",
       "增加LUK 80",
-      "每當敵人攻擊時70%的機率恢復純HP的8%",
       "增加狀態異常耐性 4",
       "增加攻擊BOSS傷害 5%",
       "增加最大HP 5%",
@@ -2593,11 +2593,11 @@
       "攻擊時以20%的機率增加20%的傷害值",
       "增加DEX 80",
       "增加STR 80",
+      "每當敵人攻擊時70%的機率恢復純HP的8%",
       "增加STR 80",
       "增加STR 80",
       "增加STR 80",
       "增加STR 100",
-      "增加STR 80",
       "增加DEX 80",
       "增加攻擊BOSS傷害 5%",
       "增加STR、DEX、LUK 40",
@@ -2606,23 +2606,22 @@
       "增加爆擊機率 4%"
     ],
     "occupied_stats": [
-      "增加攻擊力 5",
-      "增加攻擊BOSS怪物時傷害 40%。",
       "增加最大HP 250",
-      "增加STR 5",
+      "增加DEX 75",
+      "增加STR 25",
       "增加爆擊傷害 20.00%",
-      "增加DEX 25",
-      "增加爆擊機率 22%",
-      "增加無視防禦率 40%"
+      "增加攻擊力 13",
+      "增加獲得經驗值 10.0%",
+      "增加攻擊一般怪物時傷害 40%"
     ],
     "inner_stats": [
       {
         "stat_field_id": "0",
-        "stat_field_effect": "聯盟魔力"
+        "stat_field_effect": "聯盟最大HP"
       },
       {
         "stat_field_id": "1",
-        "stat_field_effect": "聯盟最大MP"
+        "stat_field_effect": "聯盟DEX"
       },
       {
         "stat_field_id": "2",
@@ -2630,23 +2629,23 @@
       },
       {
         "stat_field_id": "3",
-        "stat_field_effect": "聯盟攻擊力"
+        "stat_field_effect": "聯盟LUK"
       },
       {
         "stat_field_id": "4",
-        "stat_field_effect": "聯盟最大HP"
-      },
-      {
-        "stat_field_id": "5",
         "stat_field_effect": "聯盟STR"
       },
       {
+        "stat_field_id": "5",
+        "stat_field_effect": "聯盟最大MP"
+      },
+      {
         "stat_field_id": "6",
-        "stat_field_effect": "聯盟DEX"
+        "stat_field_effect": "聯盟魔力"
       },
       {
         "stat_field_id": "7",
-        "stat_field_effect": "聯盟LUK"
+        "stat_field_effect": "聯盟攻擊力"
       }
     ],
     "artifact_effects": [
