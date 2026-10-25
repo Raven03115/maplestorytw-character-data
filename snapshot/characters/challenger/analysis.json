@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-25T18:56:46.267Z",
+    "fetched_at": "2026-10-25T21:40:33.431Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -2330,7 +2330,7 @@
     {
       "core_name": "絕對美洲豹時間",
       "core_type": "技能核心",
-      "core_level": 3
+      "core_level": 4
     },
     {
       "core_name": "齒輪風暴",
@@ -2390,7 +2390,7 @@
     {
       "core_name": "末日反抗步兵陣VI",
       "core_type": "共用核心",
-      "core_level": 6
+      "core_level": 7
     }
   ],
   "hexamatrix_stat": {
