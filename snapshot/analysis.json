@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-25T11:14:49.667Z",
+    "fetched_at": "2026-10-25T16:02:51.280Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -1524,7 +1524,7 @@
   ],
   "symbols": [
     {
-      "name": "祕法符文：啾啾艾爾蘭",
+      "name": "祕法符文：消逝的旅途",
       "level": 20,
       "force": "220",
       "growth_count": 0,
@@ -1538,7 +1538,7 @@
       }
     },
     {
-      "name": "祕法符文：消逝的旅途",
+      "name": "祕法符文：啾啾艾爾蘭",
       "level": 20,
       "force": "220",
       "growth_count": 0,
