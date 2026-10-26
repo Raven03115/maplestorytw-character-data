@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "11199735"
+      "stat_value": "11256253"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "12444148"
+      "stat_value": "12506946"
     },
     {
       "stat_name": "傷害",
@@ -16,7 +16,7 @@
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "290.00"
+      "stat_value": "250.00"
     },
     {
       "stat_name": "最終傷害",
@@ -24,11 +24,11 @@
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "94.07"
+      "stat_value": "90.12"
     },
     {
       "stat_name": "爆擊機率",
-      "stat_value": "133"
+      "stat_value": "111"
     },
     {
       "stat_name": "爆擊傷害",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "55934"
+      "stat_value": "55972"
     },
     {
       "stat_name": "移動速度",
@@ -68,11 +68,11 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "30162"
+      "stat_value": "30145"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "3065"
+      "stat_value": "3139"
     },
     {
       "stat_name": "INT",
@@ -80,7 +80,7 @@
     },
     {
       "stat_name": "LUK",
-      "stat_value": "1935"
+      "stat_value": "2015"
     },
     {
       "stat_name": "HP",
@@ -132,7 +132,7 @@
     },
     {
       "stat_name": "一般怪物傷害",
-      "stat_value": "0.00"
+      "stat_value": "40.00"
     },
     {
       "stat_name": "冷卻時間減少(秒)",
@@ -160,11 +160,11 @@
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "17.00"
+      "stat_value": "27.00"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "2001"
+      "stat_value": "2011"
     },
     {
       "stat_name": "魔法攻擊力",
@@ -172,7 +172,7 @@
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "15194250"
+      "stat_value": "13842139"
     },
     {
       "stat_name": "召喚獸持續時間增加",
