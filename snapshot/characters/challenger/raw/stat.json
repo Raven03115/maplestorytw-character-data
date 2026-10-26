@@ -44,11 +44,11 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "60519"
+      "stat_value": "60748"
     },
     {
       "stat_name": "移動速度",
-      "stat_value": "160"
+      "stat_value": "210"
     },
     {
       "stat_name": "跳躍力",
@@ -84,11 +84,11 @@
     },
     {
       "stat_name": "HP",
-      "stat_value": "80549"
+      "stat_value": "81714"
     },
     {
       "stat_name": "MP",
-      "stat_value": "43615"
+      "stat_value": "44490"
     },
     {
       "stat_name": "AP配點STR",
