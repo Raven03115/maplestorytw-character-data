@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-27T10:25:16.107Z",
+    "fetched_at": "2026-10-27T16:27:36.544Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,26 +38,26 @@
     "guild": "卡巴拉"
   },
   "combat_summary": {
-    "combat_power": "100932970",
+    "combat_power": "83672613",
     "main_stat": {
       "name": "DEX",
-      "value": "46652"
+      "value": "46450"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "6104"
+      "value": "6145"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "6104"
+      "value": "6145"
     },
-    "attack_power": "5297",
+    "attack_power": "4865",
     "damage": "93.00",
-    "boss_damage": "308.00",
-    "ignore_defense": "91.70",
-    "critical_rate": "133",
+    "boss_damage": "368.00",
+    "ignore_defense": "95.02",
+    "critical_rate": "135",
     "critical_damage": "95.00",
-    "final_damage": "172.21",
+    "final_damage": "126.84",
     "buff_duration": "43",
     "cooldown_reduction": {
       "seconds": "4",
@@ -1282,54 +1282,6 @@
       "set_name": null
     },
     {
-      "part": "墜飾2",
-      "equipment_type": "墜飾",
-      "name": "準備好的精靈墜飾",
-      "starforce": "0",
-      "scroll_upgrade": "0",
-      "potential_grade": null,
-      "potential_lines": [
-        null,
-        null,
-        null
-      ],
-      "additional_potential_grade": null,
-      "additional_potential_lines": [
-        null,
-        null,
-        null
-      ],
-      "flame_additional_options": {
-        "str": "0",
-        "dex": "0",
-        "int": "0",
-        "luk": "0",
-        "max_hp": "0",
-        "max_mp": "0",
-        "attack_power": "0",
-        "magic_power": "0",
-        "armor": "0",
-        "speed": "0",
-        "jump": "0",
-        "boss_damage": "0",
-        "damage": "0",
-        "all_stat": "0",
-        "equipment_level_decrease": 0
-      },
-      "exceptional_options": {
-        "str": "0",
-        "dex": "0",
-        "int": "0",
-        "luk": "0",
-        "max_hp": "0",
-        "max_mp": "0",
-        "attack_power": "0",
-        "magic_power": "0",
-        "exceptional_upgrade": 0
-      },
-      "set_name": null
-    },
-    {
       "part": "圖騰1",
       "equipment_type": "圖騰",
       "name": "貝奧武夫的痕跡",
@@ -1625,7 +1577,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 10,
       "force": "100",
-      "growth_count": 789,
+      "growth_count": 806,
       "required_growth_count": 1100,
       "stat_increase": {
         "str": "0",
@@ -1639,7 +1591,7 @@
       "name": "真實符文：奧迪溫",
       "level": 6,
       "force": "60",
-      "growth_count": 2180,
+      "growth_count": 2197,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1653,7 +1605,7 @@
       "name": "真實符文：桃源境",
       "level": 6,
       "force": "60",
-      "growth_count": 1565,
+      "growth_count": 1582,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1667,7 +1619,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 6,
       "force": "60",
-      "growth_count": 1020,
+      "growth_count": 1037,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1681,7 +1633,7 @@
       "name": "真實符文：卡爾西溫",
       "level": 5,
       "force": "50",
-      "growth_count": 81,
+      "growth_count": 98,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1752,30 +1704,6 @@
         {
           "set_count": 5,
           "set_option": "全屬性 +8, 攻擊力 +20, 魔法攻擊力 +20, 無視怪物防禦率 +30%"
-        }
-      ]
-    },
-    {
-      "set_name": "迷你吉祥物菇菇套組",
-      "equipped_count": 1,
-      "effects": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        }
-      ],
-      "full_set_options": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        },
-        {
-          "set_count": 2,
-          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
-        },
-        {
-          "set_count": 3,
-          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
         }
       ]
     },
@@ -2061,7 +1989,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 6939803,
+    "remaining_fame": 6967823,
     "lines": [
       {
         "ability_no": "1",
@@ -2558,15 +2486,14 @@
   "union_summary": {
     "level": 8828,
     "grade": "宗師戰地聯盟 2",
-    "artifact_level": 36,
-    "artifact_exp": 7740,
-    "artifact_point": 14200,
-    "active_raider_preset": 2,
+    "artifact_level": 37,
+    "artifact_exp": 40,
+    "artifact_point": 14400,
+    "active_raider_preset": 1,
     "raider_stats": [
       "增加爆擊機率 4%",
       "增加爆擊傷害 5%",
       "增加無視防禦率 5%",
-      "增加LUK 80",
       "增加無視防禦率 6%",
       "增加經驗值獲得量 10%",
       "增加DEX 80",
@@ -2576,6 +2503,7 @@
       "增加最大HP 2000",
       "增加最大MP 5%",
       "增加LUK 80",
+      "每當敵人攻擊時70%的機率恢復純HP的8%",
       "增加狀態異常耐性 4",
       "增加攻擊BOSS傷害 5%",
       "增加最大HP 5%",
@@ -2589,11 +2517,11 @@
       "攻擊時以20%的機率增加20%的傷害值",
       "增加DEX 80",
       "增加STR 80",
-      "每當敵人攻擊時70%的機率恢復純HP的8%",
       "增加STR 80",
       "增加STR 80",
       "增加STR 80",
       "增加STR 100",
+      "增加STR 80",
       "增加DEX 80",
       "增加攻擊BOSS傷害 5%",
       "增加STR、DEX、LUK 40",
@@ -2602,22 +2530,23 @@
       "增加爆擊機率 4%"
     ],
     "occupied_stats": [
+      "增加攻擊力 5",
+      "增加攻擊BOSS怪物時傷害 40%。",
       "增加最大HP 250",
-      "增加DEX 75",
-      "增加STR 25",
+      "增加STR 5",
       "增加爆擊傷害 20.00%",
-      "增加攻擊力 13",
-      "增加獲得經驗值 10.0%",
-      "增加攻擊一般怪物時傷害 40%"
+      "增加DEX 25",
+      "增加爆擊機率 22%",
+      "增加無視防禦率 40%"
     ],
     "inner_stats": [
       {
         "stat_field_id": "0",
-        "stat_field_effect": "聯盟最大HP"
+        "stat_field_effect": "聯盟魔力"
       },
       {
         "stat_field_id": "1",
-        "stat_field_effect": "聯盟DEX"
+        "stat_field_effect": "聯盟最大MP"
       },
       {
         "stat_field_id": "2",
@@ -2625,23 +2554,23 @@
       },
       {
         "stat_field_id": "3",
-        "stat_field_effect": "聯盟LUK"
+        "stat_field_effect": "聯盟攻擊力"
       },
       {
         "stat_field_id": "4",
-        "stat_field_effect": "聯盟STR"
+        "stat_field_effect": "聯盟最大HP"
       },
       {
         "stat_field_id": "5",
-        "stat_field_effect": "聯盟最大MP"
+        "stat_field_effect": "聯盟STR"
       },
       {
         "stat_field_id": "6",
-        "stat_field_effect": "聯盟魔力"
+        "stat_field_effect": "聯盟DEX"
       },
       {
         "stat_field_id": "7",
-        "stat_field_effect": "聯盟攻擊力"
+        "stat_field_effect": "聯盟LUK"
       }
     ],
     "artifact_effects": [
@@ -2682,7 +2611,7 @@
         "level": 8
       }
     ],
-    "artifact_remaining_ap": 1,
+    "artifact_remaining_ap": 2,
     "champions": [
       {
         "champion_name": "余盼",
@@ -2823,20 +2752,20 @@
           {
             "option_no": 1,
             "option_name": "爆擊機率 (%)",
-            "option_value": "20"
+            "option_value": "4"
           },
           {
             "option_no": 2,
             "option_name": "最終傷害 (%)",
-            "option_value": "20"
+            "option_value": "2"
           },
           {
             "option_no": 3,
             "option_name": "物理攻擊力 (%)",
-            "option_value": "14"
+            "option_value": "4"
           }
         ],
-        "summoned_flag": "true",
+        "summoned_flag": "false",
         "slot_id": "not link"
       },
       {
