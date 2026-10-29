@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-29T06:57:56.923Z",
+    "fetched_at": "2026-10-29T14:08:53.881Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,26 +38,26 @@
     "guild": "卡巴拉"
   },
   "combat_summary": {
-    "combat_power": "100932970",
+    "combat_power": "77448206",
     "main_stat": {
       "name": "DEX",
-      "value": "46692"
+      "value": "46753"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "6124"
+      "value": "6154"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "6124"
+      "value": "6154"
     },
-    "attack_power": "5307",
+    "attack_power": "4912",
     "damage": "93.00",
-    "boss_damage": "318.00",
-    "ignore_defense": "92.63",
-    "critical_rate": "138",
+    "boss_damage": "333.00",
+    "ignore_defense": "93.73",
+    "critical_rate": "118",
     "critical_damage": "95.00",
-    "final_damage": "172.21",
+    "final_damage": "126.84",
     "buff_duration": "43",
     "cooldown_reduction": {
       "seconds": "4",
@@ -1577,7 +1577,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 10,
       "force": "100",
-      "growth_count": 823,
+      "growth_count": 840,
       "required_growth_count": 1100,
       "stat_increase": {
         "str": "0",
@@ -1591,7 +1591,7 @@
       "name": "真實符文：奧迪溫",
       "level": 6,
       "force": "60",
-      "growth_count": 2214,
+      "growth_count": 2231,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1605,7 +1605,7 @@
       "name": "真實符文：桃源境",
       "level": 6,
       "force": "60",
-      "growth_count": 1599,
+      "growth_count": 1616,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1619,7 +1619,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 6,
       "force": "60",
-      "growth_count": 1054,
+      "growth_count": 1071,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1633,7 +1633,7 @@
       "name": "真實符文：卡爾西溫",
       "level": 5,
       "force": "50",
-      "growth_count": 155,
+      "growth_count": 213,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -1704,30 +1704,6 @@
         {
           "set_count": 5,
           "set_option": "全屬性 +8, 攻擊力 +20, 魔法攻擊力 +20, 無視怪物防禦率 +30%"
-        }
-      ]
-    },
-    {
-      "set_name": "迷你吉祥物菇菇套組",
-      "equipped_count": 1,
-      "effects": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        }
-      ],
-      "full_set_options": [
-        {
-          "set_count": 1,
-          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
-        },
-        {
-          "set_count": 2,
-          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
-        },
-        {
-          "set_count": 3,
-          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
         }
       ]
     },
@@ -2013,7 +1989,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 6971398,
+    "remaining_fame": 6974618,
     "lines": [
       {
         "ability_no": "1",
@@ -2511,7 +2487,7 @@
     "level": 8828,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 37,
-    "artifact_exp": 140,
+    "artifact_exp": 540,
     "artifact_point": 14400,
     "active_raider_preset": 2,
     "raider_stats": [
@@ -2775,20 +2751,20 @@
           {
             "option_no": 1,
             "option_name": "爆擊機率 (%)",
-            "option_value": "20"
+            "option_value": "4"
           },
           {
             "option_no": 2,
             "option_name": "最終傷害 (%)",
-            "option_value": "20"
+            "option_value": "2"
           },
           {
             "option_no": 3,
             "option_name": "物理攻擊力 (%)",
-            "option_value": "14"
+            "option_value": "4"
           }
         ],
-        "summoned_flag": "true",
+        "summoned_flag": "false",
         "slot_id": "not link"
       },
       {
