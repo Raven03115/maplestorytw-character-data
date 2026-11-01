@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-10-31T21:25:31.116Z",
+    "fetched_at": "2026-11-01T01:00:21.377Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,26 +38,26 @@
     "guild": "卡巴拉"
   },
   "combat_summary": {
-    "combat_power": "84099514",
+    "combat_power": "118286817",
     "main_stat": {
       "name": "DEX",
-      "value": "46100"
+      "value": "46273"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "5926"
+      "value": "5846"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "5926"
+      "value": "5846"
     },
-    "attack_power": "4907",
-    "damage": "83.00",
-    "boss_damage": "404.00",
-    "ignore_defense": "96.07",
-    "critical_rate": "152",
-    "critical_damage": "101.00",
-    "final_damage": "126.84",
+    "attack_power": "5314",
+    "damage": "80.00",
+    "boss_damage": "418.00",
+    "ignore_defense": "94.34",
+    "critical_rate": "165",
+    "critical_damage": "102.00",
+    "final_damage": "172.21",
     "buff_duration": "43",
     "cooldown_reduction": {
       "seconds": "4",
@@ -1282,6 +1282,54 @@
       "set_name": null
     },
     {
+      "part": "墜飾2",
+      "equipment_type": "墜飾",
+      "name": "精靈墜飾",
+      "starforce": "0",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
+      "potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "additional_potential_grade": null,
+      "additional_potential_lines": [
+        null,
+        null,
+        null
+      ],
+      "flame_additional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "armor": "0",
+        "speed": "0",
+        "jump": "0",
+        "boss_damage": "0",
+        "damage": "0",
+        "all_stat": "0",
+        "equipment_level_decrease": 0
+      },
+      "exceptional_options": {
+        "str": "0",
+        "dex": "0",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
+        "max_mp": "0",
+        "attack_power": "0",
+        "magic_power": "0",
+        "exceptional_upgrade": 0
+      },
+      "set_name": null
+    },
+    {
       "part": "圖騰1",
       "equipment_type": "圖騰",
       "name": "貝奧武夫的痕跡",
@@ -1708,6 +1756,30 @@
       ]
     },
     {
+      "set_name": "迷你吉祥物菇菇套組",
+      "equipped_count": 1,
+      "effects": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        },
+        {
+          "set_count": 2,
+          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
+        },
+        {
+          "set_count": 3,
+          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
+        }
+      ]
+    },
+    {
       "set_name": "永恆套裝(弓箭手)",
       "equipped_count": 6,
       "effects": [
@@ -1877,9 +1949,9 @@
     }
   ],
   "hyper_stat": {
-    "active_preset": "1",
+    "active_preset": "2",
     "available_points": 1432,
-    "remaining_points": 0,
+    "remaining_points": 1,
     "stats": [
       {
         "stat_type": "STR",
@@ -1889,9 +1961,9 @@
       },
       {
         "stat_type": "DEX",
-        "stat_point": 15,
-        "stat_level": 4,
-        "stat_increase": "增加敏捷 120"
+        "stat_point": 25,
+        "stat_level": 5,
+        "stat_increase": "增加敏捷 150"
       },
       {
         "stat_type": "INT",
@@ -1925,33 +1997,33 @@
       },
       {
         "stat_type": "爆擊機率",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 150,
+        "stat_level": 10,
+        "stat_increase": "爆擊機率增加 15%"
       },
       {
         "stat_type": "爆擊傷害",
-        "stat_point": 150,
-        "stat_level": 10,
-        "stat_increase": "爆擊傷害10%增加"
+        "stat_point": 200,
+        "stat_level": 11,
+        "stat_increase": "爆擊傷害11%增加"
       },
       {
         "stat_type": "無視防禦率",
-        "stat_point": 1,
-        "stat_level": 1,
-        "stat_increase": "無視防禦率增加 3%"
+        "stat_point": 200,
+        "stat_level": 11,
+        "stat_increase": "無視防禦率增加 33%"
       },
       {
         "stat_type": "傷害",
-        "stat_point": 345,
-        "stat_level": 13,
-        "stat_increase": "提高傷害 39% "
+        "stat_point": 265,
+        "stat_level": 12,
+        "stat_increase": "提高傷害 36% "
       },
       {
         "stat_type": "Boss傷害",
-        "stat_point": null,
-        "stat_level": 0,
-        "stat_increase": null
+        "stat_point": 550,
+        "stat_level": 15,
+        "stat_increase": "攻擊Boss怪物時，傷害增加 55%"
       },
       {
         "stat_type": "異常狀態耐性",
@@ -1961,15 +2033,15 @@
       },
       {
         "stat_type": "攻擊力／魔力",
-        "stat_point": 25,
-        "stat_level": 5,
-        "stat_increase": "增加攻擊力與魔力15"
+        "stat_point": 40,
+        "stat_level": 6,
+        "stat_increase": "增加攻擊力與魔力18"
       },
       {
         "stat_type": "獲得經驗值",
-        "stat_point": 550,
-        "stat_level": 15,
-        "stat_increase": "獲得經驗值提高10.0%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       },
       {
         "stat_type": "神祕力量",
@@ -1979,32 +2051,32 @@
       },
       {
         "stat_type": "一般傷害",
-        "stat_point": 345,
-        "stat_level": 13,
-        "stat_increase": "攻擊一般怪物時傷害增加47%"
+        "stat_point": null,
+        "stat_level": 0,
+        "stat_increase": null
       }
     ]
   },
   "ability": {
     "grade": "傳說",
-    "active_preset": 2,
+    "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 6986108,
+    "remaining_fame": 6991108,
     "lines": [
       {
         "ability_no": "1",
         "ability_grade": "傳說",
-        "ability_value": "道具掉落率增加 20%"
+        "ability_value": "攻擊Boss怪物時，傷害增加 19%"
+      },
+      {
+        "ability_no": "2",
+        "ability_grade": "罕見",
+        "ability_value": "增加DEX 25"
       },
       {
         "ability_no": "3",
         "ability_grade": "罕見",
-        "ability_value": "攻擊一般怪物時傷害增加 8% "
-      },
-      {
-        "ability_no": "2",
-        "ability_grade": "稀有",
-        "ability_value": "增加楓幣獲得量 9% "
+        "ability_value": "攻擊陷入狀態異常的對象時，傷害增加7%"
       }
     ]
   },
@@ -2487,23 +2559,23 @@
     "level": 8894,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 37,
-    "artifact_exp": 2740,
+    "artifact_exp": 4340,
     "artifact_point": 14400,
-    "active_raider_preset": 1,
+    "active_raider_preset": 2,
     "raider_stats": [
       "增加爆擊機率 4%",
       "增加爆擊傷害 5%",
       "增加無視防禦率 5%",
+      "增加LUK 80",
       "增加無視防禦率 6%",
       "增加經驗值獲得量 10%",
       "增加DEX 80",
       "增加楓幣獲得量 4% ",
       "增加爆擊傷害 6%",
       "增加最大HP 2000",
-      "增加LUK 80",
-      "每當敵人攻擊時70%的機率恢復純HP的8%",
       "增加最大HP 2000",
       "增加最大MP 5%",
+      "增加LUK 80",
       "增加狀態異常耐性 4",
       "增加攻擊BOSS傷害 5%",
       "增加最大HP 5%",
@@ -2517,11 +2589,11 @@
       "攻擊時以20%的機率增加20%的傷害值",
       "增加DEX 80",
       "增加STR 80",
+      "每當敵人攻擊時70%的機率恢復純HP的8%",
       "增加STR 80",
       "增加STR 80",
       "增加STR 80",
       "增加STR 100",
-      "增加STR 80",
       "增加DEX 80",
       "增加攻擊BOSS傷害 5%",
       "增加STR、DEX、LUK 40",
@@ -2530,23 +2602,22 @@
       "增加爆擊機率 4%"
     ],
     "occupied_stats": [
-      "增加攻擊力 5",
-      "增加攻擊BOSS怪物時傷害 40%。",
       "增加最大HP 250",
-      "增加STR 5",
+      "增加DEX 75",
+      "增加STR 25",
       "增加爆擊傷害 20.00%",
-      "增加DEX 25",
-      "增加爆擊機率 22%",
-      "增加無視防禦率 40%"
+      "增加攻擊力 14",
+      "增加獲得經驗值 10.0%",
+      "增加攻擊一般怪物時傷害 40%"
     ],
     "inner_stats": [
       {
         "stat_field_id": "0",
-        "stat_field_effect": "聯盟魔力"
+        "stat_field_effect": "聯盟最大HP"
       },
       {
         "stat_field_id": "1",
-        "stat_field_effect": "聯盟最大MP"
+        "stat_field_effect": "聯盟DEX"
       },
       {
         "stat_field_id": "2",
@@ -2554,23 +2625,23 @@
       },
       {
         "stat_field_id": "3",
-        "stat_field_effect": "聯盟攻擊力"
+        "stat_field_effect": "聯盟LUK"
       },
       {
         "stat_field_id": "4",
-        "stat_field_effect": "聯盟最大HP"
-      },
-      {
-        "stat_field_id": "5",
         "stat_field_effect": "聯盟STR"
       },
       {
+        "stat_field_id": "5",
+        "stat_field_effect": "聯盟最大MP"
+      },
+      {
         "stat_field_id": "6",
-        "stat_field_effect": "聯盟DEX"
+        "stat_field_effect": "聯盟魔力"
       },
       {
         "stat_field_id": "7",
-        "stat_field_effect": "聯盟LUK"
+        "stat_field_effect": "聯盟攻擊力"
       }
     ],
     "artifact_effects": [
@@ -2752,20 +2823,20 @@
           {
             "option_no": 1,
             "option_name": "爆擊機率 (%)",
-            "option_value": "4"
+            "option_value": "20"
           },
           {
             "option_no": 2,
             "option_name": "最終傷害 (%)",
-            "option_value": "2"
+            "option_value": "20"
           },
           {
             "option_no": 3,
             "option_name": "物理攻擊力 (%)",
-            "option_value": "4"
+            "option_value": "14"
           }
         ],
-        "summoned_flag": "false",
+        "summoned_flag": "true",
         "slot_id": "not link"
       },
       {
