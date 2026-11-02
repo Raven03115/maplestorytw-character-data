@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-11-02T05:51:10.884Z",
+    "fetched_at": "2026-11-02T15:36:46.217Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -1625,7 +1625,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 10,
       "force": "100",
-      "growth_count": 891,
+      "growth_count": 908,
       "required_growth_count": 1100,
       "stat_increase": {
         "str": "0",
@@ -1639,7 +1639,7 @@
       "name": "真實符文：奧迪溫",
       "level": 6,
       "force": "60",
-      "growth_count": 2282,
+      "growth_count": 2299,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1653,7 +1653,7 @@
       "name": "真實符文：桃源境",
       "level": 6,
       "force": "60",
-      "growth_count": 1667,
+      "growth_count": 1684,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1667,7 +1667,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 6,
       "force": "60",
-      "growth_count": 1122,
+      "growth_count": 1139,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1681,7 +1681,7 @@
       "name": "真實符文：卡爾西溫",
       "level": 5,
       "force": "50",
-      "growth_count": 304,
+      "growth_count": 322,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -2061,7 +2061,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 7064138,
+    "remaining_fame": 7067668,
     "lines": [
       {
         "ability_no": "1",
