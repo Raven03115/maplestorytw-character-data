@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-11-04T17:06:49.899Z",
+    "fetched_at": "2026-11-04T22:35:41.857Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,26 +38,26 @@
     "guild": "卡巴拉"
   },
   "combat_summary": {
-    "combat_power": "76624967",
+    "combat_power": "99889635",
     "main_stat": {
       "name": "DEX",
-      "value": "46753"
+      "value": "46692"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "6154"
+      "value": "6124"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "6154"
+      "value": "6124"
     },
-    "attack_power": "4916",
+    "attack_power": "5310",
     "damage": "93.00",
-    "boss_damage": "338.00",
-    "ignore_defense": "94.26",
-    "critical_rate": "123",
+    "boss_damage": "323.00",
+    "ignore_defense": "93.25",
+    "critical_rate": "143",
     "critical_damage": "96.00",
-    "final_damage": "126.84",
+    "final_damage": "172.21",
     "buff_duration": "43",
     "cooldown_reduction": {
       "seconds": "4",
@@ -1756,6 +1756,30 @@
       ]
     },
     {
+      "set_name": "迷你吉祥物菇菇套組",
+      "equipped_count": 1,
+      "effects": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        }
+      ],
+      "full_set_options": [
+        {
+          "set_count": 1,
+          "set_option": "[遊樂場吉祥物 Lv.1]技能可使用"
+        },
+        {
+          "set_count": 2,
+          "set_option": "[遊樂場吉祥物 Lv.2]技能可使用"
+        },
+        {
+          "set_count": 3,
+          "set_option": "[遊樂場吉祥物 Lv.3]技能可使用"
+        }
+      ]
+    },
+    {
       "set_name": "永恆套裝(弓箭手)",
       "equipped_count": 6,
       "effects": [
@@ -2799,20 +2823,20 @@
           {
             "option_no": 1,
             "option_name": "爆擊機率 (%)",
-            "option_value": "4"
+            "option_value": "20"
           },
           {
             "option_no": 2,
             "option_name": "最終傷害 (%)",
-            "option_value": "2"
+            "option_value": "20"
           },
           {
             "option_no": 3,
             "option_name": "物理攻擊力 (%)",
-            "option_value": "4"
+            "option_value": "14"
           }
         ],
-        "summoned_flag": "false",
+        "summoned_flag": "true",
         "slot_id": "not link"
       },
       {
