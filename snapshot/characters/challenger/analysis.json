@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-11-05T12:11:02.218Z",
+    "fetched_at": "2026-11-05T20:36:37.556Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -41,22 +41,22 @@
     "combat_power": "99889635",
     "main_stat": {
       "name": "DEX",
-      "value": "46789"
+      "value": "46692"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "6144"
+      "value": "6124"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "6144"
+      "value": "6124"
     },
-    "attack_power": "5604",
-    "damage": "116.00",
+    "attack_power": "5310",
+    "damage": "93.00",
     "boss_damage": "323.00",
-    "ignore_defense": "93.47",
-    "critical_rate": "163",
-    "critical_damage": "112.00",
+    "ignore_defense": "93.25",
+    "critical_rate": "143",
+    "critical_damage": "96.00",
     "final_damage": "172.21",
     "buff_duration": "43",
     "cooldown_reduction": {
@@ -1625,7 +1625,7 @@
       "name": "真實符文：阿爾克斯",
       "level": 10,
       "force": "100",
-      "growth_count": 985,
+      "growth_count": 1045,
       "required_growth_count": 1100,
       "stat_increase": {
         "str": "0",
@@ -1639,7 +1639,7 @@
       "name": "真實符文：奧迪溫",
       "level": 6,
       "force": "60",
-      "growth_count": 2336,
+      "growth_count": 2356,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1653,7 +1653,7 @@
       "name": "真實符文：桃源境",
       "level": 6,
       "force": "60",
-      "growth_count": 1721,
+      "growth_count": 1741,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1667,7 +1667,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 6,
       "force": "60",
-      "growth_count": 1176,
+      "growth_count": 1196,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1681,7 +1681,7 @@
       "name": "真實符文：卡爾西溫",
       "level": 5,
       "force": "50",
-      "growth_count": 359,
+      "growth_count": 379,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -2061,7 +2061,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 7571350,
+    "remaining_fame": 7574340,
     "lines": [
       {
         "ability_no": "1",
@@ -2341,7 +2341,7 @@
     {
       "core_name": "助攻VI",
       "core_type": "精通核心",
-      "core_level": 20
+      "core_level": 21
     },
     {
       "core_name": "指令VI",
@@ -2361,7 +2361,7 @@
     {
       "core_name": "狂暴咬擊",
       "core_type": "強化核心",
-      "core_level": 1
+      "core_level": 2
     },
     {
       "core_name": "原始綻放",
@@ -2371,7 +2371,7 @@
     {
       "core_name": "狂野機關砲：超速動能",
       "core_type": "強化核心",
-      "core_level": 1
+      "core_level": 2
     },
     {
       "core_name": "靈魂雅努斯",
@@ -2559,7 +2559,7 @@
     "level": 8894,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 37,
-    "artifact_exp": 6440,
+    "artifact_exp": 7040,
     "artifact_point": 14400,
     "active_raider_preset": 2,
     "raider_stats": [
