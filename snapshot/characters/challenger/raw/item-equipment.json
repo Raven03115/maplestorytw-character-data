@@ -13211,7 +13211,16 @@
       "freestyle_flag": "0"
     }
   ],
-  "title": null,
+  "title": {
+    "title_name": "LUCID",
+    "title_icon": "https://open.api.nexon.com/static/maplestorytw/item/icon/KGICLPIC",
+    "title_description": "戰勝夢幻的試煉的證據",
+    "date_expire": null,
+    "date_option_expire": null,
+    "title_shape_name": null,
+    "title_shape_icon": null,
+    "title_shape_description": null
+  },
   "medal_shape": null,
   "dragon_equipment": [],
   "mechanic_equipment": []
