@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-11-10T16:58:47.466Z",
+    "fetched_at": "2026-11-10T22:18:03.793Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,25 +38,25 @@
     "guild": "卡巴拉"
   },
   "combat_summary": {
-    "combat_power": "99930849",
+    "combat_power": "119804792",
     "main_stat": {
       "name": "DEX",
-      "value": "46716"
+      "value": "52410"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "6124"
+      "value": "6625"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "6124"
+      "value": "6625"
     },
-    "attack_power": "5312",
-    "damage": "93.00",
-    "boss_damage": "324.00",
-    "ignore_defense": "93.25",
-    "critical_rate": "143",
-    "critical_damage": "96.00",
+    "attack_power": "6114",
+    "damage": "123.00",
+    "boss_damage": "354.00",
+    "ignore_defense": "94.12",
+    "critical_rate": "163",
+    "critical_damage": "142.00",
     "final_damage": "172.21",
     "buff_duration": "43",
     "cooldown_reduction": {
@@ -277,29 +277,29 @@
       "part": "眼飾",
       "equipment_type": "眼飾",
       "name": "拉圖斯標誌",
-      "starforce": "17",
-      "scroll_upgrade": "0",
+      "starforce": "18",
+      "scroll_upgrade": "6",
       "potential_grade": "傳說",
       "potential_lines": [
-        "道具掉落率 +20%",
-        "道具掉落率 +20%",
-        "防禦力 +240"
+        "DEX +12%",
+        "MaxMP +9%",
+        "MaxMP +9%"
       ],
-      "additional_potential_grade": null,
+      "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        null,
-        null,
-        null
+        "物理攻擊力 +10",
+        "移動速度 +4",
+        "跳躍力 +4"
       ],
       "flame_additional_options": {
-        "str": "12",
+        "str": "0",
         "dex": "0",
-        "int": "4",
-        "luk": "16",
-        "max_hp": "840",
+        "int": "0",
+        "luk": "0",
+        "max_hp": "0",
         "max_mp": "0",
         "attack_power": "0",
-        "magic_power": "1",
+        "magic_power": "0",
         "armor": "0",
         "speed": "0",
         "jump": "0",
@@ -329,15 +329,15 @@
       "scroll_upgrade": "8",
       "potential_grade": "傳說",
       "potential_lines": [
-        "道具掉落率 +20%",
-        "LUK +9%",
-        "全屬性 +6%"
+        "DEX +12%",
+        "INT +9%",
+        "DEX +9%"
       ],
       "additional_potential_grade": "特殊",
       "additional_potential_lines": [
         "物理攻擊力 +10",
-        "MaxMP +60",
-        "跳躍力 +4"
+        "移動速度 +4",
+        "防禦力 +60"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -708,20 +708,20 @@
     {
       "part": "戒指1",
       "equipment_type": "戒指",
-      "name": "泰涅布利斯遠征隊戒指",
-      "starforce": "0",
+      "name": "巨大的恐怖",
+      "starforce": "20",
       "scroll_upgrade": "3",
       "potential_grade": "傳說",
       "potential_lines": [
-        "道具掉落率 +20%",
-        "DEX +9%",
-        "DEX +9%"
+        "DEX +13%",
+        "全屬性 +7%",
+        "DEX +10%"
       ],
-      "additional_potential_grade": "特殊",
+      "additional_potential_grade": "稀有",
       "additional_potential_lines": [
-        "物理攻擊力 +10",
-        "移動速度 +4",
-        "移動速度 +4"
+        "DEX +5%",
+        "DEX +3%",
+        "STR +11"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -756,14 +756,14 @@
     {
       "part": "戒指2",
       "equipment_type": "戒指",
-      "name": "覺醒戒指",
+      "name": "規範戒指",
       "starforce": "0",
-      "scroll_upgrade": "3",
-      "potential_grade": "傳說",
+      "scroll_upgrade": "0",
+      "potential_grade": null,
       "potential_lines": [
-        "楓幣獲得量 +20%",
-        "DEX +9%",
-        "DEX +9%"
+        null,
+        null,
+        null
       ],
       "additional_potential_grade": null,
       "additional_potential_lines": [
@@ -810,14 +810,14 @@
       "potential_grade": "傳說",
       "potential_lines": [
         "DEX +12%",
-        "楓幣獲得量 +20%",
-        "STR +9%"
+        "HP恢復道具及恢復技能效率 +30%",
+        "全屬性 +6%"
       ],
-      "additional_potential_grade": "稀有",
+      "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        "物理攻擊力 +11",
-        "DEX +10",
-        "DEX +10"
+        "物理攻擊力 +10",
+        "物理攻擊力 +3",
+        "防禦力 +60"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -852,20 +852,20 @@
     {
       "part": "戒指4",
       "equipment_type": "戒指",
-      "name": "GLORY小隊戒指：總司令",
+      "name": "永恆火焰戒指",
       "starforce": "0",
       "scroll_upgrade": "0",
       "potential_grade": "傳說",
       "potential_lines": [
-        "道具掉落率 +20%",
-        "HP恢復道具及恢復技能效率 +30%",
-        "DEX +9%"
+        "DEX +12%",
+        "DEX +9%",
+        "全屬性 +6%"
       ],
-      "additional_potential_grade": null,
+      "additional_potential_grade": "稀有",
       "additional_potential_lines": [
-        null,
-        null,
-        null
+        "DEX +14",
+        "物理攻擊力 +10",
+        "DEX +10"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -902,28 +902,28 @@
       "equipment_type": "墜飾",
       "name": "頂級培羅德烙印墜飾",
       "starforce": "17",
-      "scroll_upgrade": "0",
+      "scroll_upgrade": "7",
       "potential_grade": "傳說",
       "potential_lines": [
-        "楓幣獲得量 +20%",
-        "LUK +9%",
-        "LUK +9%"
+        "DEX +12%",
+        "MaxMP +12%",
+        "DEX +9%"
       ],
-      "additional_potential_grade": null,
+      "additional_potential_grade": "稀有",
       "additional_potential_lines": [
-        null,
-        null,
-        null
+        "DEX +14",
+        "DEX +2%",
+        "DEX +2%"
       ],
       "flame_additional_options": {
         "str": "0",
         "dex": "0",
         "int": "0",
         "luk": "0",
-        "max_hp": "0",
+        "max_hp": "450",
         "max_mp": "0",
-        "attack_power": "0",
-        "magic_power": "0",
+        "attack_power": "2",
+        "magic_power": "3",
         "armor": "0",
         "speed": "0",
         "jump": "0",
@@ -1284,20 +1284,20 @@
     {
       "part": "墜飾2",
       "equipment_type": "墜飾",
-      "name": "精靈墜飾",
-      "starforce": "0",
-      "scroll_upgrade": "0",
-      "potential_grade": null,
+      "name": "頂級培羅德烙印墜飾",
+      "starforce": "17",
+      "scroll_upgrade": "7",
+      "potential_grade": "傳說",
       "potential_lines": [
-        null,
-        null,
-        null
+        "所有技能的MP消耗 -30%",
+        "DEX +9%",
+        "DEX +9%"
       ],
-      "additional_potential_grade": null,
+      "additional_potential_grade": "特殊",
       "additional_potential_lines": [
-        null,
-        null,
-        null
+        "移動速度 +6",
+        "物理攻擊力 +10",
+        "跳躍力 +4"
       ],
       "flame_additional_options": {
         "str": "0",
@@ -1837,11 +1837,15 @@
     },
     {
       "set_name": "漆黑BOSS套裝",
-      "equipped_count": 2,
+      "equipped_count": 3,
       "effects": [
         {
           "set_count": 2,
           "set_option": "全屬性 +10, 最大HP +250, 攻擊力 +10, 魔法攻擊力 +10, 攻擊Boss怪物時傷害 +10%"
+        },
+        {
+          "set_count": 3,
+          "set_option": "全屬性 +10, 最大HP +250, 攻擊力 +10, 魔法攻擊力 +10, 防禦力 +250, 無視怪物防禦率 +10%"
         }
       ],
       "full_set_options": [
