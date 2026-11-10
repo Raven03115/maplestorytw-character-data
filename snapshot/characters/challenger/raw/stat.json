@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "63865699"
+      "stat_value": "49337972"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "75136114"
+      "stat_value": "58044671"
     },
     {
       "stat_name": "傷害",
@@ -16,19 +16,19 @@
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "464.00"
+      "stat_value": "479.00"
     },
     {
       "stat_name": "最終傷害",
-      "stat_value": "172.21"
+      "stat_value": "126.84"
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "97.62"
+      "stat_value": "97.98"
     },
     {
       "stat_name": "爆擊機率",
-      "stat_value": "192"
+      "stat_value": "172"
     },
     {
       "stat_name": "爆擊傷害",
@@ -44,11 +44,11 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "64758"
+      "stat_value": "64885"
     },
     {
       "stat_name": "移動速度",
-      "stat_value": "210"
+      "stat_value": "160"
     },
     {
       "stat_name": "跳躍力",
@@ -68,27 +68,27 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "6370"
+      "stat_value": "6398"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "51653"
+      "stat_value": "51727"
     },
     {
       "stat_name": "INT",
-      "stat_value": "3359"
+      "stat_value": "3388"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "3652"
+      "stat_value": "3681"
     },
     {
       "stat_name": "HP",
-      "stat_value": "64193"
+      "stat_value": "67748"
     },
     {
       "stat_name": "MP",
-      "stat_value": "35381"
+      "stat_value": "38516"
     },
     {
       "stat_name": "AP配點STR",
@@ -164,15 +164,15 @@
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "5647"
+      "stat_value": "5227"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1592"
+      "stat_value": "1600"
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "149393465"
+      "stat_value": "114639770"
     },
     {
       "stat_name": "召喚獸持續時間增加",
