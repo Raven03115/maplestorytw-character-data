@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-11-14T16:59:03.762Z",
+    "fetched_at": "2026-11-14T21:22:30.579Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,18 +38,18 @@
     "guild": "卡巴拉"
   },
   "combat_summary": {
-    "combat_power": "120050069",
+    "combat_power": "120056478",
     "main_stat": {
       "name": "DEX",
       "value": "52589"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "6746"
+      "value": "6758"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "6746"
+      "value": "6758"
     },
     "attack_power": "5698",
     "damage": "93.00",
@@ -336,7 +336,7 @@
       "additional_potential_grade": "特殊",
       "additional_potential_lines": [
         "物理攻擊力 +10",
-        "移動速度 +4",
+        "STR +6",
         "防禦力 +60"
       ],
       "flame_additional_options": {
