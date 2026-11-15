@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "64700404"
+      "stat_value": "64725771"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "76118120"
+      "stat_value": "76147963"
     },
     {
       "stat_name": "傷害",
@@ -44,7 +44,7 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "65323"
+      "stat_value": "65357"
     },
     {
       "stat_name": "移動速度",
@@ -68,19 +68,19 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "6512"
+      "stat_value": "6520"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "51934"
+      "stat_value": "51953"
     },
     {
       "stat_name": "INT",
-      "stat_value": "3466"
+      "stat_value": "3474"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "3761"
+      "stat_value": "3769"
     },
     {
       "stat_name": "HP",

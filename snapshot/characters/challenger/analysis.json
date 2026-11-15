@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-11-15T16:59:11.532Z",
+    "fetched_at": "2026-11-15T21:41:14.135Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -41,15 +41,15 @@
     "combat_power": "149705494",
     "main_stat": {
       "name": "DEX",
-      "value": "51934"
+      "value": "51953"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "6512"
+      "value": "6520"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "6512"
+      "value": "6520"
     },
     "attack_power": "5687",
     "damage": "70.00",
@@ -2296,9 +2296,9 @@
     {
       "core_name": "實用的時空門",
       "core_type": "共用核心",
-      "core_level": 1,
+      "core_level": 21,
       "slot_enhancement": 0,
-      "total_level": 1,
+      "total_level": 21,
       "slot_position": "17"
     },
     {
