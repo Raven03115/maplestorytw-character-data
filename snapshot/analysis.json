@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-11-17T03:42:56.804Z",
+    "fetched_at": "2026-11-17T13:08:46.117Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -38,27 +38,27 @@
     "guild": "卡巴拉"
   },
   "combat_summary": {
-    "combat_power": "88970938",
+    "combat_power": "108040528",
     "main_stat": {
       "name": "DEX",
-      "value": "46276"
+      "value": "46680"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "5909"
+      "value": "6246"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "5909"
+      "value": "6246"
     },
-    "attack_power": "5297",
-    "damage": "78.00",
-    "boss_damage": "329.00",
-    "ignore_defense": "93.97",
-    "critical_rate": "132",
-    "critical_damage": "92.00",
+    "attack_power": "5336",
+    "damage": "93.00",
+    "boss_damage": "384.00",
+    "ignore_defense": "97.11",
+    "critical_rate": "172",
+    "critical_damage": "96.00",
     "final_damage": "172.21",
-    "buff_duration": "27",
+    "buff_duration": "45",
     "cooldown_reduction": {
       "seconds": "4",
       "percent": "6"
@@ -1639,7 +1639,7 @@
       "name": "真實符文：奧迪溫",
       "level": 6,
       "force": "60",
-      "growth_count": 2701,
+      "growth_count": 2721,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1653,7 +1653,7 @@
       "name": "真實符文：桃源境",
       "level": 6,
       "force": "60",
-      "growth_count": 1962,
+      "growth_count": 1982,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1667,7 +1667,7 @@
       "name": "真實符文：阿爾特利亞",
       "level": 6,
       "force": "60",
-      "growth_count": 1416,
+      "growth_count": 1436,
       "required_growth_count": 444,
       "stat_increase": {
         "str": "0",
@@ -1681,7 +1681,7 @@
       "name": "真實符文：卡爾西溫",
       "level": 5,
       "force": "50",
-      "growth_count": 602,
+      "growth_count": 622,
       "required_growth_count": 325,
       "stat_increase": {
         "str": "0",
@@ -2061,7 +2061,7 @@
     "grade": "傳說",
     "active_preset": 2,
     "active_preset_grade": "傳說",
-    "remaining_fame": 7719488,
+    "remaining_fame": 7720028,
     "lines": [
       {
         "ability_no": "1",
@@ -2560,13 +2560,12 @@
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 39,
     "artifact_exp": 4040,
-    "artifact_point": 14800,
-    "active_raider_preset": 2,
+    "artifact_point": 8800,
+    "active_raider_preset": 1,
     "raider_stats": [
       "增加爆擊機率 4%",
       "增加爆擊傷害 5%",
       "增加無視防禦率 5%",
-      "增加LUK 80",
       "增加無視防禦率 6%",
       "增加經驗值獲得量 10%",
       "增加DEX 80",
@@ -2576,6 +2575,7 @@
       "增加最大HP 2000",
       "增加最大MP 5%",
       "增加LUK 80",
+      "每當敵人攻擊時70%的機率恢復純HP的8%",
       "增加狀態異常耐性 4",
       "增加攻擊BOSS傷害 5%",
       "增加最大HP 5%",
@@ -2589,11 +2589,11 @@
       "攻擊時以20%的機率增加20%的傷害值",
       "增加DEX 80",
       "增加STR 80",
-      "每當敵人攻擊時70%的機率恢復純HP的8%",
       "增加STR 80",
       "增加STR 80",
       "增加STR 80",
       "增加STR 100",
+      "增加STR 80",
       "增加DEX 80",
       "增加攻擊BOSS傷害 5%",
       "增加STR、DEX、LUK 40",
@@ -2602,22 +2602,23 @@
       "增加爆擊機率 4%"
     ],
     "occupied_stats": [
+      "增加攻擊力 5",
+      "增加攻擊BOSS怪物時傷害 40%。",
       "增加最大HP 250",
-      "增加DEX 75",
-      "增加STR 25",
+      "增加STR 5",
       "增加爆擊傷害 20.00%",
-      "增加攻擊力 14",
-      "增加獲得經驗值 10.0%",
-      "增加攻擊一般怪物時傷害 40%"
+      "增加DEX 25",
+      "增加爆擊機率 22%",
+      "增加無視防禦率 40%"
     ],
     "inner_stats": [
       {
         "stat_field_id": "0",
-        "stat_field_effect": "聯盟最大HP"
+        "stat_field_effect": "聯盟魔力"
       },
       {
         "stat_field_id": "1",
-        "stat_field_effect": "聯盟DEX"
+        "stat_field_effect": "聯盟最大MP"
       },
       {
         "stat_field_id": "2",
@@ -2625,26 +2626,63 @@
       },
       {
         "stat_field_id": "3",
-        "stat_field_effect": "聯盟LUK"
+        "stat_field_effect": "聯盟攻擊力"
       },
       {
         "stat_field_id": "4",
-        "stat_field_effect": "聯盟STR"
+        "stat_field_effect": "聯盟最大HP"
       },
       {
         "stat_field_id": "5",
-        "stat_field_effect": "聯盟最大MP"
+        "stat_field_effect": "聯盟STR"
       },
       {
         "stat_field_id": "6",
-        "stat_field_effect": "聯盟魔力"
+        "stat_field_effect": "聯盟DEX"
       },
       {
         "stat_field_id": "7",
-        "stat_field_effect": "聯盟攻擊力"
+        "stat_field_effect": "聯盟LUK"
       }
     ],
-    "artifact_effects": [],
+    "artifact_effects": [
+      {
+        "name": "全屬性增加150",
+        "level": 10
+      },
+      {
+        "name": "攻擊力增加30、魔力增加30",
+        "level": 10
+      },
+      {
+        "name": "傷害增加15.00%",
+        "level": 10
+      },
+      {
+        "name": "攻擊BOSS怪物時傷害增加15.00%",
+        "level": 10
+      },
+      {
+        "name": "無視怪物防禦率增加20%",
+        "level": 10
+      },
+      {
+        "name": "Buff持續時間增加18%",
+        "level": 9
+      },
+      {
+        "name": "爆擊機率增加18%",
+        "level": 9
+      },
+      {
+        "name": "爆擊傷害增加4.00%",
+        "level": 10
+      },
+      {
+        "name": "終極攻擊類技能的傷害增加27%",
+        "level": 9
+      }
+    ],
     "artifact_remaining_ap": 1,
     "champions": [
       {
