@@ -16,7 +16,7 @@
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "384.00"
+      "stat_value": "404.00"
     },
     {
       "stat_name": "最終傷害",
@@ -24,7 +24,7 @@
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "97.11"
+      "stat_value": "97.68"
     },
     {
       "stat_name": "爆擊機率",
@@ -160,7 +160,7 @@
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "95.00"
+      "stat_value": "105.00"
     },
     {
       "stat_name": "攻擊力",
@@ -172,7 +172,7 @@
     },
     {
       "stat_name": "戰鬥力",
-      "stat_value": "108040528"
+      "stat_value": "112468419"
     },
     {
       "stat_name": "召喚獸持續時間增加",
