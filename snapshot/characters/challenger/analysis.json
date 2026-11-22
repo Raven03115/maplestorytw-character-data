@@ -2,7 +2,7 @@
   "meta": {
     "character_name": "豹豹奶霜",
     "character_id": "challenger",
-    "fetched_at": "2026-11-21T23:04:50.997Z",
+    "fetched_at": "2026-11-22T11:07:55.710Z",
     "cache_status": "MISS",
     "partial": false,
     "warnings": [
@@ -41,20 +41,20 @@
     "combat_power": "162346663",
     "main_stat": {
       "name": "DEX",
-      "value": "51539"
+      "value": "51444"
     },
     "secondary_stat": {
       "name": "STR",
-      "value": "6559"
+      "value": "6522"
     },
     "sub_stat": {
       "name": "STR",
-      "value": "6559"
+      "value": "6522"
     },
-    "attack_power": "5841",
+    "attack_power": "5804",
     "damage": "70.00",
-    "boss_damage": "564.00",
-    "ignore_defense": "99.35",
+    "boss_damage": "544.00",
+    "ignore_defense": "99.19",
     "critical_rate": "199",
     "critical_damage": "98.00",
     "final_damage": "172.21",
@@ -2037,7 +2037,7 @@
     "grade": "傳說",
     "active_preset": 1,
     "active_preset_grade": "傳說",
-    "remaining_fame": 7722478,
+    "remaining_fame": 7777478,
     "lines": [
       {
         "ability_no": "1",
@@ -2532,11 +2532,11 @@
     }
   ],
   "union_summary": {
-    "level": 8911,
+    "level": 8912,
     "grade": "宗師戰地聯盟 2",
     "artifact_level": 39,
-    "artifact_exp": 4740,
-    "artifact_point": 9500,
+    "artifact_exp": 8240,
+    "artifact_point": 13000,
     "active_raider_preset": 1,
     "raider_stats": [
       "增加爆擊機率 4%",

@@ -4,11 +4,11 @@
   "final_stat": [
     {
       "stat_name": "最低屬性攻擊力",
-      "stat_value": "65976961"
+      "stat_value": "65430507"
     },
     {
       "stat_name": "最高屬性攻擊力",
-      "stat_value": "77619951"
+      "stat_value": "76977064"
     },
     {
       "stat_name": "傷害",
@@ -16,7 +16,7 @@
     },
     {
       "stat_name": "BOSS怪物傷害",
-      "stat_value": "564.00"
+      "stat_value": "544.00"
     },
     {
       "stat_name": "最終傷害",
@@ -24,7 +24,7 @@
     },
     {
       "stat_name": "無視防禦率",
-      "stat_value": "99.35"
+      "stat_value": "99.19"
     },
     {
       "stat_name": "爆擊機率",
@@ -44,11 +44,11 @@
     },
     {
       "stat_name": "防禦力",
-      "stat_value": "66042"
+      "stat_value": "65877"
     },
     {
       "stat_name": "移動速度",
-      "stat_value": "160"
+      "stat_value": "210"
     },
     {
       "stat_name": "跳躍力",
@@ -68,27 +68,27 @@
     },
     {
       "stat_name": "STR",
-      "stat_value": "6559"
+      "stat_value": "6522"
     },
     {
       "stat_name": "DEX",
-      "stat_value": "51539"
+      "stat_value": "51444"
     },
     {
       "stat_name": "INT",
-      "stat_value": "3822"
+      "stat_value": "3782"
     },
     {
       "stat_name": "LUK",
-      "stat_value": "3852"
+      "stat_value": "3815"
     },
     {
       "stat_name": "HP",
-      "stat_value": "77848"
+      "stat_value": "72908"
     },
     {
       "stat_name": "MP",
-      "stat_value": "46468"
+      "stat_value": "42228"
     },
     {
       "stat_name": "AP配點STR",
@@ -132,7 +132,7 @@
     },
     {
       "stat_name": "一般怪物傷害",
-      "stat_value": "72.00"
+      "stat_value": "52.00"
     },
     {
       "stat_name": "冷卻時間減少(秒)",
@@ -160,15 +160,15 @@
     },
     {
       "stat_name": "獲得額外經驗值",
-      "stat_value": "100.00"
+      "stat_value": "50.00"
     },
     {
       "stat_name": "攻擊力",
-      "stat_value": "5841"
+      "stat_value": "5804"
     },
     {
       "stat_name": "魔法攻擊力",
-      "stat_value": "1706"
+      "stat_value": "1684"
     },
     {
       "stat_name": "戰鬥力",
